@@ -1,0 +1,490 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "74th Fall North American Bridge Championships - Blue Ribbon Pairs"]
+[Site "Birmingham, Alabama, USA"]
+[Date "2000.11.21"]
+[Round "R1"]
+[Board "17"]
+[Room "Open"]
+[West "Eugene Kales"]
+[North "John Mohan"]
+[East "Don Probst"]
+[South "Jill Meyers"]
+[Dealer "N"]
+[Deal "S:AQT82.96.A97.974 K654.AQ732.K32.J J.JT84.J65.AT863 973.K5.QT84.KQ52"]
+[Vulnerable "None"]
+[Contract "2S"]
+[Declarer "N"]
+{
+If you absolutely want to open the South hand in 3rd position,
+what's wrong with 1S? Meyers thought her hand looked more like
+a weak two bid and used the partnerships' bid for such a hand:
+a Multi 2D. Mohan's 2S said he didn't want to go further opposite
+spades, but that he was willing to bid at least 3H opposite hearts.
+Since he could be almost certain that Meyers had spades, that
+information could only be useful to the opponents.
+}
+[Auction "N"]
+Pass Pass 2D Pass 
+2S Pass Pass Pass 
+[Play "E"]
+CK C4 CJ CA 
+S3 S2 SK SJ 
+HK H6 H2 H4 
+CQ C7 H3 C3 
+C2 C9 S4 CT 
+H5 H9 HQ HT 
+S7 S8 S5 C6 
+S9 SA S6 HJ 
+C5 SQ H7 D5 
+D4 ST D3 C8 
+D8 DA D2 D6 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "18"]
+[Room "Open"]
+[West "Eugene Kales"]
+[North "John Mohan"]
+[East "Don Probst"]
+[South "Jill Meyers"]
+[Dealer "E"]
+[Deal "S:KJ8.42.Q965.T965 AT94.AK93.A.AKQ3 Q532.Q876.87.872 76.JT5.KJT432.J4"]
+[Vulnerable "NS"]
+[Contract "6D"]
+[Declarer "E"]
+{
+Some people have lower requirements for a 3-level preempt than
+I have... And since Kales was willing to be in 7D opposite king-queen
+of diamonds, he surely expected a seventh diamond opposite. When
+Probst only had six, and Meyers attacked East-West's weakest
+side-suit, there was some work to do. But when all suits broke
+evenly, he emerged with twelve tricks. Just made: plus 920. On
+a heart lead, declarer may easily go down: HA, DA, CJ, DK, DJ
+to the queen, another heart.
+}
+[Auction "E"]
+3D Pass 5NT Pass 
+6C Pass 6D Pass 
+Pass Pass   
+[Play "S"]
+S8 SA S2 S6 
+D5 DA D8 D2 
+C5 C3 C8 CJ 
+D6 S4 D7 DK 
+C6 CA C2 C4 
+C9 CK C7 S7 
+SJ S9 S3 D3 
+DQ H3 H6 DT 
+H4 HA H7 H5 
+SK ST S5 D4 
+D9 H9 SQ DJ 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "19"]
+[Room "Open"]
+[West "Jess Stuart"]
+[North "John Mohan"]
+[East "Charles Gray"]
+[South "Jill Meyers"]
+[Dealer "S"]
+[Deal "S:3.AJT6.85.AQJ865 AJ8764.K9.J7.T32 KT95.Q743.KT64.4 Q2.852.AQ932.K97"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "S"]
+{
+N/S, with significant wasted highcards in the black suits, overreached
+to 4H. When the C10 lead lost to declarer's queen and a spade
+came back, Stuart must have thought that it was important to
+start trumps to prevent a crossruff. Had Gray held the HA rather
+than the DA, he would have been right to take the line he did.
+But on the actual lie of the cards the HK shift ended up looking
+rather foolish.
+}
+[Auction "S"]
+1C 1S X 1NT 
+3H Pass 4H Pass 
+Pass Pass   
+[Play "W"]
+CT C4 C7 CQ 
+SA S5 S2 S3 
+HK H3 H2 HA 
+C3 D4 C9 CA 
+C2 H4 CK C5 
+S4 SK SQ D5 
+H9 HQ H5 H6 
+S6 H7 H8 HT 
+S7 D6 D3 CJ 
+D7 DK DA D8 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "20"]
+[Room "Open"]
+[West "Jess Stuart"]
+[North "John Mohan"]
+[East "Charles Gray"]
+[South "Jill Meyers"]
+[Dealer "W"]
+[Deal "S:A9.KT8643.KQT3.5 Q832.AQ5..KQT943 65.J7.AJ982.J762 KJT74.92.7654.A8"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "E"]
+{
+Stuart's 3S bid looks rather conservative when, opposite as little
+as king-jack-fifth of spades, game would be odds on. As it was,
+with Gray holding the CA in addition to the requisite trump holding,
+the spade slam was cold -- even if it was a bit lucky that Gray
+held nothing wasted in diamonds.
+}
+[Auction "W"]
+1C Pass 1S 2H 
+3S Pass 4S Pass 
+Pass Pass   
+[Play "S"]
+C5 C3 C2 CA 
+SA S2 S5 ST 
+DK S3 D2 D4 
+S9 SQ S6 S4 
+H4 CK C6 C8 
+H3 CQ C7 D5 
+D3 CT CJ SK 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "21"]
+[Room "Open"]
+[West "George Jacobs"]
+[North "John Mohan"]
+[East "A. Versace"]
+[South "Jill Meyers"]
+[Dealer "N"]
+[Deal "S:AQ832.T.Q62.A982 T75.A9853.T.KQ74 KJ64.K64.953.J65 9.QJ72.AKJ874.T3"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "E"]
+{
+West's 2C response showed hearts, and East just bid the game
+on slender high card values. After ruffing the second round of
+spades and a losing trump finesse, declarer, Versace, got a chance
+to test the clubs as well as the diamonds when North returned
+a trump. He played a club to the king and tried three rounds
+of diamonds. When the DQ came down, he could cross to dummy in
+hearts, pulling the last outstanding trump, and run the diamonds
+for an overtrick.
+}
+[Auction "N"]
+Pass 1D 1S 2C 
+3S 4H Pass Pass 
+Pass    
+[Play "S"]
+SA S5 S4 S9 
+S3 S7 SK H2 
+HT H3 HK HJ 
+S2 H5 H4 H7 
+C2 CK C6 C3 
+D2 DT D9 DA 
+D6 C4 D5 DK 
+DQ H8 D3 D4 
+C8 H9 H6 HQ 
+- - - DJ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "22"]
+[Room "Open"]
+[West "George Jacobs"]
+[North "John Mohan"]
+[East "A. Versace"]
+[South "Jill Meyers"]
+[Dealer "E"]
+[Deal "S:AJ7.A.J7632.Q954 QT43.92.AKT98.K6 8.QJT7.Q4.AJT732 K9652.K86543.5.8"]
+[Vulnerable "EW"]
+[Contract "3C"]
+[Declarer "S"]
+{
+With the CK onside, only an initial spade lead (or a top diamond
+followed by a spade shift) could stop 3NT. Better still (except
+at pairs), 5C is cold. North's dilemma in the auction was that
+a 2C response would have been a game force, and it might also
+make it more difficult to find a heart fit at a comfortable level.
+Remember that N/S open ten counts when not vulnerable.
+}
+[Auction "E"]
+Pass 1D Pass 1H 
+Pass 2C Pass 3C 
+Pass Pass Pass  
+[Play "W"]
+H9 H7 H3 HA 
+C6 CJ C8 C5 
+DK DQ D5 D2 
+DA D4 S9 D3 
+S3 S8 SK SA 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "23"]
+[Room "Open"]
+[West "Clare Pyles"]
+[North "John Mohan"]
+[East "F. Bresnahan"]
+[South "Jill Meyers"]
+[Dealer "S"]
+[Deal "S:52.A2.KJ96532.75 QJ98.K84..AKQT96 KT.J97653.AT7.32 A7643.QT.Q84.J84"]
+[Vulnerable "Both"]
+[Contract "5D"]
+[Declarer "S"]
+{
+Mohan's redouble seems to have convinced E/W that it was N/S's
+hand. So, when he "saved" in 5D, E/W were convinced not to say
+"Double." This was especially effective since a double would
+have netted E/W a cool 800 against their unbiddable slam (which
+depends only on guessing the spade position correctly). E/W's
+plus 300 should yield N/S almost all of the matchpoints.
+}
+[Auction "S"]
+3D X XX 3S 
+Pass 4S 5D Pass 
+Pass Pass   
+[Play "W"]
+CA C2 C4 C5 
+CK C3 C8 C7 
+SQ SK SA S2 
+SJ ST S7 S5 
+H4 HJ HQ HA 
+C6 DA D4 D3 
+C9 D7 D8 D9 
+S9 DT DQ DK 
+CT H3 S3 DJ 
+S8 H5 S4 D6 
+CQ H6 S6 D5 
+H8 H7 HT D2 
+HK H9 CJ H2 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "24"]
+[Room "Open"]
+[West "Clare Pyles"]
+[North "John Mohan"]
+[East "F. Bresnahan"]
+[South "Jill Meyers"]
+[Dealer "W"]
+[Deal "S:K7543.AT53.2.863 A86.KQ86.QT5.KQJ T2.72.KJ9876.A42 QJ9.J94.A43.T975"]
+[Vulnerable "None"]
+[Contract "2NT"]
+[Declarer "W"]
+{
+Looking at Meyers' hand, we would say her 2C bid showed the majors.
+Mohan, not the victim of matchpoint mania on this one, still
+preferred to play in his minor: diamonds. It looks as though
+E/W should have found a way to double anything N/S bid but here
+Bresnahan settled for a quiet 2NT. Thank's Frank. Still, with
+a maximum of 17 HCP it is puzzling why Pyles didn't carry on
+to game.
+}
+[Auction "W"]
+1NT Pass Pass 2C 
+Pass 2D 2NT Pass 
+Pass Pass   
+[Play "N"]
+D8 D3 D2 DT 
+C4 C5 C3 CK 
+C2 C7 C8 CQ 
+CA C9 C6 CJ 
+H7 H4 HA H6 
+H2 HJ H3 H8 
+S2 SQ S4 S6 
+DJ CT S5 S8 
+D9 H9 H5 HQ 
+D7 S9 HT HK 
+ST SJ S3 SA 
+D6 DA S7 D5 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "25"]
+[Room "Open"]
+[West "Rob Kischuk"]
+[North "John Mohan"]
+[East "Tom Shannon"]
+[South "Jill Meyers"]
+[Dealer "N"]
+[Deal "S:A85.K762.Q95.T86 KQT4.QJT.AKJ3.K9 J32.953.872.QJ42 976.A84.T64.A753"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+3NT is the normal contract for E/W and Meyers' heart lead did
+nothing to strike fear into declarer's heart. Meyers ducked the
+SK to preserve her side entry to her hearts, and declarer abandoned
+the suit and crossed to the CA to finesse the DQ.
+}
+[Auction "N"]
+Pass Pass Pass 1D 
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+H2 HT H9 H4 
+S8 SK S2 S6 
+C8 C9 C2 CA 
+DQ DA D8 DT 
+D5 DK D2 D6 
+D9 DJ D7 D4 
+C6 D3 S3 C3 
+HK HQ H3 H8 
+H6 HJ H5 HA 
+S5 S4 SJ S9 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "26"]
+[Room "Open"]
+[West "Rob Kischuk"]
+[North "John Mohan"]
+[East "Tom Shannon"]
+[South "Jill Meyers"]
+[Dealer "E"]
+[Deal "S:AK852.632.7.8763 Q3.AT8.AKQJ32.92 J76.K.T965.AKT54 T94.QJ9754.84.QJ"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "E"]
+{
+West was a bit aggressive with his 2S bid (3D looks about right
+to us) and subsequently drove his side to 4H. With four top losers
+and the HK still to find, N/S had no trouble going plus. The
+big question was: could North provide South with a diamond ruff?
+Meyers cashed her SAK and shifted to a club and Mohan took his
+two top tricks in that suit. Mohan now had a problem. He had
+to return a diamond to give Meyers a diamond ruff when he got
+in with his HK but if Meyers had the D8, declarer would be locked
+in dummy and would have to bang the HA, dropping his offside
+stiff king.
+}
+[Auction "E"]
+Pass Pass 1D Pass 
+1H 1S 2S 3C 
+3H 3S 4H Pass 
+Pass Pass   
+[Play "S"]
+SK S3 S7 S4 
+SA SQ S6 S9 
+C6 C2 CK CQ 
+C3 C9 CA CJ 
+C7 D2 C4 H7 
+H3 H8 HK HJ 
+D7 DA DT D4 
+H2 HA C5 H4 
+- HT - - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "27"]
+[Room "Open"]
+[West "Polly Dunn"]
+[North "John Mohan"]
+[East "Pat Dunn"]
+[South "Jill Meyers"]
+[Dealer "S"]
+[Deal "S:K732.J.9652.6542 J84.T872.KT87.87 T.A9653.J3.AKQJT AQ965.KQ4.AQ4.93"]
+[Vulnerable "None"]
+[Contract "3S"]
+[Declarer "E"]
+{
+Looking at the E/W hands only, 3S does not look like a bad contract
+at all. Indeed, even 4S has chances, albeit very slim ones. On
+this layout, however, declarer lost the first six tricks, going
+two down. As he was not doubled, this result may be all right
+because N/S can in fact make 3C. They would only lose a spade,
+two diamonds, and a heart as only two hearts can be ruffed in
+dummy.
+}
+[Auction "S"]
+Pass Pass 1H 1S 
+Pass Pass 2C X 
+3C 3S Pass Pass 
+Pass    
+[Play "S"]
+HJ H2 HA HQ 
+S3 H7 H3 H4 
+C6 C7 CT C9 
+S2 H8 H5 HK 
+C2 C8 CK C3 
+SK HT H6 SQ 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "28"]
+[Room "Open"]
+[West "Polly Dunn"]
+[North "John Mohan"]
+[East "Pat Dunn"]
+[South "Jill Meyers"]
+[Dealer "W"]
+[Deal "S:A97.T985.T986.T7 T43.632.Q73.A642 86.AKQ74.A4.QJ95 KQJ52.J.KJ52.K83"]
+[Vulnerable "NS"]
+[Contract "3H"]
+[Declarer "N"]
+{
+A disciplined auction in which Mohan made a game try and Meyers
+declined, landing them in an excellent 3H-contract. Notice, though,
+that the defense could go wrong and give up an overtrick, e.g.,
+after a club lead and a diamond shift rather than a spade shift.
+Declarer would win the DA, pull TWO rounds of trumps, and knock
+out the other club honor.
+}
+[Auction "W"]
+Pass 1H 1S 2H 
+Pass 2S Pass 3H 
+Pass Pass Pass  
+[Play "E"]
+SK SA S3 S6 
+HJ H5 H3 HA 
+*
+[Result "9"]

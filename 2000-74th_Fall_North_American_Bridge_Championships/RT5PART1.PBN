@@ -1,0 +1,605 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "74th Fall North American Bridge Championships - Reisinger Teams"]
+[Site "Birmingham, Alabama, USA"]
+[Date "2000.11.26"]
+[Round "R5"]
+[Board "1"]
+[Room "Open"]
+[West "M. Cappelletti Jr"]
+[North "Ralph Katz"]
+[East "Gary Cohler"]
+[South "George Jacobs"]
+[Dealer "N"]
+[Deal "S:832.AQ.Q652.AJT3 AK.9843.A84.Q652 T9764.KJ7.73.K74 QJ5.T652.KJT9.98"]
+[Vulnerable "None"]
+[Contract "1NT"]
+[Declarer "S"]
+{
+Should Katz have taken out 1NT to 2S? If he knew his partner's
+hand, he would have, since 2S is a much better contract than
+1NT, regardless of the scoring method. But with his balanced
+hand and the knowledge that Jacobs had at most three spades,
+1NT would be equal or better than 2S most of the time. Jacobs
+chose to finesse East for the CQ and was quickly one down: minus
+50.
+}
+[Auction "N"]
+Pass Pass 1D Pass 
+1S Pass 1NT Pass 
+Pass Pass   
+[Play "W"]
+H3 H7 HT HA 
+C5 CK C9 C3 
+CQ C4 C8 CJ 
+H4 HK H2 HQ 
+H8 HJ H5 S2 
+C2 C7 H6 CA 
+C6 S4 D9 CT 
+SK S6 S5 S3 
+SA S7 SQ S8 
+H9 D3 SJ D2 
+D4 D7 DK D5 
+- - DJ - 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "2"]
+[Room "Open"]
+[West "M. Cappelletti Jr"]
+[North "Ralph Katz"]
+[East "Gary Cohler"]
+[South "George Jacobs"]
+[Dealer "E"]
+[Deal "S:976.KJ86.AKQ95.9 A532.92.J84.QJ63 KQT4.T4.632.AT74 J8.AQ753.T7.K852"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "N"]
+{
+Jacobs' redouble over Cohler's passed hand take-out double showed
+three-card support in spades, so Katz knew his side only had
+seven spades. But when Jacobs competed with 3D, Katz realized
+his hand was golden and jumped to 4S, hoping to buy five or six
+solid diamonds and ace third in spades. Jacobs' hand was a disappointment,
+but Katz fought on bravely.
+}
+[Auction "E"]
+Pass 1D Pass 1S 
+X XX 3C Pass 
+Pass 3D Pass 4S 
+Pass Pass Pass  
+[Play "E"]
+C5 C9 CJ CA 
+HA H6 H2 HT 
+DT DA D8 D3 
+D7 DK D4 D6 
+S8 DQ DJ D2 
+C2 S6 C3 C4 
+H5 HK H9 H4 
+H3 H8 SA C7 
+SJ S7 S2 SK 
+C8 S9 C6 CT 
+H7 HJ CQ S4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "3"]
+[Room "Open"]
+[West "M. Cappelletti Jr"]
+[North "Ralph Katz"]
+[East "Gary Cohler"]
+[South "George Jacobs"]
+[Dealer "S"]
+[Deal "S:K9.A642.A3.JT952 QT86..KT9874.K43 754.JT987.J6.Q86 AJ32.KQ53.Q52.A7"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+The books say "Don't preempt with a four-card major on the side!".
+They also say "A preempt shows a good suit and little outside".
+Even though I disagree with them more often than most people
+do, I think they are right here. Katz-Jacobs were happy their
+opponents didn't think so. There were 11 easy tricks in both
+diamonds and spades, but Cohler jumped to 3NT hoping for ace-king
+sixth in diamonds, together with help in clubs or the SK.
+}
+[Auction "S"]
+1C 2D Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+CJ C3 C8 CA 
+D3 DK DJ D2 
+DA D4 D6 DQ 
+CT C4 CQ C7 
+C9 CK C6 H3 
+SK SQ S4 S3 
+C5 D7 H7 H5 
+C2 - - - 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "4"]
+[Room "Open"]
+[West "Kit Woolsey"]
+[North "Ralph Katz"]
+[East "Fred Stewart"]
+[South "George Jacobs"]
+[Dealer "W"]
+[Deal "S:AT942.6.KJ4.KQ93 K6.KQ853.A986.A4 QJ873.JT74.Q5.J5 5.A92.T732.T8762"]
+[Vulnerable "Both"]
+[Contract "4C"]
+[Declarer "W"]
+{
+Jacobs overcalled 1H to show spades over the E/W Precision auction.
+West now doubled for takeout of spades, and he could not have
+been too pleased when his partner bid clubs, at the four-level,
+forced by Katz' preemptive raise to 3S. My personal preference
+would have been to show hearts over South's heart call, by whatever
+means available, precisely to avoid the situation that developed
+[LDG].
+}
+[Auction "W"]
+1C Pass 1D 1H 
+X 3S 4C Pass 
+Pass Pass   
+[Play "N"]
+SQ S5 SA S6 
+S7 D2 ST SK 
+C5 C2 C3 CA 
+CJ C6 CQ C4 
+S8 C7 S2 D6 
+H4 C8 C9 D8 
+H7 CT CK D9 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "5"]
+[Room "Open"]
+[West "Kit Woolsey"]
+[North "Ralph Katz"]
+[East "Fred Stewart"]
+[South "George Jacobs"]
+[Dealer "N"]
+[Deal "S:AQJ9.A2.T964.Q52 6.J963.AKQJ.JT63 T7432.KQ54.875.9 K85.T87.32.AK874"]
+[Vulnerable "NS"]
+[Contract "1NT"]
+[Declarer "E"]
+{
+East opened a 10-12 notrump in second seat and this became the
+final contract. Not being clairvoyant, South led his best suit,
+spades. Declarer gratefully took the trick and wisely ran for
+cover by cashing his six other winners. A heart lead would have
+allowed the defense to take the first seven tricks (not eight,
+as the spades will be blocked), unless North fails to cash his
+hearts tricks before switching to the S10 - this defense requires
+South to lead the HA or the heart suit gets blocked!.
+}
+[Auction "N"]
+Pass 1NT Pass Pass 
+Pass    
+[Play "S"]
+SQ S6 S4 SK 
+C5 C3 C9 CK 
+C2 CJ D5 CA 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "6"]
+[Room "Open"]
+[West "Kit Woolsey"]
+[North "Ralph Katz"]
+[East "Fred Stewart"]
+[South "George Jacobs"]
+[Dealer "E"]
+[Deal "S:94.AT863.K32.962 KQ2.954.AQT5.K84 JT76.KJ.J64.QT53 A853.Q72.987.AJ7"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+East's Precision 1D-opening might have been on a doubleton; West's
+2D raise supposedly showed 11-13 HCP, so he definitely had enough
+in reserve to accept East's pushy game try. Declarer, East, was
+lucky when the heart suit blocked. After trick 10, the critical
+decision had to be faced. Declarer knew that South was down to
+Ax of hearts and one club. He now elected to play Jacobs to have
+blanked the CQ.
+}
+[Auction "E"]
+1D Pass 2D Pass 
+2NT Pass 3NT Pass 
+Pass Pass   
+[Play "S"]
+H6 H4 HK H2 
+H8 H5 HJ H7 
+DK DA D4 D9 
+S4 S2 S6 SA 
+D3 D5 DJ D8 
+S9 SQ S7 S5 
+H3 SK ST S3 
+D2 DT D6 D7 
+C2 DQ C3 S8 
+C6 CK C5 C7 
+C9 C4 CT CA 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "7"]
+[Room "Open"]
+[West "Rose Meltzer"]
+[North "Ralph Katz"]
+[East "Kyle Larsen"]
+[South "George Jacobs"]
+[Dealer "S"]
+[Deal "S:QJ4.T.KJT4.AQ532 A82.K632.AQ976.4 KT93.Q98.82.KJT9 765.AJ754.53.876"]
+[Vulnerable "Both"]
+[Contract "2S"]
+[Declarer "N"]
+{
+Not thrilled by the idea of having to rebid his five-card suit
+over a 1H response, Jacobs opened with 1D, planning a 2C rebid
+over 1H (risking to play the wrong minor at the partscore level
+but avoiding a club contract when diamonds are much better).
+When Katz responded 1S, Jacobs could raise to 2S instead. The
+superior 5-4 fit in clubs wasn't found, but spades were good
+enough.
+}
+[Auction "S"]
+1D Pass 1S Pass 
+2S Pass Pass Pass 
+[Play "E"]
+C6 CA C4 CT 
+HJ HT H2 H9 
+S5 S4 SA S3 
+S6 SJ S2 S9 
+S7 SQ S8 SK 
+C8 C2 D7 CK 
+C7 C3 D6 CJ 
+H5 CQ D9 C9 
+H4 C5 H3 H8 
+D3 D4 DQ D8 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "8"]
+[Room "Open"]
+[West "Rose Meltzer"]
+[North "Ralph Katz"]
+[East "Kyle Larsen"]
+[South "George Jacobs"]
+[Dealer "W"]
+[Deal "S:954.KT.A9854.AQJ J8.Q987.T7.T9843 AKQ2.J65432.QJ.K T763.A.K632.7652"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "S"]
+{
+With 15 HCP outside of hearts, Katz wasn't tempted to play 4H
+on a 6-2 fit and preferred 3NT instead. When hearts were 4-1,
+Jacobs had to play a little carefully. When the defenders stopped
+playing clubs he simply gave up two hearts. Making four: plus
+430. Since 4H only yields plus 420, being in notrump was the
+right choice, but are ten tricks good enough?
+}
+[Auction "W"]
+Pass 1H Pass 2D 
+Pass 2S Pass 2NT 
+Pass 3D Pass 3H 
+Pass 3NT Pass Pass 
+Pass    
+[Play "W"]
+CT CK C5 CQ 
+H8 H2 HA HT 
+SJ SA S3 S9 
+H7 H3 C6 HK 
+D7 DJ D3 D4 
+H9 H4 C7 D5 
+S8 SK S7 S4 
+HQ H5 C2 D8 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "9"]
+[Room "Open"]
+[West "Rose Meltzer"]
+[North "Ralph Katz"]
+[East "Kyle Larsen"]
+[South "George Jacobs"]
+[Dealer "N"]
+[Deal "S:987.KJ.KJ975.Q96 QJ53.AQ.AQ6.KJT8 KT62.T92.4.A7532 A4.876543.T832.4"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "E"]
+{
+Jacobs tried the effect of a weak two-bid on a five-card suit
+in third seat at favorable vulnerability, a brave attempt, but
+it didn't stop his opponents from bidding a tough game. When
+the preemptor showed up with two heart honors, and surely had
+the two diamond honors as well, Larsen knew where the CA was.
+It was easy for East to take eleven tricks. Five made: minus
+650.
+}
+[Auction "N"]
+Pass Pass 2D X 
+Pass 2H Pass 2NT 
+Pass 4H Pass Pass 
+Pass    
+[Play "S"]
+S9 SQ SK SA 
+HJ HQ HT H4 
+HK HA H2 H3 
+S8 SJ S2 S4 
+S7 S3 ST H5 
+C6 CJ CA C4 
+D5 D6 H9 H7 
+D7 S5 S6 H6 
+D9 DQ D4 D3 
+C9 CK C2 D2 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "10"]
+[Room "Open"]
+[West "Mike Passell"]
+[North "Ralph Katz"]
+[East "Michael Seamon"]
+[South "George Jacobs"]
+[Dealer "E"]
+[Deal "S:KJ8732.5.Q.J8542 T6.QJT62.K98543. Q54.93.AJ.AKT976 A9.AK874.T762.Q3"]
+[Vulnerable "Both"]
+[Contract "5HX"]
+[Declarer "E"]
+{
+On this deal it was North who had to make the toughest decision.
+He was right to double 5H. Surely Mike Passell would have found
+the H2 lead against 5S, and Michael Seamon would have interpreted
+this lead correctly. It was right for declarer not to cover the
+DQ lead with the DK; DA singleton with North is his only legitimate
+chance.
+}
+[Auction "E"]
+1H 2S 4H 4S 
+Pass Pass 5H X 
+Pass Pass Pass  
+[Play "S"]
+DQ D3 DJ D6 
+S8 S6 SQ SA 
+H5 HQ H3 H7 
+S2 HJ H9 H4 
+S3 D4 DA D7 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "11"]
+[Room "Open"]
+[West "Mike Passell"]
+[North "Ralph Katz"]
+[East "Michael Seamon"]
+[South "George Jacobs"]
+[Dealer "S"]
+[Deal "S:AKT97654.K8.K5.J Q3.AT.AJ62.A8742 J2.QJ952.743.KT9 8.7643.QT98.Q653"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "N"]
+{
+South's 4D-opening showed a long spade suit and a good hand (Namyats),
+and when West doubled, a perfect opportunity was missed to get
+South to declare. (South could always redouble if he had no vulnerable
+holding to protect against the opening lead). The defense was
+deadly accurate when East found the diamond lead. This netted
+one down for starters, and it become two down when declarer,
+North, saw a reason for playing East to hold all three missing
+spades
+}
+[Auction "S"]
+4D X 4S Pass 
+Pass Pass   
+[Play "E"]
+DT DK DA D4 
+D8 D5 D6 D7 
+H7 HK HA H5 
+C3 CJ CA CT 
+H3 H8 HT HQ 
+S8 S4 SQ SJ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "12"]
+[Room "Open"]
+[West "Mike Passell"]
+[North "Ralph Katz"]
+[East "Michael Seamon"]
+[South "George Jacobs"]
+[Dealer "W"]
+[Deal "S:8532.K53.KQ43.95 AKJ9.762.T9.AT74 QT6.AJT.J875.Q83 74.Q984.A62.KJ62"]
+[Vulnerable "NS"]
+[Contract "1NT"]
+[Declarer "E"]
+{
+Although East had a maximum 1NT rebid, the limit is seven tricks
+on this layout, and then only if declarer guesses the CQ. N/S
+minus 150.
+}
+[Auction "W"]
+1C Pass 1H Pass 
+1S Pass 1NT Pass 
+Pass Pass   
+[Play "S"]
+D3 D9 DJ D2 
+DQ DT D5 D6 
+DK H2 D8 DA 
+C9 CA C3 C2 
+C5 CT C8 C6 
+H5 C4 CQ CK 
+S2 C7 HJ CJ 
+S3 SJ SQ S4 
+D4 H6 D7 H4 
+H3 H7 HA H8 
+HK - HT HQ 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "13"]
+[Room "Open"]
+[West "Cezary Balicki"]
+[North "Ralph Katz"]
+[East "A. Zmudzinski"]
+[South "George Jacobs"]
+[Dealer "N"]
+[Deal "S:87.8732.6.KT9865 AQ965.Q9.T3.J432 KJ.T5.AKQJ9742.Q T432.AKJ64.85.A7"]
+[Vulnerable "Both"]
+[Contract "5DX"]
+[Declarer "N"]
+{
+When the opponents have bid two suits, a cue-bid in one of their
+suits usually shows a stopper and asks partner to bid notrump
+if he can stop the other. Such seems to be the nature of Katz's
+2S bid. Jacobs seems to have read something else into it -- or
+simply gambled that with E/W bidding the majors he would find
+a club fit opposite. Balicki did well to bid on to 4S, which
+is cold (because of North's singleton club), but Katz was not
+deterred by Jacobs's 4C bid and tried 5D.
+}
+[Auction "N"]
+1D 1H Pass 1S 
+2S 3S 4C 4S 
+5D X Pass Pass 
+Pass    
+[Play "E"]
+HA H2 H9 HT 
+S2 S7 SQ SK 
+D5 D6 D3 DA 
+D8 C5 DT DK 
+CA C6 C2 CQ 
+S3 S8 SA SJ 
+H4 H3 HQ H5 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "14"]
+[Room "Open"]
+[West "Cezary Balicki"]
+[North "Ralph Katz"]
+[East "A. Zmudzinski"]
+[South "George Jacobs"]
+[Dealer "E"]
+[Deal "S:K8.9852.QJ4.K953 QT7652.Q4.KT75.4 J3.T6.9863.AQT82 A94.AKJ73.A2.J76"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "W"]
+{
+Once Zmudzinski did not open a strong notrump, he had to fabricate
+a second-round bid; 2C was natural. Balicki showed his spade
+length and Zmudzinski went directly to game, not passing Go but
+probably collecting $200. With only two losers, one trump and
+one club, or in this case a second trump exchanged for the club,
+Balicki made an overtrick for an easy plus 450 and a likely half.
+}
+[Auction "E"]
+1H Pass 1S Pass 
+2C Pass 2S Pass 
+4S Pass Pass Pass 
+[Play "N"]
+D9 D2 DJ DK 
+S3 SA S8 S2 
+HT H3 H5 HQ 
+H6 HA H2 H4 
+SJ HK H8 C4 
+CA - - - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "15"]
+[Room "Open"]
+[West "Cezary Balicki"]
+[North "Ralph Katz"]
+[East "A. Zmudzinski"]
+[South "George Jacobs"]
+[Dealer "S"]
+[Deal "S:AQ74.A85.Q6.K854 KJ863.64.A93.AJ3 T9.KQJ2.T872.Q62 52.T973.KJ54.T97"]
+[Vulnerable "NS"]
+[Contract "2NT"]
+[Declarer "S"]
+{
+Katz's sequence showed an invitational hand which did not promise
+a four-card major. Jacobs rejected the invitation and now had
+to struggle to take eight tricks. Jacobs looked to spades for
+some help but with both honors offside the best he could do there
+was to add one more spade trick (after losing two) to his six-trick
+total. When Balicki found the diamond shift upon winning his
+second spade the Cezary-and-Adam Magic Trick Disappearing act
+was under way.
+}
+[Auction "S"]
+1NT Pass 2C Pass 
+2S Pass 2NT Pass 
+Pass Pass   
+[Play "W"]
+H4 HK H3 H8 
+SJ S9 S2 S4 
+H6 H2 HT HA 
+S6 HJ H7 H5 
+S3 HQ H9 C4 
+SK ST S5 SQ 
+D9 DT DK D6 
+DA D2 D4 DQ 
+D3 D7 DJ S7 
+S8 D8 D5 C5 
+*
+[Result "6"]
+

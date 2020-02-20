@@ -1,0 +1,857 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "1"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:J732.JT972.AJT7. A964.K54.KQ6.A83 85.AQ83.943.7542 KQT.6.852.KQJT96"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass 1C 1H X 
+3H Pass Pass 3NT 
+Pass 5C Pass 6C 
+Pass Pass Pass  
+[Contract "6C"]
+[Declarer "E"]
+[Play "S"]
+HT HK HA H6 
+DA D6 D9 D2 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "1"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:J732.JT972.AJT7. A964.K54.KQ6.A83 85.AQ83.943.7542 KQT.6.852.KQJT96"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass 1C Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+H3 H6 H9 HK 
+S5 ST S2 SA 
+C2 C9 - C3 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "2"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:K74.K8762.6.KT86 652.A4.AJ97.QJ97 QJT.QJ5.KT432.53 A983.T93.Q85.A42"]
+[Vulnerable "NS"]
+[Auction "E"]
+Pass Pass 1C Pass 
+1S Pass 1NT Pass 
+Pass Pass   
+[Contract "1NT"]
+[Declarer "W"]
+[Play "N"]
+D3 - - - 
+*
+[Result "7"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "2"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:K74.K8762.6.KT86 652.A4.AJ97.QJ97 QJT.QJ5.KT432.53 A983.T93.Q85.A42"]
+[Vulnerable "NS"]
+[Auction "E"]
+Pass Pass 1D Pass 
+1S Pass Pass Pass 
+[Contract "1S"]
+[Declarer "E"]
+[Play "S"]
+D6 D7 DK D8 
+H7 HA HQ H3 
+S4 S2 ST S3 
+S7 D9 DT D5 
+H2 H4 HJ H9 
+*
+[Result "6"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "3"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:T973.86.KQT6.J87 KQ8.AQJ32.A8.Q65 J64.KT974.7.KT92 A52.5.J95432.A43"]
+[Vulnerable "EW"]
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 3NT Pass Pass 
+Pass    
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+C9 C3 C8 CQ 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "3"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:T973.86.KQT6.J87 KQ8.AQJ32.A8.Q65 J64.KT974.7.KT92 A52.5.J95432.A43"]
+[Vulnerable "EW"]
+[Auction "S"]
+Pass 1H Pass 1NT 
+Pass 2NT Pass 3C 
+Pass 3D Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "E"]
+[Play "S"]
+ST SK S4 S2 
+D6 DA D7 D2 
+DT D8 S6 D3 
+C7 C5 CT CA 
+S3 S8 SJ SA 
+H6 HQ HK H5 
+- - CK - 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "4"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:T.AKQJ92.AKT7.K9 AK8532.7.8.QJT73 QJ9.T4.Q9432.864 764.8653.J65.A52"]
+[Vulnerable "Both"]
+[Auction "W"]
+1S Pass 1NT 4H 
+4S Pass Pass X 
+Pass Pass Pass  
+[Contract "4SX"]
+[Declarer "W"]
+[Play "N"]
+HT H3 - - 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "4"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:T.AKQJ92.AKT7.K9 AK8532.7.8.QJT73 QJ9.T4.Q9432.864 764.8653.J65.A52"]
+[Vulnerable "Both"]
+[Auction "W"]
+1S Pass 1NT X 
+2S Pass Pass 4H 
+Pass Pass Pass  
+[Contract "4H"]
+[Declarer "S"]
+[Play "W"]
+SA SQ S4 ST 
+CQ C4 C5 CK 
+H7 HT H3 H2 
+- H4 - - 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "5"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:J64.AQ9.KT62.984 A8.J86532.Q73.63 KQ9.KT74.A9.AT52 T7532..J854.KQJ7"]
+[Vulnerable "NS"]
+[Auction "N"]
+1C 1S 2S X 
+2NT Pass 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "N"]
+[Play "E"]
+CK C4 C6 CA 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "5"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:J64.AQ9.KT62.984 A8.J86532.Q73.63 KQ9.KT74.A9.AT52 T7532..J854.KQJ7"]
+[Vulnerable "NS"]
+[Auction "N"]
+1NT Pass 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "N"]
+[Play "E"]
+CJ C4 C3 CA 
+S2 S4 SA SK 
+CQ C8 C6 C5 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "6"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:T3.KJ9.Q964.AJ87 AK7654.63.AK2.Q9 QJ2.Q75.J85.K653 98.AT842.T73.T42"]
+[Vulnerable "EW"]
+[Auction "E"]
+Pass 1NT X Pass 
+2H Pass 2S Pass 
+Pass Pass   
+[Contract "2S"]
+[Declarer "W"]
+[Play "N"]
+C5 - - - 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "6"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:T3.KJ9.Q964.AJ87 AK7654.63.AK2.Q9 QJ2.Q75.J85.K653 98.AT842.T73.T42"]
+[Vulnerable "EW"]
+[Auction "E"]
+Pass Pass 1S Pass 
+Pass X 2S Pass 
+Pass Pass   
+[Contract "2S"]
+[Declarer "W"]
+[Play "N"]
+SQ S8 S3 SK 
+S2 S9 ST SA 
+SJ H2 C7 S4 
+H5 H4 HK H6 
+HQ HA H9 H3 
+- H8 HJ - 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "7"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:K54.A8.KQT.AQ982 8632.96.J764.543 AT9.KJ7.9852.T76 QJ7.QT5432.A3.KJ"]
+[Vulnerable "Both"]
+[Auction "S"]
+2NT Pass 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+H9 H7 H5 HA 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "7"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:K54.A8.KQT.AQ982 8632.96.J764.543 AT9.KJ7.9852.T76 QJ7.QT5432.A3.KJ"]
+[Vulnerable "Both"]
+[Auction "S"]
+1NT Pass 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+S2 S9 SQ SK 
+D7 D2 DA DQ 
+DJ D5 D3 DT 
+H9 H7 H2 HA 
+D4 D8 H3 DK 
+S3 ST SJ S5 
+S6 SA S7 S4 
+C3 C6 CJ CQ 
+H6 HK H4 H8 
+D6 D9 H5 C2 
+- CT - - 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "8"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:J.A.T6432.KQ8752 9542.T975.J.AJ96 AQT76.KQ.9875.T4 K83.J86432.AKQ.3"]
+[Vulnerable "None"]
+[Auction "W"]
+Pass 1S 2H X 
+4H Pass Pass X 
+Pass Pass Pass  
+[Contract "4HX"]
+[Declarer "E"]
+[Play "S"]
+SJ S2 SA S3 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "8"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:J.A.T6432.KQ8752 9542.T975.J.AJ96 AQT76.KQ.9875.T4 K83.J86432.AKQ.3"]
+[Vulnerable "None"]
+[Auction "W"]
+Pass 1S 2H X 
+4H Pass Pass 4NT 
+Pass 5D X Pass 
+Pass Pass   
+[Contract "5DX"]
+[Declarer "N"]
+[Play "E"]
+DQ D2 DJ D5 
+DK D3 H5 D7 
+DA D4 H7 D8 
+H6 HA H9 HQ 
+C3 CK CA C4 
+H2 C2 HT HK 
+S3 SJ S2 SA 
+- - - SQ 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "9"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:A93.863.J96.AQT5 J82.A4.A4.KJ9743 KQ6.JT2.KQ8752.6 T754.KQ975.T3.82"]
+[Vulnerable "EW"]
+[Auction "N"]
+1D Pass 2C Pass 
+2D Pass 2H Pass 
+2NT Pass 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "N"]
+[Play "E"]
+HK H3 HA H2 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "9"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:A93.863.J96.AQT5 J82.A4.A4.KJ9743 KQ6.JT2.KQ8752.6 T754.KQ975.T3.82"]
+[Vulnerable "EW"]
+[Auction "N"]
+1D Pass 2C Pass 
+2D Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+S2 SK S4 S3 
+DA DK D3 D6 
+C7 C6 C8 CT 
+D4 D2 DT DJ 
+C4 DQ S5 D9 
+- D8 - - 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "10"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:AT82.KQ42.873.65 K965.9865.J.AT93 Q74.AJ73.4.KQ842 J3.T.AKQT9652.J7"]
+[Vulnerable "Both"]
+[Auction "E"]
+3NT Pass Pass Pass 
+[Contract "3NT"]
+[Declarer "E"]
+[Play "S"]
+SA S5 S4 S3 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "10"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:AT82.KQ42.873.65 K965.9865.J.AT93 Q74.AJ73.4.KQ842 J3.T.AKQT9652.J7"]
+[Vulnerable "Both"]
+[Auction "E"]
+1D Pass 1H Pass 
+2D Pass Pass X 
+3D 3S Pass Pass 
+Pass    
+[Contract "3S"]
+[Declarer "S"]
+[Play "W"]
+DJ D4 DQ D7 
+H5 H3 HT HQ 
+CA C2 C7 C6 
+H9 H7 S3 H4 
+H6 S4 DA D8 
+C3 CK CJ C5 
+C9 CQ SJ D3 
+- - D2 - 
+*
+[Result "6"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "11"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:A753.A973.Q2.K97 KJT4.KT6.AJ.AT32 96.Q542.T876.QJ6 Q82.J8.K9543.854"]
+[Vulnerable "None"]
+[Auction "S"]
+1D 1NT Pass Pass 
+X Pass 2H 2NT 
+Pass Pass Pass  
+[Contract "2NT"]
+[Declarer "W"]
+[Play "N"]
+H2 H8 HA H6 
+*
+[Result "7"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "11"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:A753.A973.Q2.K97 KJT4.KT6.AJ.AT32 96.Q542.T876.QJ6 Q82.J8.K9543.854"]
+[Vulnerable "None"]
+[Auction "S"]
+1C 1NT Pass Pass 
+Pass    
+[Contract "1NT"]
+[Declarer "W"]
+[Play "N"]
+CQ C4 C7 C2 
+H2 H8 HA H6 
+H4 HJ H3 HK 
+S6 S2 S3 SJ 
+S9 SQ SA ST 
+HQ S8 H9 HT 
+H5 D4 H7 C3 
+C6 C5 CK CA 
+- - - S4 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "12"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:.J8532.KJ643.K93 82.AQ96.982.J872 AJT75.7.AT75.T64 KQ9643.KT4.Q.AQ5"]
+[Vulnerable "NS"]
+[Auction "W"]
+Pass 2D 2S Pass 
+Pass Pass   
+[Contract "2S"]
+[Declarer "E"]
+[Play "S"]
+H2 - - - 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "12"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:.J8532.KJ643.K93 82.AQ96.982.J872 AJT75.7.AT75.T64 KQ9643.KT4.Q.AQ5"]
+[Vulnerable "NS"]
+[Auction "W"]
+Pass Pass 1S Pass 
+1NT Pass 2C Pass 
+Pass Pass   
+[Contract "2C"]
+[Declarer "E"]
+[Play "S"]
+H3 HA H7 H4 
+D6 S2 SA S3 
+C3 S8 SJ SK 
+H2 H6 C4 HK 
+DK D2 D5 DQ 
+H5 H9 C6 HT 
+CK D8 S7 S9 
+D3 D9 - - 
+*
+[Result "7"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "13"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:53.AKQ.KQ976.JT8 AT64.863.AJ53.K5 KJ97.J52.82.A743 Q82.T974.T4.Q962"]
+[Vulnerable "Both"]
+[Auction "N"]
+Pass Pass 1NT Pass 
+2C Pass 2D Pass 
+3NT Pass Pass Pass 
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+D3 D2 DT DK 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "13"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:53.AKQ.KQ976.JT8 AT64.863.AJ53.K5 KJ97.J52.82.A743 Q82.T974.T4.Q962"]
+[Vulnerable "Both"]
+[Auction "N"]
+Pass Pass 1NT Pass 
+2C Pass 2D Pass 
+3NT Pass Pass Pass 
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+S4 S9 SQ S3 
+H3 H2 HT HK 
+S6 SJ S2 S5 
+D3 D8 DT DK 
+DA D2 D4 DQ 
+H8 HJ H4 HA 
+DJ C3 H7 D6 
+H6 H5 H9 HQ 
+D5 C4 C2 D9 
+ST - - D7 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "14"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:AJ6.KQ9.KJT94.T9 QT8.J87.Q63.A643 K754.643.A85.KJ2 932.AT52.72.Q875"]
+[Vulnerable "None"]
+[Auction "E"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+C3 CJ CQ C9 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "14"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:AJ6.KQ9.KJT94.T9 QT8.J87.Q63.A643 K754.643.A85.KJ2 932.AT52.72.Q875"]
+[Vulnerable "None"]
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+C3 C2 CQ C9 
+C4 CJ C5 CT 
+H7 H3 H2 HK 
+D3 D5 D2 DJ 
+D6 D8 D7 D4 
+DQ DA H5 D9 
+S8 S4 S2 SA 
+- - - DK 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "15"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:AQ74.6432.862.Q5 K8.QJT95.K973.92 T652.AK.J54.AK83 J93.87.AQT.JT764"]
+[Vulnerable "NS"]
+[Auction "S"]
+Pass Pass 1NT Pass 
+2C Pass 2S Pass 
+3S Pass Pass Pass 
+[Contract "3S"]
+[Declarer "N"]
+[Play "E"]
+C6 CQ C9 C3 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "15"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:AQ74.6432.862.Q5 K8.QJT95.K973.92 T652.AK.J54.AK83 J93.87.AQT.JT764"]
+[Vulnerable "NS"]
+[Auction "S"]
+Pass Pass 1C Pass 
+1H Pass 1S Pass 
+2S Pass 3C Pass 
+4S Pass Pass Pass 
+[Contract "4S"]
+[Declarer "N"]
+[Play "E"]
+H8 H2 H5 HA 
+H7 H3 H9 HK 
+C4 CQ C2 C3 
+*
+[Result "7"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "16"]
+[West "Campos"]
+[North "Meckstroth"]
+[East "Villas Boas"]
+[South "Rodwell"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:AJ97.J.AQ7.AKJ98 KQT.KT654.5.Q653 863.AQ972.T642.2 542.83.KJ983.T74"]
+[Vulnerable "EW"]
+[Auction "W"]
+Pass Pass Pass 1C 
+1H Pass Pass X 
+Pass Pass Pass  
+[Contract "1HX"]
+[Declarer "W"]
+[Play "N"]
+C2 C4 CK C3 
+*
+[Result "4"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Final - Segment 1"]
+[Board "16"]
+[West "Freeman"]
+[North "Chagas"]
+[East "Nickell"]
+[South "Branco"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:AJ97.J.AQ7.AKJ98 KQT.KT654.5.Q653 863.AQ972.T642.2 542.83.KJ983.T74"]
+[Vulnerable "EW"]
+[Auction "W"]
+Pass Pass Pass 1C 
+1H Pass Pass X 
+Pass Pass Pass  
+[Contract "1HX"]
+[Declarer "W"]
+[Play "N"]
+C2 C4 CK C3 
+HA H3 HJ HK 
+D2 DJ DQ D5 
+S6 C7 CA C5 
+H2 CT CJ C6 
+*
+[Result "3"]
+

@@ -1,0 +1,868 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "1"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:AKQ5.QJ643.A2.A9 763.AK2.J8753.52 T984..T64.QJT643 J2.T9875.KQ9.K87"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass Pass 1C Pass 
+1D Pass 1H Pass 
+1S Pass 1NT Pass 
+2C Pass 2H Pass 
+3C Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "N"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "1"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:AKQ5.QJ643.A2.A9 763.AK2.J8753.52 T984..T64.QJT643 J2.T9875.KQ9.K87"]
+[Vulnerable "None"]
+[Auction "N"]
+X Pass 3H Pass 
+3S Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "N"]
+[Play "E"]
+HT - - - 
+*
+[Result "13"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "2"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:KQ3.AT98.A64.954 9764.J32.T952.32 JT82.K6.K873.KQT A5.Q754.QJ.AJ876"]
+[Vulnerable "NS"]
+[Auction "E"]
+1NT Pass 2C Pass 
+2H Pass Pass Pass 
+[Contract "2H"]
+[Declarer "E"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "2"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:KQ3.AT98.A64.954 9764.J32.T952.32 JT82.K6.K873.KQT A5.Q754.QJ.AJ876"]
+[Vulnerable "NS"]
+[Auction "E"]
+1D X Pass 2D 
+Pass 2H Pass 2S 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+D2 - - - 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "3"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:A64..Q87532.KQ95 753.QT983.J.A862 J8.AK54.K964.T43 KQT92.J762.AT.J7"]
+[Vulnerable "EW"]
+[Auction "S"]
+1D 1H X 4H 
+Pass Pass X Pass 
+Pass Pass   
+[Contract "4HX"]
+[Declarer "W"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "3"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:A64..Q87532.KQ95 753.QT983.J.A862 J8.AK54.K964.T43 KQT92.J762.AT.J7"]
+[Vulnerable "EW"]
+[Auction "S"]
+1D Pass 1H 1S 
+2D 2S 3D 3S 
+4C Pass 4D Pass 
+4S Pass 5D Pass 
+Pass Pass   
+[Contract "5D"]
+[Declarer "S"]
+[Play "W"]
+S5 - - - 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "4"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:6.T76.AQJ5.QT975 KT5.K542.943.J62 QJ93.Q3.862.AK84 A8742.AJ98.KT7.3"]
+[Vulnerable "Both"]
+[Auction "W"]
+Pass 1D 1S 2C 
+2S 3C 3S Pass 
+Pass Pass   
+[Contract "3S"]
+[Declarer "E"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "4"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:6.T76.AQJ5.QT975 KT5.K542.943.J62 QJ93.Q3.862.AK84 A8742.AJ98.KT7.3"]
+[Vulnerable "Both"]
+[Auction "W"]
+Pass 1D 1S 2C 
+2S Pass Pass X 
+Pass 3C 3H Pass 
+3S Pass Pass Pass 
+[Contract "3S"]
+[Declarer "E"]
+[Play "S"]
+C9 - - - 
+*
+[Result "6"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "5"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:T92.AQ5.T943.JT8 A865.T4.Q2.A9643 KQJ.K87632.J7.KQ 743.J9.AK865.752"]
+[Vulnerable "NS"]
+[Auction "N"]
+1H Pass Pass X 
+Pass 2D Pass Pass 
+Pass    
+[Contract "2D"]
+[Declarer "E"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "5"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:T92.AQ5.T943.JT8 A865.T4.Q2.A9643 KQJ.K87632.J7.KQ 743.J9.AK865.752"]
+[Vulnerable "NS"]
+[Auction "N"]
+1H 2D 2H X 
+XX Pass Pass 3C 
+Pass Pass Pass  
+[Contract "3C"]
+[Declarer "W"]
+[Play "N"]
+*
+[Result "6"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "6"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:AK9863.86.AQT9.6 4.KQT9.J84.98542 JT75.AJ432.K2.J7 Q2.75.7653.AKQT3"]
+[Vulnerable "EW"]
+[Auction "E"]
+1C 1S Pass 2NT 
+Pass 4S Pass  
+[Contract "4S"]
+[Declarer "S"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "6"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:AK9863.86.AQT9.6 4.KQT9.J84.98542 JT75.AJ432.K2.J7 Q2.75.7653.AKQT3"]
+[Vulnerable "EW"]
+[Auction "E"]
+1C 1S Pass 3S 
+Pass 4S Pass Pass 
+Pass    
+[Contract "4S"]
+[Declarer "S"]
+[Play "W"]
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "7"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:Q98.K8.K973.6532 J4.Q9532.AJ6.Q87 KT652.6.82.KJT94 A73.AJT74.QT54.A"]
+[Vulnerable "Both"]
+[Auction "S"]
+Pass Pass 1S 2H 
+2S X Pass 3S 
+Pass 4H Pass Pass 
+Pass    
+[Contract "4H"]
+[Declarer "E"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "7"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:Q98.K8.K973.6532 J4.Q9532.AJ6.Q87 KT652.6.82.KJT94 A73.AJT74.QT54.A"]
+[Vulnerable "Both"]
+[Auction "S"]
+1S 2H 2S 2NT 
+Pass 4C Pass 4H 
+Pass Pass Pass  
+[Contract "4H"]
+[Declarer "W"]
+[Play "N"]
+- - S8 - 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "8"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:T542.J7.QJ9.QJ76 K6.AT642.K8.KT43 AQ93.KQ.T7432.A8 J87.9853.A65.952"]
+[Vulnerable "None"]
+[Auction "W"]
+1H X 2D Pass 
+2H Pass Pass 2S 
+3H 3S Pass Pass 
+Pass    
+[Contract "3S"]
+[Declarer "S"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "8"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:T542.J7.QJ9.QJ76 K6.AT642.K8.KT43 AQ93.KQ.T7432.A8 J87.9853.A65.952"]
+[Vulnerable "None"]
+[Auction "W"]
+1H X 2H 2S 
+Pass 3S Pass Pass 
+Pass    
+[Contract "3S"]
+[Declarer "S"]
+[Play "W"]
+HA - - - 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "9"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:63..AT952.AK7532 T42.T76.8763.J96 J8.AKQJ98542..Q4 AKQ975.3.KQJ4.T8"]
+[Vulnerable "EW"]
+[Auction "N"]
+1C 1S 2D Pass 
+2H 2S 3C Pass 
+3H Pass 4C Pass 
+4H Pass Pass Pass 
+[Contract "4H"]
+[Declarer "N"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "9"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:63..AT952.AK7532 T42.T76.8763.J96 J8.AKQJ98542..Q4 AKQ975.3.KQJ4.T8"]
+[Vulnerable "EW"]
+[Auction "N"]
+4C 4S X Pass 
+Pass Pass   
+[Contract "4SX"]
+[Declarer "E"]
+[Play "S"]
+CA - - - 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "10"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:952.KJT9652.J.J2 43.Q74.AK93.QT65 AK6.A83.T2.A9743 QJT87..Q87654.K8"]
+[Vulnerable "Both"]
+[Auction "E"]
+Pass Pass Pass 1NT 
+2D 4H Pass Pass 
+Pass    
+[Contract "4H"]
+[Declarer "S"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "10"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:952.KJT9652.J.J2 43.Q74.AK93.QT65 AK6.A83.T2.A9743 QJT87..Q87654.K8"]
+[Vulnerable "Both"]
+[Auction "E"]
+2S Pass 3C X 
+4D 4H 5D X 
+Pass Pass Pass  
+[Contract "5DX"]
+[Declarer "E"]
+[Play "S"]
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "11"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:AT854.K2.AQT4.A5 J963.Q74.96.JT43 72.JT53.J752.986 KQ.A986.K83.KQ72"]
+[Vulnerable "None"]
+[Auction "S"]
+1S Pass Pass X 
+Pass 1NT Pass 2C 
+Pass Pass Pass  
+[Contract "2C"]
+[Declarer "E"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "11"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:AT854.K2.AQT4.A5 J963.Q74.96.JT43 72.JT53.J752.986 KQ.A986.K83.KQ72"]
+[Vulnerable "None"]
+[Auction "S"]
+1C Pass 1D Pass 
+1S Pass Pass X 
+Pass 2C Pass Pass 
+X Pass 2D Pass 
+Pass Pass   
+[Contract "2D"]
+[Declarer "N"]
+[Play "E"]
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "12"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:Q5.AT543.AQ.A952 8762.KJ.KJ753.64 KT943.Q82.98.J73 AJ.976.T642.KQT8"]
+[Vulnerable "NS"]
+[Auction "W"]
+Pass Pass Pass 1NT 
+Pass 2H Pass 2S 
+Pass Pass Pass  
+[Contract "2S"]
+[Declarer "S"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "12"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:Q5.AT543.AQ.A952 8762.KJ.KJ753.64 KT943.Q82.98.J73 AJ.976.T642.KQT8"]
+[Vulnerable "NS"]
+[Auction "W"]
+Pass Pass 1NT X 
+2D 2S 3C 3H 
+Pass 4H Pass Pass 
+Pass    
+[Contract "4H"]
+[Declarer "S"]
+[Play "W"]
+C4 - - - 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "13"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:AK976.AJ8.T84.43 Q4.T.AKJ963.AT92 JT.Q976432.2.Q86 8532.K5.Q75.KJ75"]
+[Vulnerable "Both"]
+[Auction "N"]
+Pass Pass 1S 2D 
+2H 3D 3H 4D 
+Pass Pass Pass  
+[Contract "4D"]
+[Declarer "W"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "13"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:AK976.AJ8.T84.43 Q4.T.AKJ963.AT92 JT.Q976432.2.Q86 8532.K5.Q75.KJ75"]
+[Vulnerable "Both"]
+[Auction "N"]
+Pass Pass 1S 2D 
+2H 3D 3H 4C 
+4H 4NT X 5D 
+X Pass Pass Pass 
+[Contract "5DX"]
+[Declarer "W"]
+[Play "N"]
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "14"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:A965.J4.AQ4.KQ82 KJT.K98.K732.A96 43.AT2.T9865.753 Q872.Q7653.J.JT4"]
+[Vulnerable "None"]
+[Auction "E"]
+Pass 1C Pass 1D 
+Pass 1NT Pass Pass 
+Pass    
+[Contract "1NT"]
+[Declarer "S"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "14"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:A965.J4.AQ4.KQ82 KJT.K98.K732.A96 43.AT2.T9865.753 Q872.Q7653.J.JT4"]
+[Vulnerable "None"]
+[Auction "E"]
+Pass 1NT Pass Pass 
+2C Pass 2D Pass 
+2H Pass 3H Pass 
+Pass Pass   
+[Contract "3H"]
+[Declarer "E"]
+[Play "S"]
+*
+[Result "7"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "15"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:Q763.K543.5.J953 JT5.982.KQT8732. AK98.J.A6.AK7642 42.AQT76.J94.QT8"]
+[Vulnerable "NS"]
+[Auction "S"]
+Pass 3D X 3H 
+X Pass 3NT Pass 
+Pass 4D Pass Pass 
+X Pass Pass Pass 
+[Contract "4DX"]
+[Declarer "W"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "15"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:Q763.K543.5.J953 JT5.982.KQT8732. AK98.J.A6.AK7642 42.AQT76.J94.QT8"]
+[Vulnerable "NS"]
+[Auction "S"]
+Pass Pass 1C 1H 
+X 2C 4S Pass 
+Pass 5D 6S Pass 
+Pass X Pass Pass 
+Pass    
+[Contract "6SX"]
+[Declarer "N"]
+[Play "E"]
+D9 - - - 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "16"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:AT4.AJ6432.3.KT6 J8.Q875.JT987.52 K7653.9.K42.QJ94 Q92.KT.AQ65.A873"]
+[Vulnerable "EW"]
+[Auction "W"]
+Pass 2D X XX 
+2H Pass Pass Pass 
+[Contract "2H"]
+[Declarer "W"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "16"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:AT4.AJ6432.3.KT6 J8.Q875.JT987.52 K7653.9.K42.QJ94 Q92.KT.AQ65.A873"]
+[Vulnerable "EW"]
+[Auction "W"]
+Pass Pass 1NT 2H 
+Pass Pass Pass  
+[Contract "2H"]
+[Declarer "S"]
+[Play "W"]
+*
+[Result "7"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "17"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:A2.K7.T9543.AT72 75.J964.A72.J543 KJT9.A3.KJ6.KQ96 Q8643.QT852.Q8.8"]
+[Vulnerable "None"]
+[Auction "N"]
+1C 2D 2NT Pass 
+3NT Pass Pass Pass 
+[Contract "3NT"]
+[Declarer "S"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "17"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:A2.K7.T9543.AT72 75.J964.A72.J543 KJT9.A3.KJ6.KQ96 Q8643.QT852.Q8.8"]
+[Vulnerable "None"]
+[Auction "N"]
+1C 2D X Pass 
+2NT Pass 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "N"]
+[Play "E"]
+H5 - - - 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "18"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:.7643.K542.AKQ83 J73.KJT.QJT7.T75 K865.Q982.98.J62 AQT942.A5.A63.94"]
+[Vulnerable "NS"]
+[Auction "E"]
+1S X 2H Pass 
+2S Pass Pass Pass 
+[Contract "2S"]
+[Declarer "E"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "18"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:.7643.K542.AKQ83 J73.KJT.QJT7.T75 K865.Q982.98.J62 AQT942.A5.A63.94"]
+[Vulnerable "NS"]
+[Auction "E"]
+1S X 2S Pass 
+3S Pass Pass Pass 
+[Contract "3S"]
+[Declarer "E"]
+[Play "S"]
+CA - - - 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "19"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:T54.Q.AKQJ92.975 K73.AJ85.843.AK3 J98.KT32.65.QT42 AQ62.9764.T7.J86"]
+[Vulnerable "EW"]
+[Auction "S"]
+1D X Pass 1S 
+2D Pass Pass 2H 
+Pass Pass Pass  
+[Contract "2H"]
+[Declarer "E"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "19"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:T54.Q.AKQJ92.975 K73.AJ85.843.AK3 J98.KT32.65.QT42 AQ62.9764.T7.J86"]
+[Vulnerable "EW"]
+[Auction "S"]
+1D X XX 1S 
+2D Pass Pass 2H 
+Pass 2S Pass Pass 
+Pass    
+[Contract "2S"]
+[Declarer "E"]
+[Play "S"]
+DA - - - 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "20"]
+[West "Fredin"]
+[North "Mihov"]
+[East "Lindkvist"]
+[South "Nanev"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:8.K6.AQ865.KJT97 AK7.Q854.972.Q42 T954.A72.T4.A863 QJ632.JT93.KJ3.5"]
+[Vulnerable "Both"]
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass 1S Pass 2C 
+Pass 3C Pass 5C 
+Pass Pass Pass  
+[Contract "5C"]
+[Declarer "S"]
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 7 - Match 1"]
+[Board "20"]
+[West "Karaivanov"]
+[North "Nilsland"]
+[East "Trendafilov"]
+[South "Fallenius"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:8.K6.AQ865.KJT97 AK7.Q854.972.Q42 T954.A72.T4.A863 QJ632.JT93.KJ3.5"]
+[Vulnerable "Both"]
+[Auction "W"]
+Pass Pass 1S 2NT 
+X 3C Pass Pass 
+3S 4C Pass Pass 
+Pass    
+[Contract "4C"]
+[Declarer "N"]
+[Play "E"]
+*
+[Result "11"]
+

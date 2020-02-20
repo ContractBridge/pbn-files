@@ -1,0 +1,403 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "74th Fall North American Bridge Championships - Blue Ribbon Pairs"]
+[Site "Birmingham, Alabama, USA"]
+[Date "2000.11.22"]
+[Round "R4"]
+[Board "17"]
+[Room "Open"]
+[West "Steve Kemic"]
+[North "Bobby Levin"]
+[East "Bill Kass"]
+[South "S. Weinstein"]
+[Dealer "N"]
+[Deal "S:J98.KJ5.643.AT84 KQ532.T8.T2.QJ75 A74.7643.AQJ75.9 T6.AQ92.K98.K632"]
+[Vulnerable "None"]
+[Contract "1NT"]
+[Declarer "S"]
+{
+Levin-Weinstein arrived in a simple 1NT contract after a quick
+natural auction. If E/W could somehow enter the auction, they
+would make 2C. However, that fit probably would prove elusive.
+If, for example, East overcalled 1H, Weinstein would still bid
+1NT. That would almost certainly end the auction. In the event,
+the S3 was led to the ten and jack. Declarer took a successful
+diamond finesse (for the moment), and played a heart towards
+his hand.
+}
+[Auction "N"]
+1D Pass 1NT Pass 
+Pass Pass   
+[Play "W"]
+S3 S4 ST SJ 
+DT DQ D8 D6 
+H8 H3 HA H5 
+SQ S7 S6 S9 
+S2 SA C3 S8 
+HT H4 H2 HJ 
+C5 H6 H9 HK 
+D2 DJ DK D3 
+- - HQ - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R4"]
+[Board "18"]
+[Room "Open"]
+[West "Steve Kemic"]
+[North "Bobby Levin"]
+[East "Bill Kass"]
+[South "S. Weinstein"]
+[Dealer "E"]
+[Deal "S:T85.Q7.J5.AKJ753 AK6.T842.K62.Q64 Q732.A95.Q843.T8 J94.KJ63.AT97.92"]
+[Vulnerable "NS"]
+[Contract "2H"]
+[Declarer "W"]
+{
+When South's 2C rebid came back to East, he doubled to compete
+in the red suits. He hadn't doubled 1S, so this action showed
+his hand exactly. Against 2H the defense was  perfect. They had
+to develop their winners (2 hearts, 2clubs and a spade) without
+touching diamonds.
+}
+[Auction "E"]
+Pass 1C Pass 1S 
+Pass 2C Pass Pass 
+X Pass 2H Pass 
+Pass Pass   
+[Play "N"]
+CT C2 CK C4 
+S2 S4 S5 SA 
+H5 HJ HQ H2 
+SQ S9 S8 S6 
+S7 SJ ST SK 
+HA H3 H7 H4 
+C8 C9 CA C6 
+H9 HK C7 CQ 
+D8 D7 D5 DK 
+D4 D9 DJ D2 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R4"]
+[Board "19"]
+[Room "Open"]
+[West "Michael Seamon"]
+[North "Bobby Levin"]
+[East "Russ Ekeblad"]
+[South "S. Weinstein"]
+[Dealer "S"]
+[Deal "S:KJ5.654.Q973.T87 4.Q2.K642.AQJ652 T82.T973.JT5.K43 AQ9763.AKJ8.A8.9"]
+[Vulnerable "EW"]
+[Contract "5C"]
+[Declarer "W"]
+{
+Those who play a forcing club start their unbalanced hands with
+5 or more clubs at the 2 level. 2C showed either a one suiter,
+or 5 clubs and a 4 card major. East's 2D was artifical asking
+for more information. 2H showed a club one suiter with 15 or
+less HCP and shortness. 2S relayed one more time and 3C denied
+holding the AKQ of clubs. 3D asked to specify the shortness,
+and the accident happened.
+}
+[Auction "S"]
+Pass 2C Pass 2D 
+Pass 2H Pass 2S 
+Pass 3C Pass 3D 
+Pass 4D Pass 4S 
+Pass 5C Pass Pass 
+Pass    
+[Play "N"]
+HT HA H5 H2 
+CK C9 C8 CQ 
+DJ D8 D3 DK 
+C4 S3 C7 CA 
+C3 S6 CT CJ 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R4"]
+[Board "20"]
+[Room "Open"]
+[West "Michael Seamon"]
+[North "Bobby Levin"]
+[East "Russ Ekeblad"]
+[South "S. Weinstein"]
+[Dealer "W"]
+[Deal "S:AKJT98.T843.98.9 Q3.J65.AT74.J632 6542.A2.Q65.K875 7.KQ97.KJ32.AQT4"]
+[Vulnerable "Both"]
+[Contract "4D"]
+[Declarer "E"]
+{
+South had just the right kind of hand for a vulnerable weak jump
+overcall in my opinion [DK], and his 2S jump almost worked like
+a charm. West was not quite strong enough to raise to 3D, and
+made a disciplined pass. North continued the preempt just high
+enough, and East made an aggressive takeout double. West, with
+good diamond support, took a dim view of his two jacks and useless
+spade queen, bidding a cautious 4D that ended the auction.
+}
+[Auction "W"]
+Pass Pass 1D 2S 
+Pass 3S X Pass 
+4D Pass Pass Pass 
+[Play "S"]
+SA S3 S6 S7 
+SK SQ S4 D2 
+H4 H5 HA HK 
+H8 HJ H2 H7 
+C9 CJ CK CA 
+D9 DA D5 D3 
+D8 D4 D6 DJ 
+S9 D7 DQ DK 
+S8 C2 C5 CQ 
+ST C3 C7 CT 
+H3 H6 - HQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R4"]
+[Board "21"]
+[Room "Open"]
+[West "Daniel Levin"]
+[North "Bobby Levin"]
+[East "H. Youngerman"]
+[South "S. Weinstein"]
+[Dealer "N"]
+[Deal "S:53.AKJ543..A9872 AK9.T986.QT7.KJ6 JT82.Q.AJ962.Q43 Q764.72.K8543.T5"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "S"]
+{
+It was Levin versus Levin this round, and Daniel, West, did well
+to pass with his decent flat hand. North bypassed a 4-card spade
+suit to respond 1NT in light of the N/S "Flannery" agreement
+- a 1S response to 1H shows five. When North showed extras by
+rebidding 2NT over South's 2C, South bid a reasonable 4H that
+- without a diamond lead - seemed to depend on finding clubs
+three-two with the CK on side. The first two tricks revealed
+that West had both top spades.
+}
+[Auction "N"]
+Pass Pass 1H Pass 
+1NT Pass 2C Pass 
+2NT Pass 4H Pass 
+Pass Pass   
+[Play "W"]
+SK S2 S6 S5 
+SA S8 S7 S3 
+S9 ST SQ H3 
+H6 HQ H2 H5 
+D7 D2 D3 H4 
+H8 D6 H7 HA 
+H9 D9 D4 HK 
+HT DJ D5 HJ 
+C6 C3 CT C7 
+CK C4 C5 C2 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R4"]
+[Board "22"]
+[Room "Open"]
+[West "Daniel Levin"]
+[North "Bobby Levin"]
+[East "H. Youngerman"]
+[South "S. Weinstein"]
+[Dealer "E"]
+[Deal "S:T72.74.JT86.9543 KQJ93.65.KQ943.6 A654.AQJT.72.A87 8.K9832.A5.KQJT2"]
+[Vulnerable "EW"]
+[Contract "3NTX"]
+[Declarer "W"]
+{
+East and West each had a five-five shape with minimum opening
+bid values. They had no fit, but were at the game level by the
+time they found this out. Many pairs would fetch up in 3NT on
+these cards, and on many days they would scamper home with nine
+tricks.
+}
+[Auction "E"]
+1H Pass 1S Pass 
+2C Pass 2D Pass 
+3C Pass 3NT X 
+Pass Pass Pass  
+[Play "N"]
+HA H2 H4 H6 
+HQ HK H7 H5 
+CA CK C5 C6 
+HJ H3 S7 S9 
+HT H8 S2 D3 
+SA S8 ST S3 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R4"]
+[Board "23"]
+[Room "Open"]
+[West "Boris Baran"]
+[North "Bobby Levin"]
+[East "Alan Graves"]
+[South "S. Weinstein"]
+[Dealer "S"]
+[Deal "S:AK873.AQ94.J5.Q8 J654.J.AK94.K954 Q92.87632.T8763. T.KT5.Q2.AJT7632"]
+[Vulnerable "Both"]
+[Contract "4C"]
+[Declarer "E"]
+{
+With both sides cold for game, it is hard to say how each side
+will score after a competitive partscore battle led to East playing
+4C. You would have to think that it was E/W who had got the worst
+of things, since they were cold for an 11-tricks game. Levin's
+decision to respond with a forcing 1NT rather than raising spades
+directly (2S would have been constructive for them) worked well.
+}
+[Auction "S"]
+1S Pass 1NT 3C 
+X Pass 3S Pass 
+Pass 4C Pass Pass 
+Pass    
+[Play "S"]
+SK S4 S2 ST 
+C8 C4 - - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R4"]
+[Board "24"]
+[Room "Open"]
+[West "Boris Baran"]
+[North "Bobby Levin"]
+[East "Alan Graves"]
+[South "S. Weinstein"]
+[Dealer "W"]
+[Deal "S:AQ9653.5.98.K854 K872.QJ62..J9632 4.KT4.AKJ654.QT7 JT.A9873.QT732.A"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "S"]
+{
+With only 17 total trumps (16 in the majors) it should come as
+no surprise that both sides cannot make ten tricks. Both sides
+bid their major-suit game, though, and it was Levin-Weinstein
+who were left holding the baby when the music stopped. At least
+they avoided the double. The defenders cashed their plain-suit
+tricks and then started cross-ruffing in the minors, taking the
+first seven tricks. Declarer was four down before he gained the
+lead; N/S minus 200.
+}
+[Auction "W"]
+Pass 1D 1H 1S 
+4H Pass Pass 4S 
+Pass Pass Pass  
+[Play "W"]
+HQ H4 H9 H5 
+C2 C7 CA C5 
+S2 D4 D2 D8 
+C3 CT ST C4 
+S7 D5 D3 D9 
+C6 CQ SJ C8 
+SK D6 D7 SQ 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R4"]
+[Board "25"]
+[Room "Open"]
+[West "Debbie Hyatt"]
+[North "Bobby Levin"]
+[East "C. Anderson"]
+[South "S. Weinstein"]
+[Dealer "N"]
+[Deal "S:JT432.J76.AJ2.J3 95.82.KT74.T8752 Q76.A943.Q653.K9 AK8.KQT5.98.AQ64"]
+[Vulnerable "EW"]
+[Contract "3S"]
+[Declarer "S"]
+{
+West's first round pass holding five-card support for her partner's
+suit is a questionable tactic and it certainly backfired here.
+True - the cards lie exceptionally well for E/W, and one would
+not normally expect an eleven-trick game to be cold on these
+combined holdings. Fiurthermore, game will not be universally
+bid. But North was allowed an easy route into the auction.
+}
+[Auction "N"]
+Pass 1C Pass Pass 
+X 1NT 2S 3C 
+Pass Pass 3S Pass 
+Pass Pass   
+[Play "W"]
+H8 H3 HQ H6 
+H2 HA HK H7 
+S5 S6 SK S4 
+S9 H4 H5 HJ 
+C2 C9 CQ C3 
+C5 S7 SA S2 
+C7 SQ S8 S3 
+DK D3 D9 DJ 
+C8 CK CA CJ 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R4"]
+[Board "26"]
+[Room "Open"]
+[West "Debbie Hyatt"]
+[North "Bobby Levin"]
+[East "C. Anderson"]
+[South "S. Weinstein"]
+[Dealer "E"]
+[Deal "S:5.A973.T8764.K85 AKQ942.8.KQ5.Q92 87.K52.J93.JT764 JT63.QJT64.A2.A3"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "W"]
+{
+After her 1S response to 1H drew a raise to 2S, West bid 3C,
+perhaps with the aim of making an extra trick in the play by
+deterring a club lead. East's jump to 4S suggested that he had
+something good in clubs, so West, who had great extra strength
+but no club control, might have risked a Blackwood or RKCB 4NT
+with confidence that a 2-key reply would justify bidding 6S[DK].
+}
+[Auction "E"]
+1H Pass 1S Pass 
+2S Pass 3C Pass 
+4S Pass Pass Pass 
+[Play "N"]
+CJ C3 CK C2 
+D9 DA D8 D5 
+S8 SJ S5 S2 
+S7 S3 D7 SQ 
+D3 ST C8 S4 
+C4 CA C5 C9 
+DJ D2 D4 DK 
+- - - DQ 
+*
+[Result "11"]
+

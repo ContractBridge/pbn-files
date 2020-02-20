@@ -1,0 +1,1213 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "1"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:A973.AK98743.A.J J86.Q5.KQ52.KT98 KQT42.J.T9876.Q4 5.T62.J43.A76532"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass Pass 1C Pass 
+1S Pass 2S Pass 
+3D Pass 4C Pass 
+4H Pass 6S Pass 
+Pass Pass   
+[Contract "6S"]
+[Declarer "N"]
+[Play "E"]
+CA CJ CT C4 
+C6 S3 C8 CQ 
+S5 S7 S8 SK 
+H6 HA HQ HJ 
+H2 H3 H5 ST 
+C3 S9 - SQ 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "1"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:A973.AK98743.A.J J86.Q5.KQ52.KT98 KQT42.J.T9876.Q4 5.T62.J43.A76532"]
+[Vulnerable "None"]
+[Auction "N"]
+2S Pass 2NT Pass 
+3D Pass 4NT Pass 
+5D Pass 6S Pass 
+Pass Pass   
+[Contract "6S"]
+[Declarer "N"]
+[Play "E"]
+CA CJ C9 C4 
+D3 DA D2 D6 
+S5 S3 S6 SK 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "2"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:AJ95.A9.K765.J97 Q6.K87432.9842.2 KT8.QJ6.AT.KQ643 7432.T5.QJ3.AT85"]
+[Vulnerable "NS"]
+[Auction "E"]
+Pass 1D Pass 2C 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+H4 H6 HT HA 
+C2 CK C5 C7 
+H3 C3 C8 CJ 
+S6 SK S3 S9 
+SQ ST S4 S5 
+D4 DT DJ DK 
+H2 S8 S2 SA 
+H8 C4 S7 SJ 
+HK HJ H5 H9 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "2"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:AJ95.A9.K765.J97 Q6.K87432.9842.2 KT8.QJ6.AT.KQ643 7432.T5.QJ3.AT85"]
+[Vulnerable "NS"]
+[Auction "E"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+H4 H6 HT HA 
+C2 CK C5 C7 
+H3 C3 C8 CJ 
+S6 SK S3 S5 
+SQ ST S2 SA 
+H2 S8 S4 S9 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "3"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:3.T3.Q97542.J962 A8652.QJ7.T8.K53 KJ7.AK985.AKJ3.T QT94.642.6.AQ874"]
+[Vulnerable "EW"]
+[Auction "S"]
+Pass 1S X 4S 
+5D Pass Pass X 
+Pass Pass XX Pass 
+Pass Pass   
+[Contract "5DXX"]
+[Declarer "S"]
+[Play "W"]
+SA S7 S4 S3 
+CK CT C4 C6 
+S5 SK S9 C2 
+D8 DA D6 D2 
+DT DK C7 D5 
+H7 HA H2 H3 
+HJ HK H4 HT 
+HQ H5 H6 D4 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "3"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:3.T3.Q97542.J962 A8652.QJ7.T8.K53 KJ7.AK985.AKJ3.T QT94.642.6.AQ874"]
+[Vulnerable "EW"]
+[Auction "S"]
+3D Pass 5D Pass 
+Pass Pass   
+[Contract "5D"]
+[Declarer "S"]
+[Play "W"]
+SA S7 S4 S3 
+CK CT C8 C2 
+S5 SJ SQ D2 
+DT DA D6 D4 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "4"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:AJ.J965.Q94.KJ62 T64.K7.T53.QT753 98.AT3.KJ82.A984 KQ7532.Q842.A76."]
+[Vulnerable "Both"]
+[Auction "W"]
+Pass 1D 1S X 
+2S Pass 4S X 
+Pass Pass Pass  
+[Contract "4SX"]
+[Declarer "E"]
+[Play "S"]
+C2 C3 CA S2 
+H5 HK HA H2 
+SA S4 S8 SK 
+SJ S6 S9 SQ 
+D4 DT DJ D6 
+D9 D3 D2 DA 
+H6 H7 H3 HQ 
+H9 D5 HT H4 
+DQ - DK D7 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "4"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:AJ.J965.Q94.KJ62 T64.K7.T53.QT753 98.AT3.KJ82.A984 KQ7532.Q842.A76."]
+[Vulnerable "Both"]
+[Auction "W"]
+Pass 1NT 2C X 
+2D Pass 2S X 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "N"]
+[Play "E"]
+S5 SJ S4 S8 
+DA D4 D3 DK 
+S2 SA S6 S9 
+D7 DQ D5 D2 
+H4 C2 C3 CA 
+D6 D9 DT DJ 
+H2 - - D8 
+*
+[Result "7"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "5"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:J94.Q4.QT976.A75 AQ3.K983.AK.KQ32 KT86.JT762.J5.T9 752.A5.8432.J864"]
+[Vulnerable "NS"]
+[Auction "N"]
+Pass Pass Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+HJ HA H4 H3 
+C9 C4 C5 CQ 
+CT C6 CA CK 
+H2 H5 HQ HK 
+HT S2 C7 H8 
+H7 S5 D6 H9 
+S8 C8 S4 C3 
+D5 D2 D7 DK 
+DJ D3 DQ DA 
+S6 CJ S9 C2 
+ST S7 SJ SA 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "5"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:J94.Q4.QT976.A75 AQ3.K983.AK.KQ32 KT86.JT762.J5.T9 752.A5.8432.J864"]
+[Vulnerable "NS"]
+[Auction "N"]
+Pass Pass Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+H6 HA HQ H3 
+C9 C4 C5 CQ 
+CT C6 C7 CK 
+H7 C8 CA C2 
+HT H5 H4 H9 
+D5 D2 D7 DA 
+S8 S2 S4 S3 
+DJ D3 D9 DK 
+S6 CJ D6 C3 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "6"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:Q9.AT97.AQ53.Q63 KJ7.J84.KJT86.AT AT63.K52.72.KJ42 8542.Q63.94.9875"]
+[Vulnerable "EW"]
+[Auction "E"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+DJ D2 D9 DQ 
+CT CJ C9 C6 
+H8 H2 H3 HA 
+CA C2 C5 C3 
+DT D7 D4 DA 
+H4 H5 HQ HT 
+SJ SA S5 S9 
+S7 C4 C7 CQ 
+HJ HK H6 H7 
+- CK - - 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "6"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:Q9.AT97.AQ53.Q63 KJ7.J84.KJT86.AT AT63.K52.72.KJ42 8542.Q63.94.9875"]
+[Vulnerable "EW"]
+[Auction "E"]
+Pass 1NT Pass Pass 
+Pass    
+[Contract "1NT"]
+[Declarer "S"]
+[Play "W"]
+DT D2 D4 DQ 
+CT CJ C5 C3 
+SK S3 S2 SQ 
+DK D7 D9 D3 
+DJ H2 H3 DA 
+CA C2 C7 C6 
+D8 S6 S4 D5 
+D6 - - - 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "7"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:AKQ953.KQ92.A43. 76.J8.JT82.KT964 842.A65.Q975.J82 JT.T743.K6.AQ753"]
+[Vulnerable "Both"]
+[Auction "S"]
+1C Pass 1D Pass 
+2S Pass 4S Pass 
+5C Pass 5H Pass 
+6S Pass Pass Pass 
+[Contract "6S"]
+[Declarer "S"]
+[Play "W"]
+DJ DQ DK DA 
+S6 S2 ST SA 
+S7 S4 SJ SK 
+DT D5 D6 D3 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "7"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:AKQ953.KQ92.A43. 76.J8.JT82.KT964 842.A65.Q975.J82 JT.T743.K6.AQ753"]
+[Vulnerable "Both"]
+[Auction "S"]
+1C Pass 1D Pass 
+1H Pass 2NT Pass 
+3C Pass 3D Pass 
+3S Pass 3NT Pass 
+4S Pass Pass Pass 
+[Contract "4S"]
+[Declarer "S"]
+[Play "W"]
+DJ DQ DK DA 
+S6 S2 SJ SA 
+S7 S4 ST SK 
+H8 H5 H3 HK 
+D2 D9 D6 D4 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "8"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:A63.742.642.9842 854.KQT98.AJT7.K Q97.53.K9853.653 KJT2.AJ6.Q.AQJT7"]
+[Vulnerable "None"]
+[Auction "W"]
+1H Pass 2C Pass 
+2D Pass 2NT Pass 
+3H Pass 4NT Pass 
+5S Pass 6H Pass 
+Pass Pass   
+[Contract "6H"]
+[Declarer "W"]
+[Play "N"]
+H3 HA H4 H8 
+H5 H6 H2 H9 
+C5 C7 C4 CK 
+C3 HJ H7 HT 
+C6 CA C2 S4 
+S7 CQ C9 S5 
+S9 CJ C8 S8 
+D3 CT S3 D7 
+DK DQ D4 DJ 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "8"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:A63.742.642.9842 854.KQT98.AJT7.K Q97.53.K9853.653 KJT2.AJ6.Q.AQJT7"]
+[Vulnerable "None"]
+[Auction "W"]
+1H Pass 2C Pass 
+2D Pass 2H Pass 
+2NT Pass 3C Pass 
+3D Pass 3S Pass 
+4C Pass 4NT Pass 
+5S Pass 6H Pass 
+Pass Pass   
+[Contract "6H"]
+[Declarer "W"]
+[Play "N"]
+S7 SJ SA S4 
+D3 DQ D2 DA 
+C3 C7 C2 CK 
+H3 HA H2 H9 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "9"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:4.J8654.Q53.KQJ3 KT9.KT92.T764.54 87532.73.AJ8.962 AQJ6.AQ.K92.AT87"]
+[Vulnerable "EW"]
+[Auction "N"]
+Pass 1C 1D X 
+1NT 3NT Pass Pass 
+Pass    
+[Contract "3NT"]
+[Declarer "E"]
+[Play "S"]
+CK C4 C2 C7 
+D3 D4 DA D2 
+CJ C5 C9 CT 
+D5 D6 DJ DK 
+H4 H2 H3 HA 
+H6 H9 H7 HQ 
+S4 S9 S8 S6 
+H5 HK S2 D9 
+H8 SK S3 SA 
+HJ ST S5 SQ 
+DQ D7 S7 SJ 
+- - - CA 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "9"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:4.J8654.Q53.KQJ3 KT9.KT92.T764.54 87532.73.AJ8.962 AQJ6.AQ.K92.AT87"]
+[Vulnerable "EW"]
+[Auction "N"]
+Pass 2NT Pass 3C 
+Pass 3D Pass 3H 
+Pass 3S Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "E"]
+[Play "S"]
+CK C4 C2 C7 
+CQ C5 C6 C8 
+CJ D4 C9 CA 
+C3 D6 S2 CT 
+H4 H2 H3 HQ 
+H5 H9 H7 HA 
+S4 S9 S3 S6 
+H6 HK S5 D2 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "10"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:K9642.95.AJ8.A75 T83.AK2.T64.9642 5.QJT64.Q953.J83 AQJ7.873.K72.KQT"]
+[Vulnerable "Both"]
+[Auction "E"]
+1C Pass 1D Pass 
+1NT Pass Pass Pass 
+[Contract "1NT"]
+[Declarer "E"]
+[Play "S"]
+*
+[Result "5"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "10"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:K9642.95.AJ8.A75 T83.AK2.T64.9642 5.QJT64.Q953.J83 AQJ7.873.K72.KQT"]
+[Vulnerable "Both"]
+[Auction "E"]
+1NT Pass Pass Pass 
+[Contract "1NT"]
+[Declarer "E"]
+[Play "S"]
+S4 S3 S5 S7 
+C5 C2 C3 CQ 
+CA C4 C8 CK 
+H9 H2 HT H3 
+H5 HK H6 H8 
+C7 C6 CJ CT 
+S2 HA H4 H7 
+D8 C9 D3 SQ 
+DA D4 D5 DK 
+*
+[Result "6"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "11"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:AQJ7.AKQJ5.A2.43 T98.T96.KQ86.872 K65..T9743.AQJT5 432.87432.J5.K96"]
+[Vulnerable "None"]
+[Auction "S"]
+1C Pass 2C Pass 
+2H Pass 3D Pass 
+3S Pass 3NT Pass 
+4NT Pass 5C Pass 
+6NT Pass Pass Pass 
+[Contract "6NT"]
+[Declarer "N"]
+[Play "E"]
+H2 HJ H9 D3 
+- C3 C2 - 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "11"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:AQJ7.AKQJ5.A2.43 T98.T96.KQ86.872 K65..T9743.AQJT5 432.87432.J5.K96"]
+[Vulnerable "None"]
+[Auction "S"]
+1C Pass 2C Pass 
+2H Pass 3D Pass 
+4C Pass 4S Pass 
+4NT Pass 5D Pass 
+6NT Pass Pass Pass 
+[Contract "6NT"]
+[Declarer "S"]
+[Play "W"]
+DK D3 D5 DA 
+C2 CQ CK C4 
+D6 D4 DJ D2 
+- - H3 - 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "12"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:A9.T876.J.KJ7654 KQJT85.AQ32.5.Q3 732.9.AQ87632.98 64.KJ54.KT94.AT2"]
+[Vulnerable "NS"]
+[Auction "W"]
+1C 2D Pass Pass 
+X Pass Pass Pass 
+[Contract "2DX"]
+[Declarer "N"]
+[Play "E"]
+S6 S9 ST S3 
+DK DJ D5 D3 
+S4 SA SK S2 
+H5 H6 HA H9 
+H4 C4 S8 S7 
+HJ C5 S5 C9 
+HK C6 SQ C8 
+D9 - HQ D8 
+*
+[Result "6"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "12"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:A9.T876.J.KJ7654 KQJT85.AQ32.5.Q3 732.9.AQ87632.98 64.KJ54.KT94.AT2"]
+[Vulnerable "NS"]
+[Auction "W"]
+1S Pass 2C Pass 
+2H Pass 4H Pass 
+Pass Pass   
+[Contract "4H"]
+[Declarer "W"]
+[Play "N"]
+C9 C2 CK C3 
+C8 CT C7 CQ 
+H9 H4 H6 HA 
+D2 HK H7 H2 
+D3 CA C4 D5 
+S2 S4 S9 SQ 
+S3 S6 SA SK 
+S7 H5 CJ S5 
+- HJ - - 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "13"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:J4.KQ97.AQ7.J643 K975.JT8432.T9.7 A82.A.K6542.AKQ9 QT63.65.J83.T852"]
+[Vulnerable "Both"]
+[Auction "N"]
+1C Pass 1NT Pass 
+2D Pass 3D Pass 
+3H Pass 4D Pass 
+4NT Pass 5C Pass 
+5H Pass 6D Pass 
+Pass Pass   
+[Contract "6D"]
+[Declarer "N"]
+[Play "E"]
+S3 SJ SK SA 
+D3 DA D9 D4 
+D8 D7 DT DK 
+H6 H7 H3 HA 
+DJ DQ - D2 
+*
+[Result "13"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "13"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:J4.KQ97.AQ7.J643 K975.JT8432.T9.7 A82.A.K6542.AKQ9 QT63.65.J83.T852"]
+[Vulnerable "Both"]
+[Auction "N"]
+1C Pass 2H Pass 
+2S Pass 2NT Pass 
+3D Pass 3H Pass 
+4C Pass 4D Pass 
+6NT Pass Pass Pass 
+[Contract "6NT"]
+[Declarer "S"]
+[Play "W"]
+HT HA H6 H7 
+D9 D2 D3 DA 
+DT D4 D8 DQ 
+*
+[Result "13"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "14"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:QJT2.75.J5.AKJ84 A85.QJT86.A7.765 93.A42.KQT94.T92 K764.K93.8632.Q3"]
+[Vulnerable "None"]
+[Auction "E"]
+Pass 2C Pass 3C 
+Pass Pass Pass  
+[Contract "3C"]
+[Declarer "S"]
+[Play "W"]
+HQ HA H3 H7 
+C5 CT C3 C4 
+C6 C2 CQ CA 
+C7 C9 D8 CK 
+D7 DK D2 D5 
+SA S9 S7 S2 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "14"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:QJT2.75.J5.AKJ84 A85.QJT86.A7.765 93.A42.KQT94.T92 K764.K93.8632.Q3"]
+[Vulnerable "None"]
+[Auction "E"]
+Pass 1S Pass 1NT 
+Pass Pass 2H Pass 
+Pass 3C Pass Pass 
+Pass    
+[Contract "3C"]
+[Declarer "S"]
+[Play "W"]
+HQ HA H9 H5 
+DA DK D2 D5 
+HT H2 HK H7 
+H6 H4 H3 C4 
+C5 C2 C3 CA 
+C6 C9 CQ CK 
+C7 CT S6 CJ 
+D7 DQ D3 DJ 
+- DT - - 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "15"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:64.T62.762.JT653 T972.Q43.K985.Q2 AKQ85.J87.T.K874 J3.AK95.AQJ43.A9"]
+[Vulnerable "NS"]
+[Auction "S"]
+Pass Pass 1S X 
+Pass 2D Pass 2S 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+SK S3 S6 S7 
+SQ SJ S4 S2 
+DT DJ D2 D8 
+C4 D3 D6 D9 
+SA - - S9 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "15"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:64.T62.762.JT653 T972.Q43.K985.Q2 AKQ85.J87.T.K874 J3.AK95.AQJ43.A9"]
+[Vulnerable "NS"]
+[Auction "S"]
+Pass Pass 1S X 
+Pass 2D Pass 2S 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+S5 S3 S6 ST 
+DT D3 D2 DK 
+H7 DA D6 D9 
+C4 DQ D7 D5 
+C7 DJ H2 D8 
+- D4 - - 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "16"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:QJ.KJ862.QT82.AQ 873.A5.KJ97.KJT3 AKT.QT.A65.98754 96542.9743.43.62"]
+[Vulnerable "EW"]
+[Auction "W"]
+1NT Pass 2C Pass 
+2D Pass 2S X 
+Pass 3NT Pass Pass 
+Pass    
+[Contract "3NT"]
+[Declarer "N"]
+[Play "E"]
+C6 CQ CK C5 
+C2 CA C3 C4 
+H3 H2 H5 HQ 
+H7 H6 HA HT 
+S2 D2 CJ C8 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "16"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:QJ.KJ862.QT82.AQ 873.A5.KJ97.KJT3 AKT.QT.A65.98754 96542.9743.43.62"]
+[Vulnerable "EW"]
+[Auction "W"]
+1D Pass Pass X 
+Pass 2D Pass 2H 
+Pass 3C Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+S8 SA S2 SJ 
+H5 HQ H3 H2 
+HA HT H4 H6 
+S7 ST S4 SQ 
+C3 C4 H7 HK 
+D7 C5 H9 HJ 
+CT C7 C2 H8 
+CJ C8 C6 CA 
+CK C9 S5 CQ 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "17"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:A76.K74.9875.AT3 Q952.QJ532.Q6.Q6 KJ83.6.JT2.98754 T4.AT98.AK43.KJ2"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass 1C Pass 1H 
+Pass 2H Pass 4H 
+Pass Pass Pass  
+[Contract "4H"]
+[Declarer "W"]
+[Play "N"]
+DJ DA D7 D6 
+C9 C2 CA C6 
+D2 D3 D5 DQ 
+H6 H8 HK HQ 
+DT D4 D8 HJ 
+C8 H9 H4 H2 
+C4 HT H7 H3 
+C5 DK D9 S5 
+C7 CK C3 CQ 
+S3 CJ CT S9 
+SK S4 S6 SQ 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "17"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:A76.K74.9875.AT3 Q952.QJ532.Q6.Q6 KJ83.6.JT2.98754 T4.AT98.AK43.KJ2"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass 1NT Pass 2C 
+Pass 2H Pass 4H 
+Pass Pass Pass  
+[Contract "4H"]
+[Declarer "E"]
+[Play "S"]
+D8 D6 DT DK 
+C3 CQ C4 C2 
+HK HQ H6 H8 
+CA C6 C9 CJ 
+D5 DQ D2 D3 
+H4 H2 C5 HT 
+H7 H3 C7 H9 
+CT H5 C8 HA 
+S6 S9 SJ S4 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "18"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:J7.Q973.T982.AQ8 KT42.8.J764.KJ52 963.AT54.A5.9643 AQ85.KJ62.KQ3.T7"]
+[Vulnerable "NS"]
+[Auction "E"]
+1C Pass 1D Pass 
+1NT Pass 2C Pass 
+2H Pass 2NT Pass 
+Pass Pass   
+[Contract "2NT"]
+[Declarer "E"]
+[Play "S"]
+DT D4 D5 DK 
+CA C2 C3 CT 
+H3 H8 HA H2 
+H7 S2 H4 H6 
+SJ SK S6 S5 
+D2 D6 DA D3 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "18"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:J7.Q973.T982.AQ8 KT42.8.J764.KJ52 963.AT54.A5.9643 AQ85.KJ62.KQ3.T7"]
+[Vulnerable "NS"]
+[Auction "E"]
+1NT Pass 2C Pass 
+2NT Pass 4H Pass 
+4S Pass Pass Pass 
+[Contract "4S"]
+[Declarer "E"]
+[Play "S"]
+DT D4 DA D3 
+D2 D6 D5 DK 
+S7 S2 S3 SQ 
+SJ SK S6 S5 
+H3 ST S9 SA 
+CA C2 C3 CT 
+H7 H8 HA H2 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "19"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:9874.74.Q965.T92 6.AKQT.AK32.KQ54 QJT52.J.T74.AJ63 AK3.986532.J8.87"]
+[Vulnerable "EW"]
+[Auction "S"]
+Pass 1C 1H X 
+2S X 3S 4H 
+Pass 4NT Pass 5C 
+Pass 6H Pass Pass 
+Pass    
+[Contract "6H"]
+[Declarer "E"]
+[Play "S"]
+CT CK CA C7 
+- - HJ - 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "19"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:9874.74.Q965.T92 6.AKQT.AK32.KQ54 QJT52.J.T74.AJ63 AK3.986532.J8.87"]
+[Vulnerable "EW"]
+[Auction "S"]
+Pass 1D 1S X 
+3S X 4C 4H 
+Pass 4NT Pass 5C 
+Pass 6H Pass Pass 
+Pass    
+[Contract "6H"]
+[Declarer "E"]
+[Play "S"]
+CT CK CA C7 
+H4 HA HJ H2 
+H7 HK S2 H3 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "20"]
+[West "Delmonte"]
+[North "Manoppo"]
+[East "Richman"]
+[South "Lasut"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:9.2.T97632.KQJ82 742.QJ8.KQJ.T953 A83.KT543.54.A74 KQJT65.A976.A8.6"]
+[Vulnerable "Both"]
+[Auction "W"]
+Pass Pass 1S Pass 
+2S Pass 3C Pass 
+4S Pass Pass Pass 
+[Contract "4S"]
+[Declarer "E"]
+[Play "S"]
+CK C3 C7 C6 
+H2 HQ HK HA 
+S9 S2 S3 SQ 
+D3 S4 SA SJ 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Round 4 - Match 7"]
+[Board "20"]
+[West "Tobing"]
+[North "Browne"]
+[East "Panelewen"]
+[South "Bagchi"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:9.2.T97632.KQJ82 742.QJ8.KQJ.T953 A83.KT543.54.A74 KQJT65.A976.A8.6"]
+[Vulnerable "Both"]
+[Auction "W"]
+Pass 1H X 2C 
+X Pass 2S Pass 
+2NT Pass 3S Pass 
+4S Pass Pass Pass 
+[Contract "4S"]
+[Declarer "E"]
+[Play "S"]
+H2 HQ H3 H7 
+D2 DJ D4 DA 
+D3 DQ D5 D8 
+D6 DK S3 S5 
+S9 S2 SA SQ 
+C2 C3 CA C6 
+C8 C5 C7 ST 
+D7 S4 S8 SK 
+*
+[Result "10"]
+

@@ -1,0 +1,651 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "74th Fall North American Bridge Championships - Blue Ribbon Pairs"]
+[Site "Birmingham, Alabama, USA"]
+[Date "2000.11.22"]
+[Round "R3"]
+[Board "1"]
+[Room "Open"]
+[West "David Yates"]
+[North "Jim Krekorian"]
+[East "Tony Forrester"]
+[South "Paul Kiefer"]
+[Dealer "N"]
+[Deal "S:86.J54.8643.KT94 QT432.2.AK7.8753 A95.K9873.Q9.QJ6 KJ7.AQT6.JT52.A2"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "E"]
+{
+After Forrester's natural 1NT overcall, Yates transferred to
+2S and offered a choice of games with 3NT. Forrester, with a
+potential weakness in clubs, preferred the spade game. Based
+on the assumption that declarer preferred the spade game because
+of a ruffing value in the short trump hand, Kiefer made the good
+lead of a trump; Krekorian ducked.
+}
+[Auction "N"]
+1H 1NT Pass 2H 
+Pass 2S Pass 3NT 
+Pass 4S Pass Pass 
+Pass    
+[Play "S"]
+S6 S2 S9 SK 
+C9 C3 C6 C2 
+S8 S3 SA S7 
+H4 S4 S5 SJ 
+D6 DA D9 D2 
+D3 DK DQ D5 
+H5 H2 H3 HQ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "2"]
+[Room "Open"]
+[West "David Yates"]
+[North "Jim Krekorian"]
+[East "Tony Forrester"]
+[South "Paul Kiefer"]
+[Dealer "E"]
+[Deal "S:J42.T2.J84.JT863 T7.J985.KQ7653.4 AK63.Q74.AT2.AK9 Q985.AK63.9.Q752"]
+[Vulnerable "NS"]
+[Contract "4HX"]
+[Declarer "W"]
+{
+Forrester's 1D was a catch-all bid with 11-15 HCP, so Yates had
+no reason to expect East-West's cards to fit perfectly. His pre-emptive
+raise to 3H on a four-card suit was a little weird, though understandable.
+His 4D was just doing too much. Krekorian's hand was much better
+for defense than offense and he may have had serious thoughts
+about passing over 3H.
+}
+[Auction "E"]
+1D Pass 1H X 
+2H Pass 3H X 
+Pass 4C 4D X 
+4H Pass Pass X 
+Pass Pass Pass  
+[Play "N"]
+SA S5 S2 ST 
+H4 HA H2 H5 
+DA D9 D4 DK 
+CK C2 C3 C4 
+SK S8 S4 S7 
+S6 SQ SJ D3 
+C9 C5 C8 H8 
+D2 C7 D8 DQ 
+DT H3 DJ D5 
+H7 HK HT H9 
+S3 S9 C6 D6 
+CA CQ CT HJ 
+HQ H6 CJ D7 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "3"]
+[Room "Open"]
+[West "Ralph Katz"]
+[North "Jim Krekorian"]
+[East "Darren Wolpert"]
+[South "Paul Kiefer"]
+[Dealer "S"]
+[Deal "S:AK3.A7.AQJ42.Q98 Q874.Q98.76.AK72 JT9652.3.T5.J654 .KJT6542.K983.T3"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "S"]
+{
+With 6-4 distribution and good intermediates in spades, Krekorian
+took a shot at game opposite Kiefer's balanced 20-21 HCP. Since
+he didn't want to be declarer himself, he used a 4H transfer,
+which caught a lead-directing double from Wolpert. Without the
+double, Katz would probably have led a top club, ending all hopes
+for the defense.
+}
+[Auction "S"]
+2NT Pass 4H X 
+4S Pass Pass Pass 
+[Play "W"]
+H8 H3 HK HA 
+S4 S2 HJ SA 
+H9 S6 HT H7 
+D7 DT DK DA 
+D6 D5 D3 DQ 
+S7 S9 D8 DJ 
+CK C4 C3 CQ 
+C2 C5 CT C8 
+SQ C6 D9 D2 
+CA CJ H2 C9 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "4"]
+[Room "Open"]
+[West "Ralph Katz"]
+[North "Jim Krekorian"]
+[East "Darren Wolpert"]
+[South "Paul Kiefer"]
+[Dealer "W"]
+[Deal "S:KQ.AJ8765.74.AJ5 A8.T9432.KJ62.KT T932.KQ.T98.Q432 J7654..AQ53.9876"]
+[Vulnerable "Both"]
+[Contract "2HXX"]
+[Declarer "S"]
+{
+Kiefer was a bit heavy for his 2H rebid, but at matchpoints it
+pays to be conservative and try for plus scores If Krekorian
+couldn't come up with another bid there wouldn't be a game. When
+2H was passed around to Wolpert, he just couldn't resist doubling,
+hoping either to find Katz with a big trump stack or a five-card
+minor.
+}
+[Auction "W"]
+Pass Pass Pass 1H 
+Pass 1S Pass 2H 
+Pass Pass X XX 
+Pass Pass Pass  
+[Play "W"]
+D6 D8 DA D7 
+DJ D9 D3 D4 
+H2 HQ S4 H5 
+SA S2 S5 SQ 
+H3 HK C6 H7 
+CK C2 C7 CJ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "5"]
+[Room "Open"]
+[West "Norb Kremer"]
+[North "Jim Krekorian"]
+[East "H. Feldheim"]
+[South "Paul Kiefer"]
+[Dealer "N"]
+[Deal "S:763.AJ9.Q852.QJ5 K92.Q764.KJ4.A62 QJT54.85.T93.T74 A8.KT32.A76.K983"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+West's matchpoint decision not to investigate the possibility
+of a 4-4 heart fit over his partner's 13-15 1NT opening backfired.
+4H is cold, but the limit in 3NT is 9 tricks. At the tables where
+East opens with 1C (probably the majority of tables) West is
+likely to respond 1H, and the heart suit is immediately in the
+picture. In the end, either player may still call NT but the
+odds are that 4H will be the final contract.
+}
+[Auction "N"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+S7 S2 ST SA 
+H9 HQ H8 H2 
+CJ C2 C4 C8 
+S6 S9 SJ S8 
+S3 SK S5 D6 
+C5 CA C7 C3 
+CQ C6 CT CK 
+D2 H4 DT C9 
+D8 D4 D3 DA 
+D5 DK D9 D7 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "6"]
+[Room "Open"]
+[West "Norb Kremer"]
+[North "Jim Krekorian"]
+[East "H. Feldheim"]
+[South "Paul Kiefer"]
+[Dealer "E"]
+[Deal "S:5.J72.AQ6542.Q97 T932.KT4.KT97.T2 J876.985.J83.863 AKQ4.AQ63..AKJ54"]
+[Vulnerable "EW"]
+[Contract "4NT"]
+[Declarer "W"]
+{
+The auction seems to have ended in confusion. West's 2S reponse
+after South overcalled East's strong 2C opening with 2D, purportedly
+showed 2 controls (1 ace or 2 kings). Presumably, East cuebid
+3D in an attempt to have West show a major suit, even if only
+4 cards in length. But West decided to show his good diamond
+values by bidding 3NT.
+}
+[Auction "E"]
+2C 2D 2S Pass 
+3D Pass 3NT Pass 
+4C Pass 4S Pass 
+4NT Pass Pass Pass 
+[Play "N"]
+D3 C4 DA D7 
+H5 H3 H2 HT 
+S6 SA S5 S2 
+S7 SK D2 S3 
+H8 HA HJ H4 
+H9 H6 H7 HK 
+S8 S4 D5 ST 
+C3 C5 CQ CT 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "7"]
+[Room "Open"]
+[West "John Fout"]
+[North "Jim Krekorian"]
+[East "Jim Looby"]
+[South "Paul Kiefer"]
+[Dealer "S"]
+[Deal "S:97.AT94.T3.J8632 AK653.8632.A2.T7 JT82.QJ.J95.KQ94 Q4.K75.KQ8764.A5"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "W"]
+{
+The best contract, 3NT, was missed when West chose to rebid his
+spades over Easts' fourth suit forcing 3C. Showing his diamond
+values rather than suggesting a sixth spade might have saved
+the day. On the other hand, it could have led to an unmakable
+diamond slam. The CK lead against 4S, though a normal choice
+after this auction, was a real killer.
+}
+[Auction "S"]
+Pass 1S Pass 2D 
+Pass 2H Pass 3C 
+Pass 3S Pass 4S 
+Pass Pass Pass  
+[Play "N"]
+CK CA C2 C7 
+S2 SQ S7 S3 
+SJ S4 S9 SA 
+S8 C5 C8 SK 
+ST H5 H9 S5 
+HQ HK HA H2 
+HJ H7 H4 H3 
+CQ D4 C3 CT 
+C9 D6 - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "8"]
+[Room "Open"]
+[West "John Fout"]
+[North "Jim Krekorian"]
+[East "Jim Looby"]
+[South "Paul Kiefer"]
+[Dealer "W"]
+[Deal "S:754.J.AJ863.8543 JT9.86.KQT.AKQ97 AQ8.QT74.97542.T K632.AK9532..J62"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "W"]
+{
+It appears that 3C shows spades, a very unusual treatment after
+the transfer. With hearts 4-1, declarer must always lose two
+heart tricks. Declarer played on hearts to preserve his club
+entries to run that suit. After discarding two spades from hand,
+he would then need to play the spades for only one trick.
+}
+[Auction "W"]
+1NT Pass 2D Pass 
+2H Pass 3C Pass 
+3NT Pass 4H Pass 
+Pass Pass   
+[Play "N"]
+CT C2 C3 CK 
+H4 HA HJ H8 
+H7 HK D8 H6 
+HT H2 C4 DT 
+SQ SK S4 S9 
+HQ H3 C5 DQ 
+SA S2 S7 SJ 
+S8 - - - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "9"]
+[Room "Open"]
+[West "Ben Wheeler"]
+[North "Jim Krekorian"]
+[East "B. Wheeler III"]
+[South "Paul Kiefer"]
+[Dealer "N"]
+[Deal "S:KQ5.QT843.Q2.T62 J874.K2.KJ95.J83 93.J97.AT843.AQ4 AT62.A65.76.K975"]
+[Vulnerable "EW"]
+[Contract "3H"]
+[Declarer "S"]
+{
+Krekorian's double showed 3-card heart support and his side bought
+the contract for 3H - a good decision since 3H can be held to
+down only one while E/W were cold for 2S. Kieffer lost the obvious
+5 tricks (1 spade, 1 club, 1 diamond and 2 trumps) and ended
+up minus 50, for a good result.
+}
+[Auction "N"]
+1D X 1H 1S 
+X Pass 2H Pass 
+Pass 2S 3H Pass 
+Pass Pass   
+[Play "W"]
+S4 S3 SA S5 
+S7 S9 S2 SK 
+HK H7 H5 H3 
+H2 H9 HA H4 
+SJ HJ H6 HQ 
+DK D3 D6 DQ 
+C3 C4 CK C2 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "10"]
+[Room "Open"]
+[West "Ben Wheeler"]
+[North "Jim Krekorian"]
+[East "B. Wheeler III"]
+[South "Paul Kiefer"]
+[Dealer "E"]
+[Deal "S:K7.K8532.QJ4.Q92 JT4.T97.KT5.T643 AQ2.QJ64.A92.KJ7 98653.A.8763.A85"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+A rare hand to decide to play 3NT with a known  nine card heart
+fit, but here the decision was right as both contracts had only
+two losers. Krekorian won the spade lead, knocked out the HA,
+won the spade return and eventually tried the diamond finesse.
+When that won he claimed 11 tricks, losing only the CA in addition;
+N/S minus 690 an excellent result.
+}
+[Auction "E"]
+Pass Pass Pass 1NT 
+Pass 2D Pass 3H 
+Pass 3NT Pass Pass 
+Pass    
+[Play "E"]
+S5 SK S4 S2 
+HA H2 H7 HQ 
+S3 S7 ST SQ 
+D6 H3 HT HJ 
+D7 HK H9 H4 
+D3 DQ D5 D2 
+- H8 - - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "11"]
+[Room "Open"]
+[West "Mark Feldman"]
+[North "Jim Krekorian"]
+[East "Peter Nagy"]
+[South "Paul Kiefer"]
+[Dealer "S"]
+[Deal "S:7.AQ98.AK9632.Q9 9654.KJ.7.AJT852 KJ3.T53.QJT.K643 AQT82.7642.854.7"]
+[Vulnerable "None"]
+[Contract "4SX"]
+[Declarer "W"]
+{
+Everyone had a good hand on this deal, but Mark Feldman, West,
+had the last laugh when he was doubled in 4S. He even made an
+overtrick after being able to set up a neat trump coup once the
+clubs became established. Yet, it's hard to fault N/S for doubling
+4S (as opposed to bidding 5D, which would have been a good sacrifice!).
+After all, they had 25 HCP as opposed to only 15 in the combined
+E/W hands.
+}
+[Auction "S"]
+1D 2C 2D Pass 
+2H Pass 2S X 
+3D 3S 3NT 4S 
+Pass Pass X Pass 
+Pass Pass   
+[Play "N"]
+DQ D4 D9 D7 
+DJ D5 D6 S4 
+C3 C7 C9 CA 
+C4 S2 CQ C2 
+H3 H2 H9 HK 
+H5 H4 HQ HJ 
+S3 ST S7 S5 
+DT D8 D3 S6 
+CK S8 D2 CT 
+HT H6 H8 S9 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "12"]
+[Room "Open"]
+[West "Mark Feldman"]
+[North "Jim Krekorian"]
+[East "Peter Nagy"]
+[South "Paul Kiefer"]
+[Dealer "W"]
+[Deal "S:93.J93.K943.T532 AK86.7.AJT.K9876 QJ2.AT85.8752.A4 T754.KQ642.Q6.QJ"]
+[Vulnerable "NS"]
+[Contract "2S"]
+[Declarer "W"]
+{
+A combination of North's light takeout double and West's singleton
+heart opposite partner's first bid suit probably caused West
+to excercise caution at his third turn. Likewise, East may have
+thought his DQ to be of questionable value, and a reason for
+not pushing just a little harder.
+}
+[Auction "W"]
+1C X 1H Pass 
+1S Pass 2S Pass 
+Pass Pass   
+[Play "N"]
+D5 DQ DK DA 
+HA H2 H3 H7 
+CA CJ C2 C7 
+D2 D6 D9 DT 
+S2 S4 S3 SA 
+SQ S5 S9 SK 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "13"]
+[Room "Open"]
+[West "Roger Clough"]
+[North "Jim Krekorian"]
+[East "Rebecca Clough"]
+[South "Paul Kiefer"]
+[Dealer "N"]
+[Deal "S:A95.J872.KQ3.543 K863.AQT6.AT92.2 Q72.9543.J754.K7 JT4.K.86.AQJT986"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+Is the East hand a 1C opening, a 3C opening, or maybe a pass?
+The answer depends on your agreements, and for Rebecca Clough
+it was a 1C bid. With a full opening bid and good stoppers in
+all suits, Roger Clough couldn't stop short of game. A heart
+lead would have made it a very bad bet, but even on Krekorian's
+diamond lead declarer needed a lucky lie of the cards.
+}
+[Auction "N"]
+Pass 1C Pass 1H 
+Pass 2C Pass 3NT 
+Pass Pass Pass  
+[Play "N"]
+D4 D6 DQ DA 
+C7 CQ C3 C2 
+CK CA C4 S6 
+S2 CJ C5 S8 
+D5 CT S5 D2 
+D7 C9 S9 D9 
+DJ C8 H7 DT 
+S7 C6 H8 S3 
+H5 HK H2 HA 
+H3 S4 HJ HQ 
+H4 ST D3 HT 
+SQ SJ SA SK 
+H9 D8 DK H6 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "14"]
+[Room "Open"]
+[West "Roger Clough"]
+[North "Jim Krekorian"]
+[East "Rebecca Clough"]
+[South "Paul Kiefer"]
+[Dealer "E"]
+[Deal "S:AKT97.J976.Q6.65 65.K42.KT982.K72 .AT8.AJ754.AJT43 QJ8432.Q53.3.Q98"]
+[Vulnerable "None"]
+[Contract "2SX"]
+[Declarer "E"]
+{
+Having six cards in a major doesn't imply an automatic weak two-bid,
+and in spite of all the warning signs (weak suit, three hearts,
+minor honors), East opened with 2S and got what she deserved.
+Many players shy away from take-out doubles with a void in the
+opponents' suit; but when you have great defense and don't mind
+partner passing for penalties, such thoughts are futile.
+}
+[Auction "E"]
+2S Pass Pass X 
+Pass Pass Pass  
+[Play "S"]
+C6 C2 CT CQ 
+D6 DK DA D3 
+DQ D2 D4 S2 
+C5 C7 CJ C9 
+H6 CK CA C8 
+S7 D8 DJ S3 
+H7 H2 HT HQ 
+H9 HK HA H5 
+HJ H4 H8 H3 
+ST S5 C4 SQ 
+*
+[Result "4"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "15"]
+[Room "Open"]
+[West "Richie Coren"]
+[North "Jim Krekorian"]
+[East "Marc Jacobus"]
+[South "Paul Kiefer"]
+[Dealer "S"]
+[Deal "S:T.AQ984.AQ2.AQJ3 32.K52.K9853.K42 AK986.J76.T4.865 QJ754.T3.J76.T97"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "S"]
+{
+A well-controlled auction to the top spot: strong jump shift;
+forcing preference; natural 3NT; and correction. Had Coren led
+a diamond, Kiefer would have emerged with an overtrick, but after
+his passive trump lead, Coren made his three kings in due time.
+Not very exciting. Ten tricks: plus 620.
+}
+[Auction "S"]
+1H Pass 1S Pass 
+3C Pass 3H Pass 
+3NT Pass 4H Pass 
+Pass Pass   
+[Play "W"]
+H5 H6 HT HQ 
+S3 SA S4 ST 
+DK DT D6 DQ 
+S2 SK S5 C3 
+D9 D4 D7 DA 
+D3 HJ DJ D2 
+HK H7 H3 H4 
+D8 - - - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R3"]
+[Board "16"]
+[Room "Open"]
+[West "Richie Coren"]
+[North "Jim Krekorian"]
+[East "Marc Jacobus"]
+[South "Paul Kiefer"]
+[Dealer "W"]
+[Deal "S:KJ74.97.KJ43.KT9 963.AKT6.T8.AQJ6 82.Q543.975.5432 AQT5.J82.AQ62.87"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+When leading from a very weak hand, it's usually better to pick
+a weak suit, trying to hit partner's strength than to lead from
+your own best suit. From the above statement you can deduce that
+I don't like Krekorian's lead, and indeed it made things very
+easy for declarer. Coren took three losing finesses, but clubs
+behaved, so the rest was his. Making four: plus 630. On a spade
+or a diamond lead, and a heart back, declarer has to guess well
+to make an overtrick. [AW]
+}
+[Auction "W"]
+1C Pass 1S Pass 
+1NT Pass 3NT Pass 
+Pass Pass   
+[Play "N"]
+H3 H8 H9 HT 
+S8 ST SJ S6 
+C3 C7 CT CJ 
+S2 SQ SK S3 
+C2 C8 CK CA 
+C4 S5 S4 S9 
+D5 DQ DK DT 
+H4 H2 H7 HA 
+C5 D2 C9 CQ 
+D9 HJ D3 C6 
+H5 D6 - HK 
+*
+[Result "10"]
+

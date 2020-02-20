@@ -1,0 +1,395 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "74th Fall North American Bridge Championships - Blue Ribbon Pairs"]
+[Site "Birmingham, Alabama, USA"]
+[Date "2000.11.23"]
+[Round "R5"]
+[Board "17"]
+[Room "Open"]
+[West "Paul Soloway"]
+[North "John Sutherlin"]
+[East "Steve Catlett"]
+[South "Steve Beatty"]
+[Dealer "N"]
+[Deal "S:943.QT8543.9.853 KJ86.J762.QJ3.QJ A72.A9.K8654.T94 QT5.K.AT72.AK762"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+Looking at all the hands, 3NT is precisely where E/W would like
+to be. The heart lead set up two heart tricks for the defense
+and one for declarer which, combined with nine tricks in the
+minors, brought declarer's total to ten. The only way to get
+an eleventh trick would be to steal one in spades before the
+defense knew that declarer had five clubs. When Catlett came
+in at trick three with the DJ, he immediately set out to steal
+that eleventh trick.
+}
+[Auction "N"]
+1D 1NT Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+H5 H6 HA HK 
+HQ H2 H9 S5 
+D9 DJ D4 D2 
+S3 S6 S2 SQ 
+C3 CJ C4 C2 
+C5 CQ CT C6 
+H4 HJ D5 ST 
+H3 DQ DK DA 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "18"]
+[Room "Open"]
+[West "Paul Soloway"]
+[North "John Sutherlin"]
+[East "Steve Catlett"]
+[South "Steve Beatty"]
+[Dealer "E"]
+[Deal "S:KJ84.Q642.Q8.Q75 AQ97.AK8753.JT.J T652.9.76432.A94 3.JT.AK95.KT8632"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+At least nine tricks are available in 3NT on any lead (even a
+spade) via two spades, three hearts, three diamonds and one club.
+Double dummy, eleven tricks are available in 4H, where declarer
+has to lose only one club and one trump. Even though the lead
+found the SK for declarer, it was best for the defense. Soloway
+lost the diamond finesse at trick two and froze the spades by
+playing the S7 when Beatty returned a low one. Beatty erred by
+covering the H10 at trick five, but Soloway had to duck anyway.
+}
+[Auction "E"]
+1C Pass 1H Pass 
+2C Pass 2D Pass 
+3D Pass 3NT Pass 
+Pass Pass   
+[Play "N"]
+S2 S3 SK SA 
+D2 D5 DQ DJ 
+ST C2 S4 S7 
+D3 DA D8 DT 
+H9 HT HQ H3 
+CA C3 C5 CJ 
+C4 CK C7 S9 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "19"]
+[Room "Open"]
+[West "Lynn Baker"]
+[North "John Sutherlin"]
+[East "Irina Levitina"]
+[South "Steve Beatty"]
+[Dealer "S"]
+[Deal "S:J.K643.T754.KT43 AQ76.QJ8.AJ982.5 K52.A92.63.Q9872 T9843.T75.KQ.AJ6"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "E"]
+{
+An easy auction to the normal 4S contract and three obvious losers:
+two hearts and the SK. There is really no logical alternative
+to the line of play that Levitina chose, and she ended with the
+expected 10 tricks and an average result. Minus 620.
+}
+[Auction "S"]
+Pass 1D Pass 1S 
+Pass 3S Pass 4S 
+Pass Pass Pass  
+[Play "S"]
+C4 C5 CQ CA 
+SJ SQ SK S4 
+H6 H8 HA H7 
+HK HJ H9 HT 
+H3 HQ H2 H5 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "20"]
+[Room "Open"]
+[West "Lynn Baker"]
+[North "John Sutherlin"]
+[East "Irina Levitina"]
+[South "Steve Beatty"]
+[Dealer "W"]
+[Deal "S:7432.A98.T842.KT QJ.7.Q76.9876543 AK5.KQJ32.AK95.Q T986.T654.J3.AJ2"]
+[Vulnerable "Both"]
+[Contract "6H"]
+[Declarer "N"]
+{
+With a potential third-round spade loser and an 'almost sure'
+diamond loser to worry about, Sutherlin's 4NT bid and subsequent
+leap to slam seem overly aggressive. He was duly punished for
+his actions when dummy appeared with the reverse minor-suit lengths
+he needed. Even if Beatty was three-three in the minors, or had
+one or two of his spades been clubs, the slam would still have
+been unmakeable.
+}
+[Auction "W"]
+Pass 1H Pass 2H 
+Pass 3D Pass 4H 
+Pass 4NT Pass 5D 
+Pass 6H Pass Pass 
+Pass    
+[Play "E"]
+CA CT C3 CQ 
+C2 CK C9 S5 
+DJ DT D6 D5 
+S8 S2 SJ SK 
+H4 H8 H7 HK 
+H5 H9 C4 HJ 
+D3 D2 D7 DA 
+H6 HA C8 H2 
+- S3 SQ SA 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "21"]
+[Room "Open"]
+[West "Steve Landen"]
+[North "John Sutherlin"]
+[East "P. Rajadhyaksha"]
+[South "Steve Beatty"]
+[Dealer "N"]
+[Deal "S:JT92.A73.A52.Q65 AK6.6.KQT9.AKT94 8.KT98542.J843.3 Q7543.QJ.76.J872"]
+[Vulnerable "NS"]
+[Contract "4SX"]
+[Declarer "E"]
+{
+A 3H preempt with North's weak suit at unfavorable vulnerability
+seems quite normal nowadays. Of course, his intermediate hearts
+were good, and those black singletons were quite irresistible.
+It's hard to believe that South bid 4H for any other reason than
+an advance sacrifice. The defense has no real chance as long
+as declarer takes the club finesse.
+}
+[Auction "N"]
+3H Pass 4H X 
+Pass 4S X Pass 
+Pass Pass   
+[Play "S"]
+HA H6 H5 HJ 
+H7 S6 HT HQ 
+S2 SA S8 S3 
+SJ SK H8 S4 
+C6 CA C3 C7 
+DA DK D8 D6 
+D5 DQ D4 D7 
+D2 DT DJ S5 
+S9 C4 H2 SQ 
+C5 C9 - CJ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "22"]
+[Room "Open"]
+[West "Steve Landen"]
+[North "John Sutherlin"]
+[East "P. Rajadhyaksha"]
+[South "Steve Beatty"]
+[Dealer "E"]
+[Deal "S:A9873.832.QT4.KJ .KQJ.A972.A76542 KJ64.A5.863.QT93 QT52.T9764.KJ5.8"]
+[Vulnerable "EW"]
+[Contract "3SX"]
+[Declarer "S"]
+{
+Landen's double showed a three-card heart support and Sutherlin
+would have done better to have gotten his "limit raise" values
+with four trumps off his chest immediately by cue-bidding 2C.
+When he chose to bid only 2S and E/W competed to 3H, he felt
+obliged to bid again, and Pratap was justified in doubling 3S.
+}
+[Auction "E"]
+Pass Pass 1C Pass 
+1H 1S X 2S 
+Pass Pass 3C Pass 
+3H Pass Pass 3S 
+X Pass Pass Pass 
+[Play "W"]
+CA C3 C8 CJ 
+C2 C9 S2 CK 
+D2 D3 DK D4 
+DA D6 D5 DT 
+C5 CT ST H2 
+D7 D8 DJ DQ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "23"]
+[Room "Open"]
+[West "Ellasue Chaitt"]
+[North "John Sutherlin"]
+[East "Martin Chaitt"]
+[South "Steve Beatty"]
+[Dealer "S"]
+[Deal "S:AQJT86.5.K72.KJ3 74.84.T943.AQ876 K53.AQ6.J85.T954 92.KJT9732.AQ6.2"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+Sutherlin decided not to bid the spade game which would have
+been beaten quickly on a diamond lead and club shift, or slowly
+on a more passive defense. 3NT had better play even though it
+was still far from cold. The best defense, a club lead followed
+by the H8 shift, would hold Beatty to seven tricks while a heart
+lead would give Sutherlin his eighth trick immediately, and a
+chance for a ninth, if he guessed to look for it in diamonds.
+}
+[Auction "S"]
+1S Pass 1NT 3H 
+3S Pass 3NT Pass 
+Pass Pass   
+[Play "E"]
+HK H5 H4 HA 
+C2 CJ CQ C4 
+HJ C3 H8 H6 
+HT CK C7 HQ 
+S2 SQ S4 S3 
+S9 SJ S7 S5 
+- SA C6 SK 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "24"]
+[Room "Open"]
+[West "Ellasue Chaitt"]
+[North "John Sutherlin"]
+[East "Martin Chaitt"]
+[South "Steve Beatty"]
+[Dealer "W"]
+[Deal "S:Q65.T7.853.QJ932 JT743.K964.JT.84 AK982.J8.K94.K65 .AQ532.AQ762.AT7"]
+[Vulnerable "None"]
+[Contract "2H"]
+[Declarer "E"]
+{
+2C showed a minor one-suiter or a major and minor two-suiter.
+2D asked and 2H showed hearts and a minor. Ellasue's pass of
+2H seems rather conservative, unless Martin is in the habit of
+often taking this same action with a much poorer hand (certainly
+possible when non-vulnerable, as he was).
+}
+[Auction "W"]
+Pass 1NT 2C Pass 
+2D Pass 2H Pass 
+Pass Pass   
+[Play "S"]
+CQ C4 C6 CA 
+H7 H4 H8 HA 
+HT HK HJ H5 
+D3 DJ D4 D7 
+D8 DT DK DA 
+D5 C8 D9 DQ 
+*
+[Result "13"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "25"]
+[Room "Open"]
+[West "Piotr Gawrys"]
+[North "John Sutherlin"]
+[East "Robert Morris"]
+[South "Steve Beatty"]
+[Dealer "N"]
+[Deal "S:AJ63.AQ53.KQ.Q92 K9.J8762.A953.A6 QT752.94.T74.T83 84.KT.J862.KJ754"]
+[Vulnerable "EW"]
+[Contract "2D"]
+[Declarer "W"]
+{
+This might have been a good time (at favorable vulnerability)
+for Sutherlin to "psych" a 1S response on subminimum values,
+provided he could have kept Beatty from driving to game, since
+double dummy plus 140 is possible. But E/W had a free run in
+the auction and bought the contract for 2D. With only four top
+losers (two hearts, one spade and one trump) Gawrys had a chance
+for plus 110.
+}
+[Auction "N"]
+Pass Pass 1C 1H 
+Pass 1NT Pass 2D 
+Pass Pass Pass  
+[Play "N"]
+CT C4 C2 CA 
+H4 HT HQ H2 
+S7 S4 SA S9 
+S5 S8 S3 SK 
+H9 HK HA H7 
+S2 D2 S6 H6 
+D4 D6 DK DA 
+C8 C5 H3 H8 
+C3 C7 H5 HJ 
+D7 D8 DQ D3 
+- - C9 - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R5"]
+[Board "26"]
+[Room "Open"]
+[West "Piotr Gawrys"]
+[North "John Sutherlin"]
+[East "Robert Morris"]
+[South "Steve Beatty"]
+[Dealer "E"]
+[Deal "S:Q3.K642.AKQ6.KQT AKJ987.7.T94.J42 4.AQT983.8732.A9 T652.J5.J5.87653"]
+[Vulnerable "Both"]
+[Contract "5H"]
+[Declarer "N"]
+{
+Gawrys' weak jump overcall gave his opponents a problem; they
+didn't manage to solve it. Beatty was much too strong for a direct
+heart raise, so over 3H he cue-bid 3S, got a diamond preference
+and followed up with 4S. Personally, I think Sutherlin was worth
+6D then. Instead he  cue-bid the CA, and when Beatty finally
+showed his heart support, Sutherlin passed fearing two minor
+suit losers. Making six: plus 680.
+}
+[Auction "E"]
+Pass 1D 2S 3H 
+Pass 3S Pass 4D 
+Pass 4S Pass 5C 
+Pass 5H Pass Pass 
+Pass    
+[Play "E"]
+S2 S3 SK S4 
+S5 SQ SA H8 
+- - - HA 
+*
+[Result "12"]
+

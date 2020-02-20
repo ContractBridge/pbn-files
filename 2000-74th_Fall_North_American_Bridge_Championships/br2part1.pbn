@@ -1,0 +1,559 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "74th Fall North American Bridge Championships - Blue Ribbon Pairs"]
+[Site "Birmingham, Alabama, USA"]
+[Date "2000.11.21"]
+[Round "R2"]
+[Board "1"]
+[Room "Open"]
+[West "Paul Schroeder"]
+[North "Bob Hamman"]
+[East "Dick Benson"]
+[South "Zia Mahmood"]
+[Dealer "N"]
+[Deal "S:6542.KJT7.42.Q64 AKQ7.Q53.KT.T872 J98.942.J875.KJ3 T3.A86.AQ963.A95"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+East opened a 15 HCP (a three-ace, three-and-a-half Honor Trick
+hand with a decent five-card suit can't be counted as less---DK)
+1NT. Despite his wealth of high cards, West used Stayman because
+there might well be an extra ruffing trick in a four-four spade
+fit. South led the HJ, an ambiguous card that could be top, but
+could also be from an internal sequence plus the HK, since Zia
+and Hamman disdain the popular "Jack Denies" lead convention.
+}
+[Auction "N"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+HJ H3 H4 HA 
+D4 DT DJ D3 
+H7 HQ H9 H6 
+D2 DK D5 D6 
+C4 C2 C3 CA 
+C6 H5 D7 DA 
+CQ C7 D8 DQ 
+HK C8 S8 D9 
+S2 SA S9 S3 
+S4 SK SJ ST 
+S5 SQ H2 H8 
+S6 S7 CJ C5 
+HT CT CK C9 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "2"]
+[Room "Open"]
+[West "Paul Schroeder"]
+[North "Bob Hamman"]
+[East "Dick Benson"]
+[South "Zia Mahmood"]
+[Dealer "E"]
+[Deal "S:T85.8543.KQ2.KJ8 962.KQ62.T97.Q75 AKQJ43.AT.64.A32 7.J97.AJ853.T964"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "S"]
+{
+With a square hand, weak three-card spade support, and strength
+concentrated in the other three-card suits, South judged reasonably
+to respond 1NT rather than raise spades. North's decision to
+bid game in notrump rather than in spades might have turned out
+well if the only issue were "Do we have game?" for nine tricks
+in notrump (South must supply only one) look easier than ten
+in spades (South must supply two). Hamman's 3NT was descriptive,
+showing long solid spades, so it was open to Zia to correct to
+4S, even with poor support. It's easy to see why Zia passed
+}
+[Auction "E"]
+Pass Pass Pass 1S 
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Play "W"]
+H6 HT HJ H4 
+H2 HA H9 H3 
+S2 SA S7 S5 
+S6 SK D8 S8 
+S9 SQ D3 ST 
+D7 SJ D5 D2 
+D9 S3 DJ H5 
+DT S4 C4 H8 
+C5 CA C6 C8 
+CQ C2 C9 CJ 
+HK - - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "3"]
+[Room "Open"]
+[West "David Weisman"]
+[North "Bob Hamman"]
+[East "Ron Felton"]
+[South "Zia Mahmood"]
+[Dealer "S"]
+[Deal "S:743.Q64.A.QJT974 AJ852.JT973.743. KT.A852.T96.K865 Q96.K.KQJ852.A32"]
+[Vulnerable "EW"]
+[Contract "3HX"]
+[Declarer "N"]
+{
+At matchpoints, I would have thought a 3C opening would have
+some appeal. Zia passed, however, because he had a wonderful
+dummy for both majors, a surprise ace, and a hand that Hamman
+would not expect. Hamman's third-seat 1H was in keeping with
+their overall approach, but Zia supported hearts once too often,
+and Weisman told him so[DC]. There is some rational for pulling
+to 4C when the opponents double a partscore unexpectedly.
+}
+[Auction "S"]
+Pass Pass 1H 2D 
+2H Pass Pass 3D 
+3H X Pass Pass 
+Pass    
+[Play "E"]
+DK DA D3 D6 
+CA CQ D4 C5 
+C3 C4 H3 C6 
+S9 S3 SA ST 
+S6 S4 S2 SK 
+HK H4 H7 HA 
+C2 C7 D7 CK 
+D2 C9 H9 C8 
+D5 HQ HJ H2 
+D8 CJ HT D9 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "4"]
+[Room "Open"]
+[West "David Weisman"]
+[North "Bob Hamman"]
+[East "Ron Felton"]
+[South "Zia Mahmood"]
+[Dealer "W"]
+[Deal "S:85.QT74.A75.T763 JT94.AJ6.JT92.AJ KQ73.2.KQ4.KQ852 A62.K9853.863.94"]
+[Vulnerable "Both"]
+[Contract "2C"]
+[Declarer "N"]
+{
+Donna Compton probably wished she was playing blackjack with
+the West cards, and chose to pass the marginal hand. This allowed
+N/S a simple natural auction to a nice secure partscore. Some
+West players may enter the auction on the second round with a
+double to show the pointed suits - revolting as they are.
+}
+[Auction "W"]
+Pass 1C Pass 1H 
+Pass 1S Pass 2C 
+Pass Pass Pass  
+[Play "E"]
+D3 D5 D9 DK 
+C4 C3 CA CK 
+D6 DA DJ D4 
+SA S5 S9 SK 
+D8 D7 DT DQ 
+S2 S8 S4 SQ 
+S6 C6 ST S3 
+C9 C7 CJ CQ 
+H3 HQ HA H2 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "7"]
+[Room "Open"]
+[West "Steve Robinson"]
+[North "Bob Hamman"]
+[East "Peter Boyd"]
+[South "Zia Mahmood"]
+[Dealer "S"]
+[Deal "S:J653.K6.T983.KQJ K4.AQJ9.Q76.A532 Q982.752.A54.T87 AT7.T843.KJ2.964"]
+[Vulnerable "Both"]
+[Contract "1NT"]
+[Declarer "W"]
+{
+Robinson started with a strong NT (15-17) and Boyd, with 8 HCP
+and two tens passed. At teams this would not be his choice. At
+pairs however, it rates to be the winner in the long run. A top
+pair wants to get their matchpoints by outplaying the field,
+not by bidding ulta thin games (at least in the qualifing stages).
+On this hand, bidding was the winner as every card was perfect
+for E/W.
+}
+[Auction "S"]
+Pass 1NT Pass Pass 
+Pass    
+[Play "N"]
+S2 ST SJ SK 
+D5 DJ D3 D6 
+H2 HT HK HA 
+H5 H3 H6 HQ 
+H7 H4 S3 HJ 
+C7 H8 S5 H9 
+DA D2 D8 D7 
+SQ SA S6 S4 
+C8 C4 CJ CA 
+D4 DK D9 DQ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "8"]
+[Room "Open"]
+[West "Steve Robinson"]
+[North "Bob Hamman"]
+[East "Peter Boyd"]
+[South "Zia Mahmood"]
+[Dealer "W"]
+[Deal "S:AK985.AKQT.A3.T2 JT64.8.QJ975.KQ5 72.7653.T42.A843 Q3.J942.K86.J976"]
+[Vulnerable "None"]
+[Contract "1S"]
+[Declarer "S"]
+{
+Zia, looking at 20 HCP and a semi-balanced hand, opened 1S. Had
+his suits been minors, he would have been tempted to start with
+2NT. Here however, 1S is best. Hamman's pass was very conservative,
+and again at IMPs he would take a bid.
+}
+[Auction "W"]
+Pass Pass Pass 1S 
+Pass Pass Pass  
+[Play "W"]
+DQ D2 D6 D3 
+D5 D4 DK DA 
+S4 S2 S3 SK 
+S6 S7 SQ SA 
+H8 H3 H2 HK 
+C5 H5 H4 HQ 
+ST C3 C6 S5 
+SJ DT D8 S8 
+DJ - - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "9"]
+[Room "Open"]
+[West "Bill Hugenberg"]
+[North "Bob Hamman"]
+[East "D. Goldston"]
+[South "Zia Mahmood"]
+[Dealer "N"]
+[Deal "S:J7532.JT.J8.KT73 T6.53.A952.A9852 KQ94.AQ76.Q74.Q4 A8.K9842.KT63.J6"]
+[Vulnerable "EW"]
+[Contract "2S"]
+[Declarer "N"]
+{
+N/S had a free ride to the top spot. 2H was a transfer to spades
+and Hamman bid only two. The followers of "The Law" insist that
+North super-accept with four spades, but his soft cards in the
+minors held him back. The vulnerability kept E/W out of the bidding
+and Hamman no doubt took that into consideration (it would be
+very difficult for E/W to balance vulnerable over 2S).
+}
+[Auction "N"]
+1NT Pass 2H Pass 
+2S Pass Pass Pass 
+[Play "E"]
+CJ C3 CA C4 
+C6 C7 C2 CQ 
+SA S2 S6 SQ 
+D3 D8 DA D7 
+H2 CT C5 SK 
+S8 SJ ST S4 
+DK DJ D2 D4 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "10"]
+[Room "Open"]
+[West "Bill Hugenberg"]
+[North "Bob Hamman"]
+[East "D. Goldston"]
+[South "Zia Mahmood"]
+[Dealer "E"]
+[Deal "S:Q5.632.754.AKQ63 T43.JT97.J96.J84 AK7.A85.Q82.T975 J9862.KQ4.AKT3.2"]
+[Vulnerable "Both"]
+[Contract "2NT"]
+[Declarer "N"]
+{
+Balancing against a spade is different than balancing against
+a club. The HCP range is much wider as you don't have room to
+double and rebid NT at a comfortable level. As a result, with
+some fifteen or sixteen point hands you will balance with 1NT
+rather than double and be forced into a 2NT rebid.
+}
+[Auction "E"]
+1S Pass Pass 1NT 
+Pass 2NT Pass Pass 
+Pass    
+[Play "E"]
+D3 D4 DJ DQ 
+C2 CA C8 C7 
+S9 CK C4 CT 
+S2 CQ CJ C9 
+H4 C6 ST C5 
+S6 C3 S4 D2 
+S8 SQ S3 S7 
+SJ S5 D6 SK 
+DT H2 D9 SA 
+- - - HA 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "11"]
+[Room "Open"]
+[West "Ron Sukoneck"]
+[North "Bob Hamman"]
+[East "Karen Heath"]
+[South "Zia Mahmood"]
+[Dealer "S"]
+[Deal "S:.KJT32.JT7.QT532 KT8642.9.53.AK74 Q53.AQ65.AQ92.J9 AJ97.874.K864.86"]
+[Vulnerable "None"]
+[Contract "5HX"]
+[Declarer "S"]
+{
+East's 2D response to 1S over North's slightly off-shape takeout
+double was undoubtedly the increasingly popular "Two-Way Constructive
+Raise" (2C showing three trumps, 2D showing four). That explains
+West's direct jump to 4S over South's 2H with his high-card minimum
+6=1=2=4 hand
+}
+[Auction "S"]
+Pass 1S X 2D 
+2H 4S Pass Pass 
+5C X 5H X 
+Pass Pass Pass  
+[Play "W"]
+CA C9 C6 C3 
+CK CJ C8 C2 
+C7 HA S7 C5 
+H9 HQ H4 H2 
+S2 H5 H7 HT 
+C4 H6 H8 HK 
+D3 DA D4 DJ 
+D5 D2 DK D7 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "12"]
+[Room "Open"]
+[West "Ron Sukoneck"]
+[North "Bob Hamman"]
+[East "Karen Heath"]
+[South "Zia Mahmood"]
+[Dealer "W"]
+[Deal "S:KT5.A.AKQ54.T732 J2.953.872.AQ654 AQ943.K7.T93.K98 876.QJT8642.J6.J"]
+[Vulnerable "NS"]
+[Contract "4NT"]
+[Declarer "N"]
+{
+When South made a negative double of East's weak jump overcall,
+North followed "Hamman's Law," which says that if 3NT is one
+of your options, bid it. West took advantage of the "favorable"
+vulnerability to save in 4H, but thoughtfully bid 4C on the way
+to suggest a lead if N/S bid 4S, running to 4H of course when
+doubled. When 4H came around to South, he invented "Zia's Codicil"
+to Hamman's Law, which says that if 4NT is one of your options
+after you were willing to play in 3NT, bid it.
+}
+[Auction "W"]
+Pass 1S 3H X 
+Pass 3NT Pass Pass 
+4C X Pass Pass 
+4H Pass Pass 4NT 
+Pass Pass Pass  
+[Play "E"]
+HQ HA H5 H7 
+CJ C2 CA C8 
+H6 C3 H3 HK 
+D6 DA D8 D3 
+DJ DK D2 D9 
+S8 SK S2 S4 
+S6 ST SJ SA 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "13"]
+[Room "Open"]
+[West "Bill Cole"]
+[North "Bob Hamman"]
+[East "Mark Shaw"]
+[South "Zia Mahmood"]
+[Dealer "N"]
+[Deal "S:Q842.AKT94.A9.62 KT.QJ2.Q87.AJ985 AJ96.76.JT42.QT4 753.853.K653.K73"]
+[Vulnerable "Both"]
+[Contract "2S"]
+[Declarer "N"]
+{
+A Flannery 2D sequence led to North declaring 2S, just as he
+would after pass-1H; 1S-2S (the standard sequence). With hearts
+splitting three-three and SK10 on side doubleton, North had no
+trouble setting up dummy's hearts and taking ten tricks.
+}
+[Auction "N"]
+Pass Pass 2D Pass 
+2S Pass Pass Pass 
+[Play "E"]
+S3 S2 ST SJ 
+H5 HA H2 H6 
+S5 S4 SK SA 
+H3 HK HJ H7 
+H8 HT HQ S9 
+S7 S8 C5 S6 
+C7 C2 CA C4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "14"]
+[Room "Open"]
+[West "Bill Cole"]
+[North "Bob Hamman"]
+[East "Mark Shaw"]
+[South "Zia Mahmood"]
+[Dealer "E"]
+[Deal "S:K8.QJT85.94.AKQ6 T75.AK94.AKQ8.T5 42.73.JT653.9832 AQJ963.62.72.J74"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "E"]
+{
+East's 2D was some version of the "Multi" - very popular in Europe,
+but seldom seen in the USA - usually showing a hand that would
+be opened a weak 2H or 2S. Here it was based on a weak 2S hand,
+but unlike a weak 2S bid, 2D let South enter with 2H. West's
+double showed hearts, but was not, strictly speaking, a penalty
+double.
+}
+[Auction "E"]
+2D 2H X Pass 
+2S 3C 4S Pass 
+Pass Pass   
+[Play "S"]
+CK C5 C8 C4 
+CA CT C9 C7 
+H5 HA H3 H2 
+SK ST S2 S3 
+C6 S7 C2 CJ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "15"]
+[Room "Open"]
+[West "Peter Fredin"]
+[North "Bob Hamman"]
+[East "Andrew Moss"]
+[South "Zia Mahmood"]
+[Dealer "S"]
+[Deal "S:AJT5.AKJ4.J54.AQ .T9653.AKT986.32 K9643.2.Q2.KT875 Q872.Q87.73.J964"]
+[Vulnerable "NS"]
+[Contract "5DX"]
+[Declarer "W"]
+{
+Fredin stayed silent on the first round of bidding with his gigantic
+red two-suiter, but couldn't contain himself when the opponents
+reached the spade game. Was it really necessary to save unilaterally
+in diamonds? [DC] There also was a strong likelyhood of four
+spades in partner's hand on the auction. A 4NT bid would be construed
+as any two-suiter (except spades, of course).
+}
+[Auction "S"]
+2NT Pass 3H Pass 
+4S 5D Pass Pass 
+X Pass Pass Pass 
+[Play "N"]
+H2 H7 HJ H5 
+C5 H8 HK H3 
+S3 HQ HA H6 
+DQ S2 H4 H9 
+S4 S7 SJ D8 
+D2 D3 D4 DA 
+C7 D7 D5 DK 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "16"]
+[Room "Open"]
+[West "Peter Fredin"]
+[North "Bob Hamman"]
+[East "Andrew Moss"]
+[South "Zia Mahmood"]
+[Dealer "W"]
+[Deal "S:J965.K.AKQT83.A6 87.Q974.J64.JT72 T.AT632.9.KQ9854 AKQ432.J85.752.3"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "S"]
+{
+Moss, obviously from a light school of preempting, chose to open
+1S. Zia, always on the lookout for the esoteric, overcalled 1NT.
+He had the right point-count, but his distribution was a little
+out of kilter. Hamman came alive with his 6-5, and transferred
+to hearts. Moss re-emphasized his spades, and Zia rebid 2NT.
+This was undiscussed, but had overtones of a source of tricks,
+and Hamman raised to 3NT.
+}
+[Auction "W"]
+Pass Pass 1S 1NT 
+Pass 2D 2S 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Play "W"]
+S8 ST S4 S6 
+H4 H2 H5 HK 
+C2 C4 C3 CA 
+CT CK D2 C6 
+C7 CQ D5 S9 
+H7 HA H8 SJ 
+*
+[Result "12"]
+

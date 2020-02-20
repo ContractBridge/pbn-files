@@ -1,0 +1,981 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "1"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:AQT.Q8.J73.76543 95.KT95.KQ92.AT9 83.J32.AT84.QJ82 KJ7642.A764.65.K"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass 1S Pass 2C 
+Pass 2H Pass 4H 
+Pass Pass Pass  
+[Contract "4H"]
+[Declarer "E"]
+[Play "S"]
+D3 DK DA D6 
+DJ DQ D4 D5 
+SQ S5 S3 SJ 
+C6 C9 CJ CK 
+H8 HK H2 H4 
+SA S9 S8 SK 
+C7 CA C2 S2 
+HQ H5 H3 HA 
+ST H9 HJ S4 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "1"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:AQT.Q8.J73.76543 95.KT95.KQ92.AT9 83.J32.AT84.QJ82 KJ7642.A764.65.K"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass 1S Pass 2C 
+Pass 2H Pass 3H 
+Pass 3S Pass 4H 
+Pass Pass Pass  
+[Contract "4H"]
+[Declarer "E"]
+[Play "S"]
+D7 DK DA D5 
+C6 C9 C2 CK 
+H8 HK H3 H4 
+SQ S5 S3 SJ 
+C4 CA C8 S2 
+SA S9 S8 SK 
+D3 DQ D4 D6 
+HQ HT H2 HA 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "2"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:Q6.JT972.K74.JT7 KJT8542.KQ4.A.K4 9.A853.J8.AQ9653 A73.6.QT96532.82"]
+[Vulnerable "NS"]
+[Auction "E"]
+Pass Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "W"]
+[Play "N"]
+CA C2 C7 C4 
+C9 C8 CT CK 
+S9 SA S6 S4 
+C3 S3 SQ SK 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "2"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:Q6.JT972.K74.JT7 KJT8542.KQ4.A.K4 9.A853.J8.AQ9653 A73.6.QT96532.82"]
+[Vulnerable "NS"]
+[Auction "E"]
+3D Pass 3S Pass 
+4S Pass Pass Pass 
+[Contract "4S"]
+[Declarer "W"]
+[Play "N"]
+HA H6 HJ H4 
+DJ D2 D7 DA 
+S9 S3 S6 SK 
+C3 SA SQ SJ 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "3"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:K8.K62.KQ652.AT3 643.AJ87543.8.K9 QT52.QT.AT94.Q85 AJ97.9.J73.J7642"]
+[Vulnerable "EW"]
+[Auction "S"]
+1D 1H X Pass 
+1NT 2H 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "3"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:K8.K62.KQ652.AT3 643.AJ87543.8.K9 QT52.QT.AT94.Q85 AJ97.9.J73.J7642"]
+[Vulnerable "EW"]
+[Auction "S"]
+1NT 2D Pass 2H 
+Pass 3H 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+H3 HT H9 H6 
+D8 D4 D7 DK 
+H5 DA D3 D2 
+S4 DT DJ DQ 
+H4 D9 C7 D5 
+S3 S2 S7 SK 
+S6 ST SJ S8 
+H7 S5 SA C3 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "4"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:J3.JT62.J8732.A7 Q962.K.Q.KQT8432 AKT8.Q843.A964.9 754.A975.KT5.J65"]
+[Vulnerable "Both"]
+[Auction "W"]
+1C X 1H 2D 
+Pass Pass Pass  
+[Contract "2D"]
+[Declarer "S"]
+[Play "W"]
+CK C9 C6 CA 
+DQ DA D5 D3 
+C4 D4 DK D7 
+C2 D6 DT DJ 
+S2 SA S7 S3 
+HK HQ H5 H2 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "4"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:J3.JT62.J8732.A7 Q962.K.Q.KQT8432 AKT8.Q843.A964.9 754.A975.KT5.J65"]
+[Vulnerable "Both"]
+[Auction "W"]
+Pass 1D Pass 1H 
+3C 3H Pass Pass 
+Pass    
+[Contract "3H"]
+[Declarer "S"]
+[Play "W"]
+CK C9 C5 CA 
+HK H3 H5 H2 
+DQ DA D5 D2 
+C2 HQ H7 H6 
+C3 D4 DK D3 
+CQ H4 CJ C7 
+S6 D9 DT DJ 
+- - - S3 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "5"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:AKT972.QT.JT96.3 Q8.A76543.8.J986 65.KJ82.KQ752.T2 J43.9.A43.AKQ754"]
+[Vulnerable "NS"]
+[Auction "N"]
+Pass 1C 1S 2H 
+Pass 3C Pass 4D 
+Pass 5C Pass Pass 
+Pass    
+[Contract "5C"]
+[Declarer "E"]
+[Play "S"]
+SK S8 S6 S4 
+SA SQ S5 S3 
+S2 CJ D7 SJ 
+DJ D8 DQ DA 
+D6 C6 D2 D4 
+HT HA H2 H9 
+C3 C8 C2 CA 
+D9 C9 D5 D3 
+HQ H3 HK CQ 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "5"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:AKT972.QT.JT96.3 Q8.A76543.8.J986 65.KJ82.KQ752.T2 J43.9.A43.AKQ754"]
+[Vulnerable "NS"]
+[Auction "N"]
+Pass 1C 2S X 
+Pass 3C Pass 3H 
+Pass Pass Pass  
+[Contract "3H"]
+[Declarer "W"]
+[Play "N"]
+S5 S3 SK S8 
+D2 DA DJ D8 
+H2 H9 HT HA 
+H8 C4 HQ H7 
+S6 S4 SA SQ 
+D5 D3 DT H6 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "6"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:Q75.A8.Q54.T9876 T42.J9632.T862.J A3.KT754.AJ7.Q43 KJ986.Q.K93.AK52"]
+[Vulnerable "EW"]
+[Auction "E"]
+1S Pass Pass 2H 
+Pass Pass Pass  
+[Contract "2H"]
+[Declarer "N"]
+[Play "E"]
+CA C6 CJ C3 
+C5 C7 H3 CQ 
+S8 S5 S4 SA 
+HQ HA H2 H4 
+S6 H8 H6 H5 
+CK C8 D2 C4 
+SK S7 S2 S3 
+C2 C9 D6 D7 
+S9 SQ ST DJ 
+- CT D8 - 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "6"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:Q75.A8.Q54.T9876 T42.J9632.T862.J A3.KT754.AJ7.Q43 KJ986.Q.K93.AK52"]
+[Vulnerable "EW"]
+[Auction "E"]
+1S Pass Pass 2H 
+Pass Pass Pass  
+[Contract "2H"]
+[Declarer "N"]
+[Play "E"]
+CK C6 CJ C4 
+C5 C7 H2 CQ 
+S6 S5 S2 SA 
+SK S7 S4 S3 
+CA C8 HJ C3 
+HQ HA H3 H4 
+D3 H8 H6 HT 
+*
+[Result "7"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "7"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:K3.AKQ86.K3.T975 Q8654.T9754.82.4 JT97.J32.J4.8632 A2..AQT9765.AKQJ"]
+[Vulnerable "Both"]
+[Auction "S"]
+1H Pass Pass 3H 
+Pass 3NT Pass 4D 
+Pass 5D Pass Pass 
+Pass    
+[Contract "5D"]
+[Declarer "E"]
+[Play "S"]
+HK H4 H2 D7 
+D3 D2 D4 DA 
+DK D8 DJ DT 
+H8 H9 HJ D5 
+H6 S4 H3 DQ 
+HA S5 SJ D9 
+C5 H5 S7 D6 
+S3 S6 ST SA 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "7"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:K3.AKQ86.K3.T975 Q8654.T9754.82.4 JT97.J32.J4.8632 A2..AQT9765.AKQJ"]
+[Vulnerable "Both"]
+[Auction "S"]
+1H Pass Pass 3H 
+X XX Pass 4H 
+Pass 4NT Pass 5D 
+Pass Pass Pass  
+[Contract "5D"]
+[Declarer "E"]
+[Play "S"]
+HA H4 H3 D5 
+D3 D2 D4 DA 
+DK D8 DJ DQ 
+HK H5 H2 D6 
+H8 S4 C2 D9 
+C5 S5 C3 D7 
+C7 S6 C6 DT 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "8"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:A72.A32.J63.AKT3 54.Q74.AT875.J52 QJ63.KJ96.Q9.Q94 KT98.T85.K42.876"]
+[Vulnerable "None"]
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass 1H Pass 1NT 
+Pass 3NT Pass Pass 
+Pass    
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+C5 C4 C6 CT 
+S5 SQ SK S7 
+S4 S3 ST SA 
+H4 HJ H8 H3 
+D5 SJ S8 S2 
+C2 CQ C7 C3 
+CJ C9 C8 CA 
+D7 S6 D4 CK 
+HQ H6 H5 HA 
+H7 HK HT H2 
+D8 H9 S9 D3 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "8"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:A72.A32.J63.AKT3 54.Q74.AT875.J52 QJ63.KJ96.Q9.Q94 KT98.T85.K42.876"]
+[Vulnerable "None"]
+[Auction "W"]
+Pass Pass Pass 1NT 
+Pass 2C Pass 2D 
+Pass 3NT Pass Pass 
+Pass    
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+D5 D9 DK D6 
+D7 DQ D4 D3 
+C5 C4 C7 CA 
+C2 CQ C6 C3 
+CJ C9 C8 CK 
+S4 S3 S8 CT 
+H4 H6 H5 HA 
+- - - H2 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "9"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:KQ42.862.A5.9542 T87.QJ5.QT86.AQ3 J65.943.J43.KJT8 A93.AKT7.K972.76"]
+[Vulnerable "EW"]
+[Auction "N"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "E"]
+[Play "S"]
+S4 S7 SJ S9 
+SK S8 S6 S3 
+S2 ST S5 SA 
+D5 DQ D3 D2 
+DA D6 D4 D7 
+SQ C3 - - 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "9"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:KQ42.862.A5.9542 T87.QJ5.QT86.AQ3 J65.943.J43.KJT8 A93.AKT7.K972.76"]
+[Vulnerable "EW"]
+[Auction "N"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "E"]
+[Play "S"]
+S2 ST SJ S3 
+S4 S7 S5 SA 
+H2 H5 H3 HT 
+H6 HJ H4 H7 
+DA D6 D4 DK 
+C2 CA C8 C6 
+H8 HQ H9 HK 
+- - - HA 
+*
+[Result "6"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "10"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:J9873.84.A82.T85 T652.AT2.K75.932 AK4.Q9763.63.AK7 Q.KJ5.QJT94.QJ64"]
+[Vulnerable "Both"]
+[Auction "E"]
+Pass Pass Pass 1H 
+Pass 1S Pass 1NT 
+Pass Pass Pass  
+[Contract "1NT"]
+[Declarer "N"]
+[Play "E"]
+DQ D2 D5 D6 
+D9 D8 DK D3 
+DT DA D7 H3 
+SQ S3 S2 SA 
+C4 S7 S6 SK 
+C6 C5 C2 CK 
+CQ C8 C3 CA 
+H5 SJ S5 S4 
+*
+[Result "6"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "10"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:J9873.84.A82.T85 T652.AT2.K75.932 AK4.Q9763.63.AK7 Q.KJ5.QJT94.QJ64"]
+[Vulnerable "Both"]
+[Auction "E"]
+Pass Pass Pass 1NT 
+Pass 2H Pass 2S 
+Pass Pass Pass  
+[Contract "2S"]
+[Declarer "N"]
+[Play "E"]
+DQ D2 D5 D3 
+D4 DA D7 D6 
+D9 D8 DK S4 
+H5 H4 HT H6 
+C4 C5 C9 CA 
+HJ H8 HA H3 
+C6 C8 C3 CK 
+SQ S3 S2 SA 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "11"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:.864.KQT842.Q962 QJ64.T5.A973.AK7 T975.AJ9.J6.T853 AK832.KQ732.5.J4"]
+[Vulnerable "None"]
+[Auction "S"]
+2D X 3D 4D 
+Pass 4S Pass 4NT 
+Pass 5S Pass 6S 
+Pass Pass Pass  
+[Contract "6S"]
+[Declarer "W"]
+[Play "N"]
+DJ D5 D8 DA 
+S5 SA D2 S4 
+S7 S2 D4 SQ 
+H9 HK H4 H5 
+C5 C4 C2 CA 
+HA H2 H8 HT 
+C3 CJ CQ CK 
+S9 S3 DQ SJ 
+ST SK DT S6 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "11"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:.864.KQT842.Q962 QJ64.T5.A973.AK7 T975.AJ9.J6.T853 AK832.KQ732.5.J4"]
+[Vulnerable "None"]
+[Auction "S"]
+2S X Pass Pass 
+XX Pass 3C 4C 
+Pass 4S Pass Pass 
+Pass    
+[Contract "4S"]
+[Declarer "W"]
+[Play "N"]
+DJ D5 D2 DA 
+S5 S2 DK SQ 
+H9 HK H4 H5 
+C3 C4 C2 CA 
+HA H2 H6 HT 
+C5 CJ CQ CK 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "12"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:AKQ742.543..AK87 53.QJ8.AKJ875.Q4 T98.AKT7.QT62.J5 J6.962.943.T9632"]
+[Vulnerable "NS"]
+[Auction "W"]
+1D Pass Pass 2D 
+X 3C Pass 4S 
+Pass 5S Pass 6C 
+Pass 6H Pass 6S 
+Pass Pass Pass  
+[Contract "6S"]
+[Declarer "S"]
+[Play "W"]
+DK D2 D9 S2 
+S5 S8 S6 SA 
+H8 HT H6 H4 
+S3 S9 SJ SK 
+C4 C5 C6 CA 
+CQ CJ C3 CK 
+D5 ST CT C8 
+*
+[Result "13"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "12"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:AKQ742.543..AK87 53.QJ8.AKJ875.Q4 T98.AKT7.QT62.J5 J6.962.943.T9632"]
+[Vulnerable "NS"]
+[Auction "W"]
+1NT Pass Pass 4S 
+Pass Pass Pass  
+[Contract "4S"]
+[Declarer "S"]
+[Play "W"]
+DK D2 D3 S2 
+C4 C5 C2 CA 
+CQ CJ C3 CK 
+S3 S8 C6 C7 
+*
+[Result "13"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "13"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:743.3.KQJ654.J92 QT65.AK62.83.763 K9.QJT954.97.AT4 AJ82.87.AT2.KQ85"]
+[Vulnerable "Both"]
+[Auction "N"]
+2H X Pass 2S 
+Pass Pass Pass  
+[Contract "2S"]
+[Declarer "W"]
+[Play "N"]
+HQ H7 H3 HA 
+C4 CK C2 C6 
+D9 D2 DQ D8 
+D7 DA DJ D3 
+SK DT DK ST 
+HT H8 S3 H2 
+CA C5 C9 C3 
+H4 SA CJ H6 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "13"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:743.3.KQJ654.J92 QT65.AK62.83.763 K9.QJT954.97.AT4 AJ82.87.AT2.KQ85"]
+[Vulnerable "Both"]
+[Auction "N"]
+1H X 2D 2S 
+Pass 3S Pass 4S 
+Pass Pass Pass  
+[Contract "4S"]
+[Declarer "W"]
+[Play "N"]
+D7 DA DK D3 
+H4 H7 H3 HA 
+S9 S2 S3 SQ 
+SK SA S4 S5 
+H5 S8 S7 ST 
+C4 CK C2 C7 
+H9 H8 D4 HK 
+CT CQ C9 C3 
+CA C5 CJ C6 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "14"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:KQ92.A7.T765.T93 AJ754.6432.8.742 T6.QJ985.A932.J5 83.KT.KQJ4.AKQ86"]
+[Vulnerable "None"]
+[Auction "E"]
+1C Pass 1D 1H 
+1NT 2H 3S Pass 
+Pass Pass   
+[Contract "3S"]
+[Declarer "W"]
+[Play "N"]
+HQ HK HA H3 
+HJ HT H7 H4 
+H9 S3 S9 H2 
+DA D4 DT D8 
+H8 S8 SK H6 
+D2 DJ D7 S4 
+S6 C6 S2 SA 
+ST - - S5 
+*
+[Result "7"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "14"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:KQ92.A7.T765.T93 AJ754.6432.8.742 T6.QJ985.A932.J5 83.KT.KQJ4.AKQ86"]
+[Vulnerable "None"]
+[Auction "E"]
+1C Pass 1S Pass 
+2D Pass 2H X 
+Pass Pass 3C Pass 
+Pass Pass   
+[Contract "3C"]
+[Declarer "E"]
+[Play "S"]
+HA H2 H5 HT 
+H7 H3 HJ HK 
+D5 D8 DA DQ 
+CT H4 H9 C8 
+SK SA S6 S3 
+C3 C2 C5 CA 
+D6 C7 D2 D4 
+C9 C4 CJ CK 
+- - - CQ 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "15"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:KQ8.KQJ986.KJ.63 54.A3.AT8652.AJ9 J7632.42.Q9.K854 AT9.T75.743.QT72"]
+[Vulnerable "NS"]
+[Auction "S"]
+1H 2D Pass Pass 
+2H Pass Pass Pass 
+[Contract "2H"]
+[Declarer "S"]
+[Play "W"]
+S4 S2 S9 SK 
+HA H2 H7 HJ 
+S5 S3 SA S8 
+H3 S6 ST SQ 
+DA D9 D7 DK 
+CA C4 C2 C6 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "15"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:KQ8.KQJ986.KJ.63 54.A3.AT8652.AJ9 J7632.42.Q9.K854 AT9.T75.743.QT72"]
+[Vulnerable "NS"]
+[Auction "S"]
+1H 2D Pass Pass 
+2H Pass Pass 3D 
+Pass Pass Pass  
+[Contract "3D"]
+[Declarer "W"]
+[Play "N"]
+H2 H5 HQ HA 
+D9 D3 DJ DA 
+DQ D4 DK DT 
+H4 H7 HK H3 
+S6 HT HJ D6 
+S2 D7 H8 D5 
+CK C2 C3 CJ 
+S3 SA S8 S4 
+C4 C7 C6 CA 
+- - - D2 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "16"]
+[West "Jassem"]
+[North "Rosenberg"]
+[East "Tuszynski"]
+[South "Zia"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:T842.KJ6.J73.QJ3 A75.Q.AKQ42.T654 QJ.T532.965.K872 K963.A9874.T8.A9"]
+[Vulnerable "EW"]
+[Auction "W"]
+1D Pass 1H Pass 
+2C Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Contract "3NT"]
+[Declarer "E"]
+[Play "S"]
+S4 S5 SJ S6 
+CJ C4 C2 C9 
+C3 C5 C7 CA 
+D3 DA D5 D8 
+D7 D2 D6 DT 
+S2 SA SQ S3 
+DJ DK D9 H4 
+H6 DQ H2 H7 
+CQ D4 H3 H9 
+HK HQ H5 HA 
+S8 S7 - SK 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Bermuda Bowl"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "Quarterfinal 6 - Match 3"]
+[Board "16"]
+[West "Stansby"]
+[North "Pczszola"]
+[East "Martel"]
+[South "Kwiecien"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:T842.KJ6.J73.QJ3 A75.Q.AKQ42.T654 QJ.T532.965.K872 K963.A9874.T8.A9"]
+[Vulnerable "EW"]
+[Auction "W"]
+1D Pass 1H Pass 
+1NT Pass 2D Pass 
+2NT Pass 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+C2 C9 CQ C4 
+C7 CA CJ C5 
+D5 D8 D7 DA 
+D6 DT D3 DK 
+D9 H4 DJ DQ 
+H2 H7 H6 D4 
+H3 H8 C3 D2 
+SJ S3 S2 S7 
+H5 HA HJ HQ 
+- S6 - - 
+*
+[Result "9"]
+
