@@ -1,0 +1,1350 @@
+% PBN 0.8
+% EXPORT
+%
+[Event "1997 Bermuda Bowl"]
+[Site "Hammamet TUN"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "1"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AT2.T9543.74.Q98 J4.QJ72.QJ.AKT52 KQ87.K8.AT953.73 9653.A6.K862.J64"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+120"]
+[Stage "Round Robin"]
+[VisitTeam "Brazil"]
+[Auction "N"]
+Pass 1NT Pass Pass
+Pass
+[Play "S"]
+D5 D2 D4 DQ
+HK HA H3 HQ
+C3 C4 C9 CT
+C7 C6 C8 CA
+D3 CJ CQ CK
+D9 D6 H4 C5
+DT D8 S2 C2
+H8 H6 H5 HJ
+DA DK D7 DJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "1"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+110"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1C 1D 1S
+Pass 2C Pass 3C
+Pass Pass Pass
+[Play "S"]
+HK HA - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "2"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J97653.4.64.AJ96 T2.AT.AKQ752.Q42 K8.865.T9.KT8753 AQ4.KQJ9732.J83."]
+[Declarer "N"]
+[Contract "6H"]
+[Result "13"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+1460"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "E"]
+2D 2NT Pass 6H
+Pass Pass Pass
+[Play "E"]
+S7 S2 SK SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "2"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "13"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+1460"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+2D 2NT Pass 3D
+Pass 3H Pass 3S
+Pass 3NT Pass 6H
+Pass Pass Pass
+[Play "W"]
+SK - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "3"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K95.AKJ542.A95.Q AQT876.Q97.K6.A9 43.6.82.KJT87432 J2.T83.QJT743.65"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "7"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "S"]
+1H 2S 2NT Pass
+3H Pass Pass Pass
+[Play "W"]
+SA S3 S2 S5
+S6 S4 SJ SK
+ST H6 H8 S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "3"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+150"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C 1S Pass Pass
+2H 2S 3C Pass
+3H Pass 4C Pass
+Pass Pass
+[Play "W"]
+SA S3 S2 S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "4"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q4.A87.KQ64.Q965 6.KQT95.J97.J832 T985.J32.A52.T74 AKJ732.64.T83.AK"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+110"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "W"]
+1D Pass Pass 2S
+Pass Pass Pass
+[Play "W"]
+DK D7 D5 D3
+D4 D9 DA D8
+C5 C2 C7 CA
+S4 S6 S5 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "4"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1S 2S
+Pass Pass Pass
+[Play "W"]
+DK D7 D2 D3
+D4 DJ DA D8
+C5 C2 C4 CA
+H8 HK H3 H6
+SQ S6 S8 SJ
+HA H5 H2 H4
+DQ D9 D5 DT
+D6 C3 HJ S2
+S4 H9 S5 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "5"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AT64.743.84.JT54 J732.K2.K532.K98 5.A96.AQJ96.Q632 KQ98.QJT85.T7.A7"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+110"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+C2 C7 CT CK
+S5 SK S6 S3
+D6 S8 S4 SJ
+H6 H5 H3 HK
+HA H8 H4 H2
+C3 CA C4 C9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "5"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-150"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1D X
+Pass 2D Pass 2H
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+C2 C7 CT CK
+S5 SK SA S2
+DJ D7 D8 D5
+DA DT D4 DK
+C3 CA C4 C8
+HA HQ H3 H2
+C6 S8 C5 C9
+H6 H5 H4 HK
+H9 S9 S4 SJ
+D6 SQ H7 D2
+D9 HJ S6 S7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "6"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QT9.KQJT9.Q98.A3 74.82.73.QJT9875 K852.A765.AKT5.K AJ63.43.J642.642"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+1430"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "E"]
+1NT 3C X Pass
+4H Pass 6H Pass
+Pass Pass
+[Play "S"]
+CQ CK C6 C3
+H2 H5 H3 HK
+H8 H6 H4 HQ
+D3 DA D2 D9
+D7 D5 D4 DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "6"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+680"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1H 3C 4C Pass
+4H Pass 5D Pass
+5H Pass Pass Pass
+[Play "S"]
+S7 S2 SA S9
+S4 - S3 ST
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "7"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KQ6.AT6.9654.J65 T43.K7543.K2.AT3 J982.8.AJ73.Q982 A75.QJ92.QT8.K74"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "0"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "S"]
+Pass Pass Pass Pass
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "7"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "1H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+140"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1H Pass Pass
+Pass
+[Play "N"]
+S9 SA S6 S3
+DA D8 D6 DK
+S2 S5 SK S4
+S8 S7 SQ ST
+C2 C4 CJ CA
+D7 DT D9 D2
+H8 HQ H6 H3
+- HJ HA H4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "8"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A.QJ83.AQJ5.AKQJ T94.AK65.KT43.43 K63.974.7.T98752 QJ8752.T2.9862.6"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "W"]
+1C Pass 1D 2S
+X Pass 3C Pass
+3S Pass 3NT Pass
+Pass Pass
+[Play "S"]
+S7 SA S4 S6
+C6 CJ C3 C7
+S2 CQ C4 C8
+S5 CK S9 C2
+S8 CA ST C5
+H2 HQ HA H4
+HT HJ H5 H7
+SJ H3 HK H9
+SQ H8 H6 S3
+D2 DA D3 D7
+D6 DQ DK C9
+D8 DJ D4 CT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "8"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+2D Pass 2H Pass
+3H Pass 3S Pass
+4C Pass 5C Pass
+Pass Pass
+[Play "N"]
+HK H4 HT H3
+HA H7 H2 H8
+H6 H9 C6 HJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "9"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJ8.53.KQ9.QJT53 QT54.T87.J5.9872 963.J64.A843.AK6 K72.AKQ92.T762.4"]
+[Declarer "N"]
+[Contract "3NTX"]
+[Result "8"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "N"]
+1NT Pass 3NT X
+Pass Pass Pass
+[Play "E"]
+H7 H4 HQ H5
+H8 H6 HK H3
+HT HJ HA S8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "9"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+430"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1D Pass 1H Pass
+1NT Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "E"]
+S4 S3 SK SA
+C2 CA C4 C3
+C7 CK H2 C5
+C8 C6 S7 CQ
+C9 S6 D7 CJ
+H8 S9 S2 CT
+D5 D3 D2 DK
+DJ D4 D6 DQ
+S5 - - D9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "10"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:.K9532.K52.T9852 QT964.AJT6..KQJ7 AKJ875.7.AT964.4 32.Q84.QJ873.A63"]
+[Declarer "S"]
+[Contract "2SX"]
+[Result "6"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-500"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "E"]
+Pass 1S Pass 1NT
+Pass 2H Pass 2S
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+DA D3 D5 S4
+C4 CA C5 C7
+H7 HQ H5 H6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "10"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-200"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1S Pass 1NT
+Pass 2H 2S Pass
+Pass Pass
+[Play "N"]
+H4 H2 HT H7
+CA C2 C7 C4
+HQ H3 H6 S5
+D7 DK S4 D4
+C6 C5 CK S7
+DJ D2 HJ D9
+S2 D5 SQ SA
+D8 H5 HA D6
+C3 C8 CJ S8
+S3 C9 S6 SK
+H8 CT S9 SJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "11"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQT84.J2.QT4.AKQ 53.A8.J852.95432 AJ72.Q.K97.JT876 96.KT976543.A63."]
+[Declarer "S"]
+[Contract "5S"]
+[Result "10"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "S"]
+1S Pass 3C 4H
+4S 5H 5S Pass
+Pass Pass
+[Play "W"]
+HA HQ HT H2
+C5 C6 S6 CK
+D2 D7 DA D4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "11"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "4HX"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C Pass 1S 4H
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+CK C2 C6 H3
+ST S3 S7 S9
+H2 HA HQ H9
+S8 S5 S2 S6
+HJ H8 C7 HK
+S4 C3 C8 HT
+SQ C4 CT H7
+SK C5 SJ H6
+CQ C9 D7 H5
+D4 D2 D9 D6
+CA D5 SA H4
+DT - - DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "12"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:3.QJ83.J32.JT654 J76542.T94.T9.87 AK.AK7652.76.KQ3 QT98..AKQ854.A92"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "10"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "W"]
+Pass Pass 1C 1D
+Pass Pass X 1S
+2H 3S 4H 4S
+Pass Pass 5H Pass
+Pass Pass
+[Play "N"]
+DT D6 DQ D3
+D9 D7 DA D2
+S2 SK S8 S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "12"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "5SX"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+850"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1H X
+4H Pass Pass X
+Pass 4S 5H 5S
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+CK CA C4 C7
+D6 DA D3 D9
+D7 DK D2 DT
+SK DQ DJ C8
+CQ C2 C5 S2
+SA S8 S3 S4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "13"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT653.AKQ.J98.54 Q7.T8654.AK2.A97 982.93.T73.KQT86 AJ4.J72.Q654.J32"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "N"]
+1S X 2S X
+Pass 3H Pass Pass
+Pass
+[Play "S"]
+CK C2 C5 C7
+S9 S4 SK S7
+C8 C3 C4 CA
+S2 SA S3 SQ
+- SJ - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "13"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+140"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1S X Pass 1NT
+Pass Pass 2C Pass
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+CK C2 C4 CA
+H3 HJ HQ H4
+CQ C3 C5 C7
+S9 SA S6 S7
+H9 H2 HK H5
+S8 S4 S5 SQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "14"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:8.653.AJ43.QJ974 K9763.A74.T92.82 AJ4.QJ92.Q7.AK65 QT52.KT8.K865.T3"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "E"]
+Pass Pass 1C Pass
+1D Pass 1NT Pass
+3NT Pass Pass Pass
+[Play "N"]
+S2 S8 SK SA
+C3 CQ C8 C6
+H8 H6 HA H2
+SQ D3 S6 SJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "14"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2NT Pass 3C Pass
+3NT Pass Pass Pass
+[Play "N"]
+S2 S8 SK S4
+SQ H3 S6 SJ
+ST D3 S3 SA
+C3 CQ C8 C5
+CT CJ C2 C6
+H8 C4 H7 CA
+D5 C7 H4 CK
+DK DA D2 DQ
+S5 C9 D9 H2
+D6 DJ DT D7
+D8 D4 S7 H9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "15"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:8654.8.KQ542.JT3 J2.KJT9.T87.KQ62 AQT7.7543.AJ93.8 K93.AQ62.6.A9754"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+420"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "S"]
+Pass 1NT Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "N"]
+H3 HA H8 H9
+DA D6 DQ D8
+H4 H2 D2 HT
+D3 H6 D4 D7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "15"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+450"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1S 2C
+2S 3S Pass 4H
+Pass Pass Pass
+[Play "S"]
+S8 S2 SA S3
+C3 C2 C8 C9
+H8 H9 H3 H2
+S4 HT H5 H6
+S5 SJ SQ SK
+S6 HJ S7 S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "16"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:43.A752.A92.KQ76 65.JT4.KT43.J952 K872.98.Q875.AT8 AQJT9.KQ63.J6.43"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "6"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "W"]
+1D Pass 1S Pass
+1NT Pass Pass X
+Pass 2C Pass 2H
+Pass Pass Pass
+[Play "W"]
+C7 C2 C8 C3
+HA H4 H8 H3
+H2 HT H9 H6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "16"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+110"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1S 2S
+Pass Pass Pass
+[Play "W"]
+CK C2 C8 C3
+C6 C5 CT C4
+HA H4 H9 H6
+C7 C9 CA S9
+D2 DK D5 DJ
+S3 S5 S2 SQ
+H2 HT H8 H3
+S4 S6 S7 SJ
+H5 HJ S8 SA
+H7 D3 SK HK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "17"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T92.QJT83.J5.J52 864.A74.T84.Q973 KQ75.92.AKQ2.A84 AJ3.K65.9763.KT6"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+110"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "N"]
+Pass Pass 1D X
+1H 2C X Pass
+2H Pass Pass Pass
+[Play "E"]
+S4 SK S3 S2
+HA H2 H5 HQ
+S8 S5 SJ S9
+S6 S7 SA ST
+CQ - C6 CJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "17"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+110"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1C Pass
+1H Pass 1NT Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+C3 CA C6 C5
+D4 D2 D3 DJ
+D8 DQ D6 D5
+DT DK D7 CJ
+H4 DA D9 C2
+C7 C4 CK H3
+S8 SK S3 S2
+HA H2 H5 HJ
+S4 SQ SA ST
+S6 S5 SJ S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "18"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:75.AQJT.J53.KQ63 Q432.2.Q764.T974 AKJ98.9873.AKT.2 T6.K654.982.AJ85"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+480"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "E"]
+1D Pass 1S Pass
+1NT Pass 2C Pass
+2D Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "N"]
+D9 D3 D7 DT
+CA C3 C4 C2
+D8 D5 D4 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "18"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+480"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1C Pass 1S Pass
+1NT Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "S"]
+D4 DA D8 D3
+C4 C2 CA C3
+H2 H3 H4 HQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "19"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:62.AJT8.Q654.J97 AJ73.Q752.K72.T5 Q984.K4.AJ9.KQ32 KT5.963.T83.A864"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 1NT Pass
+3NT Pass Pass Pass
+[Play "E"]
+C4 C9 CT CK
+C6 C7 C5 C3
+D8 D4 D2 DJ
+CA CJ - C2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "19"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+120"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1NT Pass
+Pass Pass
+[Play "E"]
+C4 C9 CT CK
+C6 C7 C5 C3
+D3 D4 D2 DJ
+CA CJ H7 C2
+S5 S2 SA S4
+ST S6 S3 S9
+SK H8 S7 S8
+C8 D5 SJ CQ
+H6 HT H2 HK
+H9 HJ HQ H4
+- - D7 D9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.22"]
+[Round "7"]
+[Board "20"]
+[West "Meckstroth"]
+[North "Chagas"]
+[East "Rodwell"]
+[South "Branco"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K3.43.AT9.AJ9852 J5.QT9.Q7642.KQ6 Q8.AK65.KJ53.T73 AT97642.J872.8.4"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "Brazil"]
+[Auction "W"]
+2C Pass 2D 3S
+3NT Pass Pass Pass
+[Play "N"]
+SJ SQ S7 S3
+D2 D3 D8 DA
+D4 D5 S2 D9
+D6 DJ H2 DT
+- DK - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "20"]
+[West "Fonseca"]
+[North "Hamman"]
+[East "Mello"]
+[South "Wolff"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1H 1S
+2C Pass 2S Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "N"]
+SJ SQ SA S3
+H9 HA H2 H4
+CQ CT C4 C2
+HQ HK H7 H3
+CK C3 S6 C8
+HT H5 HJ D9
+- - H8 -
+*
+

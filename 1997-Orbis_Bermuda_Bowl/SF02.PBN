@@ -1,0 +1,1072 @@
+% PBN 0.8
+% EXPORT
+%
+[Event "1997 Bermuda Bowl"]
+[Site "Hammamet TUN"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "1"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A54.Q9532.J97.32 87.KJ6.AT863.K64 KT.AT87.5.AJT985 QJ9632.4.KQ42.Q7"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-50"]
+[Stage "Semifinal"]
+[VisitTeam "USA 1"]
+[Auction "N"]
+Pass Pass 1C 2S
+X Pass 4H Pass
+Pass Pass
+[Play "W"]
+SQ S4 S8 SK
+H4 H2 HJ H8
+D4 D7 DA D5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "1"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+420"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1NT X XX
+Pass 2C X 2S
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+S8 ST SJ SA
+HK HA H4 HQ
+C4 CA C7 C3
+C6 CJ CQ C2
+D3 D5 DK D7
+DA H7 D2 DJ
+HJ HT S9 H2
+D8 H8 D4 D9
+- C5 S2 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "2"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AJ76.KJ54.9.J542 KT84.96.KQ743.K6 Q9.AQT873.AJ8.QT 532.2.T652.A9873"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+450"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "E"]
+Pass 1D 1H 2D
+4H Pass Pass Pass
+[Play "N"]
+D2 D9 DQ DA
+H2 HK H6 H8
+C3 C2 CK CQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "2"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+450"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1D 1H Pass
+2D Pass 4H Pass
+Pass Pass
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "3"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:Q8.JT742.AK2.JT9 T642.AQ3.83.AQ53 J973.K85.JT54.K8 AK5.96.Q976.7642"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "S"]
+Pass 1C Pass 1D
+1H Pass 2H 3C
+Pass Pass Pass
+[Play "N"]
+H5 H6 HT HQ
+D4 D6 DK D3
+S7 SK S8 S2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "3"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+110"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1NT Pass 2C Pass
+2H Pass Pass Pass
+[Play "W"]
+D8 DJ D7 D2
+S2 S3 SK S8
+D3 D4 D6 DA
+H3 HK H6 H4
+S6 S7 SA SQ
+HA D5 D9 DK
+HQ H5 H9 H7
+C3 CK C7 C9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "4"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K96.Q532.8743.82 AQJT3.J7.AT5.T65 7542.KT98.Q96.K4 8.A64.KJ2.AQJ973"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+1370"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "W"]
+Pass 1S Pass 3C
+Pass 3S Pass 3NT
+Pass 4C Pass 4H
+Pass 5D Pass 6C
+Pass Pass Pass
+[Play "W"]
+H2 HJ HK H4
+H3 H7 H8 HA
+H5 C5 H9 H6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "4"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+660"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "E"]
+HT H4 HQ H7
+S5 S8 S9 SA
+C4 C7 C8 CT
+CK CA C2 C6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "5"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQ5.J84.K84.8765 J874.K53.Q6.Q932 T63.AQT97.J953.A K92.62.AT72.KJT4"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "N"]
+Pass Pass 1H X
+XX 1S 2D Pass
+2H 2S 3H Pass
+4H Pass Pass Pass
+[Play "W"]
+S2 S5 SJ S3
+CT C5 C2 CA
+D2 DK D6 D3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "5"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+630"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1H X
+2D 2S 3H Pass
+3NT Pass Pass Pass
+[Play "E"]
+C2 CA CJ C7
+D6 D3 D7 DK
+H5 H7 H6 H8
+HK HA H2 HJ
+H3 H9 D2 H4
+S8 HT S2 C8
+S4 HQ S9 C6
+S7 S3 SK SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "6"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:T92.654.A874.T54 A3.AKQT3.Q6.KJ63 KJ764.J8.92.A982 Q85.972.KJT53.Q7"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+420"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "E"]
+Pass 1H Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+D9 D3 DA DQ
+D2 DT D7 D6
+H8 DJ D8 S3
+CA C7 C4 C3
+C2 CQ C5 C6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "6"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+450"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C 1S 2D
+Pass 2H Pass 3C
+Pass 3D Pass 4H
+Pass Pass Pass
+[Play "W"]
+S6 SQ ST S3
+H8 H2 H5 HA
+HJ H7 H4 HK
+D2 D3 D4 DQ
+D9 DT DA D6
+CA C7 C4 C6
+C2 CQ - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "7"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AJ94.96.987.A975 Q53.T8.AKQJ65.KJ KT762.754.42.642 8.AKQJ32.T3.QT83"]
+[Declarer "W"]
+[Contract "4NT"]
+[Result "7"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-300"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 2NT Pass 4C
+Pass 4H Pass 4NT
+Pass Pass Pass
+[Play "N"]
+S6 S8 SA S3
+C2 C3 CA CJ
+SK C8 S4 SQ
+S2 D3 SJ S5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "7"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "13"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+710"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1D Pass 1H
+X 1NT 3S 4H
+Pass Pass Pass
+[Play "S"]
+C7 CJ C6 C3
+- H8 H7 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "8"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q.AQT8642.Q942.T 87632.K93.J6.AK8 AJT.7.AKT8.QJ962 K954.J5.753.7543"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+420"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "W"]
+Pass 1S 2C 2S
+4H Pass Pass Pass
+[Play "N"]
+CK C2 C3 CT
+S8 SA S4 SQ
+H3 H7 H5 HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "8"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+450"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+4H Pass Pass Pass
+[Play "N"]
+CA C2 C3 CT
+S8 SA S4 SQ
+HK H7 HJ HQ
+CK C6 C4 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "9"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9874.4.6.AKQ9532 AQ3.KQT732.K953. KJT6.AJ9865.Q.87 52..AJT8742.JT64"]
+[Declarer "W"]
+[Contract "6DX"]
+[Result "12"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+1540"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "N"]
+1C 1H Pass 2D
+3C 4C 4S 5D
+Pass 6D X Pass
+Pass Pass
+[Play "N"]
+CK D3 C7 C4
+H4 H2 H5 D2
+C2 D5 C8 C6
+C3 H3 H6 DJ
+D6 DK DQ D7
+- HK - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "9"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "4HX"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-800"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+3S 4H X Pass
+Pass Pass
+[Play "S"]
+C8 CT CK H2
+HA D2 H4 HQ
+DQ D4 D6 DK
+HJ C4 C9 HT
+H8 C6 S4 H3
+H5 CJ S7 H7
+S6 DA CA D3
+H6 DJ S8 D5
+C7 S2 CQ HK
+H9 D7 C5 D9
+SJ - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "10"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AKQJ42.J6.J652.J 9763.AQ9854.9.32 5.K32.A87.AK9874 T8.T7.KQT43.QT65"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+650"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "E"]
+1S Pass 2C Pass
+2S Pass 3C Pass
+4S Pass Pass Pass
+[Play "S"]
+D9 D7 DQ D6
+HA H2 HT H6
+HQ HK H7 HJ
+S3 S5 S8 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "10"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+650"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1S Pass 2C Pass
+2D Pass 2H Pass
+3S Pass 4D X
+4S Pass Pass Pass
+[Play "S"]
+D9 D7 DQ D5
+HA H2 HT HJ
+H4 HK H7 H6
+S3 S5 S8 SA
+S6 H3 ST SK
+S7 C4 D4 SQ
+S9 D8 C5 SJ
+H5 C7 DT S4
+H8 DA - D2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "11"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K.AKJ86532.876.T A84.9.KQJT93.986 J732.Q7.52.AKQ54 QT965.T4.A4.J732"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+420"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "S"]
+4H Pass Pass Pass
+[Play "W"]
+DK D2 D4 D6
+SA S2 S5 SK
+DQ D5 DA D7
+C6 C4 C2 CT
+- - - D8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "11"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+420"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+4H Pass Pass Pass
+[Play "W"]
+DK D2 D4 D8
+DJ D5 DA D7
+SA S2 S6 SK
+S8 SJ SQ -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "12"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KQ4.2.KJ9.KQT764 J7.KQ98.QT873.J2 AT652.AJT76.A.A9 983.543.6542.853"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "13"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+1010"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "W"]
+1C Pass 1S Pass
+2C Pass 2H Pass
+3S Pass 4C Pass
+4S Pass 4NT Pass
+5C Pass 5D Pass
+6D Pass 6S Pass
+Pass Pass
+[Play "S"]
+H5 H2 HQ HA
+S9 SK S7 S2
+S3 SQ SJ S5
+S8 S4 D3 SA
+D2 D9 D7 DA
+C3 C4 C2 CA
+C5 CK CJ C9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "12"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "7C"]
+[Result "13"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+1440"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C 1D 1S Pass
+2S Pass 4NT Pass
+5D X 5H Pass
+6C Pass 6D Pass
+7C Pass Pass Pass
+[Play "N"]
+HK HA H5 H2
+H8 H6 H3 C7
+C2 C9 C3 CK
+CJ CA C5 C4
+H9 HJ H4 CT
+S7 S2 S8 SK
+- - - CQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "13"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A83.AQ7652.Q.976 KQT.4.AT983.KT85 J7.J8.KJ72.AQ432 96542.KT93.654.J"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "N"]
+1H X XX 1S
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+SK S7 S2 SA
+DA D2 D4 DQ
+SQ SJ S4 S3
+ST H8 S5 S8
+H4 HJ HK HA
+D3 C2 H3 HQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "13"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1H X XX 2S
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+SK S7 S4 SA
+DA D2 D4 DQ
+SQ SJ S6 S8
+ST H8 S5 S3
+H4 HJ HK HA
+- - - HQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "14"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AT93.KT8.A873.A4 Q86.A743.T92.763 52.J62.J5.KT9852 KJ74.Q95.KQ64.QJ"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+130"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "E"]
+1NT Pass 2NT Pass
+3C Pass Pass Pass
+[Play "S"]
+DT DJ DQ DA
+C3 CK CJ C4
+D2 D5 DK D3
+C6 C2 CQ CA
+D9 CT D4 D8
+C7 C9 S4 S3
+HA H2 H5 HT
+H3 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "14"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+180"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1D Pass 1NT Pass
+Pass Pass
+[Play "N"]
+S4 ST SQ S5
+SJ S3 S8 S2
+HQ HK H3 H2
+CJ CA C7 C5
+CQ C4 C3 CK
+- - - CT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "15"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K2.Q8.A64.KQJT86 J4.T9765.QJT97.3 AQT9763.K3.K2.75 85.AJ42.853.A942"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "10"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "S"]
+1NT Pass 4H Pass
+4S Pass 4NT Pass
+5D Pass 5S Pass
+Pass Pass
+[Play "W"]
+C3 C5 CA C6
+H5 H3 HA H8
+- - C2 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "15"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "5DX"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-500"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C 3D 3S 5D
+Pass Pass X Pass
+Pass Pass
+[Play "N"]
+C7 CA C6 C3
+H3 HA H8 H6
+DK D3 D4 DQ
+HK H2 HQ H7
+C5 C2 C8 D7
+D2 D5 DA DJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "2"]
+[Board "16"]
+[West "Freeman"]
+[North "Deutsch"]
+[East "Nickell"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:953.T.AJ7.KQ7653 QT8.A8642.98542. KJ762.K73.K63.JT A4.QJ95.QT.A9842"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "8"]
+[HomeTeam "USA 2"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-300"]
+[Stage "#"]
+[VisitTeam "USA 1"]
+[Auction "W"]
+Pass Pass 1S X
+XX 4H Pass Pass
+X Pass Pass Pass
+[Play "E"]
+CJ CA C5 S8
+DK DT D7 D2
+CT C2 C3 H2
+H3 H5 HT HA
+D6 DQ DA D4
+SJ SA S9 ST
+HK C4 C6 H8
+SK S4 S3 SQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "16"]
+[West "Martel"]
+[North "Meckstroth"]
+[East "Stansby"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-300"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 2D Pass 2S
+3C 3D 3S 4C
+4S 5D X 5H
+X Pass Pass Pass
+[Play "W"]
+S9 ST SJ SA
+HT H2 HK HQ
+DA D2 D3 DQ
+D7 D4 DK DT
+S3 S8 SK S4
+- - D6 -
+*
+

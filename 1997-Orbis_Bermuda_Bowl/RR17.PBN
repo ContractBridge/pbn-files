@@ -1,0 +1,1425 @@
+% PBN 0.8
+% EXPORT
+%
+[Event "1997 Bermuda Bowl"]
+[Site "Hammamet TUN"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "1"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K75.AQ82.T865.A5 A6.T7643.A.T6432 JT842.9.KQ9.K987 Q93.KJ5.J7432.QJ"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "Round Robin"]
+[VisitTeam "Norway"]
+[Auction "N"]
+1D 1H 1S 2H
+X Pass 4S Pass
+Pass Pass
+[Play "W"]
+CQ CA C2 C8
+D4 D5 DA D9
+CJ C5 C3 CK
+D3 S5 C4 C9
+D2 D6 H4 DK
+H5 S7 C6 C7
+D7 D8 S6 DQ
+S3 SK SA S2
+- - CT -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "1"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+170"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1NT 2H 2S Pass
+Pass Pass
+[Play "W"]
+CQ CA C4 C7
+D2 D5 DA D9
+CJ C5 C3 CK
+S3 S5 SA SJ
+S9 SK S6 S2
+D3 D6 C2 DK
+H5 HQ H3 H9
+HK HA H4 C8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "2"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QJ42.AK95.T6.T92 A98765.8.Q73.K73 K3.QJ3.KJ4.AQ654 T.T7642.A9852.J8"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+430"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "E"]
+Pass 1S X Pass
+2S Pass 3NT Pass
+Pass Pass
+[Play "N"]
+D5 D6 DQ DK
+C8 C9 CK C5
+D2 DT D7 D4
+CJ C2 C3 CA
+H2 CT C7 CQ
+ST S2 S5 C6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "2"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 2S 2NT Pass
+3NT Pass Pass Pass
+[Play "N"]
+D5 D6 DQ DK
+ST S2 SA SK
+DA DT D7 D4
+D9 C2 D3 DJ
+H2 H5 H8 HQ
+H4 H9 S5 HJ
+H6 HK S6 H3
+H7 HA C3 C4
+HT SQ S7 S3
+C8 SJ S8 C5
+CJ C9 C7 CA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "3"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:QJ64.5.QJT.KQT84 82.JT7.K876.J972 K73.AK9863..A653 AT95.Q42.A95432."]
+[Declarer "S"]
+[Contract "5C"]
+[Result "11"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "S"]
+1C Pass 1H X
+Pass 2D 3D X
+Pass Pass 3H Pass
+3NT Pass 5C Pass
+Pass Pass
+[Play "W"]
+D6 C3 D5 DT
+H7 HA H2 H5
+HT HK H4 DJ
+HJ H9 HQ CT
+C2 C5 D2 CK
+S2 S3 SA SJ
+D7 C6 DA DQ
+C7 CA D3 C4
+C9 H8 D4 S4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "3"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C Pass 1H X
+1S Pass 2D Pass
+3C Pass 3H Pass
+3NT Pass 4C Pass
+5C Pass 6C Pass
+Pass Pass
+[Play "W"]
+S8 S3 S5 SJ
+C2 C3 D4 CK
+H7 HA H2 H5
+HT HK H4 DT
+HJ H3 HQ C4
+C7 C5 D2 CQ
+C9 CA D3 C8
+CJ H6 D5 DJ
+S2 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "4"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J87.A96432.5.542 T542.QT7.KQ2.AKJ Q96.KJ8.8764.T96 AK3.5.AJT93.Q873"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+1370"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "W"]
+Pass 1NT Pass 2C
+Pass 2S Pass 3C
+Pass 3NT Pass 4D
+Pass 5C Pass 6D
+Pass Pass Pass
+[Play "W"]
+HA H7 HJ H5
+H2 HT HK D3
+D5 DK D4 D9
+H3 DQ D6 DT
+H4 D2 D7 DJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "4"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1NT Pass 3D
+Pass 4D Pass 4NT
+Pass 5D Pass 6D
+Pass Pass Pass
+[Play "W"]
+HA H7 H8 H5
+H2 HT HJ D3
+D5 DK D6 D9
+H3 DQ D4 DT
+H4 D2 D7 DJ
+H6 S2 D8 DA
+C2 CA C6 C3
+C4 CK C9 C7
+- CJ CT C8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "5"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:74.Q5.J875.J9754 K85.AK2.A9.AK862 A3.JT983.KT63.T3 QJT962.764.Q42.Q"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+450"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "N"]
+Pass 2NT Pass 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+HJ H4 H5 HA
+SA SQ S4 S5
+HT H6 HQ HK
+S3 S2 S7 SK
+C3 CQ C5 C2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "5"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+450"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 2C Pass 2S
+Pass 3S Pass 4C
+Pass 4D X 4S
+Pass Pass Pass
+[Play "N"]
+DJ DA D6 D4
+S4 S5 S3 SQ
+C4 C2 C3 CQ
+S7 SK SA S2
+- - DK -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "6"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K83.KQ4.K53.K743 A76.T532.AJ64.T9 Q542.A98.QT87.AJ JT9.J76.92.Q8652"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "E"]
+1C Pass 1S Pass
+1NT Pass 3NT Pass
+Pass Pass
+[Play "S"]
+H5 H8 HJ HK
+S6 SQ ST S3
+DA D7 D9 DK
+H2 H9 H7 H4
+S7 S2 SJ S8
+CT CJ C2 C3
+D4 DQ D2 D5
+DJ DT H6 D3
+HT HA C5 HQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "6"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+630"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1C 1H 1S Pass
+1NT Pass 3NT Pass
+Pass Pass
+[Play "S"]
+D4 D7 D9 DK
+D6 D8 D2 D5
+H2 H8 H7 HK
+DA DT C2 D3
+H3 H9 HJ HQ
+S7 SQ SJ S3
+DJ DQ H6 C4
+S6 S2 ST S8
+CT CJ C5 C3
+- S4 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "7"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:8532.Q9.J865.T83 76.A32.AK9.AQ972 9.KJ764.QT742.K6 AKQJT4.T85.3.J54"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+680"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "S"]
+Pass 1NT Pass 2H
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+D2 D3 DJ DA
+S9 SA S8 S6
+H4 SK S3 S7
+H7 SQ S2 H2
+D4 SJ S5 H3
+CK C4 C3 CQ
+H6 H5 HQ HA
+D7 H8 D5 DK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "7"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1C 1H 1S
+Pass 2NT Pass 3S
+Pass 3NT Pass 4D
+Pass 4H Pass 4NT
+Pass 5D Pass 5S
+Pass 6S Pass Pass
+Pass
+[Play "S"]
+HQ HA H4 H5
+S2 S6 S9 SK
+C3 CA C6 CJ
+D5 DA D2 D3
+D6 DK D4 H8
+- S7 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "8"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKT864.76.83.A85 75.KQ98.754.Q642 9.A32.AKQ96.KJT9 QJ32.JT54.JT2.73"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+450"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "W"]
+1S Pass 2D Pass
+2S Pass 3C Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+HK HA H4 H6
+S7 S9 S3 SA
+S5 H2 S2 SK
+D4 DA D2 D3
+D5 DK DJ D8
+D7 DQ DT H7
+H8 H3 H5 S4
+C2 C9 SJ S8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "8"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1S Pass 2D Pass
+2S Pass 3C Pass
+3S Pass 3NT Pass
+Pass Pass
+[Play "S"]
+HJ H6 H9 H2
+H4 H7 HQ H3
+H5 S4 HK HA
+C3 C5 CQ C9
+HT S6 H8 D6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "9"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJ53.643.T873.K3 Q.JT8.94.AQT9754 KT976.A972.62.J2 842.KQ5.AKQJ5.86"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "11"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+150"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "N"]
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+D6 DA D8 D4
+D2 DK DT D9
+C2 DQ D7 SQ
+S9 S2 SA C4
+H7 HK H3 H8
+CJ C6 C3 CQ
+S6 C8 CK CA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "9"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+130"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+D6 DA D3 D4
+C2 C6 C3 CA
+D2 DK DT D9
+CJ DQ D8 SQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "10"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:K2.AKJT943..KQ96 J87.Q87.8732.JT2 AQT65.52.K965.85 943.6.AQJT4.A743"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+650"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "E"]
+1H Pass 1NT 2D
+3C Pass 3NT Pass
+4H Pass Pass Pass
+[Play "S"]
+D3 D5 DT H3
+H7 H2 H6 HA
+H8 H5 D4 HK
+HQ D6 S9 H4
+CJ C5 CA C6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "10"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+650"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1H Pass 1S 2D
+3C Pass 3H Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "S"]
+D2 D5 DT H3
+H8 H2 H6 HA
+H7 H5 D4 HK
+HQ D6 C3 HJ
+D8 D9 DQ H4
+C2 C5 CA CK
+D3 DK DA H9
+D7 S5 DJ HT
+S7 S6 S9 SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "11"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J953.QT74.JT.Q62 K.965.AK987652.K A82.KJ3.Q4.J9543 QT764.A82.3.AT87"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "12"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+170"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2D Pass 2H
+Pass 3D Pass Pass
+Pass
+[Play "N"]
+C3 C7 CQ CK
+D4 D3 DJ DA
+DQ S4 DT DK
+SA S6 S3 SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "11"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+170"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2D Pass Pass
+Pass
+[Play "N"]
+C4 C7 C2 CK
+D4 D3 DT DA
+DQ S4 DJ DK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "12"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K.A874.76.Q76432 A9765.QJ652.3.K9 4.K9.KT98542.T85 QJT832.T3.AQJ.AJ"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "11"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+650"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "W"]
+Pass 1S 2D 2NT
+Pass 3H Pass 3S
+Pass 4D Pass 5C
+Pass 5S Pass Pass
+Pass
+[Play "E"]
+DT DA D7 D3
+S4 SQ SK SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "12"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1S 3D 4NT
+Pass 5D Pass 6S
+Pass Pass Pass
+[Play "E"]
+C5 CJ C4 C9
+S4 SQ SK SA
+D2 DJ D7 D3
+DT DA D6 H2
+D4 DQ C2 S7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "13"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQ6432.32.65.QT9 JT75.AT97.4.A732 8.Q654.AQJ2.8654 A9.KJ8.KT9873.KJ"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+630"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "N"]
+2S Pass Pass 2NT
+Pass 3H Pass 3NT
+Pass Pass Pass
+[Play "N"]
+CT C2 C6 CJ
+S2 S5 S8 SA
+SQ S7 H6 S9
+D6 D4 DJ DK
+D5 C3 DQ DT
+CQ C7 C4 CK
+S3 H7 DA D9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "13"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-200"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass Pass 1NT
+Pass 3D X 3NT
+Pass Pass Pass
+[Play "N"]
+D6 D4 DA D3
+CT C3 C4 CJ
+C9 C2 C5 CK
+SQ S5 S8 S9
+CQ CA C6 D7
+S4 S7 D2 SA
+H3 H7 HQ HJ
+S3 C7 C8 DT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "14"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKQ2.AK75.8.AJ53 T4.QJT6.AKQ94.K7 75.32.JT753.Q984 J9863.984.62.T62"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "E"]
+2C Pass 2D Pass
+4C Pass 5C Pass
+Pass Pass
+[Play "S"]
+DA D3 D6 D8
+HJ H3 H9 HA
+S4 S5 S3 SA
+ST S7 S8 SK
+D4 D5 S6 SQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "14"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+130"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1C 1D Pass Pass
+X 1H 2C Pass
+2D Pass 3C Pass
+Pass Pass
+[Play "S"]
+DA D3 D6 D8
+HQ H2 H4 HA
+H6 H3 H8 HK
+HT C4 H9 H5
+D4 D5 D2 C3
+S4 S5 S8 SA
+ST S7 S3 SK
+CK D7 S6 SQ
+HJ C8 CT H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "15"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K.T765.J5.KQJ542 J5.Q842.T84.AT98 AQ9742.J3.A962.6 T863.AK9.KQ73.73"]
+[Declarer "S"]
+[Contract "3CX"]
+[Result "7"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-500"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "S"]
+3C Pass Pass X
+Pass Pass Pass
+[Play "W"]
+H2 H3 HK H6
+CA C6 C7 CJ
+H4 HJ HA H5
+H8 S2 H9 H7
+D4 DA DK D5
+S5 SA S3 SK
+SJ SQ S6 DJ
+D8 D2 DQ C2
+C8 S4 C3 CK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "15"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-300"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1S Pass
+1NT Pass 2D Pass
+2NT Pass 3S Pass
+Pass Pass
+[Play "E"]
+HA H5 H2 H3
+S6 SK S5 S2
+C7 CK CA C6
+H9 H6 HQ HJ
+DQ D5 D4 D2
+S3 C2 SJ SQ
+S8 C4 H4 SA
+D3 DJ D8 DA
+ST C5 C8 S7
+HK - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "16"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A985.53.Q543.AQ9 T7.AJ86.9862.T75 Q43.KQT4.KJT.J43 KJ62.972.A7.K862"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+600"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "W"]
+1D Pass 3C Pass
+3D Pass 3NT Pass
+Pass Pass
+[Play "S"]
+S2 S8 ST SQ
+DA D3 D2 DK
+SK SA S7 S3
+H2 H3 H6 HK
+SJ S5 C7 S4
+H7 H5 HA H4
+H9 C9 H8 HQ
+D7 D4 D6 DJ
+S6 D5 D8 DT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "16"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+120"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1D Pass 1H Pass
+1S Pass 2NT Pass
+Pass Pass
+[Play "S"]
+C2 C9 CT CJ
+DA D3 D2 DK
+C6 CQ C7 C4
+H7 H3 H6 HQ
+D7 D4 D6 DJ
+H2 D5 D8 DT
+C8 CA C5 C3
+S2 DQ D9 H4
+H9 H5 HA HT
+S6 S5 ST S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "17"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:JT8.AJT3.AK7.J74 5.964.98643.K863 KQ974.K75.J2.QT2 A632.Q82.QT5.A95"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+420"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "N"]
+1H Pass 1S Pass
+1NT Pass 2C Pass
+2NT Pass 4S Pass
+Pass Pass
+[Play "W"]
+D5 D7 D3 DJ
+S2 SJ S5 S4
+S3 ST D4 S7
+C5 CJ CK C2
+DT DK D6 D2
+SA S8 D8 SQ
+DQ DA D9 H5
+H2 H3 H4 HK
+S6 C4 C3 SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "17"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+430"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1NT Pass 3NT Pass
+Pass Pass
+[Play "E"]
+D3 DJ DQ DA
+S5 S4 SA ST
+D4 D2 DT D7
+D6 C2 D5 DK
+C3 S7 S2 SJ
+C6 S9 S3 S8
+H6 SK S6 C4
+H4 SQ C5 C7
+H9 HK H2 H3
+D8 H5 H8 HJ
+- - - HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "18"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KT932.9.9764.Q97 QJ5.QT54.82.AT32 A4.J2.AQT53.J865 876.AK8763.KJ.K4"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "E"]
+Pass Pass 1D 1H
+1S 2D Pass 4H
+Pass Pass Pass
+[Play "E"]
+D4 D2 DA DJ
+ST S5 SA S8
+SK SJ S4 S7
+S9 SQ H2 S6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "18"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+2S Pass Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+D6 D2 DA DJ
+S2 S5 SA S8
+SK SJ S4 S7
+S9 SQ HJ -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "19"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KT6.T843.K8.K852 Q987.A9.J42.AQT7 542.K5.A753.J964 AJ3.QJ762.QT96.3"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+630"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1S Pass 2NT
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+H3 H9 HK H6
+H4 HA H5 H7
+DK DJ D5 D6
+SK S7 S5 SA
+D8 D2 DA D9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "19"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "?"]
+[Contract "1NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+120"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1S Pass 1NT
+Pass Pass *
+[Play "S"]
+C2 CT CJ C3
+CK CA C4 H2
+DK D2 D3 DQ
+C5 CQ C6 H6
+D8 DJ D5 D6
+H4 D4 DA D9
+C8 C7 C9 H7
+SK S7 S5 S3
+H3 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.25"]
+[Round "17"]
+[Board "20"]
+[West "Cintra"]
+[North "Saelensmind"]
+[East "Branco"]
+[South "Brogeland"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T.QT63.KQ976.J83 9743.KJ98.J4.A95 AJ86.A7.A82.KQ62 KQ52.542.T53.T74"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Brazil"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+630"]
+[Stage "#"]
+[VisitTeam "Norway"]
+[Auction "W"]
+Pass Pass 1C Pass
+1H Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "S"]
+SK ST S7 S6
+H5 H3 H8 HA
+C4 C3 CA CK
+S2 H6 S3 SA
+D3 D6 D4 DA
+D5 DK DJ D8
+DT DQ S4 D2
+- D9 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "20"]
+[West "Helgemo"]
+[North "Chagas"]
+[East "Helness"]
+[South "Branco"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+630"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1C Pass
+1H Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "S"]
+H5 HQ HK HA
+C7 C3 CA CK
+SQ ST S3 S6
+H4 H3 H9 H7
+S2 H6 S4 SA
+D3 D6 D4 DA
+D5 DQ DJ D8
+*
+

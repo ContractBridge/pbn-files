@@ -1,0 +1,1096 @@
+% PBN 0.8
+% EXPORT
+%
+[Event "1997 Bermuda Bowl"]
+[Site "Hammamet TUN"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "1"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQ4.J64.Q32.Q974 A8765.7.J9765.K3 9.AKQ952.AK4.AT5 JT32.T83.T8.J862"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+450"]
+[Stage "Semifinal"]
+[VisitTeam "France"]
+[Auction "N"]
+Pass 2S X 3S
+3NT Pass 4H Pass
+Pass Pass
+[Play "W"]
+SJ SQ SA S9
+D8 D2 D7 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "1"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+980"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1NT Pass 2D Pass
+2NT Pass 3C Pass
+3NT Pass 4C Pass
+4H Pass 6H Pass
+Pass Pass
+[Play "E"]
+SA S9 SJ S4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "2"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AKJ65.64.AKJ8.43 T4.J872.QT975.62 932.Q9.643.AQJ75 Q87.AKT53.2.KT98"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "E"]
+1S Pass 2S 3H
+X Pass 4S Pass
+Pass Pass
+[Play "S"]
+H7 H9 HK H6
+D5 D3 D2 DA
+S4 S2 S7 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "2"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1S Pass 2S 3H
+X Pass 4S Pass
+Pass Pass
+[Play "S"]
+H7 H9 HK H4
+H2 HQ HA H6
+D5 D3 D2 DA
+ST S2 S7 SA
+C6 CJ CK C4
+C2 CQ C8 C3
+D7 C5 C9 S5
+S4 S3 SQ SJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "3"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:Q6.T72.A83.AJ985 T.QJ43.KQ7652.Q2 A9853.A9865..743 KJ742.K.JT94.KT6"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "5"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-200"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "S"]
+1C 1D 1S 1NT
+Pass 2D 2H 3D
+Pass Pass 3H Pass
+Pass Pass
+[Play "E"]
+DJ D3 D2 H6
+SK S6 ST S3
+DT DA D7 C4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "3"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1NT Pass 2C Pass
+2D X 2H 3D
+Pass Pass 3H Pass
+Pass Pass
+[Play "E"]
+DJ D3 D7 H5
+SK S6 ST S3
+DT D8 D5 C3
+C6 CA C2 C4
+D4 DA D2 C7
+S4 SQ H3 S5
+HK H2 H4 HA
+S2 H7 HJ S8
+CT HT HQ H6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "4"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T43.AKQ96.T96.J8 AK9.JT82.Q72.A93 Q52.75.AJ84.Q765 J876.43.K53.KT42"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+120"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "W"]
+Pass 1C Pass 1S
+Pass 1NT Pass Pass
+Pass
+[Play "E"]
+D4 D3 D9 DQ
+S5 S6 S3 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "4"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1NT Pass Pass
+2H Pass Pass X
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+H7 H3 HQ H2
+S5 S6 S4 SA
+S2 S7 S3 SK
+SQ S8 ST S9
+H5 H4 HK H8
+D4 DK DT D2
+CQ C2 C8 C9
+C5 C4 CJ CA
+C6 CT H6 C3
+C7 CK H9 D7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "5"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J942.KT54.AT843. KQ853.9832.KJ5.8 7.Q.Q962.AKQJ632 AT6.AJ76.7.T9754"]
+[Declarer "S"]
+[Contract "4CX"]
+[Result "9"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-200"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D 1S 3C Pass
+3NT Pass Pass X
+Pass Pass 4C X
+Pass Pass Pass
+[Play "W"]
+D7 DA D5 D6
+S6 D3 DK D9
+C4 D4 DJ DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "5"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1C Pass
+2D Pass 5D Pass
+Pass Pass
+[Play "E"]
+SK S7 SA S4
+H3 HQ HA H4
+C8 C2 C4 D3
+D5 D2 D7 DA
+DK - - D8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "6"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:63.J765.Q82.A972 KT54.AKT94.63.QJ AJ872.Q32.KJ5.T8 Q9.8.AT974.K6543"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "E"]
+Pass 1H Pass 1NT
+Pass Pass 2S 3C
+Pass Pass Pass
+[Play "E"]
+S6 S4 SA S9
+S3 S5 S2 SQ
+C7 CQ C8 C3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "6"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+90"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1H 1S X
+Pass 1NT Pass 2C
+Pass Pass Pass
+[Play "E"]
+S6 S4 S2 S9
+C2 CQ C8 C4
+CA CJ CT C3
+H7 HA H2 H8
+S3 S5 SA SQ
+D2 D3 DJ DA
+C7 H4 S7 CK
+C9 H9 H3 C6
+DQ D6 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "7"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:965.Q2.AKQ652.A5 QT.J963.T97.J943 AKJ.AK54.J4.Q862 87432.T87.83.KT7"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "12"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+1440"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "S"]
+1NT Pass 2D Pass
+2H Pass 6NT Pass
+Pass Pass
+[Play "W"]
+D9 DJ D8 D5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "7"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "7D"]
+[Result "13"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+2140"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C Pass 1H Pass
+1S Pass 1NT Pass
+2C Pass 2D Pass
+2H Pass 2NT Pass
+3C Pass 3S Pass
+3NT Pass 4H Pass
+4S Pass 5H Pass
+5S Pass 6C Pass
+6D Pass 6H Pass
+7D Pass Pass Pass
+[Play "E"]
+S2 S5 SQ SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "8"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:6.853.K72.KQJT52 A7432.A.Q95.A943 QT.KQT42.AJT863. KJ985.J976.4.876"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "10"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+130"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "W"]
+3C Pass Pass Pass
+[Play "N"]
+HA H2 H9 H5
+SA ST S9 S6
+S3 SQ SK C2
+- - - CJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "8"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1S 3C 4S
+4NT Pass 5D Pass
+Pass X Pass Pass
+Pass
+[Play "S"]
+SK S6 S3 ST
+S8 D2 S2 SQ
+H7 H3 HA H4
+C6 C2 CA D8
+D4 D7 D5 DA
+C7 DK D9 D6
+C8 CK C4 H2
+- CQ C3 HT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "9"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QJT85.53.QJT9.AK K73.Q872.K8.8432 A942.AK9.7652.65 6.JT64.A43.QJT97"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "N"]
+1S Pass 3NT Pass
+4S Pass Pass Pass
+[Play "E"]
+H7 HA H4 H5
+S3 SA S6 S5
+SK S2 CQ ST
+DK D2 D3 DJ
+D8 D5 DA DT
+S7 D6 D4 DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "9"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+420"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1S Pass 2C Pass
+2D Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+C3 C5 C9 CA
+S7 SA S6 SQ
+SK S2 CQ ST
+DK D2 D3 DT
+D8 D5 DA DJ
+- - CJ CK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "10"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:984.Q942.T4.K873 AQJT5.AT5.A8.JT4 732.KJ86.973.952 K6.73.KQJ652.AQ6"]
+[Declarer "S"]
+[Contract "7NT"]
+[Result "13"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+2220"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 2NT Pass 3D
+Pass 3H Pass 3S
+Pass 4D Pass 4NT
+Pass 5C Pass 5NT
+Pass 6D Pass 7D
+Pass 7S Pass 7NT
+Pass Pass Pass
+[Play "W"]
+C9 CA C3 C4
+D3 D2 D4 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "10"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "6D"]
+[Result "13"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+1390"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C Pass 2D
+Pass 2S Pass 2NT
+Pass 3NT Pass 4D
+Pass 4H Pass 4NT
+Pass 5C Pass 5NT
+Pass 6D Pass Pass
+Pass
+[Play "E"]
+H4 HA H8 H3
+D4 DA D3 D2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "11"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ8.K753.AT9.A97 542.A94.632.J842 Q973.QJ86.KJ4.T3 KT6.T2.Q875.KQ65"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+450"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "S"]
+1NT Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+D2 D4 DQ DA
+H4 HQ H2 H3
+HA H6 HT HK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "11"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C Pass 1NT Pass
+3NT Pass Pass Pass
+[Play "E"]
+C5 C7 CJ C3
+CQ C9 C2 CT
+CK CA C4 D4
+H2 H3 H4 HQ
+HT HK HA H6
+C6 S8 C8 S3
+D5 H5 H9 HJ
+S6 SJ S2 S7
+ST SA S4 S9
+D7 H7 S5 H8
+D8 D9 D3 DK
+DQ - - DJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "12"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AT.QT5.7532.AQT2 954.43.KT6.KJ843 KJ832.A72.AJ4.76 Q76.KJ986.Q98.95"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "W"]
+1C Pass 1S Pass
+1NT Pass 3NT Pass
+Pass Pass
+[Play "N"]
+DT D4 D8 D3
+DK DJ D9 D2
+D6 DA DQ D5
+S4 S2 S6 ST
+C3 H2 H6 D7
+S5 S3 S7 SA
+H4 HA H8 H5
+S9 SK SQ C2
+C4 SJ H9 HT
+- S8 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "12"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1S Pass
+1NT Pass 2C Pass
+2D Pass 3NT Pass
+Pass Pass
+[Play "N"]
+DK D4 D8 D5
+D6 DJ DQ D3
+CJ C6 C9 CT
+DT DA D9 D2
+S4 S2 S6 SA
+S5 SJ SQ ST
+CK C7 C5 CQ
+S9 SK S7 C2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "13"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J92.J984.AQ876.9 AT4.A65.4.AQT632 KQ8765.Q3.KT9.75 3.KT72.J532.KJ84"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "N"]
+Pass 1C 1S X
+2D X 3D Pass
+3S Pass Pass Pass
+[Play "W"]
+C8 C9 CA C5
+DJ DQ D4 DT
+S3 SJ S4 S6
+H2 S2 SA S8
+HK H4 H5 H3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "13"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+600"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1C 1S X
+2C 3C Pass 5C
+Pass Pass Pass
+[Play "S"]
+SQ S3 S2 SA
+S5 C4 S9 S4
+C5 C8 C9 CT
+S6 CJ SJ ST
+C7 CK D6 CA
+S7 H2 H8 CQ
+S8 H7 D7 C6
+SK HT D8 C3
+H3 HK H4 H5
+D9 D2 DA D4
+- - DQ C2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "14"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:Q95.A764.73.AJ72 T43.J.JT85.K9543 AKJ6.KQ9.A942.QT 872.T8532.KQ6.86"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+460"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "N"]
+S8 S5 S3 SJ
+C6 C2 CK CQ
+S7 S9 S4 SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "14"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+460"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "S"]
+C4 CQ C8 C2
+CK CT C6 C7
+S3 S6 S7 S9
+C3 D2 S2 CA
+C5 D4 D6 CJ
+S4 SA S8 SQ
+ST SK H2 S5
+D5 SJ DQ D3
+D8 DA DK D7
+- HK H3 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "15"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:84.T65.T93.K7632 T763.QJ972.Q42.A AK52.AK8.A765.Q4 QJ9.43.KJ8.JT985"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "S"]
+Pass Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "E"]
+CJ C2 CA C4
+H4 H5 HJ HA
+DJ D3 D2 D5
+SQ S4 S3 S2
+SJ S8 S6 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "15"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D 1H X Pass
+2C X Pass 2H
+Pass Pass Pass
+[Play "N"]
+SA S9 S8 S6
+SK SJ S4 S3
+S2 SQ H5 S7
+C4 C5 C2 CA
+HA H3 H6 HQ
+S5 C8 HT ST
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.28"]
+[Round "3"]
+[Board "16"]
+[West "Brogeland"]
+[North "Mari"]
+[East "Saelensmind"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:962.A7632.7654.A AQJ4.95.AJT8.643 53.K84.K9.Q98752 KT87.QJT.Q32.KJT"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Norway"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "France"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 2S Pass 3NT
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+CA C3 C2 CT
+S2 SA S5 S7
+S6 SQ S3 S8
+S9 S4 C9 ST
+D6 D8 DK DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "16"]
+[West "Perron"]
+[North "Aa"]
+[East "Chemla"]
+[South "Groetheim"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+S3 S7 S2 S4
+S5 S8 S6 SQ
+C5 SK S9 SJ
+H4 HQ HA H5
+DK D2 D7 D8
+C2 CT CA C3
+- - H3 -
+*
+

@@ -1,0 +1,1429 @@
+% PBN 0.8
+% EXPORT
+%
+[Event "1997 Bermuda Bowl"]
+[Site "Hammamet TUN"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "1"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK852.T3.QT84.J4 4.9872.A9.Q98732 T976.Q65.KJ62.AK QJ3.AKJ4.753.T65"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-50"]
+[Stage "Round Robin"]
+[VisitTeam "Canada"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 2S Pass
+4S Pass Pass Pass
+[Play "E"]
+C3 CA C5 C4
+S4 ST S3 SA
+C7 S6 SJ SK
+C2 CK C6 CJ
+DA DK D3 D4
+H9 H5 HJ HT
+C8 S7 SQ S2
+H2 H6 HA H3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "1"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1S Pass 4S Pass
+Pass Pass
+[Play "E"]
+C8 CA C5 C4
+S4 ST S3 SA
+C3 S6 SQ SK
+C2 CK C6 CJ
+H2 S7 SJ S2
+H7 H5 HK H3
+- - HA HT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "2"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:K5.K932.AT8.T876 T763.J76.J32.J42 J2.854.K974.AQ95 AQ984.AQT.Q65.K3"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "7"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+80"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass Pass Pass
+[Play "E"]
+H2 HJ H4 HT
+SK S3 S2 SQ
+C6 C2 CQ CK
+C7 C4 C9 C3
+H3 H6 H8 HA
+HK H7 H5 HQ
+C8 CJ CA S4
+S5 S6 SJ SA
+D8 DJ DK D5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "2"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+110"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1D Pass 1S
+Pass Pass 1NT Pass
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+C7 C2 CQ CK
+S5 S3 S2 SA
+SK S6 SJ SQ
+DA D2 D9 D5
+DT D3 DK DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "3"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKT53.A92.96.QJ3 76.KJ6.K8432.K82 82.QT87.QJT.T654 QJ94.543.A75.A97"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+120"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "S"]
+1S Pass Pass 1NT
+Pass 2NT Pass Pass
+Pass
+[Play "S"]
+S5 S6 S8 S9
+D6 D2 DT DA
+D9 D3 DJ D5
+SK S7 S2 SQ
+H9 HK H8 H3
+S3 DK DQ D7
+ST D8 C4 H5
+HA D4 C5 C7
+C3 C2 C6 CA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "3"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1S Pass Pass 1NT
+Pass 2C Pass 2D
+Pass 2NT Pass Pass
+Pass
+[Play "S"]
+SA S6 S8 S4
+H2 HJ HQ H5
+HA H6 H7 H4
+H9 HK H8 H3
+D6 D2 DJ DA
+D9 DK DQ D5
+S5 D3 DT D7
+S3 S7 HT C7
+SK C2 S2 SQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "4"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K8.KT3.KQ.KJT854 963.Q76.JT7542.6 JT7.J9542.83.A97 AQ542.A8.A96.Q32"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+140"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "W"]
+2C Pass 3C 3S
+Pass Pass Pass
+[Play "W"]
+CT C6 CA C3
+S8 S3 SJ SA
+C8 S6 C7 C2
+H3 H6 H2 HA
+CK S9 C9 CQ
+DQ DJ D8 DA
+SK D2 S7 S4
+CJ D4 D3 S2
+C4 H7 ST SQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "4"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1H 1S
+X Pass 2H Pass
+Pass 2S Pass Pass
+3C Pass Pass Pass
+[Play "N"]
+S9 SJ SA S8
+S6 S7 S4 SK
+C6 C7 C3 CK
+D5 CA C2 C5
+H6 HJ HA H3
+D2 C9 CQ C4
+D4 D3 D6 DK
+S3 D8 S2 CJ
+D7 H2 H8 CT
+DT H4 D9 C8
+H7 - - HK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "5"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J863.T8.QT8762.A 7.KQJ3.K3.KQT973 KT2.9752.4.J8542 AQ954.A64.AJ95.6"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "10"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "N"]
+Pass 2C Pass 2D
+Pass 3H Pass 3S
+Pass 3NT Pass 4C
+Pass 5C Pass 5NT
+Pass 6C Pass Pass
+Pass
+[Play "S"]
+D4 DA D6 D3
+C2 C6 CA C3
+C4 D5 D8 DK
+ST SA S6 S7
+H2 H4 H8 HK
+C5 S4 D2 CK
+C8 S5 D7 CQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "5"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+460"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2C Pass 2D
+Pass 2H Pass 3NT
+Pass Pass Pass
+[Play "N"]
+D7 D3 D4 D9
+CA C3 C2 C6
+S3 S7 SK SA
+D2 DK H9 D5
+D6 CK C4 S4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "6"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:Q943.AKQ9732.2.4 JT862.5.J7.AKJ93 7.J84.AKT953.Q62 AK5.T6.Q864.T875"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+650"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "E"]
+1D 2C 2D 2S
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+CK C2 C7 C4
+CA C6 C5 H3
+S2 S7 SK SQ
+H5 H4 H6 HA
+S6 H8 S5 S3
+C3 HJ HT H2
+D7 DA D4 D2
+DJ DK D6 S4
+C9 CQ C8 S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "6"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+650"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1H 2H 2S 4S
+4NT Pass 5C Pass
+5H Pass Pass Pass
+[Play "S"]
+CA C2 C8 C4
+CK C6 C5 H3
+H5 H4 H6 HA
+S2 H8 HT HK
+D7 DA D6 D2
+C3 CQ C7 S3
+DJ DK D4 S4
+- DT D8 H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "7"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:A3.9.QJ4.AJT9432 Q65.QJ4.T8752.76 K942.AKT832.3.KQ JT87.765.AK96.85"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+660"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "S"]
+1C Pass 1H Pass
+2C Pass 2S Pass
+2NT Pass 3C Pass
+3S Pass 3NT Pass
+Pass Pass
+[Play "W"]
+D7 D3 DA D4
+D8 H2 DK DJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "7"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+690"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1D Pass 1H Pass
+2C Pass 2S Pass
+3C Pass 3H Pass
+3NT Pass Pass Pass
+[Play "W"]
+D2 D3 DK D4
+DT - D9 DJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "8"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KT862.AK84.KQT.A Q975.J6.93.KJ876 J3.Q7532.8742.42 A4.T9.AJ65.QT953"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "W"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+2S Pass Pass 2NT
+Pass 3C Pass Pass
+Pass
+[Play "E"]
+SJ S4 SK S7
+C2 C3 CA C8
+H7 H9 HA H6
+H3 HT HK HJ
+D7 DA DK D3
+D2 D5 DT D9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "8"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1S Pass Pass 2C
+X 4C Pass Pass
+Pass
+[Play "W"]
+DK D3 D4 DA
+CA C6 C2 C9
+HK H6 H7 H9
+HA HJ H5 HT
+DQ D9 D2 D5
+DT CK D8 D6
+S2 C7 C4 CT
+- - - SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "9"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ972.T4.763.A73 J63.A8753.J94.J5 AT54.KQ.KQ82.984 8.J962.AT5.KQT62"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "N"]
+Pass Pass 1D 2C
+2S Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+CJ C4 CQ CA
+S3 S4 S8 SQ
+S6 SA C2 S2
+SJ S5 D5 SK
+HA HQ H6 H4
+C5 C8 CK C3
+H5 HK H2 HT
+D4 DK DA D3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "9"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+2S Pass Pass X
+Pass 3H 3S Pass
+Pass Pass
+[Play "E"]
+CJ C4 CQ CA
+S6 S4 S8 SK
+S3 SA H2 S7
+SJ ST C6 SQ
+D4 DK DA D6
+C5 C8 CT C7
+H3 C9 CK C3
+HA HK H6 HT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "10"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q62..AJ743.T9653 4.AKT92.Q62.AK87 AJT983.J8765.T.4 K75.Q43.K985.QJ2"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "8"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-500"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "E"]
+Pass 1H 2S X
+3S 4C 4S X
+Pass Pass Pass
+[Play "N"]
+S5 S2 S4 SJ
+H3 S6 H2 H5
+D5 DA D2 DT
+D8 D3 D6 S3
+H4 SQ H9 H6
+D9 D4 DQ ST
+S7 C3 C8 SA
+HQ C5 HT H7
+SK C6 C7 S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "10"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+600"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C X 1NT
+2S 3H Pass 3NT
+Pass Pass Pass
+[Play "E"]
+S2 S4 S8 SK
+C6 HA H5 H4
+- HT - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "11"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:JT87.72.QT743.T3 AK9.QJ.KJ95.K765 Q6542.65.862.942 3.AKT9843.A.AQJ8"]
+[Declarer "W"]
+[Contract "7H"]
+[Result "13"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+1510"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "S"]
+Pass 1NT Pass 2D
+Pass 2H Pass 4NT
+Pass 5D Pass 5NT
+Pass 6C Pass 7H
+Pass Pass Pass
+[Play "N"]
+C2 CA C3 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "11"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "7H"]
+[Result "13"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+1510"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1NT Pass 3H
+Pass 3S Pass 4NT
+Pass 5C Pass 5D
+Pass 5S Pass 5NT
+Pass 7H Pass Pass
+Pass
+[Play "S"]
+S7 SA S2 S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "12"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AQ64.2.876.AK764 KT8.T864.A2.QT53 J32.95.KQJ95.J92 975.AKQJ73.T43.8"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "W"]
+2C Pass 3C 3H
+Pass 4C Pass 4H
+Pass Pass Pass
+[Play "W"]
+CA C3 C2 C8
+SA S8 S2 S5
+D8 DA DK D3
+D7 D2 DQ D4
+C4 C5 C9 HA
+D6 H4 D5 DT
+H2 H6 H5 HK
+C6 HT H9 H3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "12"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1D 2H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+CA C3 C2 C8
+D8 DA D9 D4
+C7 C5 C9 H3
+D7 D2 DJ DT
+C4 CT CJ HA
+SA S8 S2 S5
+S6 SK S3 S7
+CK CQ SJ S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "13"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J964.75.AQ65.763 AKQ8.JT3.T873.AK T72.KQ4.42.QT952 53.A9862.KJ9.J84"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+620"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "N"]
+Pass 1NT Pass 2D
+Pass 2H Pass 3NT
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+S2 S3 SJ SA
+H4 H2 H5 HT
+HQ HA H7 HJ
+S7 S5 S4 SK
+D4 DJ DQ D3
+C2 C4 C7 CA
+D2 DK DA D7
+C5 C8 C6 CK
+ST CJ S9 SQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "13"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 2NT Pass 3H
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "N"]
+C6 CA C2 C4
+H5 HJ HQ HA
+H7 HT HK H2
+DA D3 D4 DK
+DQ D7 D2 DJ
+D6 D8 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "14"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:65.K94.QJ97.J543 Q432.AT3.AK642.K AKT7.875.53.T976 J98.QJ62.T8.AQ82"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+430"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1S Pass 1NT
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "E"]
+C5 CK CT C2
+HK HT H5 H2
+CJ S2 C6 CA
+S6 S3 SK S8
+C4 D2 C7 C8
+S5 SQ SA S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "14"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C Pass 1NT
+Pass 2C Pass 2H
+Pass 2S Pass 3C
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+DQ D2 D5 D8
+S6 S2 S7 S9
+H4 HT H5 H2
+D7 DA D3 DT
+D9 DK H8 C2
+DJ D4 C6 S8
+S5 S3 SK SJ
+- - SA -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "15"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:4.KJ97632.KQ7.A2 A92.AQ.AT832.K94 KQT875.54..QJT65 J63.T8.J9654.873"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+620"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "S"]
+1H 1NT 2C Pass
+2H Pass 2S Pass
+3C Pass 3S Pass
+3NT Pass 4H Pass
+Pass Pass
+[Play "W"]
+DA H4 D4 D7
+SA SK S3 S4
+D3 H5 D5 DQ
+S2 SQ S6 C2
+C4 CQ C3 CA
+HA S5 H8 HK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "15"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+170"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1H 1NT 2S Pass
+3H Pass Pass Pass
+[Play "W"]
+DA H4 D4 D7
+S2 SK S3 S4
+HQ H5 H8 HJ
+D3 C5 DJ DQ
+HA S5 HT HK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "16"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AQT864.KJ4.A4.75 93.83.Q7532.QT96 75.AQT965.6.AKJ2 KJ2.72.KJT98.843"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "13"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+710"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "W"]
+1S Pass 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+DJ DA D2 D6
+C3 C5 C9 CA
+C4 C7 C6 CK
+C8 HJ CT C2
+D8 D4 D7 H5
+H7 HK CQ CJ
+H2 H4 H3 HA
+D9 S4 H8 HQ
+DK S6 D3 HT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "16"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "13"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+710"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1S Pass 2H Pass
+3H Pass 4C Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "S"]
+DJ DA D2 D6
+C3 C5 C9 CA
+C4 C7 C6 CK
+C8 HJ CT C2
+H2 H4 H3 HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "17"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J963.873.K954.76 AK7.KJ.J873.AQJ2 T4.QT64.AQ2.T853 Q852.A952.T6.K94"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+430"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "S"]
+H4 H2 H7 HJ
+H6 H5 H3 HK
+C8 CK C7 C2
+C3 C4 C6 CA
+C5 C9 H8 CQ
+CT H9 D4 CJ
+S4 S2 S3 SA
+ST S5 S6 SK
+HT SQ S9 S7
+- HA - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "17"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 2NT Pass 3C
+Pass 3D Pass 3S
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+C3 C4 C6 CQ
+C5 CK C7 C2
+C8 C9 H3 CA
+CT H2 H7 CJ
+S4 S2 S6 SA
+ST S5 S3 SK
+H6 SQ S9 S7
+H4 H5 H8 HK
+HQ HA D5 HJ
+HT H9 D4 D3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "18"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T87.AJT98.96.Q72 AKQ94.32.Q3.JT65 65.K4.AKJT874.K8 J32.Q765.52.A943"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "E"]
+Pass 1S 3S Pass
+4H Pass 5D Pass
+Pass Pass
+[Play "N"]
+S2 S7 SQ S6
+S3 S8 SK S5
+CA C2 CT CK
+C3 CQ C5 C8
+D2 D6 D3 DA
+H7 HA H2 H4
+D5 D9 DQ DK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "18"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+150"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1S 2D 2S
+Pass Pass 3D Pass
+Pass Pass
+[Play "N"]
+S2 S7 SA S5
+S3 S8 SQ S6
+C4 CQ CJ C8
+D2 D9 D3 D7
+D5 D6 DQ DK
+SJ H8 S4 DA
+C3 C2 C5 DJ
+H7 C7 S9 DT
+C9 H9 C6 D8
+H5 ST CT D4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "19"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KT94.A.AK.AQT543 J72.KT842.JT97.K 85.Q963.65.J9872 AQ63.J75.Q8432.6"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+920"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "S"]
+1C Pass 1H Pass
+2S Pass 3C Pass
+3D Pass 5C Pass
+6C Pass Pass Pass
+[Play "W"]
+DJ D5 D4 DK
+CK C2 C6 CA
+D7 D6 D2 DA
+H2 C7 D3 C5
+S2 S5 S3 SK
+SJ S8 S6 S4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "19"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+420"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C Pass 1D Pass
+2C Pass 3C Pass
+3S Pass 4C Pass
+5C Pass Pass Pass
+[Play "W"]
+DJ D5 D2 DA
+CK C2 C6 CA
+- - - C3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.20"]
+[Round "2"]
+[Board "20"]
+[West "Rothfield"]
+[North "Delogu"]
+[East "Rothfield"]
+[South "Thurston"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q52.42.T954.KQT4 K43.KT6.Q76.A985 AJ987.QJ3.A82.72 T6.A9875.KJ3.J63"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "7"]
+[HomeTeam "Australia"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "Canada"]
+[Auction "W"]
+Pass 1C 1S X
+2S Pass Pass 2NT
+Pass Pass Pass
+[Play "W"]
+S2 S3 SJ S6
+S5 S4 SA ST
+SQ SK S7 C3
+D4 D6 DA D3
+H2 D7 S9 C6
+H4 C5 S8 H5
+D5 DQ D2 DK
+C4 HT HJ H7
+CQ CA C7 CJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "20"]
+[West "Fraser"]
+[North "Burgess"]
+[East "Hanna"]
+[South "Richman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1NT Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+C7 C3 CT CA
+H3 H5 H2 HK
+HJ HA H4 H6
+D2 DK D5 D6
+DA DJ D4 D7
+D8 D3 D9 DQ
+HQ H7 S2 HT
+C2 CJ CQ C5
+SA S6 S5 SK
+SJ ST SQ S4
+*
+

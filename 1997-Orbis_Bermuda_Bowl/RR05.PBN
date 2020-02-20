@@ -1,0 +1,1327 @@
+% PBN 0.8
+% EXPORT
+%
+[Event "1997 Bermuda Bowl"]
+[Site "Hammamet TUN"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "1"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKJ83.K9.42.QT63 97.J872.KQJT73.A T52.54.A5.KJ9852 Q64.AQT63.986.74"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+130"]
+[Stage "Round Robin"]
+[VisitTeam "China"]
+[Auction "N"]
+1S 2D 2S X
+Pass 3D Pass Pass
+Pass
+[Play "S"]
+H5 HA H9 H2
+DA D9 D2 DK
+H4 H3 HK H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "1"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+450"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1S 2D X 3D
+Pass Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+CA C2 C7 C6
+DT DA D6 D2
+S7 ST S4 S3
+S9 S2 S6 SJ
+- - - SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "2"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QJ9.T653.72.K983 72.AJ94.KQ65.764 AKT86.K7.A43.JT2 543.Q82.JT98.AQ5"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "11"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+200"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "E"]
+Pass Pass 1S Pass
+2S Pass Pass Pass
+[Play "N"]
+DJ D2 DQ D3
+H2 H3 H4 HK
+D8 D7 D5 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "2"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+90"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1NT Pass
+Pass Pass
+[Play "N"]
+DJ D2 D6 D4
+D8 D7 DQ D3
+D9 C3 D5 DA
+C5 CK C4 C2
+S3 SQ S2 S6
+S4 SJ S7 SK
+S5 S9 C7 SA
+H2 H3 H4 ST
+H8 H5 H9 S8
+CQ C8 C6 CJ
+CA C9 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "3"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A64.AK.AQT953.82 KQ7.3.J864.KJT53 JT853.JT986.7.AQ 92.Q7542.K2.9764"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-150"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "S"]
+1D Pass 1S Pass
+3D Pass 3H Pass
+3S Pass 3NT Pass
+Pass Pass
+[Play "E"]
+C7 C2 CK CA
+H2 HK H3 H6
+H4 HA C5 H8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "3"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+430"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1D Pass 1S Pass
+3D Pass 3NT Pass
+Pass Pass
+[Play "E"]
+H4 HK H3 H8
+D2 DA D4 D7
+DK DQ D6 S3
+H2 HA C3 H6
+H5 DT DJ S5
+C4 C2 CT CQ
+HQ S4 - HJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "4"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A9.AQ42.A542.KT6 QJT2.965.J986.32 8.T873.KQT73.A85 K76543.KJ..QJ974"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "9"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-200"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "W"]
+1D Pass 1H 1S
+3H 3S 4D 4S
+X Pass Pass Pass
+[Play "W"]
+SA S2 S8 S3
+S9 SJ D3 S4
+CT C2 C8 C9
+HA H5 H3 HJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "4"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+600"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1NT Pass 3C 3S
+3NT Pass Pass Pass
+[Play "N"]
+SQ S8 S4 SA
+D6 DK C7 D2
+D8 D3 S3 DA
+DJ DQ S5 D5
+D9 DT S6 D4
+H5 D7 S7 H4
+C3 C5 C4 CK
+C2 CA CQ C6
+H6 H3 HJ HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "5"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T83.6.K7532.AK73 KQ.T87.984.QJ542 A9765.KJ9.QJ.T86 J42.AQ5432.AT6.9"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+140"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "N"]
+Pass Pass 1S 2H
+X 3H Pass Pass
+3S Pass Pass Pass
+[Play "W"]
+C9 CA C5 C6
+HQ H6 H8 HJ
+S2 S3 SQ SA
+DA D2 D8 DJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "5"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+140"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1S 2H
+3H Pass 3S Pass
+Pass Pass
+[Play "W"]
+C9 CA C2 C6
+DA D2 D4 DQ
+D6 D3 D8 DJ
+HQ H6 H7 HJ
+H3 C3 HT HK
+HA S8 H8 H9
+DT DK D9 CT
+S4 S3 SQ SA
+S2 ST SK S5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "6"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AKT4.QJ942.T.Q76 J8653..KJ8.AK954 Q.AT53.9764.JT82 972.K876.AQ532.3"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "E"]
+2D Pass 2H Pass
+Pass X Pass 3D
+Pass Pass 3H Pass
+Pass Pass
+[Play "N"]
+C3 C6 CK C2
+S2 C7 CA C8
+H7 CQ C9 CJ
+S9 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "6"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "3HX"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-200"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1H 2H Pass 2S
+Pass Pass 3H Pass
+Pass X Pass Pass
+Pass
+[Play "S"]
+CA C2 C3 CQ
+D8 D4 DA DT
+DJ D6 D2 HQ
+C5 HA H6 H2
+S3 SQ S2 S4
+DK D7 D3 H4
+S5 C8 S7 SK
+S8 CT S9 SA
+SJ HT HK ST
+C4 D9 DQ H9
+CK CJ - C6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "7"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J4.Q74.QT642.AT5 AKQ98.A.K975.764 T72.KT982.A3.QJ8 653.J653.J8.K932"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "7"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+80"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "S"]
+Pass 1S Pass Pass
+Pass
+[Play "N"]
+H9 H3 H4 HA
+D3 D8 DT D5
+S2 S3 S4 SA
+DA DJ D4 D7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "7"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1S Pass 1NT
+Pass 2D Pass 2S
+Pass Pass Pass
+[Play "N"]
+CQ C2 C5 C6
+CJ C3 CT C7
+C8 C9 CA C4
+S2 S3 S4 SA
+D3 D8 DT D5
+S7 S5 SJ SK
+DA DJ D6 D7
+ST S6 H4 SQ
+H2 H3 D2 S9
+H8 H5 H7 S8
+H9 H6 - DK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "8"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK852.75.Q7.Q752 QJT.2.9632.A8643 76.KQJ986.K8.JT9 943.AT43.AJT54.K"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "W"]
+1S Pass 3H Pass
+Pass Pass
+[Play "S"]
+CK C2 C3 CJ
+DA D7 D2 D8
+D5 DQ D3 DK
+- - - S6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "8"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1S Pass 2H Pass
+2S Pass 3H Pass
+Pass Pass
+[Play "S"]
+CK C2 C6 CJ
+S3 SA ST S6
+H3 H5 H2 HK
+HA H7 C4 HQ
+DJ D7 D2 DK
+H4 S2 D3 HJ
+S4 C5 CA CT
+S9 SK SQ S7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "9"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q3.J.QJT75.KT732 KT765.KT2.94.J85 AJ42.Q4.A8632.A9 98.A987653.K.Q64"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "N"]
+Pass Pass 1NT 2D
+3D 3H 4D Pass
+5D Pass Pass Pass
+[Play "E"]
+H2 H4 HA HJ
+HT HQ H5 D5
+D4 D2 DK DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "9"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "13"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+190"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1D 1H
+3D Pass Pass Pass
+[Play "W"]
+S9 S3 S5 SJ
+DK D5 D4 DA
+H7 DQ D9 D2
+C4 C2 C5 CA
+C6 CK C8 C9
+CQ C3 CJ D6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "10"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:9.932.KQ76.AK762 A8652.AT.A43.984 J.J7654.JT952.JT KQT743.KQ8.8.Q53"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+620"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "E"]
+1C 1S Pass 2C
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+CJ C3 C2 C4
+CT C5 CK C8
+H7 CQ CA C9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "10"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+620"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1D 1S 2D 4S
+Pass Pass Pass
+[Play "W"]
+CJ C3 C2 C9
+CT C5 CK C8
+D2 CQ CA C4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "11"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:98642.2.KT854.K4 73.A83.762.QT972 KQJT.KQJT975.J.5 A5.64.AQ93.AJ863"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "S"]
+2S Pass 4H Pass
+Pass Pass
+[Play "E"]
+H6 H2 HA H5
+SA S2 S7 SQ
+S5 S4 S3 SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "11"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-50"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 4H Pass
+Pass Pass
+[Play "E"]
+CA C4 C2 C5
+DA D4 D2 DJ
+SA S2 S7 SJ
+S5 S4 S3 SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "12"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AT874.AK8.74.T94 53.T964.KQT6.632 QJ6.Q753.A83.A87 K92.J2.J952.KQJ5"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+420"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "W"]
+1S Pass 2C Pass
+2D Pass 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+DK DA D2 D4
+S3 SQ S2 S4
+S5 SJ SK SA
+- - - ST
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "12"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+430"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1S Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "S"]
+CQ C4 C2 CA
+S2 ST S3 S6
+H2 H8 H4 HQ
+SK SA S5 SQ
+S9 S4 C6 SJ
+HJ HK H6 H7
+D2 S7 DT C7
+D5 S8 D6 C8
+DJ HA H9 H3
+- D4 DQ DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "13"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QT953.3.87.97642 K84.AQ986.AQJ6.J 762.7542.K9.Q853 AJ.KJT.T5432.AKT"]
+[Declarer "W"]
+[Contract "6D"]
+[Result "12"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+1370"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2H Pass 2S
+Pass 3NT Pass 4D
+Pass 4H Pass 6D
+Pass Pass Pass
+[Play "N"]
+H3 H6 H2 HK
+D7 DA D9 D2
+D8 DQ DK D3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "13"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+1370"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1H Pass 2NT
+Pass 3D Pass 3H
+Pass 3S Pass 6D
+Pass Pass Pass
+[Play "S"]
+C3 CA C4 CJ
+D9 D2 D8 DA
+DK D3 D7 DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "14"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AK2.K8732.A9.A65 J9863.54.KJ53.T3 T4.AQJ.T8642.942 Q75.T96.Q7.KQJ87"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "E"]
+1H Pass 2H Pass
+3NT Pass Pass Pass
+[Play "S"]
+S6 ST SQ SA
+H4 HQ H6 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "14"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+90"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1NT Pass Pass X
+Pass 2C 2D Pass
+Pass Pass
+[Play "N"]
+CK CA CT C2
+D7 DA D5 D2
+DQ D9 D3 D4
+S7 SA S9 S4
+H6 H2 H5 HA
+H9 C5 DJ DT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "15"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AKJ7.74.JT92.T87 QT53.A2.K765.AK2 842.QT865.3.J643 96.KJ93.AQ84.Q95"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "N"]
+C3 CQ C7 C2
+S2 S9 SA S3
+C4 C5 C8 CA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "15"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+400"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1NT Pass 2C
+Pass 2S Pass 3NT
+Pass Pass Pass
+[Play "N"]
+H6 HJ H7 H2
+H8 H3 H4 HA
+D3 D4 DJ DK
+H5 - - D7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "16"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J8753.Q75.A5.AK6 AT96.AKJT.T43.JT 42.983.KJ96.Q985 KQ.642.Q872.7432"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "8"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+90"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "W"]
+1S Pass 1NT Pass
+2C X Pass 2D
+Pass Pass Pass
+[Play "W"]
+S5 S6 S2 SK
+CK CT C5 C4
+S3 S9 S4 SQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "16"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1S Pass 1NT Pass
+2C Pass Pass Pass
+[Play "N"]
+CJ C5 C2 CK
+D3 D6 D8 DA
+D4 DK D7 D5
+DT D9 D2 CA
+CT CQ C3 C6
+S6 C9 C4 S3
+S9 C8 C7 S5
+ST S2 SQ S7
+SA DJ DQ S8
+HJ S4 SK SJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "17"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:5.K5.QJT975.J973 AJ982.QJ9842.4.T Q763.A76.AK3.A84 KT4.T3.862.KQ652"]
+[Declarer "S"]
+[Contract "4NT"]
+[Result "10"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+430"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "N"]
+3D 3H 3NT Pass
+Pass 4D Pass 4H
+Pass Pass 4NT Pass
+Pass Pass
+[Play "W"]
+S4 S5 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "17"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+430"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D 1NT X Pass
+2D 2H 3NT Pass
+Pass Pass
+[Play "W"]
+S4 S5 SA S3
+SK C3 S8 S6
+ST C7 SJ SQ
+D2 D5 D4 DK
+D8 D7 H2 DA
+D6 D9 H4 D3
+C6 DT H8 C4
+C5 DJ S2 C8
+H3 DQ CT S7
+C2 C9 S9 CA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "18"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A42.J9862.6.AQ94 96.3.AQT732.T532 Q853.KQT5.J98.J7 KJT7.A74.K54.K86"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "9"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "E"]
+1H Pass 2H Pass
+Pass 3D 3H 4D
+Pass Pass Pass
+[Play "W"]
+D9 D4 D6 DT
+D8 D5 H9 DQ
+DJ DK H2 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "18"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+140"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1H Pass 3H Pass
+Pass Pass
+[Play "S"]
+C5 C7 C8 C9
+D3 D8 DK D6
+H3 HT H7 H2
+D2 H5 HA H6
+D7 D9 D5 H9
+DQ HQ H4 H8
+C3 CJ CK CA
+S6 SQ SK S2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "19"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:62.Q84.K87.KQ985 AQT543.A2.AT43.3 J8.J976.Q92.J762 K97.KT53.J65.AT4"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "+650"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "S"]
+Pass 1S Pass 1NT
+Pass 2S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+H7 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "19"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "+650"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1NT 2D Pass 2NT
+Pass 3D Pass 4S
+Pass Pass Pass
+[Play "S"]
+CK C3 C7 CA
+S6 SA S8 S7
+S2 S3 SJ SK
+D7 DT DQ D5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.10.21"]
+[Round "5"]
+[Board "20"]
+[West "Stansby"]
+[North "Liu"]
+[East "Martel"]
+[South "Sun"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KT6.K.JT8765.K53 95.876.KQ432.J82 87432.AJ3.A9.QT9 AQJ.QT9542..A764"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "USA 1"]
+[Room "Closed"]
+[Scoring "MP"]
+[Score "-100"]
+[Stage "#"]
+[VisitTeam "China"]
+[Auction "W"]
+Pass Pass 1S 2H
+2S 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+S6 S5 S2 SQ
+HK H6 H3 H2
+DJ DK DA H4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "20"]
+[West "Wang"]
+[North "Rosenberg"]
+[East "Li"]
+[South "Mahmood"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "#"]
+[Score "-200"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1S 2H
+X Pass 2S 3C
+3S Pass Pass Pass
+[Play "S"]
+H9 HK H6 H3
+CA C3 C2 CQ
+C4 C5 CJ C9
+SQ D5 DQ DA
+C6 CK C8 CT
+SA SK S5 S2
+SJ S6 S9 S3
+C7 ST D3 D9
+*
+
