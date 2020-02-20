@@ -1,0 +1,1623 @@
+% PBN 1.0
+%
+% These deals have been played at OKbridge
+%          http://www.okbridge.com
+%
+[Event "OKbridge Tournament"]
+[Site "?"]
+[Date "?"]
+[Board "363"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ricki"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ.AJ754.AK.JT75 AT765.6.Q965.986 J842.QT3.T843.Q2 93.K982.J72.AK43"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Mode "OKB"]
+[Round "IMP_16"]
+[Score "NS -50"]
+[ScoreIMP "NS -2.81"]
+[Auction "S"]
+1H Pass 2H Pass
+4H Pass Pass Pass
+[Play "W"]
+D5 D3 DJ DA
+C6 CQ CK C5
+SA S2 S9 SK
+S5 S4 S3 SQ
+C8 C2 CA CT
+D6 D4 D2 DK
+C9 H3 C3 C7
+H6 HQ HK HA
+S6 HT H2 H4
+S7 S8 H8 HJ
+*
+
+[Board "365"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ricki"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T9875.8765.J6.63 A62.AJ4.QT8.9874 KQJ3.KQ93.A92.AT 4.T2.K7543.KQJ52"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[ScoreIMP "NS -0.28"]
+[Auction "N"]
+Pass Pass 1C 1D
+Pass 1NT X 2C
+2S 3D Pass Pass
+Pass
+[Play "N"]
+ST SA SK S4
+DJ D8 D2 D3
+H7 HA H3 H2
+D6 DQ DA D4
+H8 H4 HK HT
+H5 HJ HQ DK
+C6 DT D9 D5
+- C9 CT -
+*
+
+[Board "376"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:743.T964.QT.9842 KT95.QJ32.A92.K5 Q62.AK85.KJ83.A7 AJ8.7.7654.QJT63"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Score "EW -110"]
+[ScoreIMP "EW -0.90"]
+[Auction "W"]
+Pass 1D X 2C
+Pass Pass X 2D
+2H Pass Pass 2NT
+Pass 3C Pass Pass
+Pass
+[Play "W"]
+HT HJ HK H7
+C2 C5 CA C3
+C4 CK C7 C6
+S3 S5 S2 S8
+C8 D2 D3 CQ
+C9 H2 H5 CJ
+DT DA D8 D4
+S4 S9 S6 SJ
+S7 ST SQ SA
+DQ D9 DK D5
+H4 H3 DJ D6
+H6 HQ HA CT
+H9 SK H8 D7
+
+[Board "377"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K982.82.J972.J75 T.AKQT6.AQ54.KQ9 J7.J95.KT6.AT843 AQ6543.743.83.62"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "EW 620"]
+[ScoreIMP "EW 6.09"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2C X 2H
+Pass 3D Pass 4H
+Pass Pass Pass
+[Play "S"]
+SJ SA S2 ST
+CA C2 C5 CQ
+S7 S3 S8 H6
+C3 C6 C7 CK
+CT H3 CJ C9
+DK D3 D2 DQ
+H5 H4 H2 HT
+D6 D8 D7 DA
+DT H7 D9 D4
+C4 S4 S9 HA
+H9 S5 H8 HK
+HJ S6 SK HQ
+C8 SQ DJ D5
+
+[Board "378"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KJ4.KT.QJT2.AJ86 AQ87.Q63.74.Q532 T9632.842.K653.7 5.AJ975.A98.KT94"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "9"]
+[Score "EW 200"]
+[ScoreIMP "EW 5.34"]
+[Auction "E"]
+1NT Pass 2H X
+2S 3H Pass 4H
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+C7 C9 CA C3
+H4 C4 C6 C2
+D3 DA D2 D4
+H8 HA HT H3
+H2 H5 HK H6
+- - DQ -
+*
+
+[Board "379"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:76542.4.Q964.J75 Q93.AK65.73.QT82 AKT8.83.KT85.K64 J.QJT972.AJ2.A93"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "EW 420"]
+[ScoreIMP "EW 2.57"]
+[Auction "S"]
+Pass Pass 1NT 2D
+Pass 2S Pass 4H
+Pass Pass Pass
+[Play "S"]
+S2 S3 SK SJ
+D9 D3 D8 D2
+S5 S9 ST H7
+H4 H5 H3 HJ
+S7 HK H8 H9
+S4 SQ SA H2
+D4 D7 D5 DA
+D6 H6 DT DJ
+CJ C2 C6 C9
+*
+
+[Board "380"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K94.AKT943.7.Q93 Q52.7652.AQ852.5 AJ73.J8.J93.AK74 T86.Q.KT64.JT862"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "13"]
+[Score "EW 510"]
+[ScoreIMP "EW 1.14"]
+[Auction "W"]
+1H Pass 2C Pass
+2D Pass 2S Pass
+2NT Pass 3C Pass
+4D X 4H Pass
+Pass Pass
+[Play "N"]
+C5 C4 CT CQ
+H2 H8 HQ HA
+H5 HJ D4 HK
+H6 D3 C2 HT
+H7 D9 D6 H9
+D2 CA C6 C3
+D5 CK C8 C9
+S2 S3 ST SK
+D8 C7 CJ H4
+S5 S7 S6 S9
+SQ SA S8 S4
+DQ SJ DT D7
+DA DJ DK H3
+
+[Board "381"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T872.JT63.96.K96 Q93.94.KQJ83.754 J654.KQ872..QJ82 AK.A5.AT7542.AT3"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Score "EW 600"]
+[ScoreIMP "EW 0.86"]
+[Auction "N"]
+Pass Pass 2H 2S
+Pass 2NT Pass 3H
+Pass 5D Pass Pass
+Pass
+[Play "S"]
+HQ HA H3 H4
+*
+
+[Board "382"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:Q4.64.AT87.AK954 A2.JT832.QJ93.87 T763.AQ7.K62.J63 KJ985.K95.54.QT2"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Score "EW 120"]
+[ScoreIMP "EW 2.28"]
+[Auction "E"]
+1C 1H 1NT 2H
+Pass Pass 2S X
+2NT Pass Pass Pass
+[Play "N"]
+H5 H4 HT HQ
+C2 CA C7 C3
+CQ C4 C8 CJ
+HK H6 H2 HA
+CT CK D3 C6
+*
+
+[Board "383"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:QT9.A4.642.AT543 J52.T62.AK9.QJ87 A83.KQ985.QT53.6 K764.J73.J87.K92"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Score "EW -170"]
+[ScoreIMP "EW -2.84"]
+[Auction "S"]
+Pass Pass 1H Pass
+1NT Pass 2D Pass
+2H Pass Pass Pass
+[Play "E"]
+H3 H4 HT HK
+H7 HA H2 H5
+D8 D2 DK D5
+D7 D4 DA D3
+DJ D6 D9 DQ
+HJ C3 H6 HQ
+S4 SQ S2 S3
+*
+
+[Board "384"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT73.7.JT5.QJ532 6542.AJ953.AKQ.6 J.KQT64.9762.AK7 KQ98.82.843.T984"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Score "EW 100"]
+[ScoreIMP "EW 1.63"]
+[Auction "W"]
+Pass 1H Pass 1NT
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "E"]
+CA C4 C5 C6
+SJ SK S7 S6
+HT H8 H7 H3
+CK C8 C3 H5
+H4 S8 S3 S2
+C7 C9 CJ H9
+D2 S9 ST S4
+D6 SQ SA S5
+D7 CT CQ HJ
+H6 H2 C2 HA
+D9 D3 D5 DQ
+HQ D4 DT DK
+HK D8 DJ DA
+
+[Board "385"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQJ82.KT.973.543 A3.Q984.KQJ.AKT9 7.A752.T52.J8762 T9654.J63.A864.Q"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "EW 400"]
+[ScoreIMP "EW 3.93"]
+[Auction "N"]
+2S X Pass 2NT
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+SK SA S7 S4
+SJ S3 D2 S9
+C5 CT CJ CQ
+HK H4 H2 H3
+SQ H8 DT S5
+HT HQ HA H6
+- - H5 -
+*
+
+[Board "386"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:8.A754.KT9654.42 K93.QJT..KQJT976 AQ75.9632.J32.83 JT642.K8.AQ87.A5"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "9"]
+[Score "EW 300"]
+[ScoreIMP "EW 11.06"]
+[Auction "E"]
+Pass 1C Pass 1S
+2D 2S Pass 3C
+Pass 3D Pass 3H
+Pass 4NT Pass 5H
+Pass 6C Pass 6S
+Pass Pass Pass
+[Play "E"]
+HA HT H6 H8
+H4 HJ H2 HK
+S8 S3 S5 SJ
+D6 S9 SQ S2
+D9 SK D2 D7
+C2 C6 C3 CA
+C4 CK C8 C5
+H5 HQ H3 D8
+D4 CQ H9 DQ
+D5 CJ D3 S4
+DT C7 DJ DA
+H7 C9 S7 S6
+DK CT SA ST
+
+[Board "387"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KQJ8654.6.AJ7.A8 A7.KQ953.Q83.KT5 3.AJ7.KT965.QJ92 T92.T842.42.7643"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "EW -980"]
+[ScoreIMP "EW -10.38"]
+[Auction "S"]
+1S 2H X Pass
+4NT Pass 5C Pass
+6S Pass Pass Pass
+[Play "W"]
+HQ HA H4 H6
+SA S3 S2 SJ
+S7 C2 S9 SQ
+H3 H7 ST SK
+H5 C9 HT S8
+H9 D5 H2 S6
+C5 HJ C4 S5
+CT CJ C6 CA
+HK CQ C3 S4
+D3 D6 D2 DA
+D8 DT D4 DJ
+DQ DK H8 D7
+CK D9 C7 C8
+
+[Board "388"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ985.T7.A3.AJ85 KJ63.J9.42.T7643 742.AQ82.QT9.K92 T.K6543.KJ8765.Q"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "EW -200"]
+[ScoreIMP "EW -2.20"]
+[Auction "W"]
+1S Pass 3S 3NT
+4S Pass Pass Pass
+[Play "N"]
+D4 D9 DJ DA
+D2 DT DK D3
+S3 DQ D5 H7
+C3 C9 CQ CA
+S6 S2 ST SA
+SK S4 H3 SQ
+SJ S7 D8 S5
+HJ HA H4 HT
+C4 C2 H5 CJ
+C6 CK H6 C5
+H9 H8 HK S8
+C7 H2 D6 S9
+CT HQ D7 C8
+
+[Board "389"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A5.Q865.KQ654.KJ T62.JT3.T872.T42 KQ843.A974.AJ.A6 J97.K2.93.Q98753"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "12"]
+[Score "EW -1430"]
+[ScoreIMP "EW -1.12"]
+[Auction "N"]
+1NT Pass 2C X
+2H Pass 6H Pass
+Pass Pass
+[Play "E"]
+C4 C6 CQ CK
+H3 HA H2 H5
+HT H4 HK H6
+C2 - C3 CJ
+*
+
+[Board "390"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:Q87.A85.A975.Q54 AKJ963.T7.J62.J3 52.KQ.QT4.AT9862 T4.J96432.K83.K7"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Score "EW 100"]
+[ScoreIMP "EW 3.27"]
+[Auction "E"]
+1D 1S 2C 2H
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+S5 ST SQ SA
+S2 S4 S7 SK
+C9 H2 S8 SJ
+HQ H3 H8 H7
+C2 C7 CQ C3
+CA CK C5 CJ
+HK H4 H5 HT
+CT H6 C4 S3
+D4 DK DA D2
+C6 H9 HA S6
+DT D3 D5 D6
+DQ D8 D7 DJ
+C8 HJ D9 S9
+
+[Board "391"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:8..KQJ8754.AKQ86 AJ7.862.AT62.T42 963.AQ97543..J53 KQT542.KJT.93.97"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "10"]
+[Score "EW 200"]
+[ScoreIMP "EW 4.83"]
+[Auction "S"]
+1D Pass 1H 1S
+3C Pass 3H Pass
+4D Pass 4H Pass
+5D X Pass Pass
+Pass
+[Play "W"]
+SA S3 S5 S8
+SJ S6 SQ D4
+D2 H3 D3 DK
+DA H4 D9 DQ
+S7 S9 SK D5
+D6 H5 S4 DJ
+*
+
+[Board "392"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A63.AJ.8432.KT87 KQ8.Q843.QJT96.4 JT7542..AK75.J93 9.KT97652..AQ652"]
+[Declarer "S"]
+[Contract "6HX"]
+[Result "12"]
+[Score "EW -1210"]
+[ScoreIMP "EW -12.99"]
+[Auction "W"]
+1C X Pass 6H
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+D4 DT DK H2
+C7 C4 C9 CA
+C8 H3 C3 C2
+D2 DJ D5 S9
+HA H4 S4 HK
+HJ HQ S5 H5
+D3 DQ DA H6
+CT H8 CJ C5
+D8 D9 D7 C6
+S3 D6 S2 CQ
+*
+
+[Board "393"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ65.AJ73.54.AK5 T42.96.JT72.QT98 Q73.KQ85.986.J64 A98.T42.AKQ3.732"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "EW -420"]
+[ScoreIMP "EW -4.39"]
+[Auction "N"]
+1C Pass 1H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+DA D4 D2 D8
+DK D5 D7 D6
+S9 S5 S2 SQ
+H2 HA H6 H5
+H4 H3 H9 HK
+D3 HJ DT D9
+HT H7 S4 HQ
+SA - - S3
+*
+
+[Board "394"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AK63.K6.K54.QJT9 QJ72.A4.A973.K42 9854.Q872.QT2.86 T.JT953.J86.A753"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "5"]
+[Score "EW -300"]
+[ScoreIMP "EW -6.41"]
+[Auction "E"]
+1NT Pass 2C Pass
+2S Pass Pass Pass
+[Play "S"]
+S2 S4 ST SA
+CK C6 C3 CQ
+SQ S5 H5 SK
+C4 C8 CA CT
+H4 HQ HJ H6
+DA D2 D8 DK
+SJ S8 C5 S3
+HA H2 H3 HK
+S7 S9 C7 S6
+D3 DQ D6 D4
+D7 DT DJ D5
+C2 H7 HT C9
+D9 H8 H9 CJ
+
+[Board "395"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:932.KJ.Q987.K864 J5.QT52.T53.A975 KQ6.A873.AKJ642. AT874.964..QJT32"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Score "EW -400"]
+[ScoreIMP "EW -4.04"]
+[Auction "S"]
+Pass Pass 1D 1S
+2D Pass 2H Pass
+3C Pass 5D Pass
+Pass Pass
+[Play "E"]
+CQ C4 C5 D2
+C3 D7 D3 DA
+H4 HK H2 H3
+H6 HJ HQ HA
+H9 D8 H5 H7
+C2 C6 C7 D4
+S4 DQ HT H8
+- D9 D5 DK
+*
+
+[Board "396"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A4.T986.JT72.T97 KQ63.AK43.AQ.K42 J9872.2.K86.AQ65 T5.QJ75.9543.J83"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "EW 200"]
+[ScoreIMP "EW 2.07"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 2H Pass 2S
+Pass 2NT Pass 3C
+Pass 3D Pass 3S
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+H2 HQ H6 H3
+S7 S5 S4 SK
+S2 HJ H8 H4
+S8 ST SA S3
+DK D3 DJ DQ
+SJ H7 H9 S6
+C5 H5 HT HK
+D6 D4 D2 DA
+S9 C3 D7 SQ
+CQ C8 CT C2
+CA - - -
+*
+
+[Board "397"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QT82.83.QT986.82 K9.JT94.KJ75.T54 AJ.AKQ2.A4.AKQJ7 76543.765.32.963"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "EW -690"]
+[ScoreIMP "EW 0.14"]
+[Auction "N"]
+Pass Pass 2C Pass
+2D Pass 3NT Pass
+Pass Pass
+[Play "W"]
+S6 S2 S9 SJ
+C6 C2 C4 CA
+C3 C8 C5 CK
+C9 D6 CT CQ
+D2 H3 H4 CJ
+H6 S8 D5 C7
+S4 ST SK SA
+H5 H8 H9 HA
+H7 D8 HT HK
+S3 D9 HJ HQ
+S5 SQ D7 H2
+D3 DT DJ DA
+S7 DQ DK D4
+
+[Board "398"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AT762.K8.94.T642 J8.AQ63.QT8.KQ98 93.J972.AK532.J3 KQ54.T54.J76.A75"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Score "EW -120"]
+[ScoreIMP "EW -0.83"]
+[Auction "E"]
+Pass 1C 1D 1S
+Pass 1NT Pass 2NT
+Pass Pass Pass
+[Play "W"]
+H2 HT HK HA
+S3 S4 S7 SJ
+S9 SQ SA S8
+H9 H4 H8 H3
+HJ H5 S6 HQ
+C3 C5 C2 CK
+CJ CA C4 C8
+D3 SK S2 H6
+D2 C7 C6 C9
+D5 - - CQ
+*
+
+[Board "400"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:873.K942.T943.K7 9.873.8765.QJT83 KT64.J65.AK.A965 AQJ52.AQT.QJ2.42"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "5"]
+[Score "EW 150"]
+[ScoreIMP "EW 1.41"]
+[Auction "W"]
+Pass Pass 1NT X
+Pass 2C Pass 2S
+Pass Pass Pass
+[Play "W"]
+CK C3 C5 C2
+C7 CT CA C4
+D3 D5 DK D2
+D4 D6 DA DJ
+S3 C8 C6 HT
+D9 D7 S4 DQ
+S7 CJ C9 HQ
+H2 H3 HJ HA
+S8 S9 S6 SA
+H4 H7 SK SQ
+H9 H8 H5 S2
+DT D8 ST SJ
+HK CQ H6 S5
+
+[Board "401"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:8.J5.8742.AK7642 A765.KQT832.Q3.T KJ43.96.AT.QJ983 QT92.A74.KJ965.5"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "10"]
+[Score "EW -50"]
+[ScoreIMP "EW -4.52"]
+[Auction "N"]
+3C 3H 5C 5H
+Pass Pass Pass
+[Play "S"]
+CQ C5 CK CT
+S3 S9 S8 SA
+H6 H4 H5 HK
+H9 HA HJ H2
+DA D5 D2 DQ
+SK S2 C7 S5
+S4 - - -
+*
+
+[Board "402"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQ.Q843.K.AKQJ42 .KJT62.AJ985.865 T9865432.A9.742. KJ7.75.QT63.T973"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "EW 450"]
+[ScoreIMP "EW 1.60"]
+[Auction "E"]
+1C 1H 4S Pass
+Pass Pass
+[Play "N"]
+H7 H3 HT HA
+S7 SA D5 S2
+C3 CA C6 D2
+C7 CK C5 D4
+C9 CQ C8 D7
+CT CJ H2 H9
+*
+
+[Board "403"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AT7.9752.AKJ.T72 964.AQ8.Q8752.64 KQJ852.J3..QJ953 3.KT64.T9643.AK8"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "EW 100"]
+[ScoreIMP "EW 2.85"]
+[Auction "S"]
+1NT Pass 4D Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "E"]
+CA C2 C6 CQ
+CK C7 C4 CJ
+C8 CT S6 C3
+H6 H2 HA HJ
+- - H8 H3
+*
+
+[Board "404"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A432.4.AJT632.J6 K765.AKT8653..82 JT9.972.KQ87.943 Q8.QJ.954.AKQT75"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "12"]
+[Score "EW -1190"]
+[ScoreIMP "EW -9.41"]
+[Auction "W"]
+Pass 4H Pass Pass
+X Pass Pass Pass
+[Play "E"]
+ST S8 SA S5
+D8 D4 DA H3
+H2 HQ H4 H5
+*
+
+[Board "405"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT543.64.75.KJ54 82.AT98.QJT86.32 AJ9.KQ53.A.QT876 Q76.J72.K9432.A9"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "EW -650"]
+[ScoreIMP "EW -3.66"]
+[Auction "N"]
+Pass Pass 1C 1D
+1S 3D 3H Pass
+4C Pass 4S Pass
+Pass Pass
+[Play "E"]
+DQ DA D4 D5
+S2 SJ S6 S3
+S8 S9 S7 ST
+D8 SA D2 D7
+HA HK H2 H4
+DJ H3 D9 S4
+- - - SK
+*
+
+[Board "406"]
+[West "papi"]
+[North "Shawn"]
+[East "snabu"]
+[South "daffydoc"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:962.Q8.J64.AQJ83 K3.AT732.AT953.4 AJ4.K965.K2.T762 QT875.J4.Q87.K95"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Score "EW 50"]
+[ScoreIMP "EW 0.11"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "W"]
+C7 C9 CJ C4
+SA S5 S6 S3
+CT C5 CQ H2
+S4 S7 S2 SK
+DK D7 D6 D3
+C6 CK CA H3
+D2 DQ D4 D5
+SJ SQ S9 D9
+HK ST H8 HT
+H5 H4 HQ HA
+H6 HJ C3 H7
+H9 S8 C8 DT
+C2 D8 DJ DA
+
+[Board "608"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A3.AT984.A87.Q96 72.J7.KT6542.T82 QJT984.K65.Q9.74 K65.Q32.J3.AKJ53"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[ScoreIMP "NS 4.99"]
+[Auction "W"]
+1H Pass 1S 2C
+Pass 2D 2S X
+Pass 3C Pass Pass
+Pass
+[Play "W"]
+SA S2 SQ S6
+S3 S7 S8 SK
+DA D2 D9 DJ
+D7 DK DQ D3
+D8 DT H6 H2
+C6 D4 H5 H3
+HA H7 HK HQ
+H4 HJ C7 CJ
+H8 C2 S4 S5
+C9 C8 C4 CA
+CQ CT S9 CK
+H9 - - C5
+*
+
+[Board "609"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKJ98432.J75.J.3 QT.AQ2.AKQ54.A85 65.KT.T763.T9764 7.98643.982.KQJ2"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS 50"]
+[ScoreIMP "NS -1.82"]
+[Auction "N"]
+4S X Pass 5H
+Pass Pass Pass
+[Play "N"]
+SA ST S6 S7
+SK SQ S5 H3
+H5 HQ HK H4
+C3 CA CT C2
+H7 HA HT H6
+*
+
+[Board "610"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AK64.T.AKQT4.J63 8532.A8643.987.5 Q7.K52.J653.9842 JT9.QJ97.2.AKQT7"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[ScoreIMP "NS -1.75"]
+[Auction "E"]
+1D Pass 1NT X
+2C 2H 3D Pass
+Pass Pass
+[Play "S"]
+S5 S7 SJ SA
+D9 D3 D2 DA
+D7 DJ H9 D4
+D8 D5 C7 DK
+S3 SQ ST S4
+H6 H2 HJ HT
+C5 C2 CA C3
+- - CK -
+*
+
+[Board "611"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:7.AK2.Q983.AQJT7 KJ543.T875.AT6.8 AQ98.J6.J542.K53 T62.Q943.K7.9642"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[ScoreIMP "NS 1.27"]
+[Auction "S"]
+1C Pass 1D Pass
+3D Pass 3H Pass
+3NT Pass Pass Pass
+[Play "W"]
+S4 S8 ST S7
+H7 HJ H3 H2
+DT D2 D7 D8
+HT H6 H4 HK
+D6 DJ DK D3
+H5 C3 HQ HA
+*
+
+[Board "612"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A52.K643.62.9743 QT3.QJ8.JT9875.A K9874.A5.AQ4.KT2 J6.T972.K3.QJ865"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[ScoreIMP "NS -0.78"]
+[Auction "W"]
+Pass Pass 1S Pass
+2S Pass 3C Pass
+3S Pass Pass Pass
+[Play "S"]
+HT HK H8 H5
+DK D2 DJ DQ
+H2 H3 HJ HA
+D3 D6 DT DA
+S6 SA S3 S4
+SJ S2 ST SK
+C5 S5 D5 D4
+C6 C3 CA C2
+C8 C4 D9 S9
+H7 H4 SQ S8
+H9 H6 HQ S7
+CJ C7 D7 CK
+CQ C9 D8 CT
+
+[Board "613"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J43.KQJ.J96.QJ97 T8.8763.KT85.K62 AK65.A95.742.A54 Q972.T42.AQ3.T83"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[ScoreIMP "NS 3.17"]
+[Auction "N"]
+Pass Pass 1NT Pass
+3NT Pass Pass Pass
+[Play "W"]
+S2 SJ S8 S6
+C3 CQ C2 C5
+C8 C7 C6 CA
+CT CJ CK C4
+- - ST -
+*
+
+[Board "614"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J63.AT93.Q92.K97 T92.Q75.AKJ.T852 Q854.82.65.AQJ64 AK7.KJ64.T8743.3"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[ScoreIMP "NS 1.50"]
+[Auction "E"]
+Pass Pass Pass 1H
+Pass 2C X 2H
+Pass Pass Pass
+[Play "E"]
+C7 C8 CA C3
+C9 C2 C6 H4
+H3 H5 H2 HK
+D9 DA D5 D3
+CK C5 C4 H6
+D2 DK D6 D4
+HA CT CQ HJ
+HT HQ H8 D7
+S3 S2 S4 SA
+S6 S9 S5 SK
+DQ DJ S8 D8
+*
+
+[Board "615"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:T86.AQ75.96.KJT6 95.KT.K8532.8742 QJ732.J932.AQJ.Q AK4.864.T74.A953"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[ScoreIMP "NS 2.24"]
+[Auction "S"]
+Pass Pass 1S Pass
+2C Pass 2H Pass
+3H Pass Pass Pass
+[Play "E"]
+SK S6 S9 S2
+SA S8 S5 S3
+S4 ST HT SJ
+D7 D6 D8 DQ
+CA C6 C8 CQ
+DT D9 D2 DJ
+H4 HA HK H2
+*
+
+[Board "616"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:632.KT3.87.AK842 KJT9.9764.2.T765 Q4.QJ52.AKJ54.Q3 A875.A8.QT963.J9"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[ScoreIMP "NS -2.52"]
+[Auction "W"]
+Pass Pass 1D Pass
+1NT Pass Pass Pass
+[Play "N"]
+H7 H2 HA H3
+SK S4 S5 S2
+SJ SQ SA S3
+S9 D4 S8 S6
+ST D5 S7 C2
+C7 CQ C9 C4
+- H5 H8 -
+*
+
+[Board "617"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:2.AQ983.52.AJT98 AT75.KJ7.QJ4.K74 KJ63.T54.T87.652 Q984.62.AK963.Q3"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[ScoreIMP "NS 6.55"]
+[Auction "N"]
+1H 1NT Pass 2C
+X 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+C5 C3 C8 CK
+C6 CQ CA C4
+C2 S4 CJ C7
+SJ S9 S2 S5
+H5 H2 HA H7
+H4 SQ CT HJ
+SK S8 H3 S7
+HT H6 H8 -
+*
+
+[Board "618"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q.KJ875.JT.96542 96543.T6.9732.KQ AT82.Q32.65.AJT7 KJ7.A94.AKQ84.83"]
+[Declarer "S"]
+[Contract "3SX"]
+[Result "8"]
+[Score "NS -200"]
+[ScoreIMP "NS -4.18"]
+[Auction "E"]
+Pass Pass Pass 1NT
+2H 2S 3H 3S
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+HQ H4 H8 H6
+H3 HA H7 HT
+CA C3 C4 CQ
+D6 DA DJ D2
+C7 C8 C6 CK
+S2 S7 SQ S3
+H2 H9 HK S4
+SA SJ H5 S5
+CJ D4 C2 S6
+D5 DK DT D3
+S8 DQ HJ D7
+CT D8 C5 S9
+ST SK C9 D9
+
+[Board "619"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K9.9643.AT7.J974 AT8753.K.K9.A853 2.A8752.QJ65.KT6 QJ64.QJT.8432.Q2"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[ScoreIMP "NS -4.36"]
+[Auction "S"]
+Pass 1S Pass 2S
+Pass Pass X 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+S2 SQ SK SA
+H5 S4 S9 ST
+HA HT H3 HK
+DQ - - -
+*
+
+[Board "620"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AQJ87.K9.A.AK862 T92.864.T8753.T7 543.QJ2.K92.J954 K6.AT753.QJ64.Q3"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[ScoreIMP "NS 0.94"]
+[Auction "W"]
+1S Pass 2S Pass
+3C Pass 3S Pass
+4D Pass 4S Pass
+Pass Pass
+[Play "N"]
+ST S3 SK SA
+S2 S4 S6 SQ
+S9 S5 H5 SJ
+H8 H2 HA HK
+H4 HQ H7 H9
+C7 C4 C3 CA
+CT C5 CQ CK
+*
+
+[Board "621"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK95.T8.KQJ64.52 Q6.AK97.A93.K874 32.J53.52.QJT963 JT874.Q642.T87.A"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[ScoreIMP "NS 2.53"]
+[Auction "N"]
+1D 1NT Pass 2C
+Pass 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+S3 S4 SK S6
+D5 D7 DK DA
+H3 H2 H8 HA
+C6 CA C2 C4
+H5 H4 HT HK
+C3 D8 C5 CK
+S2 S7 SA SQ
+D2 DT DQ D3
+HJ S8 S5 H9
+*
+
+[Board "622"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKQ7654.JT96.75. T98.8.QJ84.AKQ93 J32.7542.A62.J65 .AKQ3.KT93.T8742"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 420"]
+[ScoreIMP "NS -1.17"]
+[Auction "E"]
+4S Pass Pass X
+Pass 4NT Pass 5C
+Pass Pass Pass
+[Play "E"]
+SQ S8 S2 C2
+S4 CA C5 C4
+- CK C6 -
+*
+
+[Board "623"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:652.J986.T532.AQ T9.43.KQJ8764.KJ AQJ73.Q5.9.T8432 K84.AKT72.A.9765"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS -150"]
+[ScoreIMP "NS 1.35"]
+[Auction "S"]
+Pass 3D Pass Pass
+Pass
+[Play "N"]
+SA S4 S2 S9
+C8 C5 CA CJ
+SJ SK S6 ST
+D9 DA D2 D4
+C2 C6 CQ CK
+C3 - - DK
+*
+
+[Board "624"]
+[West "porlett"]
+[North "PAPI"]
+[East "cheesy"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KT.A9.QT863.AK98 9.Q875.KJ54.JT75 QJ8653.JT632..Q4 A742.K4.A972.632"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[ScoreIMP "NS -5.92"]
+[Auction "W"]
+1NT Pass 2H Pass
+2S Pass 3H Pass
+3NT Pass 4S Pass
+Pass Pass
+[Play "N"]
+CJ CQ C2 C8
+HQ H2 H4 H9
+D4 S5 D7 D3
+C5 C4 C3 CA
+H5 H3 HK HA
+S9 S3 SA SK
+DJ S6 D2 D6
+H7 SQ S2 ST
+H8 SJ S4 D8
+- S8 S7 -
+*
+
+[Board "694"]
+[West "madobari"]
+[North "POOHBYR"]
+[East "shosha"]
+[South "papi"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AJ7652.63.A87.J7 Q8.AKQJ82.93.432 T9.T75.KQ654.KQ8 K43.94.JT2.AT965"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[ScoreIMP "NS -3.58"]
+[Auction "E"]
+Pass 1H Pass 1NT
+2S Pass Pass Pass
+[Play "S"]
+HA H5 H9 H6
+HK H7 H4 H3
+C4 C8 CA C7
+C3 CQ CT CJ
+SQ ST S3 S2
+HQ HT D2 S5
+D9 DQ DT D7
+S8 S9 S4 S6
+C2 CK C5 S7
+H2 D4 SK SA
+*
+
+[Board "695"]
+[West "madobari"]
+[North "POOHBYR"]
+[East "shosha"]
+[South "papi"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AKJ43.J73.K.A964 T75.A865.43.T753 Q82.Q42.T876.KQJ 96.KT9.AQJ952.82"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[ScoreIMP "NS -3.17"]
+[Auction "S"]
+1S Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+D4 D6 DA DK
+D3 D7 DQ S3
+S7 S2 S6 SA
+S5 S8 S9 SJ
+C3 CJ C2 C4
+ST D8 D9 S4
+C5 CQ C8 C6
+C7 CK D2 C9
+H5 DT DJ SK
+CT H2 D5 CA
+H6 HQ HK H3
+HA H4 HT HJ
+H8 SQ H9 H7
+
+[Board "696"]
+[West "madobari"]
+[North "POOHBYR"]
+[East "shosha"]
+[South "papi"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK62.AT875.K76.5 QJ5..QT32.QT8764 T74.KQ943.J95.A3 983.J62.A84.KJ92"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[ScoreIMP "NS -1.36"]
+[Auction "W"]
+1H Pass 4H Pass
+Pass Pass
+[Play "N"]
+SQ S4 S3 SA
+C7 HK H2 H5
+C4 HQ H6 H7
+C6 H3 HJ HA
+SJ S7 S8 S2
+S5 ST S9 S6
+C8 CA C9 C5
+CT C3 CK HT
+D2 D5 C2 SK
+D3 H9 CJ H8
+DT D9 D4 DK
+*
+
+[Board "697"]
+[West "madobari"]
+[North "POOHBYR"]
+[East "shosha"]
+[South "papi"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K4.KJ953.AT7.Q85 AQ9.A4.K6432.KJ6 J72.T8.QJ85.AT74 T8653.Q762.9.932"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 200"]
+[ScoreIMP "NS 3.38"]
+[Auction "N"]
+1H X 1NT 2S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+C5 CK C7 C3
+DT D2 D5 D9
+H5 H4 HT HQ
+H3 HA H8 H2
+D7 D3 DJ S3
+H9 SA D8 H6
+DA D4 DQ S5
+HJ S9 SJ H7
+SK SQ S2 S6
+HK C6 C4 S8
+S4 CJ S7 ST
+C8 D6 CT C2
+CQ DK CA C9
+
+[Board "698"]
+[West "madobari"]
+[North "POOHBYR"]
+[East "shosha"]
+[South "papi"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:.KQJ83.752.KT987 863.7652.AQT8.32 K42.AT4.J63.QJ64 AQJT975.9.K94.A5"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS 790"]
+[ScoreIMP "NS 4.90"]
+[Auction "E"]
+1H Pass 3H 3S
+Pass 4S X Pass
+Pass Pass
+[Play "E"]
+HK H2 HA H9
+C7 C2 CQ CA
+H3 S3 S2 SA
+D7 S8 SK S5
+*
+
+[Board "699"]
+[West "madobari"]
+[North "POOHBYR"]
+[East "shosha"]
+[South "papi"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:863.K4.AT965.J32 7.AJ97.QJ8742.A5 AQ52.QT2.K3.9874 KJT94.8653..KQT6"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[ScoreIMP "NS 3.92"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2D Pass 2S
+Pass Pass Pass
+[Play "S"]
+HK HA H2 H3
+S3 S7 S2 S9
+H4 HJ HQ H5
+CJ CA C4 CT
+C3 H7 HT H6
+C2 C5 C9 CK
+S6 D2 SQ ST
+D5 D4 DK S4
+S8 H9 C7 H8
+DA D7 D3 SJ
+D6 D8 C8 CQ
+D9 DJ S5 C6
+DT DQ SA SK
+
+[Board "705"]
+[West "madobari"]
+[North "POOHBYR"]
+[East "shosha"]
+[South "papi"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QJ976.Q82.KT94.8 AKT854.74.865.Q7 .AKJT963.2.A5432 32.5.AQJ73.KJT96"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[ScoreIMP "NS 0.70"]
+[Auction "N"]
+Pass 2S 4H Pass
+Pass Pass
+[Play "W"]
+S3 SJ SK H3
+C6 C8 CQ CA
+DA D4 D6 D2
+H5 H2 H7 H9
+CT H8 C7 C2
+D3 DK D5 C3
+D7 D9 D8 H6
+C9 HQ S4 C4
+*
+

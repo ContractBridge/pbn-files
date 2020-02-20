@@ -1,0 +1,7095 @@
+% PBN 2.0
+% EXPORT
+%
+% These deals have been played at OKbridge
+%          http://www.okbridge.com
+%
+[Event "##OKbridge Tournament"]
+[Site "##?"]
+[Date "##?"]
+[Board "186"]
+[West "POOHBYR"]
+[North "papi"]
+[East "rko"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KT.KT53.KJ64.QJ8 AJ32.742.AT2.T52 Q9854.AQ8.975.97 76.J96.Q83.AK643"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "7"]
+[Mode "##OKB"]
+[Round "##IMP_13"]
+[Score "NS -200"]
+[ScoreIMP "NS -3.61"]
+[Auction "E"]
+1D 1S Pass 2C
+Pass Pass 2D Pass
+Pass 3C Pass Pass
+Pass
+[Play "E"]
+D4 D2 D9 DQ
+C8 C2 C7 CA
+CQ C5 C9 CK
+SK S2 S5 S6
+CJ CT D7 C3
+DK DA D5 D3
+HT H2 H8 H9
+DJ DT S4 D8
+D6 H4 S8 C4
+H3 H7 HQ C6
+ST SJ SQ S7
+H5 S3 HA H6
+HK SA S9 HJ
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NTX  E  7   500  10.87 1
+  2 4HX   E  8   500  10.87 1
+  3 2NT   E  5   300   7.95 1
+  4 3D    E  7   200   6.04 2
+  6 2NT   S  9   150   5.03 1
+  7 2NT   S  8   120   4.39 1
+  8 1NT   E  6   100   3.83 4
+ 12 2H    E  7   100   3.83 4
+ 16 2H    W  7   100   3.83 1
+ 17 2S    E  7   100   3.83 1
+ 18 2S    W  7   100   3.83 6
+ 24 2NT   E  7   100   3.83 2
+ 26 3D    E  8   100   3.83 1
+ 27 3S    W  8   100   3.83 1
+ 28 3NT   E  8   100   3.83 2
+ 30 Pass  -  -     0   1.48 6
+ 36 1NT   E  7   -90  -0.78 18
+ 54 2D    E  8   -90  -0.78 4
+ 58 2C    N  7  -100  -1.01 2
+ 60 2C    S  7  -100  -1.01 1
+ 61 2NT   S  7  -100  -1.01 1
+ 62 2H    E  8  -110  -1.33 2
+ 64 2S    E  8  -110  -1.33 1
+ 65 2S    W  8  -110  -1.33 16
+ 81 1NT   E  8  -120  -1.68 8
+ 89 2NT   E  8  -120  -1.68 1
+ 90 2S    W  9  -140  -2.29 1
+ 91 1NT   E  9  -150  -2.34 2
+ 93 1S    S  5  -200  -3.61 1
+ 94 2C    N  6  -200  -3.61 1
+ 95 2CX   N  7  -200  -3.61 1
+ 96 2NT   S  6  -200  -3.61 1
+ 97 3C    N  7  -200  -3.61 3
+100 3CX   N  8  -200  -3.61 1
+101 2S    S  5  -300  -5.74 1
+102 3C    N  5  -400  -7.71 1
+103 2CX   N  6  -500  -9.43 1
+104 2NTX  E  8  -690 -11.55 1
+105 3NTX  S  6  -800 -12.49 1
+
+[Board "187"]
+[West "POOHBYR"]
+[North "papi"]
+[East "rko"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:T4.Q9865.74.T643 AK753.J73.T32.K8 J96.AK2.AQJ965.9 Q82.T4.K8.AQJ752"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "11"]
+[Score "NS -200"]
+[ScoreIMP "NS 2.51"]
+[Auction "S"]
+Pass Pass 1D 2C
+Pass Pass X Pass
+2H 2S 3D 3S
+Pass Pass Pass
+[Play "N"]
+HA H4 H9 H3
+DA D8 D7 D2
+D9 DK D4 D3
+S6 S2 S4 SA
+S9 SQ ST S3
+SJ S8 H5 SK
+C9 C2 C3 CK
+D5 CA C4 C8
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6S    W  8   200  10.13 1
+  2 3D    N 10   130   9.01 1
+  3 3D    N  9   110   8.60 3
+  6 3NT   W  7   100   8.58 1
+  7 4C    E  9    50   7.75 1
+  8 3D    N  8   -50   5.95 3
+ 11 3H    S  8   -50   5.95 1
+ 12 4D    N  9   -50   5.95 1
+ 13 3H    S  7  -100   4.86 1
+ 14 5D    N  9  -100   4.86 1
+ 15 4C    E 10  -130   4.08 1
+ 16 2S    W  9  -140   3.85 1
+ 17 3S    W  9  -140   3.85 2
+ 19 3C    E 11  -150   3.78 1
+ 20 2S    W 10  -170   3.08 2
+ 22 3S    W 10  -170   3.08 9
+ 31 4C    E 12  -170   3.08 1
+ 32 2S    W 11  -200   2.51 1
+ 33 3S    W 11  -200   2.51 12
+ 45 2S    W 12  -230   1.64 1
+ 46 3S    W 12  -230   1.64 3
+ 49 4HX   S  8  -300  -0.10 1
+ 50 5DX   N  9  -300  -0.10 2
+ 52 5HX   S  9  -300  -0.10 1
+ 53 5C    E 11  -400  -2.26 1
+ 54 4S    W 10  -420  -2.91 30
+ 84 4S    W 11  -450  -3.62 11
+ 95 4S    W 12  -480  -4.41 8
+103 5S    W 12  -480  -4.41 1
+104 3NT   E 12  -490  -4.56 1
+105 3NT   W 12  -490  -4.56 1
+106 4SX   W 10  -590  -6.79 1
+107 4SXX  W 10  -880 -11.02 1
+
+[Board "188"]
+[West "POOHBYR"]
+[North "papi"]
+[East "rko"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AQ9862.86.T6.864 4.JT75.K9742.K32 T753.KQ9.J853.97 KJ.A432.AQ.AQJT5"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS -100"]
+[ScoreIMP "NS -7.33"]
+[Auction "W"]
+2S Pass 3S X
+Pass 4H 4S Pass
+Pass 5D Pass 5H
+Pass Pass Pass
+[Play "E"]
+S7 SJ SQ S4
+S3 SK SA H5
+D3 DA D6 D2
+HQ H2 H6 HT
+C7 CT C6 C2
+H9 HA H8 H7
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4H    N 11   650   7.07 2
+  3 4H    S 11   650   7.07 2
+  5 3NT   S 10   630   6.45 11
+ 16 4NT   S 10   630   6.45 1
+ 17 4H    N 10   620   6.44 13
+ 30 4H    S 10   620   6.44 6
+ 36 3NT   S  9   600   5.78 3
+ 39 4SX   W  8   300  -0.01 28
+ 67 4S    W  7   150  -3.02 1
+ 68 4C    S 10   130  -3.50 1
+ 69 3SX   W  8   100  -4.07 4
+ 73 4S    W  8   100  -4.07 1
+ 74 4SX   W  9   100  -4.07 1
+ 75 5C    S 10  -100  -7.33 4
+ 79 5D    N 10  -100  -7.33 7
+ 86 5H    N 10  -100  -7.33 9
+ 95 5H    S 10  -100  -7.33 4
+ 99 4D    N  8  -200  -9.20 1
+100 5C    S  9  -200  -9.20 1
+101 6NT   S 10  -200  -9.20 1
+102 6NT   S  9  -300 -10.60 1
+
+[Board "189"]
+[West "POOHBYR"]
+[North "papi"]
+[East "rko"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q98543.QT976.4.7 KT.K.KJ7.AQJ9653 762.J5.Q8652.K82 AJ.A8432.AT93.T4"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[ScoreIMP "NS 5.21"]
+[Auction "N"]
+Pass 1C Pass 1H
+1S 3NT Pass Pass
+Pass
+[Play "S"]
+S6 SA S5 ST
+CK CT C7 C3
+S7 SJ SQ SK
+H5 H2 HT HK
+C2 C4 H7 CA
+C8 H3 H6 CQ
+D2 - - CJ
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5D    W  9   200  14.47 1
+  2 4H    W  9   100  14.01 2
+  4 6D    W 11   100  14.01 2
+  6 7NT   E 12   100  14.01 1
+  7 5D    W 11  -600   6.92 1
+  8 5C    E 12  -620   6.46 3
+ 11 3NT   E 11  -660   5.68 1
+ 12 3NT   E 12  -690   5.21 20
+ 32 3NT   W 12  -690   5.21 19
+ 51 4NT   E 12  -690   5.21 2
+ 53 4NT   W 12  -690   5.21 1
+ 54 5NT   W 12  -690   5.21 1
+ 55 6C    E 12 -1370  -6.02 25
+ 80 5SX   N  6 -1400  -6.54 1
+ 81 6NT   E 12 -1440  -7.46 15
+ 96 6NT   W 12 -1440  -7.46 7
+103 6CX   E 12 -1540  -8.94 1
+104 6NTX  E 12 -1680 -10.66 1
+
+[Board "190"]
+[West "POOHBYR"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AT2.K8653.94.843 J74.QT.K85.97652 853.942.QJ73.AKQ KQ96.AJ7.AT62.JT"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 50"]
+[ScoreIMP "NS -0.38"]
+[Auction "E"]
+Pass Pass 1D X
+1H Pass Pass 1S
+Pass Pass 2H Pass
+Pass Pass
+[Play "S"]
+S4 S3 SQ SA
+C2 CA CJ C3
+HT H2 H7 HK
+HQ H4 HA H3
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3HX   E  7   300   5.87 1
+  2 1NTX  N  8   280   5.57 1
+  3 1NTX  N  7   180   3.42 2
+  5 1NT   N  9   150   2.47 2
+  7 2D    E  5   150   2.47 1
+  8 2NT   S  9   150   2.47 1
+  9 1NT   N  8   120   1.66 26
+ 35 1NT   S  8   120   1.66 1
+ 36 2NT   N  8   120   1.66 1
+ 37 2S    N  8   110   1.45 2
+ 39 2D    W  6   100   0.93 1
+ 40 2H    E  6   100   0.93 2
+ 42 3H    E  7   100   0.93 2
+ 44 1NT   N  7    90   0.68 15
+ 59 1NT   S  7    90   0.68 2
+ 61 1H    E  6    50  -0.38 1
+ 62 1NT   W  6    50  -0.38 2
+ 64 2H    E  7    50  -0.38 19
+ 83 1NT   N  6   -50  -3.17 1
+ 84 2S    N  7   -50  -3.17 1
+ 85 2NT   N  7   -50  -3.17 1
+ 86 3C    N  8   -50  -3.17 3
+ 89 3C    S  8   -50  -3.17 3
+ 92 3NT   S  8   -50  -3.17 1
+ 93 1H    E  7   -80  -3.87 1
+ 94 1NT   W  7   -90  -3.94 1
+ 95 1NT   S  5  -100  -4.36 1
+ 96 2NT   N  6  -100  -4.36 1
+ 97 3CX   S  8  -100  -4.36 1
+ 98 3NT   N  7  -100  -4.36 1
+ 99 2H    E  8  -110  -4.41 4
+103 2NT   N  5  -150  -5.44 1
+104 3NT   N  6  -150  -5.44 1
+
+[Board "191"]
+[West "POOHBYR"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AQ.A94.9742.JT98 T64.KT5.AKQ8.Q73 KJ973.32.53.K542 852.QJ876.JT6.A6"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[ScoreIMP "NS 5.14"]
+[Auction "S"]
+Pass 1D 1S X
+XX Pass Pass 2H
+X Pass 2S Pass
+Pass Pass
+[Play "E"]
+S2 SA S4 S3
+S5 SQ S6 S7
+CA CJ C3 C4
+HQ H4 H5 H3
+H6 HA HT H2
+C6 CT C7 C2
+H7 H9 HK S9
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3SX   N  9   730  12.68 1
+  2 3NTX  W  7   300   8.22 1
+  3 4HX   E  8   300   8.22 1
+  4 1NT   S  9   150   5.19 1
+  5 4H    E  7   150   5.19 1
+  6 2S    N  9   140   5.14 2
+  8 2S    S  9   140   5.14 1
+  9 3S    N  9   140   5.14 1
+ 10 3C    N 10   130   4.91 1
+ 11 2S    N  8   110   4.21 1
+ 12 1NT   W  5   100   4.13 3
+ 15 1NT   W  6    50   2.91 4
+ 19 2H    E  7    50   2.91 1
+ 20 2NT   W  7    50   2.91 1
+ 21 3H    E  8    50   2.91 4
+ 25 3H    W  8    50   2.91 1
+ 26 4H    E  9    50   2.91 4
+ 30 4H    W  9    50   2.91 1
+ 31 Pass  -  -     0   1.74 1
+ 32 1NT   E  7   -90  -0.52 1
+ 33 1NT   W  7   -90  -0.52 23
+ 56 1NT   S  6  -100  -0.92 1
+ 57 3C    S  8  -100  -0.92 1
+ 58 2D    W  9  -110  -1.21 3
+ 61 2H    E  8  -110  -1.21 3
+ 64 1NT   W  8  -120  -1.43 1
+ 65 1H    E  9  -140  -2.19 1
+ 66 2H    E  9  -140  -2.19 18
+ 84 2H    W  9  -140  -2.19 2
+ 86 3H    E  9  -140  -2.19 10
+ 96 3H    W  9  -140  -2.19 2
+ 98 1NT   W  9  -150  -2.21 2
+100 2NT   W  9  -150  -2.21 1
+101 1NT   W 10  -180  -3.16 3
+104 3DX   W  9  -470  -9.16 1
+105 2NTX  S  6  -500  -9.33 1
+
+[Board "193"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQT8.JT97.983.53 K652.542.K76.QJ6 3.KQ6.AQT54.T982 J974.A83.J2.AK74"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[ScoreIMP "NS -0.31"]
+[Auction "N"]
+Pass Pass 1D X
+1S Pass 1NT Pass
+Pass Pass
+[Play "W"]
+CA C3 CJ C2
+C4 C5 CQ C8
+CK S8 C6 CT
+C7 ST S5 C9
+H3 H7 H2 HK
+HA H9 H4 HQ
+S4 SQ SK S3
+DJ D3 D6 D4
+D2 D8 DK -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4SX   E  6   800  12.18 1
+  2 2SX   E  5   500   8.76 1
+  3 3SX   E  6   500   8.76 2
+  5 2SX   E  6   300   4.88 1
+  6 2SX   W  6   300   4.88 1
+  7 3SX   E  7   300   4.88 2
+  9 3S    E  5   200   2.76 3
+ 12 4S    E  6   200   2.76 2
+ 14 1HX   N  7   160   1.61 1
+ 15 2S    E  5   150   1.41 14
+ 29 2S    W  5   150   1.41 1
+ 30 3S    E  6   150   1.41 2
+ 32 3D    S 10   130   0.71 1
+ 33 2NT   S  8   120   0.55 1
+ 34 2D    S  9   110   0.19 4
+ 38 2H    N  8   110   0.19 4
+ 42 3D    S  9   110   0.19 6
+ 48 1S    E  5   100  -0.01 3
+ 51 1NT   E  5   100  -0.01 1
+ 52 2S    E  6   100  -0.01 13
+ 65 2S    W  6   100  -0.01 1
+ 66 3C    W  7   100  -0.01 1
+ 67 3S    E  7   100  -0.01 3
+ 70 1NT   S  7    90  -0.31 1
+ 71 1S    E  6    50  -1.53 1
+ 72 1NT   E  6    50  -1.53 2
+ 74 2C    W  7    50  -1.53 1
+ 75 2S    E  7    50  -1.53 9
+ 84 2S    W  7    50  -1.53 2
+ 86 3NT   E  8    50  -1.53 1
+ 87 Pass  -  -     0  -2.77 1
+ 88 1NT   N  6   -50  -3.83 1
+ 89 2H    N  7   -50  -3.83 1
+ 90 3D    S  8   -50  -3.83 3
+ 93 3H    N  8   -50  -3.83 1
+ 94 1S    E  7   -80  -4.77 5
+ 99 1NT   E  7   -90  -4.81 1
+100 2D    S  6  -100  -4.97 1
+101 3NT   N  7  -100  -4.97 1
+102 1NT   E  8  -120  -5.75 1
+103 1SX   E  7  -160  -6.14 1
+
+[Board "195"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J862.6.KQJT87.97 A.QJ84.965.JT653 K7543.5.A32.AQ82 QT9.AKT9732.4.K4"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[ScoreIMP "NS 10.14"]
+[Auction "S"]
+3D Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+HK H6 H4 H5
+C4 C7 CT CQ
+SQ S2 SA S3
+- - CJ -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4SX   N 10   590  11.49 4
+  5 4S    N 11   450  10.14 2
+  7 5S    N 11   450  10.14 1
+  8 4S    N 10   420   9.27 18
+ 26 6HX   E 11   200   6.15 1
+ 27 3S    N 10   170   6.01 1
+ 28 5H    E 10   100   4.90 1
+ 29 6H    E 11   100   4.90 2
+ 31 4S    N  9   -50   2.68 14
+ 45 5S    N 10   -50   2.68 2
+ 47 4S    N  8  -100   1.65 1
+ 48 5DX   S 10  -100   1.65 2
+ 50 5S    N  9  -100   1.65 4
+ 54 5SX   N 10  -100   1.65 4
+ 58 5SX   N  9  -300  -1.25 5
+ 63 6DX   S 10  -300  -1.25 1
+ 64 4H    E 11  -650  -6.72 7
+ 71 5H    E 11  -650  -6.72 15
+ 86 5HX   E 11  -850  -9.50 16
+102 5HX   E 12 -1050 -11.92 2
+
+[Board "196"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q9.7.J9854.QJ864 A84.J942.KT73.T5 KJ72.KT83.AQ6.32 T653.AQ65.2.AK97"]
+[Declarer "E"]
+[Contract "7CX"]
+[Result "5"]
+[Score "NS 2300"]
+[ScoreIMP "NS 18.47"]
+[Auction "W"]
+Pass Pass 1C X
+1H X 2H Pass
+2S Pass 3S Pass
+4C Pass 4D Pass
+5C X 5H X
+6C Pass 6H X
+7C X Pass Pass
+Pass
+[Play "S"]
+D2 D4 D7 DQ
+S3 SQ SA S2
+HA H7 H4 HK
+H5 C4 H2 H3
+S5 S9 S4 SK
+S6 C6 S8 S7
+C7 D5 DT DA
+CA C8 C5 C2
+CK CJ CT C3
+H6 D8 HJ H8
+ST D9 DK D6
+C9 DJ D3 HT
+HQ CQ H9 SJ
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 7CX   E  5  2300  18.47 1
+  2 5DX   E  7  1100  11.76 2
+  4 4DX   E  7   800   8.45 2
+  6 5DX   E  8   800   8.45 2
+  8 3CX   E  7   500   2.87 1
+  9 3DX   E  7   500   2.87 1
+ 10 4DX   E  8   500   2.87 4
+ 14 3NT   E  5   400   0.82 1
+ 15 3D    E  6   300  -1.24 1
+ 16 3NT   E  6   300  -1.24 1
+ 17 4D    E  7   300  -1.24 2
+ 19 1S    E  5   200  -3.68 1
+ 20 1NT   E  5   200  -3.68 1
+ 21 3D    E  7   200  -3.68 10
+ 31 3DX   E  8   200  -3.68 7
+ 38 4D    E  8   200  -3.68 1
+ 39 2D    N  0  -800 -15.18 1
+
+[Board "197"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:53.Q6.AKQ732.KT3 74.AJ8743.5.QJ54 AKJ9.K92.T4.A987 QT862.T5.J986.62"]
+[Declarer "N"]
+[Contract "6D"]
+[Result "11"]
+[Score "NS -100"]
+[ScoreIMP "NS -10.57"]
+[Auction "N"]
+1D Pass 1S Pass
+3D Pass 4NT Pass
+5S Pass 6D Pass
+Pass Pass
+[Play "E"]
+HA H2 HT H6
+H3 H9 H5 HQ
+D5 D4 D6 DA
+H4 - - DK
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4HX   E  5  1100  10.85 2
+  3 4HX   E  6   800   5.77 1
+  4 3NT   S 12   690   3.18 1
+  5 3NT   N 11   660   2.33 10
+ 15 3NT   S 11   660   2.33 40
+ 55 4NT   N 11   660   2.33 4
+ 59 4NT   S 11   660   2.33 1
+ 60 3NT   N 10   630   1.43 3
+ 63 3NT   S 10   630   1.43 16
+ 79 3NT   N  9   600   0.60 1
+ 80 3NT   S  9   600   0.60 3
+ 83 5D    N 11   600   0.60 2
+ 85 2HX   E  5   500  -1.43 1
+ 86 2HX   E  6   300  -5.15 1
+ 87 4D    N 11   150  -7.92 2
+ 89 3NT   N  8  -100 -10.57 1
+ 90 3NT   S  8  -100 -10.57 2
+ 92 4S    S  9  -100 -10.57 1
+ 93 5D    N 10  -100 -10.57 1
+ 94 6D    N 11  -100 -10.57 2
+ 96 6NT   N 11  -100 -10.57 1
+ 97 3NT   N  7  -200 -11.30 1
+ 98 3NT   S  7  -200 -11.30 1
+ 99 6NT   N 10  -200 -11.30 1
+100 6NT   S 10  -200 -11.30 1
+101 6S    S  9  -300 -12.53 1
+102 6NT   S  9  -300 -12.53 2
+
+[Board "198"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:93.93.KQT8762.96 QT2.A2.AJ4.AQJT3 85.KQT86.9.K8742 AKJ764.J754.53.5"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[ScoreIMP "NS -0.46"]
+[Auction "E"]
+2D 2NT Pass 4S
+Pass Pass Pass
+[Play "E"]
+H9 HA HT H4
+S3 S2 S5 SJ
+S9 ST S8 S4
+C6 CA C2 C5
+C9 CQ C4 H5
+D6 CJ CK S6
+DQ DA D9 D3
+D2 CT C7 D5
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3HX   W  4  1400  13.39 1
+  2 6SX   N 12  1210  11.63 2
+  4 6NT   S 12   990   9.41 2
+  6 6S    N 12   980   9.39 10
+ 16 3DX   E  6   800   6.30 2
+ 18 4SX   N 12   790   5.95 1
+ 19 3NT   S 12   490  -0.34 2
+ 21 4S    N 12   480  -0.46 31
+ 52 4S    S 12   480  -0.46 1
+ 53 5S    N 12   480  -0.46 2
+ 55 3NT   S 11   460  -1.23 9
+ 64 4S    N 11   450  -1.23 27
+ 91 4S    S 11   450  -1.23 2
+ 93 5S    N 11   450  -1.23 1
+ 94 4S    N 10   420  -2.08 2
+ 96 3NT   S  9   400  -2.50 1
+ 97 4S    N  9   -50 -10.59 1
+ 98 6S    N 11   -50 -10.59 2
+100 6S    S 11   -50 -10.59 1
+101 6NT   S 11   -50 -10.59 2
+103 6S    N 10  -100 -10.83 1
+104 6NT   S 10  -100 -10.83 1
+105 6S    N  9  -150 -11.79 1
+
+[Board "199"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K87.QT7.943.A653 AQ.K8643.AQT765. JT642.92.82.KJT8 953.AJ5.KJ.Q9742"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[ScoreIMP "NS 3.49"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 2D Pass 3H
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "N"]
+CJ C2 C3 H3
+H2 HA H7 H4
+H9 H5 HT HK
+D2 DK D3 D5
+D8 DJ D4 DA
+S2 - - DQ
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6H    E  9   300  14.67 1
+  2 6NT   E 10   200  13.92 1
+  3 7HX   E 12   200  13.92 1
+  4 6H    E 11   100  13.65 1
+  5 2SX   N  7  -200  10.84 1
+  6 3H    W 12  -230  10.71 1
+  7 3NT   E  9  -600   4.92 1
+  8 5D    W 11  -600   4.92 1
+  9 5D    E 12  -620   4.76 1
+ 10 5D    W 12  -620   4.76 1
+ 11 3NT   E 10  -630   4.71 3
+ 14 3NT   W 10  -630   4.71 1
+ 15 4H    W 11  -650   4.09 5
+ 20 4H    E 12  -680   3.49 1
+ 21 4H    W 12  -680   3.49 42
+ 63 5H    W 12  -680   3.49 3
+ 66 3NT   E 12  -690   3.18 1
+ 67 3NT   W 12  -690   3.18 2
+ 69 6D    W 12 -1370  -7.70 5
+ 74 6H    E 12 -1430  -8.93 2
+ 76 6H    W 12 -1430  -8.93 28
+
+[Board "200"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:62.J93.KJT8.AK43 AJ7.AT6.Q7532.QT KT98543.Q52.A.97 Q.K874.964.J8652"]
+[Declarer "E"]
+[Contract "1S"]
+[Result "8"]
+[Score "NS -110"]
+[ScoreIMP "NS -0.95"]
+[Auction "W"]
+Pass 1D 1S Pass
+Pass Pass
+[Play "S"]
+D6 DT D2 DA
+C5 CK CT C7
+SQ S2 S7 ST
+C6 CA CQ C9
+C2 S6 SA S3
+D4 D8 SJ SK
+D9 DJ D3 S9
+H4 C3 D5 S4
+H7 H9 HT H2
+HK H3 H6 HQ
+CJ C4 DQ S5
+H8 HJ D7 S8
+C8 DK HA H5
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5SX   E  9   300   8.18 1
+  2 2NT   W  6   100   4.36 1
+  3 3NT   W  7   100   4.36 2
+  5 4S    E  8   100   4.36 3
+  8 4SX   E  9   100   4.36 1
+  9 4S    W  8   100   4.36 1
+ 10 3S    E  8    50   2.89 3
+ 13 4S    E  9    50   2.89 36
+ 49 4S    W  9    50   2.89 1
+ 50 1S    E  8  -110  -0.95 1
+ 51 2S    E  8  -110  -0.95 4
+ 55 2S    E  9  -140  -1.89 17
+ 72 3S    E  9  -140  -1.89 15
+ 87 2S    E 10  -170  -2.88 1
+ 88 3S    E 10  -170  -2.88 5
+ 93 2S    E 11  -200  -3.34 1
+ 94 4S    E 10  -420  -7.90 6
+100 4S    W 10  -420  -7.90 1
+101 4S    E 11  -450  -8.50 1
+102 4S    E 12  -480  -8.97 1
+
+[Board "201"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q2.42.QJ632.AQT3 AJ954.AK976..965 T8.T853.A9754.KJ K763.QJ.KT8.8742"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[ScoreIMP "NS -1.70"]
+[Auction "N"]
+Pass 1S Pass 2S
+Pass 3H Pass 4S
+Pass Pass Pass
+[Play "S"]
+CK C2 C3 C5
+CJ C4 CQ C6
+D5 C7 CA C9
+D4 C8 CT SJ
+S8 SK S2 S4
+ST S3 SQ SA
+H3 HJ H2 H6
+H5 HQ H4 H7
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5SX   W  9   500  14.02 1
+  2 5S    W  9   200  11.56 1
+  3 4D    N 10   130  11.16 1
+  4 5S    E 10   100  10.94 3
+  7 5S    W 10   100  10.94 1
+  8 Pass  -  -     0   9.73 1
+  9 2S    E  8  -110   8.21 1
+ 10 3S    E  9  -140   7.83 1
+ 11 5D    N  8  -150   7.75 1
+ 12 5D    S  8  -150   7.75 1
+ 13 2S    E 11  -200   6.71 1
+ 14 2S    E 12  -230   6.48 3
+ 17 3S    E 12  -230   6.48 5
+ 22 4DX   S  8  -300   5.17 1
+ 23 5DX   N  9  -300   5.17 1
+ 24 5DX   N  8  -500   0.96 11
+ 35 5DX   S  8  -500   0.96 5
+ 40 4S    E 10  -620  -1.70 7
+ 47 4S    W 10  -620  -1.70 1
+ 48 4S    E 11  -650  -2.55 3
+ 51 5S    E 11  -650  -2.55 1
+ 52 4S    E 12  -680  -3.41 40
+ 92 4S    W 12  -680  -3.41 3
+ 95 5S    E 12  -680  -3.41 3
+ 98 5S    W 12  -680  -3.41 1
+ 99 5SX   W 12 -1050 -10.42 1
+100 3NTX  W 11 -1150 -11.39 1
+
+[Board "202"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J73.KT842.KJ9.A6 AT42.J96.74.KQJ7 Q865.73.AT83.T94 K9.AQ5.Q652.8532"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[ScoreIMP "NS -3.26"]
+[Auction "E"]
+Pass Pass Pass Pass
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 1NTX  E  5   500   8.42 1
+  2 1NTX  W  5   500   8.42 1
+  3 2H    E  4   400   6.47 1
+  4 2D    E  5   300   4.43 1
+  5 2H    E  5   300   4.43 1
+  6 3D    E  6   300   4.43 1
+  7 1NT   E  5   200   1.95 25
+ 32 1NTX  E  6   200   1.95 1
+ 33 1NT   W  5   200   1.95 3
+ 36 2D    E  6   200   1.95 1
+ 37 2H    E  6   200   1.95 3
+ 40 2S    W  6   200   1.95 5
+ 45 2NT   N 10   180   1.24 1
+ 46 2NT   N  9   150   0.52 1
+ 47 1NT   N  8   120  -0.03 4
+ 51 2NT   N  8   120  -0.03 3
+ 54 3C    N  9   110  -0.73 1
+ 55 3C    S  9   110  -0.73 1
+ 56 1H    E  6   100  -0.84 2
+ 58 1NT   E  6   100  -0.84 16
+ 74 1NT   W  6   100  -0.84 2
+ 76 2D    E  7   100  -0.84 1
+ 77 2S    W  7   100  -0.84 5
+ 82 2C    S  8    90  -0.88 3
+ 85 Pass  -  -     0  -3.26 8
+ 93 1NT   E  7   -90  -5.40 2
+ 95 2NT   N  7  -100  -5.50 1
+ 96 3C    S  8  -100  -5.50 5
+101 3NT   N  8  -100  -5.50 1
+102 3NT   N  5  -400 -10.94 1
+
+[Board "203"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:9864.Q95.Q43.QJT AKJ.J82.AK82.AK8 QT753.AKT763.T6. 2.4.J975.9765432"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "8"]
+[Score "NS -300"]
+[ScoreIMP "NS -3.42"]
+[Auction "S"]
+Pass 2C 4H Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+S2 S4 SK ST
+C2 S8 SA S3
+H4 S9 SJ SQ
+DJ DQ DK D6
+D5 - DA DT
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 2HX   N  9   570  11.73 1
+  2 3HX   N  9   530  11.45 2
+  4 3NTX  W  6   500  11.27 1
+  5 2HX   N  8   470  10.63 3
+  8 3NT   W  6   150   6.06 2
+ 10 3S    S  9   140   5.97 1
+ 11 2NT   W  6   100   5.27 1
+ 12 3NT   W  7   100   5.27 3
+ 15 5D    W  9   100   5.27 2
+ 17 6C    E 10   100   5.27 1
+ 18 6CX   W 11   100   5.27 1
+ 19 2NT   W  7    50   4.04 1
+ 20 5C    E 10    50   4.04 1
+ 21 5C    W 10    50   4.04 10
+ 31 5D    W 10    50   4.04 2
+ 33 6C    E 11    50   4.04 1
+ 34 6C    W 11    50   4.04 4
+ 38 3HX   N  8  -100   0.84 6
+ 44 3SX   N  8  -100   0.84 1
+ 45 4HX   N  9  -100   0.84 2
+ 47 4SX   S  9  -100   0.84 1
+ 48 3C    W 10  -130   0.24 1
+ 49 4C    E 10  -130   0.24 1
+ 50 4C    W 10  -130   0.24 1
+ 51 3C    W 11  -150  -0.36 4
+ 55 3D    W 11  -150  -0.36 1
+ 56 4C    W 11  -150  -0.36 7
+ 63 4HX   N  8  -300  -3.42 4
+ 67 5HX   N  9  -300  -3.42 1
+ 68 5SX   N  9  -300  -3.42 1
+ 69 5C    W 11  -400  -5.65 26
+ 95 5D    W 11  -400  -5.65 1
+ 96 4NT   W 10  -430  -6.26 1
+ 97 5HX   N  8  -500  -7.55 2
+ 99 6HX   N  8  -800 -11.46 1
+100 6CX   W 12 -1090 -13.76 1
+
+[Board "204"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:853.A95.AKJ.K752 4.QT86.QT875.A83 AJ9762.KJ4.96.94 KQT.732.432.QJT6"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[ScoreIMP "NS 3.96"]
+[Auction "W"]
+1NT Pass 4H Pass
+4S Pass Pass Pass
+[Play "N"]
+D5 D6 D2 DJ
+D7 D9 D3 DA
+S4 SA ST S3
+H6 H4 H2 HA
+D8 HJ D4 DK
+H8 HK H3 H5
+CA C9 CT CK
+C3 C4 CJ C2
+C8 S2 SK S5
+DT S6 SQ S8
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NTX  W  6   500  11.59 1
+  2 4H    E  8   100   5.50 1
+  3 4S    E  8   100   5.50 1
+  4 4SX   E  9   100   5.50 1
+  5 4S    W  8   100   5.50 4
+  9 3NT   W  8    50   3.96 1
+ 10 4S    E  9    50   3.96 10
+ 20 4S    W  9    50   3.96 36
+ 56 2S    E  9  -140  -0.23 5
+ 61 3S    E  9  -140  -0.23 1
+ 62 3S    W  9  -140  -0.23 2
+ 64 2DX   N  7  -200  -1.33 1
+ 65 2HX   N  7  -200  -1.33 1
+ 66 4S    W 10  -420  -6.18 35
+101 3NT   W 10  -430  -6.19 1
+102 4SX   W 10  -590  -9.30 1
+
+[Board "205"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A7.T64.Q8.KJT986 KJ863.975.932.Q5 QT542..AKT4.7432 9.AKQJ832.J765.A"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "8"]
+[Score "NS 500"]
+[ScoreIMP "NS 6.93"]
+[Auction "N"]
+Pass Pass 1S 4H
+X Pass Pass Pass
+[Play "N"]
+SA S3 ST S9
+DQ D2 DT D5
+D8 D3 DK D6
+S7 D9 DA D7
+HT C5 D4 DJ
+CK CQ C2 CA
+H4 - - HA
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6CX   N 12  1540  15.92 1
+  2 5HX   W  8   800  11.16 1
+  3 6HX   W  9   800  11.16 1
+  4 5CX   N 11   750  10.58 1
+  5 5C    N 12   620   8.93 2
+  7 5C    N 11   600   8.80 6
+ 13 4HX   W  8   500   6.93 3
+ 16 5HX   W  9   500   6.93 2
+ 18 5H    W  8   300   3.20 2
+ 20 4H    W  8   200   1.00 13
+ 33 4HX   W  9   200   1.00 11
+ 44 5H    W  9   200   1.00 5
+ 49 5HX   W 10   200   1.00 1
+ 50 4C    N 11   150  -0.22 1
+ 51 3S    S  9   140  -0.58 1
+ 52 3H    W  8   100  -1.52 2
+ 54 3NT   W  8   100  -1.52 1
+ 55 4H    W  9   100  -1.52 31
+ 86 5H    W 10   100  -1.52 2
+ 88 6C    N 11  -100  -5.40 1
+ 89 2H    W  9  -140  -6.24 2
+ 91 3H    W  9  -140  -6.24 1
+ 92 3SX   S  8  -200  -7.20 1
+ 93 6CX   N 11  -200  -7.20 1
+ 94 4SX   S  8  -500 -11.22 2
+ 96 4H    W 10  -620 -11.97 4
+100 5H    W 11  -650 -12.46 1
+101 4SX   S  7  -800 -13.71 1
+
+[Board "206"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T97.KQ93.AJ5.T73 KJ4.2.KQ63.AKQJ4 A65.T865.9742.62 Q832.AJ74.T8.985"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[ScoreIMP "NS 1.67"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 2D Pass 2S
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "W"]
+C6 C9 CT CK
+S5 S2 S7 SJ
+SA S3 S9 SK
+C2 C8 C3 C4
+D2 D8 D5 DK
+H5 C5 C7 CA
+H6 H4 H3 CQ
+H8 H7 DJ CJ
+S6 SQ ST S4
+HT S8 H9 D3
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   N 11   460   2.60 5
+  6 3NT   S 11   460   2.60 18
+ 24 4S    N 11   450   2.59 1
+ 25 3NT   N 10   430   1.67 16
+ 41 3NT   S 10   430   1.67 13
+ 54 4NT   N 10   430   1.67 1
+ 55 4S    S 10   420   1.65 1
+ 56 3NT   N  9   400   0.78 13
+ 69 3NT   S  9   400   0.78 13
+ 82 2NT   S 11   210  -3.87 1
+ 83 3S    N 11   200  -3.88 1
+ 84 2NT   S 10   180  -4.46 1
+ 85 3C    S 11   150  -4.97 3
+ 88 3S    N  9   140  -5.21 1
+ 89 2C    S 10   130  -5.53 1
+ 90 3D    S  9   110  -5.98 1
+ 91 3NT   N  8   -50  -8.86 2
+ 93 3NT   S  8   -50  -8.86 5
+ 98 6C    S 11   -50  -8.86 1
+ 99 4S    S  8  -100  -9.73 2
+
+[Board "207"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:A74.J32.AQ54.KQ4 JT65.T87.KJT6.86 932.AQ95.973.752 KQ8.K64.82.AJT93"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[ScoreIMP "NS 2.18"]
+[Auction "S"]
+1NT Pass Pass Pass
+[Play "W"]
+S5 S2 SQ S4
+C6 C2 CJ CQ
+H7 H5 HK HJ
+C8 C5 CA C4
+DJ C7 CT CK
+H8 HQ H4 H3
+DT D7 D2 D4
+SJ S3 S8 SA
+HT HA H6 H2
+S6 H9 D8 S7
+D6 D3 C3 DA
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 1NTX  S  8   380   8.39 1
+  2 4S    W  6   200   4.85 1
+  3 1NTX  S  7   180   4.76 1
+  4 1NT   S  9   150   3.81 1
+  5 1NT   S  8   120   3.15 11
+ 16 2NT   S  8   120   3.15 1
+ 17 2CX   E  7   100   2.44 2
+ 19 3C    E  7   100   2.44 2
+ 21 1NT   S  7    90   2.18 18
+ 39 2C    E  7    50   1.15 12
+ 51 2D    W  7    50   1.15 4
+ 55 2S    W  7    50   1.15 3
+ 58 2NT   E  7    50   1.15 1
+ 59 3C    E  8    50   1.15 3
+ 62 2C    E  8   -90  -2.54 2
+ 64 2C    W  8   -90  -2.54 1
+ 65 1NT   S  6  -100  -2.68 14
+ 79 2H    N  7  -100  -2.68 1
+ 80 2NT   N  7  -100  -2.68 1
+ 81 2NT   S  7  -100  -2.68 4
+ 85 2C    E  9  -110  -2.73 1
+ 86 2NT   E  8  -120  -3.35 2
+ 88 2S    W  9  -140  -3.62 1
+ 89 1NT   S  5  -200  -5.08 5
+ 94 2D    S  6  -200  -5.08 1
+ 95 2H    N  6  -200  -5.08 2
+ 97 2NT   S  6  -200  -5.08 1
+ 98 3H    N  7  -200  -5.08 1
+ 99 3NT   S  7  -200  -5.08 2
+
+[Board "211"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:4.AT63.AQ96.K543 9873.J5.T75.AT62 AQJ.KQ72.K432.98 KT652.984.J8.QJ7"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "12"]
+[Score "NS 480"]
+[ScoreIMP "NS 3.81"]
+[Auction "S"]
+1C Pass 1D Pass
+1H Pass 2C Pass
+2D Pass 3H Pass
+3S Pass 3NT Pass
+4C Pass 4D Pass
+4NT Pass 5H Pass
+Pass Pass
+[Play "W"]
+CA C8 C7 C3
+C2 C9 CJ CK
+H5 HK H4 H3
+HJ HQ H8 H6
+S3 H2 H9 HA
+S7 SA S2 S4
+S8 SJ S5 C4
+D5 D2 D8 DA
+C6 H7 CQ C5
+D7 D3 DJ DQ
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   N 12   490   3.82 1
+  2 5H    S 12   480   3.81 1
+  3 3NT   N 11   460   3.07 1
+  4 4H    N 11   450   3.07 42
+ 46 4H    S 11   450   3.07 3
+ 49 5H    N 11   450   3.07 1
+ 50 5H    S 11   450   3.07 1
+ 51 3NT   N 10   430   2.10 5
+ 56 4H    N 10   420   2.10 18
+ 74 4H    S 10   420   2.10 1
+ 75 5D    S 11   400   1.36 1
+ 76 1NT   N 10   180  -3.44 1
+ 77 4H    N  9   -50  -7.95 1
+ 78 5H    N 10   -50  -7.95 2
+ 80 6D    S 11   -50  -7.95 1
+ 81 6H    N 11   -50  -7.95 15
+ 96 6H    S 11   -50  -7.95 1
+ 97 6H    N 10  -100  -8.70 4
+101 6H    N  9  -150  -9.51 1
+
+[Board "212"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T86.7654.KJ.AQ64 53.QJ932.T76.853 AJ9.AK.85432.J97 KQ742.T8.AQ9.KT2"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[ScoreIMP "NS 0.01"]
+[Auction "W"]
+Pass Pass 1D 1S
+X Pass 1NT Pass
+Pass Pass
+[Play "S"]
+SQ S6 S3 SA
+C2 CQ C3 C7
+CT C4 C5 C9
+SK S8 S5 S9
+S2 ST H3 SJ
+CK CA C8 CJ
+H8 C6 H2 D2
+HT H4 HJ HA
+DA DJ D6 D3
+S7 - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 2H    W  5   300   9.19 1
+  2 3NT   E  7   200   7.67 1
+  3 1NTX  S  7   180   7.11 1
+  4 1NT   E  6   100   5.63 1
+  5 1NT   W  6   100   5.63 1
+  6 3C    E  8   100   5.63 1
+  7 3H    E  8   100   5.63 1
+  8 3NT   E  8   100   5.63 1
+  9 1NT   E  7   -90   0.91 17
+ 26 1NT   W  7   -90   0.91 3
+ 29 2D    E  8   -90   0.91 5
+ 34 1S    S  6  -100   0.85 1
+ 35 2D    E  9  -110   0.14 3
+ 38 1NT   E  8  -120   0.01 35
+ 73 2NT   E  8  -120   0.01 2
+ 75 2D    E 10  -130  -0.05 1
+ 76 3D    E 10  -130  -0.05 1
+ 77 1NT   E  9  -150  -0.89 7
+ 84 2NT   E  9  -150  -0.89 1
+ 85 1NT   E 10  -180  -1.83 2
+ 87 1NTX  E  7  -180  -1.83 1
+ 88 1S    S  5  -200  -2.10 2
+ 90 2H    S  6  -200  -2.10 1
+ 91 2S    S  6  -200  -2.10 1
+ 92 1NT   E 11  -210  -2.47 2
+ 94 2S    S  5  -300  -4.58 3
+ 97 2H    N  4  -400  -6.66 1
+ 98 2NT   S  4  -400  -6.66 1
+ 99 3H    N  5  -400  -6.66 1
+100 3S    S  5  -400  -6.66 1
+101 3NT   E  9  -600 -10.08 1
+
+[Board "213"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K872.KQT8.975.T9 T3.976432.KQ.KQ8 54.A5.T432.J6542 AQJ96.J.AJ86.A73"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[ScoreIMP "NS 7.25"]
+[Auction "N"]
+Pass 2H Pass 2S
+Pass 2NT Pass 3D
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+C2 C3 C9 CK
+S4 S6 SK ST
+HA HJ H8 H2
+H5 D6 HT H3
+S5 D8 HQ H4
+- - HK -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6S    W  9   150   8.88 1
+  2 2NT   W  6   100   8.33 1
+  3 5S    W  9   100   8.33 1
+  4 3NT   E  8    50   7.25 2
+  6 3NT   W  8    50   7.25 10
+ 16 4H    E  9    50   7.25 4
+ 20 4S    W  9    50   7.25 2
+ 22 1H    W  8  -110   4.27 1
+ 23 2H    E  9  -140   3.35 2
+ 25 3H    E  9  -140   3.35 6
+ 31 3S    W  9  -140   3.35 1
+ 32 2NT   E  9  -150   3.28 1
+ 33 2S    W 11  -200   2.09 4
+ 37 3S    W 11  -200   2.09 1
+ 38 2NT   E 11  -210   2.07 2
+ 40 2NT   W 11  -210   2.07 1
+ 41 3D    S  5  -400  -2.47 1
+ 42 3NT   E  9  -400  -2.47 6
+ 48 3NT   W  9  -400  -2.47 7
+ 55 5D    W 11  -400  -2.47 1
+ 56 4S    W 10  -420  -3.23 1
+ 57 3NT   E 10  -430  -3.27 23
+ 80 3NT   W 10  -430  -3.27 9
+ 89 4S    W 11  -450  -4.06 5
+ 94 3NT   E 11  -460  -4.15 4
+ 98 3NT   W 11  -460  -4.15 3
+101 3DX   N  3 -1700 -16.13 1
+
+[Board "214"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AJT.AKT94.J95.A7 7432.862.73.9643 K96.J.AQT64.KQJ8 Q85.Q753.K82.T52"]
+[Declarer "W"]
+[Contract "6D"]
+[Result "12"]
+[Score "NS -1370"]
+[ScoreIMP "NS -3.65"]
+[Auction "E"]
+1H Pass 2D Pass
+3D Pass 4C Pass
+4NT Pass 5D Pass
+6D Pass Pass Pass
+[Play "N"]
+H7 HA H2 -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6H    E 11   100  14.36 1
+  2 7D    W 12   100  14.36 3
+  5 7NT   E 12   100  14.36 5
+ 10 5C    W 12  -620   8.00 1
+ 11 5D    E 12  -620   8.00 1
+ 12 5D    W 12  -620   8.00 2
+ 14 3NT   E 11  -660   7.44 1
+ 15 3NT   W 11  -660   7.44 1
+ 16 3NT   E 12  -690   7.18 14
+ 30 3NT   W 12  -690   7.18 1
+ 31 4NT   E 12  -690   7.18 3
+ 34 5NT   E 12  -690   7.18 1
+ 35 4DX   W 12 -1110   1.18 1
+ 36 6C    E 12 -1370  -3.65 1
+ 37 6D    E 12 -1370  -3.65 2
+ 39 6D    W 12 -1370  -3.65 19
+ 58 6NT   E 12 -1440  -5.29 36
+ 94 6NT   W 12 -1440  -5.29 7
+101 6NT   E 13 -1470  -5.95 1
+
+[Board "215"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KT2.3.AKJT952.63 QJ6.QJT75.Q3.KJ5 754.82.74.AQT942 A983.AK964.86.87"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 100"]
+[ScoreIMP "NS -1.36"]
+[Auction "S"]
+1D 1H 2C 3C
+3D Pass Pass 3H
+Pass Pass Pass
+[Play "N"]
+D7 D6 DK D3
+D4 D8 DA DQ
+CA C7 C6 CK
+CQ C8 C3 C5
+C2 HA DT CJ
+H2 H4 H3 HQ
+H8 HK D5 H5
+C4 H9 D2 HJ
+C9 H6 D9 HT
+S7 S3 SK SQ
+- - DJ -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5DX   S 13  1150  13.88 1
+  2 5HX   W  8   800  11.37 3
+  5 5CX   N 11   750  10.56 1
+  6 5DX   S 11   750  10.56 4
+ 10 5D    S 11   600   8.69 1
+ 11 4HX   W  8   500   6.91 2
+ 13 4H    E  7   300   3.36 2
+ 15 4H    W  7   300   3.36 4
+ 19 5H    E  8   300   3.36 1
+ 20 5H    W  8   300   3.36 3
+ 23 3H    W  7   200   0.99 1
+ 24 4H    E  8   200   0.99 5
+ 29 4H    W  8   200   0.99 36
+ 65 4D    S 11   150  -0.34 1
+ 66 3H    E  8   100  -1.36 2
+ 68 3H    W  8   100  -1.36 9
+ 77 4H    E  9   100  -1.36 2
+ 79 4H    W  9   100  -1.36 2
+ 81 2H    E  8  -110  -5.19 1
+ 82 5D    S 10  -100  -5.19 1
+ 83 2H    W  9  -140  -6.07 1
+ 84 3NT   N  7  -200  -7.15 1
+ 85 3NT   S  7  -200  -7.15 1
+ 86 5D    N  9  -200  -7.15 1
+ 87 5D    S  9  -200  -7.15 1
+ 88 5DX   S 10  -200  -7.15 6
+ 94 4S    S  7  -300  -8.98 1
+ 95 3NT   N  4  -500 -11.00 1
+ 96 5DX   S  9  -500 -11.00 4
+100 4H    W 10  -620 -12.10 1
+101 5DX   S  8  -800 -13.71 1
+
+[Board "216"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AT.853.AJ976.A84 KQ9743.K96.5.QJT J82.AQT74.T84.95 65.J2.KQ32.K7632"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "6"]
+[Score "NS -150"]
+[ScoreIMP "NS -2.96"]
+[Auction "W"]
+1D 2S Pass 2NT
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+C9 C7 CA CQ
+C5 C2 C4 CJ
+D4 DQ DA D5
+S2 C3 C8 CT
+DT DK D7 H6
+HA HJ H5 HK
+HQ H2 H3 H9
+D8 D2 D9 S3
+S8 S5 ST S4
+H4 D3 DJ SQ
+SJ S6 SA S7
+- - D6 -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 2S    N 10   170   5.19 1
+  2 2S    N  9   140   4.50 2
+  4 3C    S 10   130   4.30 1
+  5 1S    N  8   110   3.63 1
+  6 2S    N  8   110   3.63 12
+ 18 2NT   W  6   100   3.53 1
+ 19 3D    W  7   100   3.53 1
+ 20 3H    E  7   100   3.53 1
+ 21 4H    E  8   100   3.53 2
+ 23 2C    S  8    90   3.16 1
+ 24 1S    N  7    80   3.08 1
+ 25 2D    W  7    50   2.17 1
+ 26 2H    E  7    50   2.17 1
+ 27 2NT   W  7    50   2.17 1
+ 28 3D    W  8    50   2.17 5
+ 33 3H    E  8    50   2.17 6
+ 39 3H    W  8    50   2.17 1
+ 40 4H    E  9    50   2.17 3
+ 43 2S    N  7   -50  -0.27 11
+ 54 3C    S  8   -50  -0.27 3
+ 57 3S    N  8   -50  -0.27 2
+ 59 2D    W  8   -90  -1.41 1
+ 60 2S    N  6  -100  -1.73 7
+ 67 2SX   N  7  -100  -1.73 1
+ 68 3S    N  7  -100  -1.73 4
+ 72 3SX   N  8  -100  -1.73 1
+ 73 4S    N  8  -100  -1.73 3
+ 76 2D    W  9  -110  -1.94 2
+ 78 3D    W  9  -110  -1.94 7
+ 85 1NT   W  8  -120  -2.34 1
+ 86 2NT   W  8  -120  -2.34 1
+ 87 3D    W 10  -130  -2.54 1
+ 88 2H    E  9  -140  -2.77 2
+ 90 3H    E  9  -140  -2.77 5
+ 95 3S    N  6  -150  -2.96 1
+ 96 4S    N  7  -150  -2.96 1
+ 97 3H    E 10  -170  -3.56 2
+ 99 4H    E 10  -420  -8.66 1
+100 3DX   W  9  -470  -9.35 2
+102 3DX   W 10  -570 -10.75 1
+
+[Board "217"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ976.T96.AT.KJ2 853.KQ8.J3.AQT98 A42.42.KQ986.543 JT.AJ753.7542.76"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[ScoreIMP "NS 0.87"]
+[Auction "N"]
+1S 2C 2NT Pass
+3D Pass 3S Pass
+Pass Pass
+[Play "E"]
+S3 S2 SJ SQ
+S5 S4 ST SK
+D3 D6 D2 DA
+DJ DK D4 DT
+S8 SA HJ S6
+C8 DQ D5 H6
+C9 D9 D7 H9
+H8 D8 H3 HT
+HQ H2 HA S7
+CA C4 C7 CK
+HK - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   N 11   460   7.24 1
+  2 4S    N 11   450   7.23 5
+  7 3NT   N 10   430   6.73 1
+  8 4S    N 10   420   6.50 3
+ 11 2NT   N 11   210   1.68 2
+ 13 2S    N 11   200   1.65 10
+ 23 3C    E  7   200   1.65 1
+ 24 3S    N 11   200   1.65 7
+ 31 2S    N 10   170   0.87 23
+ 54 3S    N 10   170   0.87 7
+ 61 2S    N  8   110  -1.05 21
+ 82 4H    W  9   100  -1.08 1
+ 83 1NT   S  6   -50  -4.68 1
+ 84 2S    N  7   -50  -4.68 1
+ 85 3S    N  8   -50  -4.68 8
+ 93 2D    S  6  -100  -5.83 1
+ 94 4S    N  8  -100  -5.83 8
+102 3H    W  9  -140  -6.46 1
+
+[Board "218"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AJT.KQ92.KQJ.A65 KQ63.A8.T8.J8432 8752.JT754.A64.Q 94.63.97532.KT97"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[ScoreIMP "NS 10.17"]
+[Auction "E"]
+2NT Pass 3C Pass
+3D Pass 3NT Pass
+Pass Pass
+[Play "S"]
+C2 CQ CK C5
+C4 S2 CT C6
+C3 S5 C9 CA
+HA H4 H3 HK
+CJ S7 C7 H2
+C8 - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6HX   E 10   500  13.93 1
+  2 4S    E  7   300  12.43 1
+  3 6H    E 10   200  11.18 3
+  6 6H    W 10   200  11.18 1
+  7 6NTX  E 11   200  11.18 1
+  8 3NT   E  8   100  10.17 7
+ 15 6H    E 11   100  10.17 1
+ 16 Pass  -  -     0   9.42 1
+ 17 2H    E 11  -200   6.51 1
+ 18 2NT   E 11  -210   6.51 1
+ 19 4H    E 10  -620  -1.87 45
+ 64 4H    W 10  -620  -1.87 8
+ 72 3NT   E 11  -660  -2.80 1
+ 73 4H    E 11  -650  -2.80 28
+101 4H    W 11  -650  -2.80 2
+
+[Board "220"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:863.QT963.A9843. KQJ94.4.52.QJ864 T2.AKJ.KQJT6.AK9 A75.8752.7.T7532"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS -450"]
+[ScoreIMP "NS -0.91"]
+[Auction "W"]
+Pass Pass 2NT Pass
+3D Pass 4H Pass
+5D Pass 5H Pass
+Pass Pass
+[Play "S"]
+SA S3 S9 S2
+S7 S6 SJ ST
+S5 S8 SK HA
+H2 H3 H4 HK
+H5 H6 C4 HJ
+D7 DA D2 D6
+- HQ S4 -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3SX   N  9   730  14.59 1
+  2 2SX   N  8   670  14.46 1
+  3 6D    E 11    50   9.28 1
+  4 6D    W 11    50   9.28 4
+  8 6H    E 11    50   9.28 1
+  9 6H    W 11    50   9.28 5
+ 14 4D    E 11  -150   5.77 1
+ 15 3SX   N  8  -200   4.77 2
+ 17 4CX   S  9  -200   4.77 1
+ 18 2H    W 12  -230   4.23 1
+ 19 5D    E 11  -400   0.42 3
+ 22 5D    W 11  -400   0.42 3
+ 25 5D    E 13  -440  -0.70 2
+ 27 5D    W 13  -440  -0.70 1
+ 28 4H    E 11  -450  -0.91 1
+ 29 4H    W 11  -450  -0.91 25
+ 54 5H    E 11  -450  -0.91 1
+ 55 5H    W 11  -450  -0.91 2
+ 57 4NT   E 11  -460  -0.94 1
+ 58 4H    E 12  -480  -1.68 29
+ 87 4H    W 12  -480  -1.68 2
+ 89 5H    E 12  -480  -1.68 2
+ 91 3NT   E 12  -490  -1.80 2
+ 93 4H    E 13  -510  -2.51 4
+ 97 3NT   E 13  -520  -2.56 2
+ 99 6D    W 13  -940 -10.31 1
+100 6H    E 12  -980 -11.04 3
+103 6H    W 12  -980 -11.04 1
+
+[Board "221"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT32.Q9543..QJ93 K.AJ8.AKQ942.K75 Q98654.K7.85.T82 J7.T62.JT763.A64"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS 100"]
+[ScoreIMP "NS 1.33"]
+[Auction "N"]
+Pass 1D 1S 2D
+2NT 5D Pass Pass
+Pass
+[Play "S"]
+S4 S7 SA SK
+S6 SJ S2 DQ
+D5 D3 S3 DA
+D8 D6 ST DK
+C2 C4 C3 CK
+C8 CA C9 C5
+- C6 CJ -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6DX   E  9   800  12.59 2
+  3 4SX   S 10   790  12.25 1
+  4 4S    S 10   620  10.69 2
+  6 6D    E  9   300   5.90 1
+  7 3H    E  7   200   3.76 1
+  8 3NT   E  7   200   3.76 14
+ 22 5D    E  9   200   3.76 5
+ 27 5DX   E 10   200   3.76 2
+ 29 6D    E 10   200   3.76 7
+ 36 6D    W 10   200   3.76 4
+ 40 3S    S  9   140   2.20 1
+ 41 3NT   E  8   100   1.33 1
+ 42 5D    E 10   100   1.33 20
+ 62 5D    W 10   100   1.33 8
+ 70 6D    E 11   100   1.33 1
+ 71 1NT   E  7   -90  -2.48 1
+ 72 5S    S 10  -100  -2.51 1
+ 73 3D    E  9  -110  -2.66 1
+ 74 1D    E 10  -130  -3.45 1
+ 75 4D    E 10  -130  -3.45 8
+ 83 4D    W 10  -130  -3.45 1
+ 84 3D    E 11  -150  -3.63 1
+ 85 5SX   S 10  -200  -4.58 2
+ 87 3NT   W  9  -600 -10.27 2
+ 89 5D    E 11  -600 -10.27 10
+ 99 3NT   E 10  -630 -10.58 4
+103 3NT   W 10  -630 -10.58 1
+
+[Board "222"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:3.A983.QJT.A9642 98.QJ4.A9763.QT8 AKQJ64.652.K4.K3 T752.KT7.852.J75"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[ScoreIMP "NS -1.12"]
+[Auction "E"]
+1C 1D 1S Pass
+2C Pass 2D Pass
+2H Pass 4S Pass
+Pass Pass
+[Play "N"]
+D5 DT DA DK
+H7 HA HQ H2
+S2 S3 S8 SA
+S5 H3 S9 SK
+S7 H8 D7 SQ
+ST H9 D6 SJ
+C7 C2 C8 CK
+C5 - - C3
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5C    E  9   100  10.70 1
+  2 6S    W 10   100  10.70 1
+  3 6S    W 11    50  10.31 1
+  4 2D    W  8   -90   8.07 1
+  5 2S    W 11  -200   5.91 1
+  6 3S    W 11  -200   5.91 2
+  8 2S    W 12  -230   5.26 1
+  9 3S    W 12  -230   5.26 1
+ 10 3NT   E  9  -400   1.42 1
+ 11 3NT   E 10  -430   0.71 5
+ 16 4S    W 10  -420   0.71 19
+ 35 4NT   E 10  -430   0.71 1
+ 36 4S    W 11  -450  -0.21 16
+ 52 3NT   E 11  -460  -0.22 16
+ 68 4S    W 12  -480  -1.12 20
+ 88 3NT   E 12  -490  -1.17 10
+ 98 3NT   W 12  -490  -1.17 1
+ 99 3NT   E 13  -520  -2.12 1
+100 6S    W 12  -980 -10.76 4
+
+[Board "223"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:Q3.AQ86.AQJ75.85 AJ62.73.964.KJT3 K754.KT954.T2.A6 T98.J2.K83.Q9742"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[ScoreIMP "NS -0.26"]
+[Auction "S"]
+1D Pass 1H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+ST S3 S6 SK
+H2 HA H3 H4
+HJ H6 H7 HK
+DK DA D4 DT
+D3 DQ D6 D2
+D8 DJ D9 C6
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6H    N 12  1430  12.52 4
+  5 6H    S 12  1430  12.52 1
+  6 5CX   W  6  1100   8.41 1
+  7 4H    N 13   710   0.71 1
+  8 4H    N 12   680  -0.26 58
+ 66 4H    S 12   680  -0.26 26
+ 92 5H    S 12   680  -0.26 1
+ 93 4H    N 11   650  -1.21 5
+ 98 4H    S 11   650  -1.21 1
+ 99 2H    N 12   230  -9.82 1
+100 2H    S 12   230  -9.82 1
+101 3H    N 12   230  -9.82 1
+102 5H    N  9  -200 -13.15 1
+
+[Board "224"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AK62.Q86.T9.AJT2 Q987.AT32.8532.8 T54.K9754.AKQ7.Q J3.J.J64.K976543"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[ScoreIMP "NS -0.92"]
+[Auction "W"]
+1NT Pass 2D 3C
+X Pass 3D Pass
+3H Pass 3NT Pass
+4H Pass Pass Pass
+[Play "N"]
+C8 CQ C6 C2
+HA H4 HJ HQ
+D5 DA D4 D9
+S9 S4 S3 SA
+H2 H5 C4 H8
+D2 DK D6 DT
+D3 D7 DJ H6
+D8 H7 C3 CT
+H3 HK C5 S2
+S8 S5 SJ SK
+HT ST C7 CA
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6H    E  8   400  13.43 1
+  2 3NT   E  6   300  13.09 1
+  3 6H    E  9   300  13.09 1
+  4 5H    E  9   200  11.99 1
+  5 6H    E 10   200  11.99 1
+  6 3NT   E  8   100  11.26 2
+  8 3NT   W  8   100  11.26 1
+  9 4H    E  9   100  11.26 3
+ 12 6H    E 11   100  11.26 1
+ 13 3NT   E  9  -600   0.74 7
+ 20 3NT   W  9  -600   0.74 9
+ 29 3NT   E 10  -630  -0.03 7
+ 36 3NT   W 10  -630  -0.03 3
+ 39 4H    E 10  -620  -0.03 11
+ 50 4H    E 11  -650  -0.92 7
+ 57 4H    W 11  -650  -0.92 5
+ 62 5H    W 11  -650  -0.92 1
+ 63 3NT   E 11  -660  -0.93 9
+ 72 3NT   W 11  -660  -0.93 3
+ 75 4H    E 12  -680  -1.63 2
+ 77 4H    W 12  -680  -1.63 1
+ 78 3NT   E 12  -690  -1.80 8
+ 86 3NT   W 12  -690  -1.80 4
+ 90 3CX   S  5  -800  -4.32 6
+ 96 3CX   S  4 -1100  -9.63 2
+ 98 4CX   S  5 -1100  -9.63 1
+ 99 5CX   N  6 -1100  -9.63 1
+100 4CX   S  4 -1400 -12.59 1
+101 6H    E 12 -1430 -12.80 1
+102 6HX   W 12 -1660 -14.15 1
+
+[Board "225"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QT854.J96.T5.T86 KJ72.A4.K63.K975 A93.K72.AJ97.Q43 6.QT853.Q842.AJ2"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS -100"]
+[ScoreIMP "NS 0.11"]
+[Auction "N"]
+Pass 1C 1D 1H
+1S 1NT 2S Pass
+Pass Pass
+[Play "E"]
+HA H2 H3 H9
+H4 HK H5 H6
+C7 H7 HQ HJ
+CK C3 C2 C6
+C5 C4 CJ C8
+C9 CQ CA CT
+S2 S9 S6 S4
+D3 DA D2 D5
+DK D7 D4 DT
+D6 D9 DQ S5
+SK SA H8 SQ
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3D    W  5   200   7.00 1
+  2 3C    E  7   100   5.04 1
+  3 3NT   E  7   100   5.04 1
+  4 3NT   W  7   100   5.04 2
+  6 4H    E  8   100   5.04 3
+  9 4H    W  8   100   5.04 1
+ 10 1NT   E  6    50   3.72 1
+ 11 1NT   W  6    50   3.72 7
+ 18 2H    W  7    50   3.72 3
+ 21 2NT   E  7    50   3.72 1
+ 22 2NT   W  7    50   3.72 2
+ 24 3C    E  8    50   3.72 1
+ 25 3H    W  8    50   3.72 3
+ 28 3NT   E  8    50   3.72 7
+ 35 1NT   E  7   -90   0.25 2
+ 37 1NT   W  7   -90   0.25 4
+ 41 2C    E  8   -90   0.25 2
+ 43 2S    N  6  -100   0.11 5
+ 48 2SX   N  7  -100   0.11 1
+ 49 2S    S  6  -100   0.11 1
+ 50 1H    W  8  -110  -0.20 1
+ 51 2C    E  9  -110  -0.20 1
+ 52 2H    W  8  -110  -0.20 1
+ 53 3C    E  9  -110  -0.20 2
+ 55 1NT   E  8  -120  -0.63 2
+ 57 1NT   W  8  -120  -0.63 4
+ 61 2NT   E  8  -120  -0.63 3
+ 64 2C    E 10  -130  -0.76 1
+ 65 1H    W  9  -140  -1.18 1
+ 66 2H    W  9  -140  -1.18 4
+ 70 1NT   E  9  -150  -1.25 4
+ 74 1NT   W  9  -150  -1.25 3
+ 77 2C    E 11  -150  -1.25 1
+ 78 2D    S  5  -150  -1.25 1
+ 79 2S    N  5  -150  -1.25 4
+ 83 2NT   E  9  -150  -1.25 1
+ 84 2H    W 10  -170  -2.02 4
+ 88 1NT   E 10  -180  -2.11 1
+ 89 1NT   W 10  -180  -2.11 1
+ 90 2NT   E 10  -180  -2.11 3
+ 93 1NT   S  3  -200  -2.57 1
+ 94 3NT   E  9  -400  -6.79 3
+ 97 3NT   E 10  -430  -7.25 1
+ 98 2SX   N  5  -500  -8.52 3
+101 3SX   N  5  -800 -11.85 2
+103 3DX   S  4 -1100 -14.07 1
+
+[Board "226"]
+[West "POOHBYR"]
+[North "papi"]
+[East "zipir"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QJ942.Q43.3.J875 AKT7.J986.98.AT4 53.AKT72.JT5.KQ9 86.5.AKQ7642.632"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 600"]
+[ScoreIMP "NS 6.16"]
+[Auction "E"]
+Pass 1C 1H 3D
+3H Pass Pass 5D
+Pass Pass Pass
+[Play "E"]
+H3 H9 HK H5
+D3 D8 D5 DA
+C5 D9 DT DK
+S2 CT DJ DQ
+C7 C4 H2 D7
+C8 H6 H7 D6
+S4 S7 S3 S8
+SJ SK S5 S6
+S9 SA HT C2
+H4 H8 HA D2
+CJ CA C9 C3
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NTX  S 11  1150  13.03 2
+  3 5DX   N 11   750   8.59 3
+  6 5DX   S 11   750   8.59 1
+  7 3NT   S 13   720   8.17 1
+  8 4DX   N 10   710   8.02 1
+  9 3NT   S 12   690   7.71 4
+ 13 3NT   S 11   660   7.29 4
+ 17 3NT   N 10   630   6.62 1
+ 18 3NT   S 10   630   6.62 14
+ 32 5D    N 12   620   6.49 2
+ 34 5D    N 11   600   6.16 6
+ 40 4HX   W  8   300   1.02 2
+ 42 3D    N 12   170  -1.44 2
+ 44 4D    N 12   170  -1.44 1
+ 45 2D    N 11   150  -1.88 1
+ 46 3D    N 11   150  -1.88 2
+ 48 4D    N 11   150  -1.88 5
+ 53 3D    N 10   130  -2.34 6
+ 59 4D    N 10   130  -2.34 2
+ 61 3H    W  7   100  -2.94 1
+ 62 3HX   W  8   100  -2.94 4
+ 66 4HX   W  9   100  -2.94 1
+ 67 3H    W  8    50  -3.79 7
+ 74 3NT   S  8  -100  -6.36 16
+ 90 5D    N 10  -100  -6.36 2
+ 92 3NTX  S  8  -200  -8.16 4
+ 96 5DX   N 10  -200  -8.16 3
+ 99 5C    S  7  -400 -10.84 2
+101 3HX   W  9  -530 -12.36 1
+
+[Board "362"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:5.QJ96.Q432.7542 AT2.K754.J8.AQJT KQ73.A82.AKT6.K8 J9864.T3.975.963"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS -200"]
+[ScoreIMP "NS 1.60"]
+[Auction "E"]
+Pass 1NT Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+DA D5 D2 D8
+DK D7 D3 DJ
+D6 D9 DQ S2
+S3 S4 S5 SA
+SQ S6 C7 ST
+DT S8 D4 H4
+CK C3 C2 CQ
+C8 C6 C4 CT
+S7 C9 C5 CA
+HA H3 H6 H5
+H2 HT HJ HK
+SK S9 H9 CJ
+H8 SJ HQ H7
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   W  7   200   9.44 1
+  2 4H    E  8   200   9.44 3
+  5 2S    S  8   110   7.84 2
+  7 3C    E  8   100   7.81 1
+  8 3H    E  8   100   7.81 2
+ 10 3NT   W  8   100   7.81 1
+ 11 4H    E  9   100   7.81 1
+ 12 2C    W  8   -90   4.06 1
+ 13 1NT   S  6  -100   3.96 1
+ 14 2S    N  7  -100   3.96 3
+ 17 2S    S  7  -100   3.96 5
+ 22 1H    E  8  -110   3.86 1
+ 23 2S    W  8  -110   3.86 1
+ 24 3D    W  9  -110   3.86 1
+ 25 2NT   E  8  -120   3.44 1
+ 26 2NT   W  8  -120   3.44 1
+ 27 3D    E 10  -130   3.34 1
+ 28 2H    E  9  -140   2.97 2
+ 30 3H    E  9  -140   2.97 3
+ 33 2D    W 11  -150   2.88 1
+ 34 3D    W 11  -150   2.88 1
+ 35 2H    E 10  -170   2.38 2
+ 37 3H    E 10  -170   2.38 1
+ 38 1NT   W 10  -180   2.21 1
+ 39 2NT   W 10  -180   2.21 1
+ 40 1C    S  5  -200   1.60 1
+ 41 1NT   S  5  -200   1.60 1
+ 42 1NTX  S  6  -200   1.60 2
+ 44 2S    N  6  -200   1.60 4
+ 48 2SX   N  7  -200   1.60 1
+ 49 2S    S  6  -200   1.60 13
+ 62 2SX   S  7  -200   1.60 3
+ 65 1NT   S  4  -300  -0.74 1
+ 66 2S    N  5  -300  -0.74 7
+ 73 2S    S  5  -300  -0.74 3
+ 76 2NT   S  5  -300  -0.74 1
+ 77 4S    N  7  -300  -0.74 1
+ 78 2S    N  4  -400  -2.84 1
+ 79 1NTX  S  5  -500  -4.82 4
+ 83 2SX   N  6  -500  -4.82 6
+ 89 2SX   S  6  -500  -4.82 3
+ 92 3SX   N  7  -500  -4.82 1
+ 93 3NT   E  9  -600  -6.77 2
+ 95 3NT   W  9  -600  -6.77 1
+ 96 3NT   W 10  -630  -7.42 4
+100 1NTX  S  4  -800  -9.82 1
+101 2SX   N  5  -800  -9.82 3
+104 2SX   S  5  -800  -9.82 2
+106 1NTX  S  2 -1400 -14.52 1
+107 1NTXX S  0 -4000 -22.96 1
+
+[Board "363"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KT6.AJT2.KQ96.Q9 432.Q865.JT.A542 AJ97.K9.A5432.T3 Q85.743.87.KJ876"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -50"]
+[ScoreIMP "NS -6.11"]
+[Auction "S"]
+1NT Pass 2C X
+Pass Pass XX Pass
+2H Pass 2S Pass
+2NT Pass 3C Pass
+3D Pass 5D Pass
+Pass Pass
+[Play "W"]
+CA C3 C6 C9
+C2 CT CK CQ
+DJ DA D8 D6
+DT D2 D7 DK
+H5 HK H7 H2
+H6 H9 H3 HA
+H8 D3 H4 HT
+C5 D4 C8 D9
+HQ D5 C7 HJ
+S2 S7 S5 SK
+S3 S9 SQ ST
+- - CJ -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3CX   W  5   800  10.43 2
+  3 3NT   S 13   520   6.04 1
+  4 3NT   S 12   490   5.63 6
+ 10 4S    N 12   480   5.38 1
+ 11 4S    S 12   480   5.38 1
+ 12 3NT   S 11   460   5.02 10
+ 22 4S    N 11   450   5.01 1
+ 23 4S    S 11   450   5.01 1
+ 24 5D    N 13   440   4.20 1
+ 25 3NT   S 10   430   4.05 12
+ 37 4S    N 10   420   4.04 1
+ 38 4S    S 10   420   4.04 2
+ 40 3NT   S  9   400   3.54 11
+ 51 5D    N 11   400   3.54 5
+ 56 5D    S 11   400   3.54 1
+ 57 3D    N 12   170  -1.32 3
+ 60 3D    S 12   170  -1.32 1
+ 61 3S    N 10   170  -1.32 1
+ 62 3D    N 11   150  -1.94 1
+ 63 3D    N 10   130  -2.25 1
+ 64 3D    S 10   130  -2.25 1
+ 65 3NT   S  8   -50  -6.11 33
+ 98 5D    S 10   -50  -6.11 1
+ 99 6D    N 11   -50  -6.11 1
+100 3NT   S  7  -100  -7.29 1
+101 6D    N 10  -100  -7.29 1
+102 6D    S 10  -100  -7.29 1
+103 3NT   S  6  -150  -7.99 1
+
+[Board "365"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQ6.76.Q32.T9854 J852.AJ95.8.AQ32 93.432.9764.KJ76 AT74.KQT8.AKJT5."]
+[Declarer "E"]
+[Contract "7H"]
+[Result "11"]
+[Score "NS 200"]
+[ScoreIMP "NS 6.08"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1H Pass 2D
+Pass 2S Pass 3H
+Pass 4C Pass 4NT
+Pass 5H Pass 7H
+Pass Pass Pass
+[Play "S"]
+S9 SA S6 S2
+D4 DA D3 D8
+D6 DT DQ H5
+C6 S4 CT CA
+C7 H8 C4 C2
+D7 DK D2 S5
+D9 DJ H7 HJ
+CJ HT C5 C3
+- D5 H6 HA
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6NTXX W  9  1600  18.01 1
+  2 6NT   E  9   300   7.79 1
+  3 7H    E 10   300   7.79 2
+  5 6H    E 10   200   6.08 6
+ 11 6HX   E 11   200   6.08 1
+ 12 6H    W 10   200   6.08 2
+ 14 6SX   E 11   200   6.08 1
+ 15 6NT   W 10   200   6.08 1
+ 16 7H    E 11   200   6.08 4
+ 20 7H    W 11   200   6.08 3
+ 23 7S    W 11   200   6.08 1
+ 24 3NT   E  8   100   3.99 4
+ 28 6D    W 11   100   3.99 1
+ 29 6H    E 11   100   3.99 32
+ 61 6H    W 11   100   3.99 8
+ 69 6S    W 11   100   3.99 1
+ 70 7H    E 12   100   3.99 2
+ 72 2NT   W 10  -180  -1.27 1
+ 73 3NT   E  9  -600  -6.21 3
+ 76 3NT   W  9  -600  -6.21 2
+ 78 3NT   E 10  -630  -6.36 2
+ 80 4H    E 10  -620  -6.36 1
+ 81 4S    W 10  -620  -6.36 1
+ 82 3NT   E 11  -660  -6.99 1
+ 83 4H    E 11  -650  -6.99 2
+ 85 4H    W 11  -650  -6.99 2
+ 87 4S    W 11  -650  -6.99 1
+ 88 4H    E 12  -680  -7.11 1
+ 89 4H    W 12  -680  -7.11 1
+ 90 6H    E 12 -1430 -13.79 13
+103 6H    W 12 -1430 -13.79 4
+
+[Board "368"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:98.74.J987.AKT74 QT542.AQ8.5.8532 AJ3.KT.KQ642.Q96 K76.J96532.AT3.J"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 100"]
+[ScoreIMP "NS 1.08"]
+[Auction "W"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+2NT Pass Pass Pass
+[Play "S"]
+H2 H4 HQ HK
+CJ CA C5 C9
+DA DJ D5 D2
+H3 H7 HA HT
+H9 S8 H8 S3
+HJ C4 S4 SJ
+H6 D7 S5 D4
+H5 - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4HX   S 11   690  11.10 1
+  2 2HX   S 10   670  11.00 1
+  3 3HX   S 10   630  10.58 1
+  4 4HX   S 10   590   9.92 4
+  8 2HX   S  9   570   9.82 1
+  9 3HX   S  9   530   9.33 2
+ 11 4H    S 10   420   7.60 2
+ 13 4S    E  6   400   7.03 1
+ 14 3NT   E  7   200   3.42 10
+ 24 5C    W  9   200   3.42 1
+ 25 2H    S 10   170   2.74 2
+ 27 3H    S 10   170   2.74 1
+ 28 2H    S  9   140   1.95 4
+ 32 3H    S  9   140   1.95 13
+ 45 2H    S  8   110   1.13 1
+ 46 2NT   E  7   100   1.08 4
+ 50 3NT   E  8   100   1.08 15
+ 65 5C    E 10   100   1.08 1
+ 66 5D    E 10   100   1.08 1
+ 67 4H    S  9   -50  -2.12 2
+ 69 4HX   S  9  -100  -3.02 1
+ 70 2NT   E  8  -120  -3.58 4
+ 74 3C    E 10  -130  -3.76 2
+ 76 4C    W 10  -130  -3.76 3
+ 79 4D    E 10  -130  -3.76 2
+ 81 4D    W 10  -130  -3.76 1
+ 82 1NT   E  9  -150  -4.12 1
+ 83 3C    E 11  -150  -4.12 2
+ 85 3C    W 11  -150  -4.12 1
+ 86 3D    W 11  -150  -4.12 2
+ 88 4C    W 11  -150  -4.12 1
+ 89 4D    E 11  -150  -4.12 2
+ 91 2NT   E 10  -180  -4.95 2
+ 93 2NT   E 11  -210  -5.25 1
+ 94 3NT   E  9  -600 -10.70 2
+ 96 3NT   E 10  -630 -11.13 8
+104 3NT   E 11  -660 -11.56 1
+
+[Board "369"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:8753.KT976.AT3.5 T62.A32.KJ5.T963 AQJ4.QJ8.Q.AK842 K9.54.987642.QJ7"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[ScoreIMP "NS 1.49"]
+[Auction "N"]
+Pass Pass 1C Pass
+1H Pass 2S Pass
+2NT Pass 3C Pass
+4S Pass Pass Pass
+[Play "W"]
+H5 H6 H2 HQ
+S9 S3 S2 SA
+SK S5 S6 SJ
+D7 DA D5 DQ
+D6 S7 ST SQ
+H4 - - HJ
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3SX   W  3  1400  14.30 1
+  2 5DX   W  7   800   8.70 1
+  3 4S    N 12   480   2.35 1
+  4 4H    N 11   450   1.49 13
+ 17 4H    S 11   450   1.49 1
+ 18 4S    N 11   450   1.49 1
+ 19 4S    S 11   450   1.49 56
+ 75 5S    N 11   450   1.49 1
+ 76 5S    S 11   450   1.49 2
+ 78 3NT   N 10   430   0.52 1
+ 79 3NT   S 10   430   0.52 1
+ 80 4H    N 10   420   0.52 1
+ 81 4S    S 10   420   0.52 12
+ 93 2C    S  8    90  -6.44 1
+ 94 4S    S  9   -50  -9.37 3
+ 97 5S    S 10   -50  -9.37 1
+ 98 6H    N 11   -50  -9.37 3
+101 6S    S 11   -50  -9.37 4
+105 6S    S 10  -100  -9.78 1
+106 3NT   S  6  -150 -10.65 1
+107 6HX   N  9  -500 -13.51 1
+
+[Board "370"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T2.KQ943.J874.AT AKQ4.72.AT65.J32 95.AJ6.932.K9754 J8763.T85.KQ.Q86"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[ScoreIMP "NS 2.64"]
+[Auction "E"]
+2D Pass 2H Pass
+Pass X Pass 2S
+Pass Pass Pass
+[Play "E"]
+HQ H2 H6 H5
+H4 H7 HA H8
+CA C3 C4 C8
+CT C2 CK CQ
+S2 - C7 C6
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5HX   E  8   500  10.29 1
+  2 4HX   E  8   300   7.09 1
+  3 5HX   E  9   300   7.09 2
+  5 2S    N 10   170   4.50 1
+  6 4H    E  7   150   3.68 1
+  7 2S    N  9   140   3.64 7
+ 14 2S    S  9   140   3.64 2
+ 16 3S    N  9   140   3.64 8
+ 24 3S    S  9   140   3.64 3
+ 27 2S    N  8   110   2.64 17
+ 44 1NT   E  5   100   2.63 1
+ 45 3H    E  7   100   2.63 2
+ 47 4C    W  8   100   2.63 1
+ 48 3H    E  8    50   1.18 2
+ 50 4H    E  9    50   1.18 2
+ 52 3S    N  8  -100  -2.23 21
+ 73 3S    S  8  -100  -2.23 1
+ 74 4S    N  9  -100  -2.23 8
+ 82 4S    S  9  -100  -2.23 2
+ 84 3H    E  9  -140  -3.22 5
+ 89 4S    N  8  -200  -4.72 13
+102 5S    N  8  -300  -6.83 2
+104 4SX   N  8  -500 -10.12 1
+
+[Board "371"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:52.KQJ2.AJ952.82 A3.AT9.KQT4.9653 T9874.85.876.QT4 KQJ6.7643.3.AKJ7"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[ScoreIMP "NS -2.47"]
+[Auction "S"]
+1D Pass 1S X
+Pass 2S Pass 3C
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+D7 D3 D2 DT
+CT CA C8 C3
+C4 CK C2 C5
+CQ C7 S2 C6
+H8 H3 HJ H9
+- - S5 -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4HX   E  8   500  13.71 1
+  2 4SX   E  8   500  13.71 1
+  3 4H    E  8   200  10.88 2
+  5 4HX   E  9   200  10.88 1
+  6 4S    E  8   200  10.88 2
+  8 5HX   E 10   200  10.88 1
+  9 3NT   W  8   100   9.89 2
+ 11 4C    W  9   100   9.89 1
+ 12 4H    E  9   100   9.89 3
+ 15 4H    W  9   100   9.89 1
+ 16 2C    W  8   -90   7.77 1
+ 17 2D    W  8   -90   7.77 1
+ 18 2DX   S  7  -100   7.56 1
+ 19 3C    E  9  -110   7.37 1
+ 20 3C    E 10  -130   7.15 2
+ 22 1NT   S  4  -150   6.88 1
+ 23 1NT   W  9  -150   6.88 3
+ 26 2H    E 10  -170   6.48 1
+ 27 1NT   W 10  -180   6.30 1
+ 28 2NT   W 11  -210   5.80 1
+ 29 2NT   W 12  -240   5.20 1
+ 30 1SX   E  8  -360   3.17 1
+ 31 2DX   S  5  -500   0.38 2
+ 33 3NT   E  9  -600  -1.70 2
+ 35 3NT   W  9  -600  -1.70 14
+ 49 4H    E 10  -620  -2.43 2
+ 51 4H    W 10  -620  -2.43 2
+ 53 3NT   E 10  -630  -2.47 2
+ 55 3NT   W 10  -630  -2.47 16
+ 71 3NT   E 11  -660  -3.29 2
+ 73 3NT   W 11  -660  -3.29 20
+ 93 3NT   W 12  -690  -4.07 18
+111 2SX   N  4  -800  -6.37 1
+112 4DX   S  5 -1100 -11.03 1
+113 2SXX  N  3 -2200 -17.63 1
+
+[Board "372"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:9864.T82.KJ9.A93 AJT752.AJ3.A53.8 K3.K7.T842.KQJT4 Q.Q9654.Q76.7652"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS 100"]
+[ScoreIMP "NS 1.56"]
+[Auction "W"]
+Pass 1S 2C Pass
+3C Pass Pass Pass
+[Play "S"]
+SQ S4 SA S3
+C2 S6 S2 SK
+D6 D9 DA D2
+H5 S8 SJ CK
+D7 DJ D5 D4
+H6 H2 HA H7
+DQ S9 ST CQ
+C5 C3 C8 CJ
+C6 C9 S5 C4
+C7 DK D3 D8
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5CX   E  7  1100  14.39 1
+  2 3SX   N 10   930  13.20 1
+  3 4H    S 10   620  10.60 3
+  6 4S    N 10   620  10.60 2
+  8 3C    E  6   300   6.05 1
+  9 2H    S 11   200   3.97 1
+ 10 2S    N 11   200   3.97 1
+ 11 3CX   E  8   200   3.97 1
+ 12 1S    N 10   170   3.44 1
+ 13 2H    S 10   170   3.44 2
+ 15 2S    N 10   170   3.44 1
+ 16 3H    S 10   170   3.44 4
+ 20 3S    N 10   170   3.44 4
+ 24 1S    N  9   140   2.53 3
+ 27 2H    S  9   140   2.53 1
+ 28 2S    N  9   140   2.53 8
+ 36 3H    S  9   140   2.53 4
+ 40 3S    N  9   140   2.53 3
+ 43 1S    N  8   110   1.74 1
+ 44 2S    N  8   110   1.74 7
+ 51 1NT   W  6   100   1.56 1
+ 52 3C    E  8   100   1.56 10
+ 62 1S    N  7    80   1.09 2
+ 64 2H    S  7  -100  -3.03 1
+ 65 2S    N  7  -100  -3.03 3
+ 68 3H    S  8  -100  -3.03 3
+ 71 3S    N  8  -100  -3.03 2
+ 73 4H    S  9  -100  -3.03 4
+ 77 2C    E  9  -110  -3.10 1
+ 78 3C    E  9  -110  -3.10 20
+ 98 2D    N  6  -200  -5.42 1
+ 99 2S    N  6  -200  -5.42 1
+100 3S    N  7  -200  -5.42 9
+109 4H    S  8  -200  -5.42 4
+113 4S    N  8  -200  -5.42 1
+114 4S    N  7  -300  -7.38 1
+115 3SX   N  7  -500 -10.41 1
+116 3CX   E  9  -670 -12.06 1
+
+[Board "373"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:6.Q8632.A974.A32 KQ943.K4.KJ85.98 J752.J9.Q.KJ7654 AT8.AT75.T632.QT"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[ScoreIMP "NS 2.68"]
+[Auction "N"]
+Pass 1S Pass 1NT
+Pass 2D Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+DQ D2 DA D8
+S2 D3 D4 DK
+C4 CQ CA C8
+S5 D6 D9 D5
+CK CT C2 -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4SX   E  6   800  13.10 1
+  2 4S    E  6   200   4.99 1
+  3 3S    E  6   150   3.93 2
+  5 4S    E  7   150   3.93 4
+  9 4C    S 10   130   3.35 1
+ 10 3C    S  9   110   2.80 1
+ 11 1NT   W  5   100   2.68 1
+ 12 2S    E  6   100   2.68 1
+ 13 3S    E  7   100   2.68 2
+ 15 3NT   W  7   100   2.68 1
+ 16 4S    E  8   100   2.68 16
+ 32 4SX   E  9   100   2.68 1
+ 33 1NT   W  6    50   1.14 2
+ 35 2S    E  7    50   1.14 3
+ 38 3D    E  8    50   1.14 1
+ 39 3S    E  8    50   1.14 11
+ 50 4S    E  9    50   1.14 15
+ 65 Pass  -  -     0  -0.20 5
+ 70 1NT   W  7   -90  -2.27 1
+ 71 3C    S  8  -100  -2.53 2
+ 73 4C    S  9  -100  -2.53 1
+ 74 1S    E  8  -110  -2.56 1
+ 75 2S    E  8  -110  -2.56 5
+ 80 2S    E  9  -140  -3.53 8
+ 88 3S    E  9  -140  -3.53 12
+100 4C    S  8  -200  -4.83 1
+101 4CX   S  9  -200  -4.83 1
+102 5C    S  9  -200  -4.83 1
+103 4S    E 10  -420  -9.07 1
+104 5CX   S  9  -500 -10.20 1
+105 5CX   S  8  -800 -12.92 1
+
+[Board "374"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:8.86.AKT92.AT975 AQ754.AKJ4.874.Q KJ2.Q975.J6.K863 T963.T32.Q53.J42"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[ScoreIMP "NS 2.66"]
+[Auction "E"]
+1D X 1H Pass
+2C Pass 2NT Pass
+3C Pass Pass Pass
+[Play "S"]
+HA H5 H3 H6
+SA S2 ST S8
+HK H7 H2 H8
+H4 H9 HT C5
+CQ C3 C2 CA
+S4 - - C7
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5CX   E  9   500  12.07 5
+  6 3NT   W  7   200   8.21 1
+  7 5C    E  9   200   8.21 1
+  8 5C    W  9   200   8.21 2
+ 10 3NT   W  8   100   6.60 1
+ 11 4C    E  9   100   6.60 4
+ 15 4C    W  9   100   6.60 1
+ 16 5C    E 10   100   6.60 4
+ 20 3S    N  8   -50   3.93 1
+ 21 3S    S  8   -50   3.93 1
+ 22 2D    E  8   -90   2.98 1
+ 23 2SX   N  7  -100   2.87 1
+ 24 2S    S  6  -100   2.87 2
+ 26 2SX   S  7  -100   2.87 1
+ 27 3S    N  7  -100   2.87 2
+ 29 3SX   N  8  -100   2.87 1
+ 30 3S    S  7  -100   2.87 4
+ 34 4S    S  8  -100   2.87 1
+ 35 3C    E  9  -110   2.66 3
+ 38 2C    E 10  -130   2.23 2
+ 40 3C    E 10  -130   2.23 7
+ 47 4C    E 10  -130   2.23 5
+ 52 2NT   W  9  -150   1.65 1
+ 53 3C    E 11  -150   1.65 3
+ 56 3S    N  6  -150   1.65 1
+ 57 3S    S  6  -150   1.65 8
+ 65 4S    N  7  -150   1.65 1
+ 66 4S    S  7  -150   1.65 1
+ 67 4C    E 12  -170   1.29 1
+ 68 4S    S  6  -200   0.62 1
+ 69 3SX   N  7  -300  -1.42 1
+ 70 3SX   S  7  -300  -1.42 2
+ 72 4SX   N  8  -300  -1.42 1
+ 73 3SX   S  6  -500  -5.23 5
+ 78 4SX   N  7  -500  -5.23 2
+ 80 4SX   S  7  -500  -5.23 3
+ 83 3NT   W  9  -600  -6.97 5
+ 88 5C    E 11  -600  -6.97 1
+ 89 3NT   E 10  -630  -7.42 1
+ 90 3NT   W 10  -630  -7.42 2
+ 92 3NT   W 11  -660  -7.90 3
+ 95 3NT   W 12  -690  -8.28 2
+ 97 4CX   E 10  -710  -8.54 1
+ 98 3NTX  W  9  -750  -9.18 1
+ 99 4SX   S  6  -800  -9.85 8
+107 3NTX  W 10  -950 -11.46 1
+
+[Board "375"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:97.Q543.AJT53.J3 K653.62.Q876.Q82 T84.AKT98.K4.K65 AQJ2.J7.92.AT974"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[ScoreIMP "NS 0.03"]
+[Auction "S"]
+Pass Pass 1H 1S
+2H 2S Pass Pass
+3H Pass Pass Pass
+[Play "E"]
+D9 DT D6 D4
+H7 H4 H2 HA
+HJ H3 H6 HK
+D2 D3 D7 DK
+C7 HQ S3 H8
+C4 DA D8 C6
+C9 D5 DQ H9
+SJ S7 S5 ST
+CA - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4HX   N 10   790  11.25 1
+  2 4H    N 10   620   9.16 13
+ 15 4SX   W  8   500   7.19 1
+ 16 2H    N 11   200   0.98 3
+ 19 3H    N 11   200   0.98 4
+ 23 3S    E  7   200   0.98 2
+ 25 3SX   E  8   200   0.98 1
+ 26 3SX   W  8   200   0.98 1
+ 27 4C    E  8   200   0.98 2
+ 29 4S    E  8   200   0.98 1
+ 30 4S    W  8   200   0.98 2
+ 32 2H    N 10   170   0.03 4
+ 36 3H    N 10   170   0.03 29
+ 65 2H    N  9   140  -0.80 2
+ 67 3H    N  9   140  -0.80 11
+ 78 2S    E  7   100  -1.77 1
+ 79 3S    E  8   100  -1.77 12
+ 91 3S    W  8   100  -1.77 9
+100 4H    N  9  -100  -6.11 3
+103 2S    E  8  -110  -6.12 1
+104 2S    W  8  -110  -6.12 1
+105 3S    E  9  -140  -6.80 1
+106 3S    W  9  -140  -6.80 3
+109 3S    E 10  -170  -7.54 2
+111 3S    W 10  -170  -7.54 1
+112 3D    S  6  -300  -9.68 1
+113 3SX   E 10  -930 -14.71 1
+
+[Board "376"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QT6532.7653..KQ8 AJ84.AK4.T7.AJ63 K.Q9.QJ986543.75 97.JT82.AK2.T942"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[ScoreIMP "NS 1.61"]
+[Auction "W"]
+2S 2NT Pass 3C
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+SK S7 S2 SA
+H9 H2 H3 HK
+HQ H8 H5 HA
+D3 HT H6 H4
+D4 S9 SQ S4
+D5 HJ H7 S8
+C5 C2 C8 CJ
+C7 C9 CQ C3
+- - CK -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3HX   W  3  1400  13.99 1
+  2 5CX   E  5  1400  13.99 1
+  3 5SX   W  5  1400  13.99 1
+  4 3HX   W  4  1100  11.50 1
+  5 3SX   W  4  1100  11.50 4
+  9 2SX   W  4   800   7.99 1
+ 10 3SX   W  5   800   7.99 1
+ 11 4DX   E  6   800   7.99 2
+ 13 5DX   E  7   800   7.99 4
+ 17 2SX   W  5   500   2.49 1
+ 18 3DX   E  6   500   2.49 3
+ 21 4DX   E  7   500   2.49 11
+ 32 3NT   N 11   460   1.61 14
+ 46 3NT   N 10   430   1.02 13
+ 59 4H    S 10   420   0.89 3
+ 62 3S    W  1   400   0.26 1
+ 63 3NT   N  9   400   0.26 4
+ 67 3NT   S  9   400   0.26 1
+ 68 3DX   E  7   300  -1.91 12
+ 80 4DX   E  8   300  -1.91 1
+ 81 2NT   N 11   210  -3.75 1
+ 82 2S    W  4   200  -3.90 2
+ 84 2S    W  5   150  -4.81 3
+ 87 3D    E  7   100  -5.82 5
+ 92 3DX   E  8   100  -5.82 6
+ 98 2D    E  7    50  -6.87 1
+ 99 3D    E  8    50  -6.87 1
+100 3NT   S  8   -50  -8.39 1
+101 4H    S  9   -50  -8.39 2
+103 3NT   N  7  -100  -9.25 1
+104 4H    N  7  -150  -9.81 1
+105 4H    S  7  -150  -9.81 2
+107 6H    S  8  -200 -10.48 1
+108 3NT   N  4  -250 -10.91 2
+110 3DXX  N  6 -1000 -16.10 1
+
+[Board "378"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:JT873.AQ53.8.KT8 AK65.9.KQT643.65 Q9.JT87.AJ72.QJ7 42.K642.95.A9432"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -100"]
+[ScoreIMP "NS -1.06"]
+[Auction "E"]
+Pass 1D Pass 1H
+1S 2D 2S 3D
+Pass Pass Pass
+[Play "W"]
+SQ S2 S3 SA
+HT HK HA H9
+DA D5 D8 DK
+D2 D9 S7 D3
+H7 H2 H3 D4
+C7 C2 C8 C5
+H8 H4 HQ D6
+S9 S4 S8 SK
+CJ CA CT C6
+HJ H6 H5 DT
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3DX   S  9   670  12.26 1
+  2 4SX   E  8   500  10.76 1
+  3 2DX   S  9   380   9.05 1
+  4 2DX   S  8   180   5.61 1
+  5 2D    S 10   130   4.44 2
+  7 2D    S  9   110   3.83 13
+ 20 2S    E  7   100   3.59 1
+ 21 2NT   W  7   100   3.59 2
+ 23 3H    E  8   100   3.59 1
+ 24 2D    S  8    90   3.36 25
+ 49 Pass  -  -     0   1.21 1
+ 50 1NT   N  6  -100  -1.06 1
+ 51 2D    S  7  -100  -1.06 18
+ 69 3D    S  8  -100  -1.06 3
+ 72 2S    E  8  -110  -1.25 1
+ 73 2NT   W  8  -120  -1.56 2
+ 75 2H    E  9  -140  -2.09 1
+ 76 2H    W  9  -140  -2.09 1
+ 77 2S    E  9  -140  -2.09 5
+ 82 3H    E  9  -140  -2.09 2
+ 84 1NT   W  9  -150  -2.30 2
+ 86 2NT   W  9  -150  -2.30 1
+ 87 2S    E 10  -170  -2.70 1
+ 88 3S    E 10  -170  -2.70 2
+ 90 2NT   W 10  -180  -2.98 1
+ 91 1S    S  5  -200  -3.47 1
+ 92 2DX   S  7  -200  -3.47 3
+ 95 3D    S  7  -200  -3.47 1
+ 96 3DX   S  8  -200  -3.47 1
+ 97 4D    S  8  -200  -3.47 1
+ 98 1NT   N  4  -300  -5.56 2
+100 1NT   S  4  -300  -5.56 2
+102 1NT   N  3  -400  -7.32 1
+103 3DX   S  7  -500  -8.89 1
+104 3NT   N  4  -500  -8.89 1
+105 4DX   S  8  -500  -8.89 1
+106 3NT   W  9  -600 -10.26 1
+107 5DX   S  8  -800 -12.09 1
+108 2SX   E  9  -870 -12.69 1
+109 3NTX  S  4 -1400 -15.79 1
+
+[Board "379"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AT6.AK642.8.9654 KQ4.T3.9763.AQ87 J983.QJ85.AKQ.32 752.97.JT542.KJT"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[ScoreIMP "NS 0.84"]
+[Auction "S"]
+1H Pass 2C Pass
+2D Pass 4H Pass
+Pass Pass
+[Play "W"]
+SQ S3 S7 SA
+H3 HQ H7 H2
+HT H5 H9 HA
+SK - - ST
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4H    S 11   450   1.77 67
+ 68 4H    S 10   420   0.84 14
+ 82 3NT   N  9   400  -0.04 1
+ 83 3DX   E  7   300  -2.08 1
+ 84 1H    S 11   200  -4.39 3
+ 87 2H    S 11   200  -4.39 2
+ 89 3H    S 11   200  -4.39 4
+ 93 1H    S 10   170  -5.20 2
+ 95 2H    S 10   170  -5.20 2
+ 97 3H    S 10   170  -5.20 2
+ 99 4H    S  9   -50  -9.56 6
+
+[Board "381"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KJ43.A75.K96.763 975.64.73.AQ9542 AQT862.QJ8.A84.K .KT932.QJT52.JT8"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[ScoreIMP "NS 1.36"]
+[Auction "N"]
+Pass Pass 1S 2S
+4S Pass Pass Pass
+[Play "W"]
+DJ D6 D3 DA
+H3 SK S5 S6
+D2 S3 S7 SQ
+C8 C3 CA CK
+HK HA H6 HJ
+CJ C6 CQ S8
+D5 SJ S9 S2
+CT C7 C9 ST
+DT DK D7 D4
+H2 H5 H4 HQ
+DQ D9 C2 D8
+HT - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3DX   W  6   800   5.97 1
+  2 6CX   E  9   800   5.97 1
+  3 4S    S 11   650   2.32 15
+ 18 3NT   S 10   630   1.37 1
+ 19 4S    N 10   620   1.36 2
+ 21 4S    S 10   620   1.36 74
+ 95 4C    E  8   200  -7.15 1
+ 96 5S    S 10  -100 -10.62 6
+102 6S    S 11  -100 -10.62 1
+103 6S    S 10  -200 -11.72 6
+
+[Board "383"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AKJ952.A2.K.8652 86.J8763.AT865.J T3.KQT954.J3.KT9 Q74..Q9742.AQ743"]
+[Declarer "W"]
+[Contract "5DX"]
+[Result "9"]
+[Score "NS 300"]
+[ScoreIMP "NS 8.18"]
+[Auction "S"]
+1S Pass 2H 2NT
+X 5D X Pass
+Pass Pass
+[Play "N"]
+ST S4 SJ S8
+S3 S7 SA S6
+H5 SQ SK DA
+D3 DQ DK D5
+H4 D2 HA H3
+CT CA C2 CJ
+C9 C3 C5 D6
+H9 D4 H2 H6
+CK C4 C6 D8
+HT D7 - H7
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5CX   E  7   800  13.52 1
+  2 7DX   E  9   800  13.52 1
+  3 4CX   E  8   300   8.18 1
+  4 5DX   W  9   300   8.18 3
+  7 6DX   W 10   300   8.18 2
+  9 3C    E  5   200   6.50 2
+ 11 3H    W  5   200   6.50 1
+ 12 2H    N 10   170   5.84 1
+ 13 2S    S  9   140   5.29 3
+ 16 3H    N  9   140   5.29 1
+ 17 3S    S  9   140   5.29 1
+ 18 2S    S  8   110   4.50 3
+ 21 3NT   E  7   100   4.49 1
+ 22 5DX   E 10   100   4.49 2
+ 24 5DX   W 10   100   4.49 15
+ 39 4D    W  9    50   3.27 1
+ 40 5D    W 10    50   3.27 4
+ 44 2S    S  7  -100   0.21 2
+ 46 3H    N  8  -100   0.21 1
+ 47 3S    S  8  -100   0.21 3
+ 50 4H    N  9  -100   0.21 2
+ 52 4S    S  9  -100   0.21 3
+ 55 5S    S 10  -100   0.21 1
+ 56 3D    E  9  -110   0.16 1
+ 57 3D    W 10  -130  -0.58 1
+ 58 4D    E 10  -130  -0.58 2
+ 60 4D    W 10  -130  -0.58 3
+ 63 4D    W 11  -150  -0.96 2
+ 65 3S    S  7  -200  -2.10 1
+ 66 4H    N  8  -200  -2.10 2
+ 68 4S    S  8  -200  -2.10 11
+ 79 3NT   N  6  -300  -4.30 1
+ 80 4S    S  7  -300  -4.30 6
+ 86 5S    S  8  -300  -4.30 2
+ 88 5D    E 11  -400  -6.22 2
+ 90 5D    W 11  -400  -6.22 2
+ 92 5S    S  7  -400  -6.22 2
+ 94 4SX   S  8  -500  -7.92 2
+ 96 4DX   W 10  -510  -7.99 3
+ 99 5DX   E 11  -550  -8.64 2
+101 5DX   W 11  -550  -8.64 6
+107 4DX   W 11  -610  -9.47 1
+108 5SX   S  8  -800 -11.87 1
+
+[Board "384"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J9.AJ8.AKT86.AKT 82.KQT9762.92.86 AQT7..QJ743.Q953 K6543.543.5.J742"]
+[Declarer "N"]
+[Contract "7HX"]
+[Result "8"]
+[Score "NS -1100"]
+[ScoreIMP "NS -2.20"]
+[Auction "W"]
+2D 3H X 4H
+X Pass 5H Pass
+5NT Pass 6D Pass
+7D Pass Pass 7H
+X Pass Pass Pass
+[Play "E"]
+D3 D5 DK D9
+D7 H3 HA H2
+D4 H4 H8 H9
+DJ H5 D6 D2
+C3 C2 CK C6
+SA S3 SJ S2
+SQ SK S9 S8
+- S4 D8 -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4SXX  E  7  1600  19.73 1
+  2 4H    E  6   400  14.48 1
+  3 6S    E  8   400  14.48 1
+  4 6S    W  9   300  13.45 1
+  5 6NT   W  9   300  13.45 2
+  7 4S    E  8   200  12.73 1
+  8 6NT   W 10   200  12.73 1
+  9 4S    E  9   100  11.48 1
+ 10 6NT   W 11   100  11.48 7
+ 17 7D    E 12   100  11.48 1
+ 18 7D    W 12   100  11.48 1
+ 19 3HX   N  8  -100   9.46 4
+ 23 3D    W 13  -190   8.73 1
+ 24 3HX   N  7  -300   7.33 1
+ 25 4HX   N  8  -300   7.33 4
+ 29 5HX   N  8  -500   5.06 3
+ 32 5D    W 12  -620   4.07 5
+ 37 3NT   W 10  -630   3.64 3
+ 40 3NT   W 11  -660   3.26 2
+ 42 4NT   W 11  -660   3.26 1
+ 43 3NT   W 12  -690   2.95 3
+ 46 5HX   N  7  -800   1.53 1
+ 47 6HX   N  8  -800   1.53 4
+ 51 6HX   N  7 -1100  -2.20 2
+ 53 7HX   N  8 -1100  -2.20 2
+ 55 6D    E 12 -1370  -6.35 8
+ 63 6D    W 12 -1370  -6.35 33
+ 96 6D    E 13 -1390  -6.81 3
+ 99 6D    W 13 -1390  -6.81 1
+100 7D    W 13 -2140 -14.84 6
+
+[Board "385"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:83.K75.QT4.87643 AKQ.94.KJ62.AKJ9 94.QJT83.A87.Q52 JT7652.A62.953.T"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[ScoreIMP "NS -1.43"]
+[Auction "N"]
+Pass 2C Pass 2H
+Pass 2NT Pass 4D
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+HQ HA H7 H4
+C2 CT C6 CA
+C5 D3 C3 CK
+H3 H2 HK H9
+S4 S2 S3 SA
+S9 S5 S8 SK
+CQ S6 C4 C9
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6SX   E 10   300  11.91 1
+  2 3C    E  6   150  10.63 1
+  3 4H    W  7   150  10.63 1
+  4 3D    E  7   100   9.72 1
+  5 3NT   E  7   100   9.72 2
+  7 4H    W  8   100   9.72 1
+  8 6S    E 10   100   9.72 2
+ 10 6S    W 10   100   9.72 1
+ 11 5S    W 10    50   9.31 1
+ 12 6S    E 11    50   9.31 1
+ 13 6S    W 11    50   9.31 1
+ 14 4S    E 10  -420  -0.50 16
+ 30 4S    W 10  -420  -0.50 3
+ 33 4S    E 11  -450  -1.43 49
+ 82 4S    W 11  -450  -1.43 19
+101 6S    E 12  -980 -11.31 1
+102 6S    W 12  -980 -11.31 1
+
+[Board "386"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:2.KJ76.QT74.AT76 AJT763.Q82.A2.95 Q8.AT5.K98.KQJ82 K954.943.J653.43"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS -400"]
+[ScoreIMP "NS -3.49"]
+[Auction "E"]
+Pass 1S 2C 2S
+3H Pass 4H Pass
+5C Pass Pass Pass
+[Play "N"]
+S4 S2 SA S8
+SK C6 ST SQ
+C3 C7 C5 CK
+C4 CA C9 C2
+H3 H6 H2 HT
+H4 H7 H8 HA
+H9 HK HQ H5
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   W  6   150   8.42 4
+  5 3S    S  9   140   8.40 1
+  6 3NT   W  8    50   6.73 1
+  7 5C    E 10    50   6.73 1
+  8 5C    W 10    50   6.73 1
+  9 6C    W 11    50   6.73 1
+ 10 2S    S  7  -100   3.76 1
+ 11 3D    E  9  -110   3.34 1
+ 12 3C    E 10  -130   3.03 1
+ 13 3C    W 10  -130   3.03 2
+ 15 4C    W 10  -130   3.03 5
+ 20 3H    E  9  -140   2.47 2
+ 22 2C    W 11  -150   2.38 2
+ 24 3C    W 11  -150   2.38 10
+ 34 4C    W 11  -150   2.38 22
+ 56 2SX   S  7  -200   0.97 3
+ 59 3S    S  7  -200   0.97 2
+ 61 4S    S  8  -200   0.97 3
+ 64 3H    E 12  -230   0.52 1
+ 65 4S    S  7  -300  -1.30 3
+ 68 3NT   W  9  -400  -3.49 1
+ 69 5C    E 11  -400  -3.49 3
+ 72 5C    W 11  -400  -3.49 14
+ 86 4H    E 10  -420  -4.24 10
+ 96 3NT   W 10  -430  -4.29 2
+ 98 4H    E 11  -450  -4.79 1
+ 99 4H    W 11  -450  -4.79 2
+101 4SX   S  8  -500  -5.75 1
+102 5CX   W 11  -550  -6.76 2
+104 5HX   E 11  -650  -8.67 1
+105 4SX   S  7  -800 -10.60 2
+107 5SX   S  7 -1100 -13.18 1
+
+[Board "387"]
+[West "Shawn"]
+[North "papi"]
+[East "daffydoc"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J52.862.QT92.962 AT.AJ975.KJ754.3 97643.T.A86.T754 KQ8.KQ43.3.AKQJ8"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS -1460"]
+[ScoreIMP "NS -1.12"]
+[Auction "S"]
+Pass 1H X 4NT
+Pass 5H Pass 6H
+Pass Pass Pass
+[Play "N"]
+D6 D3 DQ DK
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 7HX   W 12   200  16.58 2
+  3 7H    W 12   100  16.46 2
+  5 5H    W 12  -680  12.06 1
+  6 6H    E 12 -1430  -0.18 1
+  7 6H    W 12 -1430  -0.18 58
+ 65 6H    E 13 -1460  -1.12 1
+ 66 6H    W 13 -1460  -1.12 34
+100 6NT   E 13 -1470  -1.12 2
+102 7NT   E 13 -2220 -13.19 2
+
+[Board "568"]
+[West "POOHBYR"]
+[North "papi"]
+[East "pepfra"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A9872.KT743.95.J KJ.J95.JT632.T54 T53.AQ.AKQ7.Q972 Q64.862.84.AK863"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[ScoreIMP "NS -1.82"]
+[Auction "W"]
+Pass Pass 1NT Pass
+2H Pass 2S Pass
+3H Pass 4S Pass
+Pass Pass
+[Play "S"]
+CA CJ C5 C2
+S4 S2 SK S3
+D4 D5 D2 DA
+S6 SA SJ S5
+- H3 H5 -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   E  7   100   9.39 1
+  2 4H    E  8   100   9.39 1
+  3 4H    W  8   100   9.39 2
+  5 5D    E  9   100   9.39 1
+  6 3NT   E  8    50   8.47 2
+  8 3NT   W  8    50   8.47 1
+  9 4H    W  9    50   8.47 2
+ 11 4S    E  9    50   8.47 1
+ 12 5S    E 10    50   8.47 1
+ 13 5S    W 10    50   8.47 1
+ 14 3H    W  9  -140   4.84 1
+ 15 2S    E 10  -170   4.03 1
+ 16 2S    W 10  -170   4.03 1
+ 17 3S    E 10  -170   4.03 3
+ 20 2NT   E 10  -180   4.02 2
+ 22 2H    W 11  -200   3.68 1
+ 23 2S    W 11  -200   3.68 1
+ 24 3S    W 11  -200   3.68 1
+ 25 2CX   S  6  -300   1.12 1
+ 26 3NT   E  9  -400  -1.02 1
+ 27 4H    E 10  -420  -1.82 1
+ 28 4H    W 10  -420  -1.82 3
+ 31 4S    E 10  -420  -1.82 34
+ 65 4S    W 10  -420  -1.82 8
+ 73 3NT   E 10  -430  -1.83 8
+ 81 4H    W 11  -450  -2.74 3
+ 84 4S    E 11  -450  -2.74 1
+ 85 4S    W 11  -450  -2.74 13
+ 98 5S    W 11  -450  -2.74 1
+ 99 3NT   E 11  -460  -2.75 4
+
+[Board "571"]
+[West "POOHBYR"]
+[North "papi"]
+[East "looch2"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:5.K76.JT762.QJ42 AQJ863.AJT9.9.97 KT742.52.AK853.T 9.Q843.Q4.AK8653"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "7"]
+[Score "NS 150"]
+[ScoreIMP "NS 3.66"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+DA D4 D7 D9
+DK DQ DT H9
+CT CA C2 C7
+H2 CK C4 C9
+D3 S9 D6 HT
+S2 C3 S5 SA
+S4 H3 H6 SQ
+D5 C5 CQ HJ
+H5 H4 H7 HA
+S7 H8 D2 S3
+D8 C6 CJ S6
+ST HQ HK S8
+SK C8 DJ SJ
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5DX   N 11   550  10.82 1
+  2 3DX   N  9   470   9.56 1
+  3 4SX   W  8   300   6.55 1
+  4 5HX   W  9   300   6.55 1
+  5 6HX   W 10   300   6.55 1
+  6 3NT   E  5   200   4.78 1
+  7 4H    W  6   200   4.78 1
+  8 5H    W  7   200   4.78 1
+  9 6H    W  8   200   4.78 1
+ 10 3NT   E  6   150   3.66 1
+ 11 4H    W  7   150   3.66 4
+ 15 4S    W  7   150   3.66 3
+ 18 5H    W  8   150   3.66 1
+ 19 5S    W  8   150   3.66 1
+ 20 6H    W  9   150   3.66 1
+ 21 2S    W  6   100   2.44 1
+ 22 2NT   E  6   100   2.44 1
+ 23 4H    W  8   100   2.44 19
+ 42 5H    W  9   100   2.44 2
+ 44 5HX   W 10   100   2.44 1
+ 45 2S    W  7    50   0.87 2
+ 47 3S    W  8    50   0.87 1
+ 48 3NT   E  8    50   0.87 1
+ 49 4H    E  9    50   0.87 1
+ 50 4H    W  9    50   0.87 29
+ 79 4S    W  9    50   0.87 4
+ 83 5H    W 10    50   0.87 1
+ 84 5DX   N 10  -100  -2.39 1
+ 85 1S    W  9  -140  -3.39 1
+ 86 3H    W  9  -140  -3.39 1
+ 87 5DX   N  9  -300  -6.56 9
+ 96 4H    W 10  -420  -8.60 11
+107 4H    W 11  -450  -9.31 1
+108 5DX   N  8  -500  -9.79 1
+109 3SX   W  9  -530 -10.02 1
+
+[Board "577"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q952..9543.AK752 JT843.Q8.AKQ7.93 AK6.T632.JT86.J8 7.AKJ9754.2.QT64"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[ScoreIMP "NS -0.92"]
+[Auction "N"]
+Pass 1S Pass 2H
+Pass 2NT Pass 4H
+Pass Pass Pass
+[Play "N"]
+CA C3 C8 C4
+CK C9 CJ C6
+S2 S3 SK S7
+S5 S4 S6 H4
+C2 HQ H2 H5
+C5 H8 H3 H9
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3DXX  N  9   640  13.79 1
+  2 5S    E  5   300  11.47 1
+  3 4S    E  6   200  11.08 1
+  4 2S    N  8   110   9.95 1
+  5 4H    W  9    50   8.99 3
+  8 5DX   S 10  -100   6.71 1
+  9 3H    W  9  -140   5.75 1
+ 10 3H    W 10  -170   4.86 4
+ 14 3H    W 11  -200   4.67 1
+ 15 1NT   W 11  -210   3.95 1
+ 16 5DX   S  9  -300   1.89 2
+ 18 4H    W 10  -420  -0.92 72
+ 90 4H    W 11  -450  -1.85 5
+ 95 3NT   W 12  -490  -2.83 1
+ 96 3CX   N  6  -500  -2.88 1
+ 97 5DX   S  8  -500  -2.88 1
+ 98 3HX   W  9  -530  -3.74 1
+ 99 4HX   W 10  -590  -5.54 4
+103 4HX   W 11  -690  -7.46 1
+
+[Board "578"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A43.AK76.T2.JT62 Q9875.93.954.K43 T62.QJ5.KQ876.Q9 KJ.T842.AJ3.A875"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS 50"]
+[ScoreIMP "NS 2.44"]
+[Auction "E"]
+1C Pass 1D Pass
+1H Pass 2D Pass
+Pass Pass
+[Play "N"]
+H8 HA H3 H5
+D3 D2 D4 DQ
+H2 HK H9 HJ
+DA DT D5 DK
+DJ S3 D9 D6
+H4 H6 S5 HQ
+C5 C2 CK CQ
+SJ SA S7 S2
+CA CJ C3 C9
+SK S4 S8 S6
+HT H7 C4 D7
+C7 C6 SQ ST
+C8 CT S9 D8
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3DX   W  6   500  10.83 1
+  2 2NT   N  9   150   4.90 1
+  3 2NT   E  5   150   4.90 1
+  4 3D    W  6   150   4.90 1
+  5 3NT   E  6   150   4.90 4
+  9 2S    S  9   140   4.60 1
+ 10 1NT   N  8   120   4.09 1
+ 11 2S    S  8   110   3.89 3
+ 14 2D    W  6   100   3.76 3
+ 17 2NT   E  6   100   3.76 2
+ 19 3H    W  7   100   3.76 1
+ 20 3NT   E  7   100   3.76 1
+ 21 1S    S  7    80   3.19 1
+ 22 1NT   E  6    50   2.44 5
+ 27 1NT   W  6    50   2.44 4
+ 31 2D    W  7    50   2.44 5
+ 36 2H    E  7    50   2.44 3
+ 39 2NT   E  7    50   2.44 1
+ 40 2NT   W  7    50   2.44 1
+ 41 3NT   E  8    50   2.44 2
+ 43 3NT   W  8    50   2.44 1
+ 44 1H    E  7   -80  -1.15 1
+ 45 1NT   E  7   -90  -1.18 4
+ 49 1NT   W  7   -90  -1.18 8
+ 57 2D    W  8   -90  -1.18 4
+ 61 1NT   N  6  -100  -1.27 1
+ 62 1H    E  8  -110  -1.76 1
+ 63 2H    E  8  -110  -1.76 5
+ 68 1NT   E  8  -120  -2.16 4
+ 72 1NT   W  8  -120  -2.16 18
+ 90 2NT   E  8  -120  -2.16 3
+ 93 1NT   W  9  -150  -2.74 6
+ 99 2NT   E  9  -150  -2.74 1
+100 2NT   W  9  -150  -2.74 2
+102 2DX   W  8  -180  -3.71 1
+103 2S    S  6  -200  -3.94 4
+107 2NTX  N  7  -200  -3.94 1
+108 4S    S  7  -300  -6.23 1
+109 3NT   W 10  -430  -8.56 1
+
+[Board "579"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:73.K7652.J74.T62 KQJ6.43.A8.KJ974 A85.J9.QT95.AQ83 T942.AQT8.K632.5"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[ScoreIMP "NS 4.38"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1S Pass 2S
+Pass 3C Pass 4S
+Pass Pass Pass
+[Play "N"]
+DT D2 D7 DA
+H9 HQ HK H4
+D5 DK DJ D8
+CQ C5 C2 CJ
+DQ D3 D4 S6
+C3 S2 C6 C4
+HJ HA H2 H3
+D9 H8 H5 SJ
+C8 S4 CT C7
+SA D6 H6 SQ
+S5 S9 S3 SK
+CA ST H7 C9
+S8 HT S7 CK
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4S    W  7   300   8.45 1
+  2 2C    W  6   200   6.62 2
+  4 4S    E  8   200   6.62 1
+  5 4S    W  8   200   6.62 4
+  9 4SX   W  9   200   6.62 2
+ 11 2S    W  7   100   4.38 1
+ 12 3S    W  8   100   4.38 1
+ 13 4S    W  9   100   4.38 34
+ 47 1NT   E  7   -90   0.59 1
+ 48 1NT   W  7   -90   0.59 2
+ 50 2S    W  8  -110   0.31 2
+ 52 1NT   E  8  -120  -0.14 1
+ 53 1NT   E  9  -150  -0.69 1
+ 54 2S    E  9  -140  -0.69 1
+ 55 2S    W  9  -140  -0.69 16
+ 71 3S    W  9  -140  -0.69 3
+ 74 2S    W 10  -170  -1.42 4
+ 78 2NTX  N  6  -300  -3.82 1
+ 79 3NT   W  9  -600  -8.61 1
+ 80 4S    E 10  -620  -8.88 1
+ 81 4S    W 10  -620  -8.88 21
+
+[Board "580"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J2.J76.AQT.KT743 95.854.J6432.J82 KT863.KT932.K8.9 AQ74.AQ.975.AQ65"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[ScoreIMP "NS -4.62"]
+[Auction "W"]
+Pass Pass 1S 1NT
+X XX 2H Pass
+Pass Pass
+[Play "S"]
+D7 DT DJ DK
+S4 SJ S5 S3
+SQ S2 S9 ST
+D9 DA D2 D8
+D5 DQ D3 C9
+C5 C3 C2 H2
+SA HJ D4 S8
+HQ H6 H4 H9
+HA H7 H5 H3
+CA C4 C8 HT
+C6 C7 H8 HK
+S7 CT CJ SK
+CQ CK D6 S6
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4HX   E  7   800  12.33 2
+  3 3DX   N  9   670  11.05 1
+  4 1NTX  S  9   580   9.88 1
+  5 1CX   S  9   540   9.53 1
+  6 3HX   E  7   500   9.04 1
+  7 3SX   E  7   500   9.04 1
+  8 3NTX  W  7   500   9.04 2
+ 10 4HX   E  8   500   9.04 2
+ 12 2D    W  4   400   7.48 1
+ 13 3D    E  5   400   7.48 1
+ 14 3NT   W  5   400   7.48 1
+ 15 4H    E  6   400   7.48 1
+ 16 2D    E  5   300   5.66 1
+ 17 3C    W  6   300   5.66 1
+ 18 4H    E  7   300   5.66 1
+ 19 2D    E  6   200   3.64 1
+ 20 3H    E  7   200   3.64 1
+ 21 3HX   E  8   200   3.64 1
+ 22 3NT   W  7   200   3.64 2
+ 24 3NTX  W  8   200   3.64 1
+ 25 4HX   E  9   200   3.64 1
+ 26 1NT   S  8   120   2.07 1
+ 27 2NT   S  8   120   2.07 1
+ 28 1C    S  9   110   1.70 1
+ 29 3D    N  9   110   1.70 2
+ 31 2H    E  7   100   1.42 1
+ 32 2H    W  7   100   1.42 3
+ 35 2S    E  7   100   1.42 2
+ 37 2NT   W  7   100   1.42 3
+ 40 3H    E  8   100   1.42 5
+ 45 3S    E  8   100   1.42 1
+ 46 3NT   W  8   100   1.42 1
+ 47 4H    E  9   100   1.42 1
+ 48 1C    S  8    90   1.34 1
+ 49 1NT   S  7    90   1.34 3
+ 52 1C    S  7    70   0.78 1
+ 53 1NT   W  7   -90  -2.61 1
+ 54 1C    S  6  -100  -3.05 1
+ 55 1NT   S  6  -100  -3.05 2
+ 57 2D    N  7  -100  -3.05 1
+ 58 3D    N  8  -100  -3.05 1
+ 59 2H    E  8  -110  -3.10 17
+ 76 2H    W  8  -110  -3.10 2
+ 78 2S    E  8  -110  -3.10 3
+ 81 2NT   W  8  -120  -3.45 1
+ 82 1S    E  9  -140  -3.87 1
+ 83 2H    E  9  -140  -3.87 4
+ 87 2H    W  9  -140  -3.87 1
+ 88 3H    E  9  -140  -3.87 1
+ 89 1S    E 10  -170  -4.62 1
+ 90 2H    E 10  -170  -4.62 1
+ 91 1NT   W 10  -180  -4.70 1
+ 92 2NT   S  6  -200  -5.24 2
+ 94 2NTX  S  7  -200  -5.24 1
+ 95 3D    N  7  -200  -5.24 2
+ 97 3DX   N  8  -200  -5.24 1
+ 98 3NT   S  7  -200  -5.24 1
+ 99 2S    S  5  -300  -7.09 1
+100 3CX   S  7  -500 -10.15 1
+101 2HX   E  8  -670 -11.91 1
+102 2SX   E  8  -670 -11.91 1
+103 3NTX  S  6  -800 -13.06 1
+
+[Board "581"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT.Q984.QJT983.K KJ762.73.A6.9432 A9543.T65.74.AJT 8.AKJ2.K52.Q8765"]
+[Declarer "E"]
+[Contract "2SX"]
+[Result "6"]
+[Score "NS 300"]
+[ScoreIMP "NS 7.33"]
+[Auction "N"]
+Pass 2S Pass Pass
+X Pass Pass Pass
+[Play "S"]
+D7 D2 DJ DA
+D4 DK DQ D6
+S3 D5 DT S2
+H6 HA H8 H3
+H5 HK H4 H7
+HT H2 H9 S6
+CT C5 CK C2
+S9 HJ HQ S7
+CA C6 D3 C3
+CJ CQ ST C4
+SA S8 SQ SK
+S5 C7 D8 SJ
+S4 C8 D9 C9
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 2SX   E  6   300   7.33 1
+  2 3S    E  5   200   5.38 1
+  3 1NT   W  4   150   4.29 3
+  6 2S    E  5   150   4.29 1
+  7 2NT   W  5   150   4.29 1
+  8 3NT   W  6   150   4.29 2
+ 10 2D    N  9   110   3.42 1
+ 11 3D    N  9   110   3.42 1
+ 12 2S    E  6   100   3.07 3
+ 15 2SX   E  7   100   3.07 1
+ 16 2NT   W  6   100   3.07 2
+ 18 3C    W  7   100   3.07 1
+ 19 3S    E  7   100   3.07 1
+ 20 3NT   W  7   100   3.07 2
+ 22 1NT   N  7    90   2.78 1
+ 23 2D    N  8    90   2.78 7
+ 30 1NT   W  6    50   1.72 2
+ 32 2C    W  7    50   1.72 2
+ 34 2H    W  7    50   1.72 1
+ 35 2S    E  7    50   1.72 6
+ 41 2NT   W  7    50   1.72 1
+ 42 3C    W  8    50   1.72 9
+ 51 3NT   W  8    50   1.72 1
+ 52 4C    E  9    50   1.72 1
+ 53 Pass  -  -     0   0.36 4
+ 57 1NT   W  7   -90  -1.82 4
+ 61 2C    W  8   -90  -1.82 2
+ 63 3D    N  8  -100  -2.02 3
+ 66 2C    W  9  -110  -2.11 4
+ 70 2H    W  8  -110  -2.11 1
+ 71 3C    E  9  -110  -2.11 2
+ 73 3C    W  9  -110  -2.11 13
+ 86 1NT   W  8  -120  -2.64 1
+ 87 3C    W 10  -130  -2.97 2
+ 89 4C    W 10  -130  -2.97 2
+ 91 2DX   N  7  -200  -4.41 1
+ 92 3D    N  7  -200  -4.41 3
+ 95 3S    S  6  -300  -6.54 1
+ 96 3NT   N  6  -300  -6.54 1
+ 97 3NT   W  9  -400  -8.40 1
+ 98 2SX   S  6  -500  -9.93 2
+100 3CX   E 10  -570 -10.80 1
+
+[Board "582"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AT632.2.A.AJ9432 Q54.AKQJ73.KT86. K97.T864.752.KQT J8.95.QJ943.8765"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[ScoreIMP "NS -6.50"]
+[Auction "E"]
+1S 3H 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+HA H4 H5 H2
+HK H6 H9 S2
+S4 S9 SJ S3
+D6 D2 DQ DA
+S5 SK S8 S6
+SQ S7 D4 SA
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5DX   S 12   650  12.77 1
+  2 3HX   S 10   630  12.09 3
+  5 4HX   S 10   590  11.85 4
+  9 5DX   S 11   550  11.68 2
+ 11 4H    S 10   420  10.13 4
+ 15 5D    S 11   400   9.98 1
+ 16 6CX   E 11   200   7.30 1
+ 17 3H    S 10   170   7.15 2
+ 19 4D    N 12   170   7.15 1
+ 20 4D    N 11   150   6.71 1
+ 21 4D    S 11   150   6.71 1
+ 22 6C    E 11   100   6.03 3
+ 25 6S    E 11   100   6.03 1
+ 26 5D    S 10   -50   3.99 2
+ 28 5H    S 10   -50   3.99 1
+ 29 5DX   N 10  -100   2.90 4
+ 33 5DX   S 10  -100   2.90 2
+ 35 5HX   S 10  -100   2.90 16
+ 51 4C    E 11  -150   2.14 1
+ 52 2S    E 11  -200   1.18 1
+ 53 3S    E 11  -200   1.18 3
+ 56 6DX   S 10  -300  -0.52 2
+ 58 6HX   S 10  -300  -0.52 1
+ 59 7DX   S 10  -500  -3.95 1
+ 60 5C    E 11  -600  -5.53 3
+ 63 4S    E 10  -620  -5.95 2
+ 65 5C    E 12  -620  -5.95 1
+ 66 4S    E 11  -650  -6.50 26
+ 92 5S    E 11  -650  -6.50 6
+ 98 4SX   E 11  -990 -11.13 4
+102 5SXX  E 11 -1200 -13.38 2
+
+[Board "583"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:8732.J6.JT987.Q7 AJ9.A752.3.KT932 T654.QT983.A2.65 KQ.K4.KQ654.AJ84"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS -1440"]
+[ScoreIMP "NS -9.08"]
+[Auction "S"]
+Pass 1C 1H 2H
+Pass 3C Pass 4NT
+Pass 5C Pass 6NT
+Pass Pass Pass
+[Play "S"]
+DT D3 DA D4
+D7 H2 D2 DK
+H6 H5 H9 HK
+S2 S9 S6 SK
+S3 SA S5 SQ
+S7 SJ ST D5
+HJ HA H3 H4
+C7 C2 C5 CA
+D8 H7 H8 DQ
+CQ - - C4
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 7NTX  W  8  1400  18.84 1
+  2 2C    W  1   700  15.70 1
+  3 6NT   E  8   400  13.22 1
+  4 6NT   E  9   300  12.18 1
+  5 6NT   W  9   300  12.18 2
+  7 5NT   W  9   200  11.24 1
+  8 6NT   W 10   200  11.24 3
+ 11 6C    W 11   100  10.20 5
+ 16 6NT   E 11   100  10.20 2
+ 18 6NT   W 11   100  10.20 12
+ 30 1S    E  8  -110   7.84 1
+ 31 3C    W 12  -170   6.91 2
+ 33 2NT   E 11  -210   6.60 1
+ 34 2NT   E 12  -240   6.21 1
+ 35 3NT   W  9  -600   2.09 2
+ 37 5C    W 12  -620   1.82 2
+ 39 3NT   E 10  -630   1.70 1
+ 40 3NT   E 11  -660   1.23 3
+ 43 3NT   W 11  -660   1.23 6
+ 49 4NT   W 11  -660   1.23 2
+ 51 3NT   E 12  -690   0.92 8
+ 59 3NT   W 12  -690   0.92 2
+ 61 3NT   S  2  -700   0.64 1
+ 62 4NT   W 13  -720   0.37 1
+ 63 1HX   N  4  -800  -0.60 1
+ 64 6C    W 12 -1370  -7.86 13
+ 77 6C    W 13 -1390  -8.03 1
+ 78 6NT   E 12 -1440  -9.08 17
+ 95 6NT   W 12 -1440  -9.08 8
+103 6NT   E 13 -1470  -9.56 2
+105 6NT   W 13 -1470  -9.56 1
+106 6NTX  E 12 -1680 -12.08 2
+
+[Board "584"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K87.AK54.742.AK2 Q9643.J98.QJ9.43 5.Q72.A85.Q98765 AJT2.T63.KT63.JT"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -490"]
+[ScoreIMP "NS -1.58"]
+[Auction "W"]
+1NT Pass 3NT Pass
+Pass Pass
+[Play "N"]
+S3 S5 SA S7
+S6 D5 SJ SK
+C3 C5 CJ CA
+C4 C6 CT CK
+H8 CQ D3 C2
+DQ C9 H6 D2
+H9 C8 H3 D4
+HJ H2 HT HA
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 1NT   E  9  -150   6.63 1
+  2 3C    E 11  -150   6.63 4
+  6 3C    W 11  -150   6.63 2
+  8 3C    E 12  -170   6.38 1
+  9 3C    W 12  -170   6.38 2
+ 11 2NT   W 11  -210   5.39 2
+ 13 2H    W 12  -230   4.72 2
+ 15 1NT   W 12  -240   4.60 4
+ 19 2NT   W 12  -240   4.60 1
+ 20 5C    E 11  -400   1.19 1
+ 21 5C    W 11  -400   1.19 3
+ 24 4H    W 10  -420   0.29 1
+ 25 5C    E 12  -420   0.29 2
+ 27 5C    W 12  -420   0.29 2
+ 29 4H    E 11  -450  -0.60 1
+ 30 3NT   W 11  -460  -0.65 13
+ 43 4NT   W 11  -460  -0.65 1
+ 44 4H    W 12  -480  -1.51 2
+ 46 3NT   W 12  -490  -1.58 55
+101 4H    W 13  -510  -2.43 1
+102 3NT   W 13  -520  -2.50 1
+103 6C    E 12  -920 -10.54 1
+
+[Board "585"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:84.T8.AT6.AQT543 632.J43.97.J9876 AKT975.972.K84.K QJ.AKQ65.QJ532.2"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[ScoreIMP "NS 2.54"]
+[Auction "N"]
+1C Pass 1S 1NT
+2C Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+HA H8 H4 H2
+C2 C3 C6 CK
+SQ S4 S3 SA
+SJ S8 S2 SK
+H5 D6 S6 ST
+D5 DA D7 D4
+D2 CA C7 H7
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4HX   W  5  1400  14.25 1
+  2 4HX   W  6  1100  12.23 1
+  3 5HX   W  7  1100  12.23 3
+  6 4HX   W  7   800   9.05 3
+  9 4SX   S 12   790   8.82 1
+ 10 3HX   E  7   500   3.74 1
+ 11 4HX   W  8   500   3.74 1
+ 12 4S    S 12   480   3.30 1
+ 13 4S    S 11   450   2.54 25
+ 38 4S    S 10   420   1.88 19
+ 57 3H    W  6   300  -0.79 1
+ 58 2S    S 11   200  -3.20 1
+ 59 3S    S 11   200  -3.20 16
+ 75 4H    E  8   200  -3.20 1
+ 76 2S    S 10   170  -3.88 2
+ 78 3S    S 10   170  -3.88 7
+ 85 3S    S  9   140  -4.51 2
+ 87 4C    N 10   130  -4.79 3
+ 90 3C    N  9   110  -5.25 1
+ 91 3H    E  8   100  -5.45 1
+ 92 3H    W  8   100  -5.45 5
+ 97 3NT   N  8   -50  -8.31 1
+ 98 4S    S  9   -50  -8.31 2
+100 4C    N  8  -100  -9.06 1
+101 4CX   N  9  -100  -9.06 1
+102 5CX   N  9  -300 -11.61 1
+
+[Board "586"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:K3.J3.842.AQJ864 AQJ5.AK942.J653. 874.T8765.AK.T32 T962.Q.QT97.K975"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[ScoreIMP "NS -2.35"]
+[Auction "E"]
+Pass 1H Pass 1S
+2C 2NT Pass 3S
+Pass Pass Pass
+[Play "E"]
+CA S5 C2 C5
+H3 H2 H6 HQ
+C6 D3 C3 CK
+C4 SJ CT C7
+HJ HA H5 D9
+S3 HK H7 D7
+SK SA S4 S2
+D8 H4 H8 S6
+CQ SQ DK C9
+D2 D5 DA DQ
+D4 - HT S9
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3DX   N 10   870   9.93 1
+  2 4SX   S 10   790   9.00 2
+  4 4S    N 11   650   6.68 13
+ 17 4S    S 11   650   6.68 1
+ 18 4S    N 10   620   5.90 27
+ 45 4S    S 10   620   5.90 3
+ 48 3NT   N  9   600   5.44 1
+ 49 5CX   E  9   500   3.90 1
+ 50 2S    N 11   200  -1.73 1
+ 51 3CX   E  8   200  -1.73 1
+ 52 3S    N 11   200  -1.73 3
+ 55 4CX   E  9   200  -1.73 3
+ 58 2S    N 10   170  -2.35 1
+ 59 2S    S 10   170  -2.35 1
+ 60 3S    N 10   170  -2.35 8
+ 68 2D    S 11   150  -2.91 1
+ 69 4D    N 11   150  -2.91 1
+ 70 2S    S  9   140  -2.95 1
+ 71 3S    S  9   140  -2.95 1
+ 72 2D    S 10   130  -2.99 2
+ 74 3D    N 10   130  -2.99 1
+ 75 1H    S  8   110  -3.71 1
+ 76 2D    S  9   110  -3.71 1
+ 77 3C    E  8   100  -3.77 1
+ 78 1H    S  7    80  -3.98 1
+ 79 2C    E  8   -90  -6.55 1
+ 80 2H    S  7  -100  -6.83 1
+ 81 3S    N  8  -100  -6.83 1
+ 82 3S    S  8  -100  -6.83 2
+ 84 3NT   N  8  -100  -6.83 2
+ 86 4S    N  9  -100  -6.83 6
+ 92 2C    E  9  -110  -6.88 1
+ 93 3C    E  9  -110  -6.88 2
+ 95 2CX   E  8  -180  -8.05 1
+ 96 3NTX  N  8  -200  -8.40 1
+ 97 4H    S  8  -200  -8.40 1
+ 98 4SX   N  9  -200  -8.40 1
+ 99 5S    N  9  -200  -8.40 1
+100 6S    N 10  -200  -8.40 1
+101 3H    S  5  -400 -10.73 1
+102 4SX   N  8  -500 -11.92 1
+103 3CX   E  9  -670 -13.12 4
+
+[Board "587"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:986432.KJ.T93.K6 Q.AQ53.AQJ8654.7 AT.T98.K7.AJT932 KJ75.7642.2.Q854"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[ScoreIMP "NS -5.90"]
+[Auction "S"]
+Pass 1D 2C Pass
+2S X Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+CK C7 CJ C4
+S9 SQ SA S5
+C6 H3 CA C5
+HJ HA HT H2
+HK H5 H9 H4
+S4 D4 ST SJ
+D3 DA D7 D2
+D9 DQ DK H6
+S2 HQ H8 H7
+DT DJ C2 C8
+S3 D8 C3 S7
+- D6 - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5HX   W  8   500  11.45 1
+  2 6DX   W  9   500  11.45 1
+  3 4HX   W  8   300   8.71 1
+  4 5DX   W  9   300   8.71 3
+  7 3H    W  6   150   6.19 1
+  8 4H    E  7   150   6.19 1
+  9 4H    W  7   150   6.19 1
+ 10 5D    W  8   150   6.19 1
+ 11 4DX   W  9   100   5.25 1
+ 12 4H    E  8   100   5.25 1
+ 13 4H    W  8   100   5.25 3
+ 16 5D    W  9   100   5.25 4
+ 20 5DX   W 10   100   5.25 1
+ 21 5H    W  9   100   5.25 1
+ 22 6H    W 10   100   5.25 2
+ 24 3D    W  8    50   4.07 4
+ 28 3H    W  8    50   4.07 1
+ 29 4D    W  9    50   4.07 3
+ 32 4H    E  9    50   4.07 1
+ 33 5D    W 10    50   4.07 1
+ 34 5H    W 10    50   4.07 4
+ 38 2S    S  6  -100   0.85 1
+ 39 3D    W  9  -110   0.72 20
+ 59 2D    W 10  -130   0.01 2
+ 61 3D    W 10  -130   0.01 7
+ 68 4D    W 10  -130   0.01 1
+ 69 2H    W  9  -140  -0.08 1
+ 70 3H    W  9  -140  -0.08 2
+ 72 3D    W 11  -150  -0.18 1
+ 73 3H    W 10  -170  -0.93 4
+ 77 2H    W 11  -200  -1.46 1
+ 78 3H    W 11  -200  -1.46 3
+ 81 2SX   S  6  -300  -3.71 1
+ 82 3CX   N  7  -300  -3.71 1
+ 83 4H    E 10  -420  -5.90 3
+ 86 4H    W 10  -420  -5.90 11
+ 97 4H    W 11  -450  -6.65 3
+100 4H    W 12  -480  -7.20 1
+101 3SX   S  6  -500  -7.52 1
+102 4SX   S  7  -500  -7.52 3
+105 4HX   W 10  -590  -8.87 4
+109 4HX   W 11  -690 -10.14 3
+
+[Board "588"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J6.JT987.765.JT3 AKQT753.4.QJ8.82 842.AQ62.K32.K76 9.K53.AT94.AQ954"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[ScoreIMP "NS -1.20"]
+[Auction "W"]
+Pass 1S X Pass
+3H 3S Pass 3NT
+Pass Pass Pass
+[Play "W"]
+HJ H4 HA H3
+CT C2 CK CA
+SJ - - S9
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6SX   N 13  1860  14.63 1
+  2 6S    N 13  1460  12.04 2
+  4 6NT   S 12  1440  11.52 2
+  6 6S    N 12  1430  11.45 2
+  8 4HX   W  4  1400  11.03 1
+  9 5HX   W  5  1400  11.03 1
+ 10 4SX   N 12  1190   9.19 1
+ 11 3NT   S 13   720  -0.26 1
+ 12 4S    N 13   710  -0.29 45
+ 57 5S    N 13   710  -0.29 3
+ 60 3NT   S 12   690  -1.20 7
+ 67 4S    N 12   680  -1.24 30
+ 97 3NT   S 11   660  -2.13 7
+104 4S    N 11   650  -2.15 4
+108 3NT   S 10   630  -2.61 1
+109 2S    N 13   260  -9.89 1
+110 3S    N 13   260  -9.89 1
+111 3S    N 12   230 -10.25 1
+
+[Board "589"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:6.JT87.K96.T8432 KT2.Q93.JT754.AQ J93.A642.8.J9765 AQ8754.K5.AQ32.K"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "10"]
+[Score "NS 200"]
+[ScoreIMP "NS 5.82"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1NT Pass 3D
+Pass 3S Pass 4C
+Pass 4S Pass 4NT
+Pass 5H X 6S
+Pass Pass Pass
+[Play "N"]
+HT H3 HA H5
+DK D4 D8 D2
+D6 D5 S3 D3
+C2 CQ C5 CK
+S6 S2 S9 SA
+- - - S4
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6D    E 10   200   5.82 1
+  2 6S    W 10   200   5.82 21
+ 23 7D    E 11   200   5.82 1
+ 24 5S    W 10   100   3.68 2
+ 26 6D    E 11   100   3.68 11
+ 37 6S    E 11   100   3.68 1
+ 38 6S    W 11   100   3.68 35
+ 73 6NT   E 11   100   3.68 2
+ 75 6NT   W 11   100   3.68 2
+ 77 4D    E 10  -130  -0.92 1
+ 78 2D    E 11  -150  -1.03 1
+ 79 3S    W 11  -200  -1.98 1
+ 80 2S    W 12  -230  -2.84 1
+ 81 3S    W 12  -230  -2.84 1
+ 82 5D    E 11  -600  -7.44 1
+ 83 5D    W 11  -600  -7.44 1
+ 84 4S    E 11  -650  -8.32 1
+ 85 4S    W 11  -650  -8.32 10
+ 95 5S    W 11  -650  -8.32 5
+100 4S    E 12  -680  -8.54 1
+101 4S    W 12  -680  -8.54 4
+105 4NT   E 12  -690  -8.62 1
+106 6S    E 12 -1430 -14.99 2
+108 6S    W 12 -1430 -14.99 5
+113 6NT   E 12 -1440 -15.00 1
+
+[Board "590"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KQ9.A9543.J.AT54 AJT.KJ8.K654.KQ9 8762.Q.AT873.832 543.T762.Q92.J76"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[ScoreIMP "NS 1.73"]
+[Auction "E"]
+1H 1NT Pass Pass
+Pass
+[Play "W"]
+D7 D9 DJ DK
+C2 C6 C4 CQ
+C3 C7 C5 CK
+C8 CJ CA C9
+HQ H2 H4 HK
+DT H6 H3 HJ
+S6 S3 SQ SA
+S2 S4 SK ST
+D3 S5 CT D4
+D8 H7 HA H8
+S7 HT S9 SJ
+DA D2 H5 D5
+S8 DQ H9 D6
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 2DX   W  6   300   6.62 1
+  2 1NTX  S  7   180   4.26 1
+  3 1NT   S  9   150   3.32 2
+  5 2NT   E  5   150   3.32 1
+  6 1NT   S  8   120   2.58 25
+ 31 2NT   S  8   120   2.58 1
+ 32 2D    W  6   100   1.82 2
+ 34 2HX   E  7   100   1.82 1
+ 35 2NT   E  6   100   1.82 2
+ 37 1NT   S  7    90   1.73 21
+ 58 2C    E  7    50   0.68 2
+ 60 2D    E  7    50   0.68 1
+ 61 2D    W  7    50   0.68 2
+ 63 2S    W  7    50   0.68 3
+ 66 3C    E  8    50   0.68 1
+ 67 1NT   S  6   -50  -2.13 17
+ 84 2C    E  8   -90  -2.96 14
+ 98 1NT   S  5  -100  -3.41 3
+101 2S    N  6  -100  -3.41 1
+102 2NTX  S  7  -100  -3.41 1
+103 3NT   N  7  -100  -3.41 1
+104 2C    E  9  -110  -3.54 7
+111 2C    E 10  -130  -4.03 3
+114 1NT   S  4  -150  -4.63 1
+
+[Board "591"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AJ.KJ9.KJ862.965 Q963.4.T43.AKJ42 72.QT8632.Q5.Q83 KT854.A75.A97.T7"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[ScoreIMP "NS 3.76"]
+[Auction "S"]
+1D Pass 1H 1S
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "S"]
+C6 CA C8 C7
+H9 H4 H6 HA
+SJ SQ S2 S4
+C5 C2 CQ CT
+D6 D3 DQ DA
+HJ S3 H2 H5
+C9 CK C3 D7
+SA CJ S7 S8
+DK D4 D5 -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4S    E  9    50   8.41 3
+  4 3H    N  8  -100   5.62 3
+  7 2C    W  9  -110   5.24 3
+ 10 2S    E  9  -140   4.66 2
+ 12 3S    E  9  -140   4.66 8
+ 20 2S    E 10  -170   3.76 2
+ 22 3S    E 10  -170   3.76 9
+ 31 3S    W 10  -170   3.76 1
+ 32 1NT   S  5  -200   3.23 1
+ 33 3H    N  7  -200   3.23 1
+ 34 3S    E 11  -200   3.23 2
+ 36 1S    E 12  -230   2.33 1
+ 37 2S    E 12  -230   2.33 3
+ 40 3S    E 12  -230   2.33 14
+ 54 4H    N  7  -300   0.72 1
+ 55 4S    E 10  -420  -2.08 22
+ 77 4S    W 10  -420  -2.08 3
+ 80 4S    E 11  -450  -2.92 6
+ 86 4S    E 12  -480  -3.62 22
+108 4HX   N  8  -500  -4.15 1
+109 4SX   E 10  -590  -6.06 2
+111 4SX   E 11  -690  -7.88 1
+112 4SX   E 12  -790  -9.44 1
+113 4HX   N  7  -800  -9.68 1
+114 5HX   N  7 -1100 -12.68 1
+
+[Board "592"]
+[West "POOHBYR"]
+[North "papi"]
+[East "icecube"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J62.AKQJ42.A.532 75.T98.KQJ97.K64 A4.763.8532.JT98 KQT983.5.T64.AQ7"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[ScoreIMP "NS 1.44"]
+[Auction "W"]
+1H Pass 1NT 3S
+Pass Pass Pass
+[Play "W"]
+HA H8 H7 H5
+HK H9 H3 S3
+S2 S5 SA SK
+HQ HT H6 S8
+S6 S7 S4 SQ
+DA DK D2 D4
+C5 - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5HX   W  8   800  12.11 3
+  4 4DX   N 10   510   8.83 1
+  5 4HX   W  8   500   8.61 6
+ 11 4S    S 10   420   7.43 2
+ 13 5H    W  8   300   5.04 1
+ 14 3HX   W  8   200   2.92 1
+ 15 4H    W  8   200   2.92 11
+ 26 4HX   W  9   200   2.92 1
+ 27 3S    S 10   170   2.26 3
+ 30 1S    S  9   140   1.44 1
+ 31 2S    S  9   140   1.44 6
+ 37 3S    S  9   140   1.44 17
+ 54 3D    N 10   130   1.38 1
+ 55 4D    N 10   130   1.38 1
+ 56 2S    S  8   110   0.50 2
+ 58 3H    W  8   100   0.48 14
+ 72 4H    W  9   100   0.48 1
+ 73 3S    S  8   -50  -2.95 1
+ 74 4S    S  9   -50  -2.95 18
+ 92 5D    N 10   -50  -2.95 3
+ 95 3S    S  7  -100  -4.28 1
+ 96 4S    S  8  -100  -4.28 1
+ 97 4SX   S  9  -100  -4.28 6
+103 5DX   N 10  -100  -4.28 2
+105 2H    W  9  -140  -5.16 2
+107 3H    W  9  -140  -5.16 7
+114 4SX   S  8  -300  -8.12 2
+116 4H    W 10  -620 -11.97 2
+118 3HX   W  9  -730 -12.75 1
+
+[Board "594"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KJ9.AJ5.K432.J53 T32.96.AQT7.AK72 AQ754.QT843.5.QT 86.K72.J986.9864"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[ScoreIMP "NS -1.87"]
+[Auction "E"]
+1D Pass 1S Pass
+1NT Pass 2H Pass
+2S Pass 3H Pass
+4S Pass Pass Pass
+[Play "N"]
+C8 C3 CK CT
+C9 C5 CA CQ
+D9 D2 DA D5
+D8 DK D7 H3
+S6 SK S2 S4
+S8 S9 S3 SA
+C4 SJ ST S5
+C6 CJ C2 H4
+D6 D3 DQ S7
+HK HA H6 HQ
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   E  8    50   8.60 2
+  3 4H    E  9    50   8.60 1
+  4 4H    W  9    50   8.60 2
+  6 4S    E  9    50   8.60 1
+  7 4S    W  9    50   8.60 2
+  9 2H    W  9  -140   4.92 1
+ 10 2S    W  9  -140   4.92 1
+ 11 2H    W 10  -170   4.11 1
+ 12 2S    W 10  -170   4.11 5
+ 17 3H    W 10  -170   4.11 2
+ 19 3S    W 10  -170   4.11 1
+ 20 2H    W 11  -200   3.63 1
+ 21 2S    W 11  -200   3.63 9
+ 30 3H    W 11  -200   3.63 2
+ 32 3S    W 11  -200   3.63 8
+ 40 4H    E 10  -420  -1.87 2
+ 42 4H    W 10  -420  -1.87 13
+ 55 4S    W 10  -420  -1.87 32
+ 87 4H    W 11  -450  -2.67 3
+ 90 4S    E 11  -450  -2.67 1
+ 91 4S    W 11  -450  -2.67 17
+108 3NT   E 11  -460  -2.69 1
+109 4HX   E 10  -590  -6.11 1
+110 4SX   W 10  -590  -6.11 3
+113 1HX   S  0 -2000 -17.38 1
+
+[Board "595"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K95.KQJT63.K87.T Q742.94.AQJ2.K85 AT863..9654.J976 J.A8752.T3.AQ432"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[ScoreIMP "NS -0.26"]
+[Auction "S"]
+1H X 1S 2C
+2H Pass Pass 3C
+Pass Pass Pass
+[Play "S"]
+HK H4 S3 HA
+DK DA D4 DT
+D8 DQ D5 D3
+D7 DJ D9 SJ
+S5 S2 S6 C2
+HT H9 S8 H2
+HQ C8 C9 H5
+CT D2 D6 C3
+HJ CK SA H7
+H3 C5 C7 CQ
+H6 S4 C6 CA
+S9 S7 CJ H8
+SK SQ ST C4
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4SX   W  6  1100  15.04 1
+  2 3CX   E  7   500  10.80 1
+  3 5CX   E  9   500  10.80 3
+  6 3NT   E  5   400   9.56 1
+  7 3D    W  6   300   8.04 1
+  8 3S    E  6   300   8.04 1
+  9 1HX   S  8   260   7.26 1
+ 10 3CX   E  8   200   6.18 1
+ 11 3D    W  7   200   6.18 1
+ 12 3NT   E  7   200   6.18 1
+ 13 4CX   E  9   200   6.18 1
+ 14 5C    E  9   200   6.18 1
+ 15 5CX   E 10   200   6.18 3
+ 18 1HX   S  7   160   5.43 1
+ 19 2H    S  9   140   5.07 3
+ 22 3H    S  9   140   5.07 1
+ 23 2H    S  8   110   4.33 3
+ 26 3C    E  8   100   4.20 1
+ 27 3NT   E  8   100   4.20 3
+ 30 3NT   W  8   100   4.20 2
+ 32 5C    E 10   100   4.20 2
+ 34 1H    S  7    80   3.81 1
+ 35 1H    S  6   -50   1.08 1
+ 36 1NT   S  6   -50   1.08 1
+ 37 2H    S  7   -50   1.08 7
+ 44 3S    N  8   -50   1.08 2
+ 46 2H    S  6  -100  -0.19 2
+ 48 2HX   S  7  -100  -0.19 1
+ 49 2S    N  6  -100  -0.19 1
+ 50 3H    S  7  -100  -0.19 2
+ 52 3HX   S  8  -100  -0.19 4
+ 56 3S    N  7  -100  -0.19 1
+ 57 3SX   N  8  -100  -0.19 1
+ 58 3C    E  9  -110  -0.26 15
+ 73 2NT   E  8  -120  -0.67 1
+ 74 2C    E 10  -130  -0.86 1
+ 75 3C    E 10  -130  -0.86 14
+ 89 2H    S  5  -150  -1.37 1
+ 90 4H    S  6  -200  -2.40 1
+ 91 2HX   S  6  -300  -4.51 1
+ 92 3HX   S  7  -300  -4.51 9
+101 3HX   S  6  -500  -8.03 2
+103 4HX   S  7  -500  -8.03 2
+105 4SX   N  7  -500  -8.03 1
+106 5C    E 11  -600  -9.30 1
+107 3NT   E 10  -630  -9.81 1
+108 3NT   W 10  -630  -9.81 1
+109 4CX   E 10  -710 -10.68 3
+112 3HX   S  5  -800 -11.65 3
+115 3SX   N  5  -800 -11.65 1
+116 3CX   E 10  -870 -12.15 1
+
+[Board "596"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQ94.T532.J8.752 J83.AK4.T95432.A AT75.Q9.AKQ.KJT6 62.J876.76.Q9843"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS -150"]
+[ScoreIMP "NS 0.85"]
+[Auction "W"]
+Pass 1D X Pass
+1H Pass 1NT Pass
+Pass Pass
+[Play "S"]
+D7 DJ D5 DK
+S2 SK S8 S5
+C3 C5 CA C6
+D6 D8 D2 DA
+S6 S4 S3 SA
+H6 SQ SJ S7
+CQ C2 H4 CJ
+H7 H2 HK H9
+- - D3 -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   E  6   300   9.47 1
+  2 3C    E  7   200   7.83 1
+  3 3H    W  7   200   7.83 1
+  4 4S    W  8   200   7.83 1
+  5 1NT   E  6   100   5.78 1
+  6 3S    W  8   100   5.78 2
+  8 3NT   E  8   100   5.78 3
+ 11 4S    E  9   100   5.78 2
+ 13 4S    W  9   100   5.78 22
+ 35 2D    N  8    90   5.64 1
+ 36 1D    N  7    70   5.21 1
+ 37 2D    N  7  -100   2.01 1
+ 38 2S    E  8  -110   1.78 2
+ 40 1NT   E  8  -120   1.46 2
+ 42 2S    E  9  -140   0.87 3
+ 45 2S    W  9  -140   0.87 5
+ 50 3S    W  9  -140   0.87 4
+ 54 1NT   E  9  -150   0.85 11
+ 65 2NT   E  9  -150   0.85 3
+ 68 2S    E 10  -170   0.15 2
+ 70 2S    W 10  -170   0.15 8
+ 78 3S    E 10  -170   0.15 1
+ 79 3S    W 10  -170   0.15 2
+ 81 2C    S  6  -200  -0.53 1
+ 82 2DX   N  7  -200  -0.53 1
+ 83 3NT   E  9  -600  -7.81 10
+ 93 4S    W 10  -620  -8.12 19
+112 3NT   E 10  -630  -8.14 2
+
+[Board "597"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQ9.A9542.QJ8.A2 T7.JT8.AKT732.83 K863.Q3.6.KJT965 J542.K76.954.Q74"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -300"]
+[ScoreIMP "NS -7.15"]
+[Auction "N"]
+1H 3D X Pass
+3NT Pass Pass Pass
+[Play "E"]
+D7 D6 D9 DJ
+ST S3 S2 SQ
+S7 S6 S4 SA
+H8 SK S5 S9
+C3 CJ C4 CA
+C8 CT CQ C2
+HT S8 SJ H2
+DT C5 D5 D8
+DA C6 D4 DQ
+DK C9 C7 H4
+D3 H3 H6 H5
+D2 HQ H7 H9
+HJ CK HK HA
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4SX   W  3  1700  16.81 1
+  2 3DX   E  5   800  10.79 1
+  3 5DX   E  7   800  10.79 1
+  4 5CX   S 11   750  10.16 1
+  5 3NT   N 12   690   9.22 1
+  6 4H    N 12   680   9.14 1
+  7 3NT   N 11   660   8.87 1
+  8 4S    S 11   650   8.87 1
+  9 3NT   N 10   630   8.48 13
+ 22 3NT   S 10   630   8.48 1
+ 23 4H    N 10   620   8.45 1
+ 24 4S    S 10   620   8.45 3
+ 27 3NT   N  9   600   8.14 5
+ 32 5C    S 11   600   8.14 5
+ 37 4DX   E  7   500   6.57 2
+ 39 3DX   E  7   300   4.08 3
+ 42 4DX   E  8   300   4.08 1
+ 43 3C    S 11   150   1.31 2
+ 45 3D    E  6   150   1.31 1
+ 46 3NT   W  6   150   1.31 1
+ 47 4C    S 11   150   1.31 1
+ 48 4C    S 10   130   1.06 1
+ 49 3D    E  7   100   0.31 1
+ 50 3DX   E  8   100   0.31 1
+ 51 3NT   W  7   100   0.31 1
+ 52 2NT   N  7  -100  -2.92 1
+ 53 3NT   N  8  -100  -2.92 2
+ 55 4S    S  9  -100  -2.92 1
+ 56 5C    S 10  -100  -2.92 2
+ 58 5H    N 10  -100  -2.92 1
+ 59 3NT   N  7  -200  -5.01 46
+105 4S    N  8  -200  -5.01 1
+106 5C    S  9  -200  -5.01 1
+107 5HX   N 10  -200  -5.01 1
+108 6C    S 10  -200  -5.01 2
+110 3NT   N  6  -300  -7.15 5
+115 4NT   N  7  -300  -7.15 1
+116 5S    N  8  -300  -7.15 1
+117 6C    S  9  -300  -7.15 1
+118 3NT   N  4  -500 -10.06 1
+119 6NTX  N  9  -800 -13.50 1
+
+[Board "598"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQ53.J42.QT94.A4 8.AT986.AKJ5.K97 J97642.Q.3.QT653 AT.K753.8762.J82"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[ScoreIMP "NS 4.80"]
+[Auction "E"]
+1D 1H Pass 2H
+Pass 3C Pass 3D
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+D3 D8 DQ DA
+HQ H3 H2 HA
+S2 HK H4 H8
+S4 D7 D4 D5
+S6 D2 DT DJ
+C3 D6 D9 DK
+S7 SA S3 S8
+S9 ST SQ H9
+SJ H5 HJ HT
+CQ C2 C4 C7
+C5 - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5HX   S 11   650   9.06 1
+  2 4HX   N 10   590   8.06 1
+  3 4HX   S 10   590   8.06 3
+  6 5SX   E  9   500   6.28 1
+  7 5SX   W  9   500   6.28 3
+ 10 4H    S 11   450   5.25 4
+ 14 5H    S 11   450   5.25 2
+ 16 4H    S 10   420   4.80 26
+ 42 3NT   S  9   400   4.09 1
+ 43 3H    S 11   200  -0.36 1
+ 44 4SX   E  9   200  -0.36 3
+ 47 4S    W  8   200  -0.36 2
+ 49 4SX   W  9   200  -0.36 21
+ 70 1H    S 10   170  -0.97 1
+ 71 2H    S 10   170  -0.97 1
+ 72 3H    N 10   170  -0.97 1
+ 73 3H    S 10   170  -0.97 4
+ 77 2H    S  9   140  -1.82 1
+ 78 3H    S  9   140  -1.82 2
+ 80 4S    E  9   100  -2.78 6
+ 86 4S    W  9   100  -2.78 10
+ 96 4H    S  9   -50  -5.75 2
+ 98 5H    S 10   -50  -5.75 3
+101 4H    S  8  -100  -6.83 3
+104 5H    S  9  -100  -6.83 2
+106 5HX   S 10  -100  -6.83 5
+111 3S    W  9  -140  -7.41 4
+115 5HX   S  9  -300  -9.89 2
+117 4SX   W 10  -790 -13.87 1
+
+[Board "599"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:942.QT94.A52.KT7 AQJ653.J53.KQT9. 8.K876.43.AJ6532 KT7.A2.J876.Q984"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[ScoreIMP "NS -1.41"]
+[Auction "S"]
+Pass 1S 2C 2S
+3C 3D Pass 4S
+Pass Pass Pass
+[Play "N"]
+CA C4 C7 S3
+H8 HA H4 H3
+HK H2 H9 HJ
+H7 SK HT H5
+S8 ST S2 S5
+C2 S7 S4 SA
+C3 C8 S9 SQ
+D3 - - DK
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3CX   N  9   670  15.36 1
+  2 6S    W 10   200  12.19 1
+  3 6S    W 11   100  11.70 6
+  9 3S    W 10  -170   8.62 1
+ 10 2S    W 11  -200   8.33 2
+ 12 5CX   N  9  -500   2.38 2
+ 14 4S    W 10  -620  -0.42 28
+ 42 3NT   E 10  -630  -0.46 1
+ 43 4S    W 11  -650  -1.41 70
+113 5S    W 11  -650  -1.41 3
+116 4S    W 12  -680  -2.33 1
+117 5CX   N  8  -800  -5.16 2
+
+[Board "601"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT4.J4.AT976.AQ6 KJ93.T72.Q85.KJ9 A875.A96.K43.743 62.KQ853.J2.T852"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -50"]
+[ScoreIMP "NS -2.46"]
+[Auction "N"]
+1D Pass 1S Pass
+2S Pass 2NT Pass
+3D Pass Pass Pass
+[Play "E"]
+H2 H6 HQ H4
+C9 C3 C8 CA
+H7 HA H3 HJ
+HT H9 HK D6
+D5 D3 D2 DA
+D8 DK DJ D7
+DQ D4 H5 D9
+CK C4 C2 C6
+CJ C7 C5 CQ
+SK SA S6 SQ
+S9 S5 S2 S4
+SJ S7 CT ST
+S3 S8 H8 DT
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   N 10   430   8.09 1
+  2 3NT   S 10   430   8.09 3
+  5 3NT   N  9   400   7.71 7
+ 12 3NT   S  9   400   7.71 5
+ 17 1NTX  N  8   280   5.52 1
+ 18 2NT   S 10   180   3.22 1
+ 19 1NT   N  9   150   2.33 7
+ 26 2NT   N  9   150   2.33 4
+ 30 2NT   S  9   150   2.33 2
+ 32 2S    S  9   140   2.31 1
+ 33 3S    S  9   140   2.31 1
+ 34 1NT   N  8   120   1.88 2
+ 36 2NT   N  8   120   1.88 8
+ 44 2NT   S  8   120   1.88 2
+ 46 2S    S  8   110   1.30 2
+ 48 3D    N  9   110   1.30 1
+ 49 1S    E  6   100   1.03 1
+ 50 3H    W  8   100   1.03 1
+ 51 1D    N  8    90   0.97 1
+ 52 1NT   N  7    90   0.97 5
+ 57 2D    N  8    90   0.97 1
+ 58 2D    N  7   -50  -2.46 2
+ 60 2S    S  7   -50  -2.46 4
+ 64 2NT   N  7   -50  -2.46 1
+ 65 2NT   S  7   -50  -2.46 1
+ 66 3D    N  8   -50  -2.46 1
+ 67 3S    S  8   -50  -2.46 4
+ 71 3NT   N  8   -50  -2.46 6
+ 77 3NT   S  8   -50  -2.46 11
+ 88 2NT   N  6  -100  -3.89 3
+ 91 3D    N  7  -100  -3.89 5
+ 96 3S    S  7  -100  -3.89 1
+ 97 3NT   N  7  -100  -3.89 6
+103 3NT   S  7  -100  -3.89 3
+106 4S    S  8  -100  -3.89 1
+107 2NT   N  5  -150  -5.01 2
+109 3S    S  6  -150  -5.01 1
+110 3NT   N  6  -150  -5.01 1
+111 3NT   S  6  -150  -5.01 2
+113 4S    S  7  -150  -5.01 3
+116 5D    N  8  -150  -5.01 1
+117 3S    S  5  -200  -6.10 1
+
+[Board "602"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:8.A6.AQT752.8752 QT653.K32.K964.A 42.QJ985.83.QJT9 AKJ97.T74.J.K643"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[ScoreIMP "NS -0.04"]
+[Auction "E"]
+1D 1S Pass 4S
+Pass Pass Pass
+[Play "W"]
+HQ H4 HA H3
+H5 H7 H6 HK
+CT C3 C2 CA
+S4 SA S8 S3
+S2 SK D5 S5
+CQ CK C5 H2
+- DJ DA -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 2SX   S 11  1270  11.79 1
+  2 5CX   W  7  1100   9.67 1
+  3 5DX   E  7  1100   9.67 4
+  7 4S    N 11   650  -0.04 7
+ 14 4S    S 11   650  -0.04 84
+ 98 5S    N 11   650  -0.04 1
+ 99 4S    N 10   620  -0.97 2
+101 4S    S 10   620  -0.97 3
+104 3S    S 12   230  -8.77 1
+105 2S    N 11   200  -9.72 1
+106 2S    S 11   200  -9.72 1
+107 2D    E  7   100 -10.81 1
+108 4S    N  9  -100 -12.84 1
+
+[Board "603"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQT.Q84.QJ987.94 A8654.53.KT643.5 J2.K6.A2.KJT7632 973.AJT972.5.AQ8"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[ScoreIMP "NS -1.74"]
+[Auction "S"]
+Pass Pass 3C 3H
+Pass Pass Pass
+[Play "S"]
+C9 C5 C7 CQ
+D7 DK DA D5
+HQ H3 H6 HJ
+H4 H5 HK HA
+H8 S4 C3 HT
+ST S5 SJ S9
+D9 D3 D2 H2
+D8 D4 CJ H9
+SQ S6 S2 S3
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4HXX  E  8   600  11.84 1
+  2 4SXX  W  8   600  11.84 1
+  3 3NT   S  9   400   9.59 2
+  5 4HX   E  8   300   8.01 1
+  6 3S    W  6   150   5.15 1
+  7 4S    W  7   150   5.15 1
+  8 3C    N  9   110   4.15 5
+ 13 3D    W  7   100   4.10 1
+ 14 4H    E  8   100   4.10 8
+ 22 4S    W  8   100   4.10 1
+ 23 2C    N  8    90   3.80 1
+ 24 3H    E  8    50   2.79 13
+ 37 3S    W  8    50   2.79 1
+ 38 4H    E  9    50   2.79 9
+ 47 4S    W  9    50   2.79 2
+ 49 3C    N  8   -50   0.52 12
+ 61 4C    N  9   -50   0.52 4
+ 65 3NT   N  7  -100  -0.74 1
+ 66 3NT   S  7  -100  -0.74 2
+ 68 4C    N  8  -100  -0.74 5
+ 73 4CX   N  9  -100  -0.74 1
+ 74 5C    N  9  -100  -0.74 1
+ 75 3H    E  9  -140  -1.74 9
+ 84 3S    W  9  -140  -1.74 1
+ 85 2NT   S  5  -150  -1.85 1
+ 86 3D    S  6  -150  -1.85 1
+ 87 3NT   N  6  -150  -1.85 1
+ 88 3NT   S  6  -150  -1.85 2
+ 90 3NT   S  5  -200  -3.03 11
+101 3NT   S  4  -250  -4.10 1
+102 3NTX  S  7  -300  -5.15 1
+103 4CX   N  8  -300  -5.15 4
+107 4NTX  S  8  -300  -5.15 1
+108 5CX   N  9  -300  -5.15 1
+109 4H    E 10  -420  -7.66 1
+110 2HX   E  8  -470  -8.43 1
+111 5CX   N  8  -500  -8.79 4
+115 3HX   E  9  -530  -9.25 1
+116 3SX   W 10  -630 -10.38 1
+117 3NTX  S  5  -800 -12.23 1
+118 7CX   N  8 -1100 -14.20 1
+
+[Board "604"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AQJ4.94.72.KQ952 T9753.T6.AKQ8.AT K82.J52.J64.8743 6.AKQ873.T953.J6"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[ScoreIMP "NS 6.02"]
+[Auction "W"]
+1C 1D Pass 4H
+Pass Pass Pass
+[Play "W"]
+H9 HT HJ HA
+H4 H6 H2 HK
+SQ CT H5 HQ
+SJ S3 S2 S6
+C2 CA C3 C6
+S4 S5 S8 H3
+D2 DA D4 D3
+SA S7 SK H7
+D7 DK D6 D5
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4NTX  W  2  2000  17.09 1
+  2 5CX   W  6  1100  11.95 1
+  3 3NT   N 12   690   6.03 1
+  4 4H    S 12   680   6.02 3
+  7 3NT   N 11   660   5.43 11
+ 18 4H    S 11   650   5.43 31
+ 49 5D    N 12   620   4.63 2
+ 51 5D    N 11   600   4.17 1
+ 52 5D    S 11   600   4.17 1
+ 53 5CX   W  8   500   2.17 1
+ 54 1SX   W  5   300  -1.83 1
+ 55 1NT   E  2   250  -2.96 3
+ 58 3H    S 12   230  -3.45 1
+ 59 2H    S 11   200  -4.22 13
+ 72 3H    S 11   200  -4.22 18
+ 90 2D    N 12   170  -4.81 1
+ 91 3D    N 12   170  -4.81 2
+ 93 3D    S 12   170  -4.81 1
+ 94 4D    N 12   170  -4.81 8
+102 2S    W  5   150  -5.64 1
+103 3C    W  6   150  -5.64 2
+105 3D    N 11   150  -5.64 1
+106 2S    N  9   140  -5.69 1
+107 1S    N  8   110  -6.24 2
+109 3C    W  7   100  -6.30 3
+112 1S    N  7    80  -6.57 1
+113 1C    W  6    50  -7.35 1
+114 2S    W  7    50  -7.35 1
+115 3C    W  8    50  -7.35 1
+116 1NT   W  8  -120 -10.02 1
+
+[Board "605"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J.K982.Q986.QT43 T.QJ6.KJ7532.A65 K9863.T5.AT.K982 AQ7542.A743.4.J7"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 200"]
+[ScoreIMP "NS 2.36"]
+[Auction "N"]
+Pass 1D 1S Pass
+Pass 2D Pass 2S
+Pass Pass Pass
+[Play "N"]
+C3 CA C8 C7
+HK HQ H5 H3
+H2 HJ HT H4
+H8 H6 S3 H7
+SJ ST S6 S2
+H9 C5 S8 HA
+C4 C6 CK CJ
+CT D2 C2 S4
+D6 D3 S9 SA
+D8 DJ DA D4
+CQ D5 C9 S5
+D9 D7 SK SQ
+DQ DK DT S7
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5DX   E  7  1100  14.12 1
+  2 3NT   E  4   500   8.33 1
+  3 4DX   E  8   500   8.33 1
+  4 3D    E  5   400   6.64 2
+  6 3NT   E  5   400   6.64 2
+  8 3NT   W  5   400   6.64 1
+  9 4H    W  6   400   6.64 2
+ 11 1NTX  N  8   380   6.24 1
+ 12 2NT   W  5   300   4.66 4
+ 16 3D    E  6   300   4.66 2
+ 18 3S    W  6   300   4.66 1
+ 19 3NT   E  6   300   4.66 3
+ 22 3NT   W  6   300   4.66 2
+ 24 4H    W  7   300   4.66 3
+ 27 2D    E  6   200   2.36 1
+ 28 2H    W  6   200   2.36 3
+ 31 2S    W  6   200   2.36 3
+ 34 2NT   E  6   200   2.36 2
+ 36 2NT   W  6   200   2.36 2
+ 38 3D    E  7   200   2.36 1
+ 39 3H    W  7   200   2.36 1
+ 40 3S    W  7   200   2.36 3
+ 43 3NT   E  7   200   2.36 1
+ 44 3NT   W  7   200   2.36 2
+ 46 4S    W  8   200   2.36 1
+ 47 1NTX  N  7   180   1.81 2
+ 49 1SX   S  7   160   1.41 1
+ 50 1NT   N  9   150   1.18 1
+ 51 1NT   N  8   120   0.52 1
+ 52 1NT   W  6   100  -0.07 1
+ 53 2D    E  7   100  -0.07 6
+ 59 2H    W  7   100  -0.07 3
+ 62 2S    W  7   100  -0.07 2
+ 64 2NT   E  7   100  -0.07 3
+ 67 2NT   W  7   100  -0.07 4
+ 71 3D    E  8   100  -0.07 1
+ 72 3NT   E  8   100  -0.07 1
+ 73 3NT   W  8   100  -0.07 3
+ 76 4H    W  9   100  -0.07 2
+ 78 1S    S  7    80  -0.54 1
+ 79 2D    E  8   -90  -4.35 10
+ 89 1S    S  6  -100  -4.51 3
+ 92 2S    S  7  -100  -4.51 1
+ 93 2NT   S  7  -100  -4.51 1
+ 94 2D    E  9  -110  -4.62 3
+ 97 2H    W  8  -110  -4.62 2
+ 99 3D    E  9  -110  -4.62 1
+100 2H    W  9  -140  -5.51 3
+103 2H    W 10  -170  -6.13 1
+104 1S    S  5  -200  -6.69 1
+105 1SX   S  6  -200  -6.69 1
+106 1NTX  N  6  -200  -6.69 1
+107 2H    W 11  -200  -6.69 1
+108 3CX   S  8  -200  -6.69 1
+109 3NT   N  7  -200  -6.69 1
+110 2S    S  5  -300  -8.47 1
+111 2NT   N  5  -300  -8.47 1
+112 3C    N  6  -300  -8.47 1
+113 2SX   S  6  -500 -11.05 1
+114 3NT   W  9  -600 -12.04 1
+
+[Board "606"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K653.AKT4.KQ7.Q7 98.9632.T862.K95 AQ7.J5.A543.8643 JT42.Q87.J9.AJT2"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[ScoreIMP "NS 0.43"]
+[Auction "E"]
+1NT Pass 3NT Pass
+Pass Pass
+[Play "S"]
+H6 HJ HQ HA
+S8 SA S2 S3
+S9 SQ S4 S6
+- S7 ST SK
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4S    W  7   150  11.09 1
+  2 6NT   E 10   100  10.82 1
+  3 1NT   E  9  -150   6.24 1
+  4 3NT   E  9  -400   0.43 48
+ 52 3NT   W  9  -400   0.43 2
+ 54 3NT   E 10  -430  -0.56 22
+ 76 3NT   W 10  -430  -0.56 1
+ 77 4S    W 10  -420  -0.56 1
+ 78 4NT   E 10  -430  -0.56 1
+ 79 3NT   E 11  -460  -1.55 20
+ 99 3NT   E 12  -490  -2.54 2
+
+[Board "607"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AK76.J8.9842.QJ5 QJT.A4.AJ75.K962 832.KQ652.K3.A43 954.T973.QT6.T87"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "4"]
+[Score "NS 150"]
+[ScoreIMP "NS 0.62"]
+[Auction "S"]
+Pass 1NT Pass Pass
+Pass
+[Play "N"]
+H2 H9 HJ HA
+DK D6 D2 D5
+H5 H7 H8 H4
+CA C7 CQ CK
+HK H3 D8 C2
+HQ HT D9 C6
+H6 S4 D4 C9
+C3 C8 CJ D7
+S3 S5 SA ST
+S2 S9 SK SQ
+S8 - S6 SJ
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 2HX   N  9   870  12.37 1
+  2 1NTX  W  3   800  11.82 2
+  4 2HX   N  8   670  10.61 1
+  5 1NTX  S  8   380   6.13 1
+  6 1NT   W  2   250   3.18 3
+  9 1NT   W  3   200   2.08 4
+ 13 2H    W  4   200   2.08 1
+ 14 1NT   S 10   180   1.38 2
+ 16 2NT   S 10   180   1.38 1
+ 17 1S    S 10   170   1.19 2
+ 19 2H    N 10   170   1.19 1
+ 20 1S    E  4   150   0.62 1
+ 21 1NT   W  4   150   0.62 14
+ 35 1S    S  9   140   0.40 2
+ 37 2H    N  9   140   0.40 4
+ 41 2S    S  9   140   0.40 2
+ 43 1NT   S  8   120  -0.27 1
+ 44 2NT   S  8   120  -0.27 1
+ 45 1H    N  8   110  -0.58 1
+ 46 2H    N  8   110  -0.58 13
+ 59 1NT   W  5   100  -0.77 20
+ 79 2D    W  6   100  -0.77 2
+ 81 3NT   W  7   100  -0.77 1
+ 82 1NT   S  7    90  -1.15 2
+ 84 1NT   W  6    50  -2.38 9
+ 93 2D    W  7    50  -2.38 4
+ 97 1NT   W  7   -90  -5.50 3
+100 3H    N  8  -100  -5.57 2
+102 3NT   S  8  -100  -5.57 1
+
+[Board "608"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KJ63.KQ972.J42.K QT95.6.96.QJ8543 742.A854.KQ5.T97 A8.JT3.AT873.A62"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[ScoreIMP "NS -0.94"]
+[Auction "W"]
+Pass Pass Pass 1D
+1H 1S 2H Pass
+Pass Pass
+[Play "N"]
+D9 D5 DA D2
+D6 DQ D3 D4
+H6 H4 H3 HK
+C5 HA HT H2
+C3 H5 HJ HQ
+C4 C7 CA CK
+SQ S2 S8 SJ
+CQ C9 C2 H7
+C8 DK D7 DJ
+S5 S7 SA S3
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5HX   W  9   500  11.36 1
+  2 4H    W  8   200   7.04 7
+  9 3C    N 10   130   5.65 1
+ 10 4C    N 10   130   5.65 1
+ 11 3C    N  9   110   4.91 1
+ 12 3D    S  9   110   4.91 1
+ 13 3H    W  8   100   4.90 1
+ 14 4H    E  9   100   4.90 1
+ 15 4H    W  9   100   4.90 7
+ 22 3C    N  8   -50   1.56 1
+ 23 3NT   S  8   -50   1.56 1
+ 24 4C    N  9   -50   1.56 3
+ 27 4C    N  8  -100   0.05 3
+ 30 5CX   N 10  -100   0.05 1
+ 31 1H    W  8  -110   0.03 1
+ 32 2H    E  9  -140  -0.94 1
+ 33 2H    W  9  -140  -0.94 13
+ 46 3H    E  9  -140  -0.94 4
+ 50 3H    W  9  -140  -0.94 24
+ 74 2H    W 10  -170  -1.81 10
+ 84 3H    W 10  -170  -1.81 12
+ 96 5CX   N  9  -300  -4.83 1
+ 97 5CX   N  8  -500  -8.53 2
+ 99 4H    W 10  -620 -10.23 2
+101 4SX   N  6  -800 -12.24 1
+
+[Board "609"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J65432.KT94..K63 T9.AJ753.AT3.Q52 A.Q62.J987652.A4 KQ87.8.KQ4.JT987"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[ScoreIMP "NS -2.57"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 1NT 2D 2NT
+Pass Pass Pass
+[Play "S"]
+D9 DQ S5 D3
+C4 C9 C6 C5
+CA C7 C3 CQ
+H2 H8 HK HA
+SA S7 S6 ST
+HQ C8 H4 H3
+H6 CJ HT HJ
+DJ DK S2 DT
+D8 D4 S3 DA
+D5 SK S4 S9
+- SQ SJ C2
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3SX   N  9   530  10.53 2
+  3 4CX   W  7   500  10.29 1
+  4 3DX   S  9   470   9.80 2
+  6 3NTX  W  7   300   7.04 1
+  7 3H    E  4   250   6.22 2
+  9 2H    E  4   200   5.32 3
+ 12 3H    E  5   200   5.32 6
+ 18 3H    E  6   150   4.00 1
+ 19 3NT   E  6   150   4.00 3
+ 22 4C    W  7   150   4.00 1
+ 23 2H    N  9   140   3.98 1
+ 24 2D    S  9   110   3.21 1
+ 25 2H    N  8   110   3.21 2
+ 27 2S    N  8   110   3.21 2
+ 29 3D    S  9   110   3.21 12
+ 41 2NT   E  6   100   3.11 1
+ 42 2D    S  8    90   2.78 1
+ 43 3NT   E  8    50   1.90 2
+ 45 3NT   W  8    50   1.90 3
+ 48 2S    N  7   -50  -0.17 1
+ 49 3D    S  8   -50  -0.17 11
+ 60 4H    N  9   -50  -0.17 1
+ 61 3DX   S  8  -100  -1.44 5
+ 66 3S    N  7  -100  -1.44 3
+ 69 4D    S  8  -100  -1.44 3
+ 72 4DX   S  9  -100  -1.44 2
+ 74 2NT   W  8  -120  -2.09 1
+ 75 2NT   E  9  -150  -2.57 1
+ 76 2NT   W  9  -150  -2.57 2
+ 78 2NT   W 10  -180  -3.32 2
+ 80 3DX   S  7  -300  -5.57 1
+ 81 3SX   N  7  -300  -5.57 2
+ 83 4DX   S  8  -300  -5.57 1
+ 84 3NT   W  9  -400  -7.56 8
+ 92 3NT   W 10  -430  -8.10 10
+102 3NTX  W 10  -650 -11.10 1
+
+[Board "610"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T54.QJ832.63.KJ4 A9.54.KQJ842.Q96 KQ863.K7.75.A875 J72.AT96.AT9.T32"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[ScoreIMP "NS -3.10"]
+[Auction "E"]
+2H 3D 3H 3NT
+Pass Pass Pass
+[Play "E"]
+H3 H4 HK H6
+HJ H5 H7 HT
+S5 S9 SQ S7
+S4 SA S3 S2
+D6 D2 D7 DA
+D3 D4 D5 DT
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   S 10   630  11.12 2
+  3 3NT   S  9   600  10.53 5
+  8 2D    S 10   130   2.57 2
+ 10 3D    S 10   130   2.57 18
+ 28 4D    S 10   130   2.57 11
+ 39 2D    S  9   110   1.88 1
+ 40 3D    S  9   110   1.88 3
+ 43 3S    W  7   100   1.77 3
+ 46 4S    W  8   100   1.77 1
+ 47 2H    E  7    50   0.61 1
+ 48 2S    W  7    50   0.61 1
+ 49 3H    E  8    50   0.61 2
+ 51 3S    W  8    50   0.61 11
+ 62 3D    S  8  -100  -3.10 4
+ 66 3NT   N  8  -100  -3.10 1
+ 67 3NT   S  8  -100  -3.10 3
+ 70 4D    S  9  -100  -3.10 4
+ 74 2S    W  8  -110  -3.15 6
+ 80 2S    W  9  -140  -4.07 10
+ 90 3S    W  9  -140  -4.07 10
+100 2S    W 10  -170  -4.76 3
+103 3S    W 10  -170  -4.76 1
+104 3S    W 11  -200  -5.48 1
+105 4D    S  8  -200  -5.48 1
+106 3SX   W  9  -530 -10.86 1
+
+[Board "611"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KT7.53.J96.AKJT5 J95.AKJ9.8532.62 AQ8.Q74.AKQ.Q983 6432.T862.T74.74"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS 400"]
+[ScoreIMP "NS 6.63"]
+[Auction "S"]
+1C Pass 2C Pass
+2D Pass 2H Pass
+2NT Pass 3C Pass
+3NT Pass 4C Pass
+4S Pass 5C Pass
+Pass Pass
+[Play "W"]
+HA - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   S 13   520   8.50 1
+  2 3NT   N 12   490   8.05 1
+  3 4NT   S 12   490   8.05 4
+  7 3NT   N 11   460   7.72 7
+ 14 3NT   S 11   460   7.72 4
+ 18 4NT   S 11   460   7.72 4
+ 22 5NT   S 11   460   7.72 1
+ 23 3NT   N  9   400   6.63 1
+ 24 5C    S 11   400   6.63 8
+ 32 2NT   N 11   210   2.49 1
+ 33 2C    S 11   150   1.45 1
+ 34 2D    S 10   130   1.18 1
+ 35 6C    N 11   -50  -3.01 2
+ 37 6C    S 11   -50  -3.01 16
+ 53 6NT   N 11   -50  -3.01 25
+ 78 6NT   S 11   -50  -3.01 3
+ 81 5D    S  9  -100  -4.49 1
+ 82 6CX   S 11  -100  -4.49 1
+ 83 6NTX  N 11  -100  -4.49 6
+ 89 6NTX  S 11  -100  -4.49 14
+
+[Board "612"]
+[West "POOHBYR"]
+[North "papi"]
+[East "ClassAct"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T98.T96.AT983.J6 Q654.AK7.K4.AT92 AK72.QJ4.Q2.K754 J3.8532.J765.Q83"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[ScoreIMP "NS 1.25"]
+[Auction "W"]
+Pass 1NT Pass Pass
+Pass
+[Play "E"]
+HQ H2 H6 HA
+C4 C8 CJ C2
+H4 H3 HT HK
+HJ H5 H9 H7
+SK S3 S8 S4
+S2 SJ S9 S5
+C5 H8 D8 D4
+CK CQ C6 C9
+DQ D5 D3 DK
+C7 C3 ST CA
+S7 D6 D9 CT
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   E  6   300   6.14 1
+  2 2NT   E  6   200   3.99 5
+  7 1NTX  N  7   180   3.79 1
+  8 1NT   N  8   120   2.20 10
+ 18 1D    W  6   100   1.27 1
+ 19 1NT   E  6   100   1.27 4
+ 23 2D    W  7   100   1.27 4
+ 27 2H    E  7   100   1.27 1
+ 28 2S    E  7   100   1.27 2
+ 30 1NT   N  7    90   1.25 44
+ 74 2D    W  8   -90  -3.53 3
+ 77 1NT   N  6  -100  -3.66 16
+ 93 3H    N  8  -100  -3.66 1
+ 94 2H    E  8  -110  -3.69 1
+ 95 1NTX  E  7  -180  -5.58 2
+ 97 1NT   N  5  -200  -5.95 2
+ 99 1NTX  N  6  -200  -5.95 2
+101 1NTX  N  5  -500 -10.66 1
+
+[Board "614"]
+[West "ClassAct"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AJ4.JT75.KT8.K76 K8.84.A9763.AJT8 QT5.K92.Q5.Q9543 97632.AQ63.J42.2"]
+[Declarer "E"]
+[Contract "4CX"]
+[Result "6"]
+[Score "NS 1100"]
+[ScoreIMP "NS 13.85"]
+[Auction "E"]
+1C 1D 1NT 2D
+Pass Pass 3C Pass
+3NT X 4C X
+Pass Pass Pass
+[Play "S"]
+H8 H2 HQ H5
+SK S5 S7 S4
+H4 HK HA H7
+C8 H9 H6 HT
+DA D5 D4 D8
+D3 DQ D2 DK
+CT CQ C2 C6
+CA C3 S2 CK
+CJ C4 H3 C7
+S8 - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4CX   E  6  1100  13.85 1
+  2 3CX   E  6   800  11.64 1
+  3 3NTX  E  6   800  11.64 1
+  4 3DX   S 10   570   9.14 1
+  5 2CX   W  6   500   7.90 1
+  6 3CX   E  7   500   7.90 1
+  7 3NT   E  5   400   6.03 1
+  8 2DX   S 10   380   5.70 1
+  9 3C    E  6   300   3.98 6
+ 15 3NT   E  6   300   3.98 1
+ 16 1NT   E  5   200   1.54 1
+ 17 1NT   W  5   200   1.54 1
+ 18 2C    E  6   200   1.54 1
+ 19 2CX   E  7   200   1.54 6
+ 25 2HX   E  7   200   1.54 1
+ 26 2NT   W  6   200   1.54 1
+ 27 3C    E  7   200   1.54 6
+ 33 1NT   S  9   150   0.16 1
+ 34 2NT   S  9   150   0.16 1
+ 35 2S    N  9   140  -0.06 1
+ 36 2D    S 10   130  -0.25 6
+ 42 3D    S 10   130  -0.25 11
+ 53 4D    S 10   130  -0.25 1
+ 54 1NT   S  8   120  -0.48 1
+ 55 2NT   S  8   120  -0.48 1
+ 56 2D    S  9   110  -1.02 13
+ 69 2S    N  8   110  -1.02 3
+ 72 3D    S  9   110  -1.02 4
+ 76 1NT   E  6   100  -1.12 1
+ 77 1NT   W  6   100  -1.12 1
+ 78 3NT   E  8   100  -1.12 1
+ 79 2D    S  8    90  -1.33 5
+ 84 2C    S  7   -50  -4.66 1
+ 85 2S    N  7   -50  -4.66 2
+ 87 3D    S  8   -50  -4.66 3
+ 90 3NT   S  8   -50  -4.66 1
+ 91 4D    S  9   -50  -4.66 1
+ 92 1NT   W  7   -90  -5.60 1
+ 93 2C    E  8   -90  -5.60 1
+ 94 2NT   S  6  -100  -5.76 1
+ 95 3HX   N  8  -100  -5.76 1
+ 96 5DX   S 10  -100  -5.76 1
+ 97 2H    E  8  -110  -6.01 1
+ 98 3H    S  6  -150  -6.78 1
+ 99 3NT   N  6  -150  -6.78 1
+100 4S    N  7  -150  -6.78 1
+
+[Board "615"]
+[West "ClassAct"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J3.AK95.QT.T8652 Q952.Q43.J52.J94 AK86.87.98743.A3 T74.JT62.AK6.KQ7"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS -100"]
+[ScoreIMP "NS -4.38"]
+[Auction "S"]
+Pass Pass 1S X
+XX 1NT 2D Pass
+Pass Pass
+[Play "E"]
+DA DT D2 D3
+DK DQ D5 D4
+ST SJ SQ SK
+D6 C2 DJ D9
+S7 S3 S2 S6
+HJ HA H4 H7
+C7 C5 C4 CA
+H2 H5 C9 D8
+H6 C6 CJ D7
+S4 H9 S5 SA
+CQ C8 H3 C3
+CK CT HQ H8
+HT HK S9 S8
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 2CXX  E  5  1600  16.49 1
+  2 3SX   W  5  1100  13.90 1
+  3 1NTX  E  4   800  11.78 1
+  4 2CX   E  5   800  11.78 1
+  5 1NTX  W  5   500   8.59 1
+  6 2HX   E  6   500   8.59 2
+  8 1S    W  4   300   5.04 1
+  9 2C    W  5   300   5.04 1
+ 10 2S    W  5   300   5.04 1
+ 11 1S    W  5   200   2.89 1
+ 12 2S    W  6   200   2.89 1
+ 13 1NT   S 10   180   2.56 1
+ 14 1NT   N  9   150   1.70 2
+ 16 1NT   S  9   150   1.70 7
+ 23 2NT   S  9   150   1.70 1
+ 24 1NT   N  8   120   0.91 1
+ 25 1NT   S  8   120   0.91 13
+ 38 2NT   S  8   120   0.91 3
+ 41 2C    S  9   110   0.72 3
+ 44 2D    N  9   110   0.72 7
+ 51 2S    N  8   110   0.72 1
+ 52 1NT   E  6   100   0.22 1
+ 53 2S    W  7   100   0.22 2
+ 55 1NT   N  7    90   0.08 2
+ 57 1NT   S  7    90   0.08 15
+ 72 2C    S  8    90   0.08 2
+ 74 2D    N  8    90   0.08 3
+ 77 Pass  -  -     0  -2.14 1
+ 78 1S    W  7   -80  -4.03 1
+ 79 1NT   E  7   -90  -4.16 5
+ 84 1NT   N  6  -100  -4.38 1
+ 85 1NT   S  6  -100  -4.38 3
+ 88 2D    N  7  -100  -4.38 2
+ 90 2H    S  7  -100  -4.38 1
+ 91 2NT   S  7  -100  -4.38 2
+ 93 1NT   E  8  -120  -4.85 1
+ 94 1SX   W  7  -160  -5.65 1
+ 95 1NT   S  5  -200  -6.48 3
+ 98 2NT   N  6  -200  -6.48 1
+ 99 2NT   S  6  -200  -6.48 2
+101 3NT   N  6  -300  -8.30 2
+103 3NTX  S  6  -800 -13.51 1
+
+[Board "616"]
+[West "ClassAct"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ652.A.AQT87.K3 .QJ942.2.AJT7642 KJ73.K63.9543.Q5 T984.T875.KJ6.98"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[ScoreIMP "NS -1.20"]
+[Auction "W"]
+1S 2S 3S Pass
+4C X Pass 4H
+4S Pass Pass Pass
+[Play "N"]
+HQ H3 H7 HA
+C7 S3 S4 SA
+C6 S7 S8 SQ
+H2 SK S9 S2
+CT SJ ST S5
+D2 D3 D6 DQ
+C2 D4 DJ DA
+H4 - - D7
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6S    W 10   100   9.48 1
+  2 6NT   W 10   100   9.48 1
+  3 4S    W  9    50   8.83 1
+  4 4NT   W  9    50   8.83 1
+  5 5S    E 10    50   8.83 1
+  6 6D    W 11    50   8.83 1
+  7 6S    W 11    50   8.83 13
+ 20 5HX   N 10  -100   6.10 2
+ 22 5H    N  6  -250   3.24 1
+ 23 5CX   N  9  -300   2.22 6
+ 29 5HX   N  9  -300   2.22 1
+ 30 5HX   S  9  -300   2.22 1
+ 31 6HX   N 10  -300   2.22 1
+ 32 4S    W 11  -450  -1.20 12
+ 44 5S    W 11  -450  -1.20 20
+ 64 4S    W 12  -480  -1.92 9
+ 73 5S    W 12  -480  -1.92 7
+ 80 5CX   N  8  -500  -2.60 1
+ 81 5HX   N  8  -500  -2.60 3
+ 84 5HX   S  8  -500  -2.60 3
+ 87 6HX   N  9  -500  -2.60 1
+ 88 6HX   S  9  -500  -2.60 2
+ 90 5S    W 13  -510  -2.63 1
+ 91 5HX   N  7  -800  -8.01 1
+ 92 5HX   S  7  -800  -8.01 1
+ 93 6S    W 12  -980 -10.55 4
+ 97 6S    W 13 -1010 -10.76 1
+ 98 5HX   S  6 -1100 -11.84 1
+ 99 6HX   S  7 -1100 -11.84 1
+100 6HX   N  6 -1400 -14.10 1
+
+[Board "727"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:832.A4.J.QJ85432 KJ5.Q97.K9754.A7 T74.J832.AQ62.96 AQ96.KT65.T83.KT"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[ScoreIMP "NS -7.75"]
+[Auction "S"]
+Pass 1D Pass 1H
+2C Pass Pass 2NT
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+CJ CA C6 CT
+HA HQ H2 H5
+C2 C7 C9 CK
+S2 SK S4 S6
+H4 H9 HJ HK
+S3 SJ S7 S9
+C3 H7 H3 H6
+- S5 ST -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   W  2   700  13.10 1
+  2 3NT   W  4   500  10.98 1
+  3 5DX   W  9   500  10.98 1
+  4 3NT   E  5   400   9.61 2
+  6 3NT   E  6   300   8.33 4
+ 10 3NT   W  6   300   8.33 3
+ 13 2NT   W  6   200   6.49 1
+ 14 3NT   E  7   200   6.49 1
+ 15 3NT   W  7   200   6.49 1
+ 16 4H    E  8   200   6.49 9
+ 25 4HX   E  9   200   6.49 1
+ 26 3C    S  9   110   4.61 2
+ 28 3H    E  8   100   4.57 1
+ 29 3NT   W  8   100   4.57 1
+ 30 4H    E  9   100   4.57 8
+ 38 4S    E  9   100   4.57 6
+ 44 5D    W 10   100   4.57 1
+ 45 3C    S  8  -100   1.17 7
+ 52 2S    E  8  -110   1.00 1
+ 53 3D    W  9  -110   1.00 2
+ 55 3D    W 10  -130   0.42 3
+ 58 4D    W 10  -130   0.42 1
+ 59 3H    E  9  -140   0.21 5
+ 64 2NT   W  9  -150   0.11 1
+ 65 3H    E 10  -170  -0.36 1
+ 66 2NT   E 10  -180  -0.54 1
+ 67 3C    S  7  -200  -0.88 5
+ 72 3CX   S  8  -200  -0.88 1
+ 73 3CX   S  7  -500  -6.08 3
+ 76 3NT   E  9  -600  -7.75 7
+ 83 3NT   W  9  -600  -7.75 8
+ 91 3NT   E 10  -630  -8.22 5
+ 96 3NT   W 10  -630  -8.22 12
+108 3NT   W 11  -660  -8.77 2
+
+[Board "728"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K987.A862.K4.A72 A653.T5.J8763.83 Q2.QJ94.A2.QJ965 JT4.K73.QT95.KT4"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[ScoreIMP "NS -0.39"]
+[Auction "W"]
+1C Pass 1H Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "S"]
+SJ S7 S3 SQ
+H3 HA H5 H4
+HK H2 HT HJ
+D5 DK D7 D2
+H7 H6 D3 HQ
+CK CA C3 CQ
+CT C2 C8 C9
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   E  7   100  10.37 1
+  2 3NT   W  7   100  10.37 1
+  3 3NT   E  8    50   9.83 1
+  4 3NT   W  8    50   9.83 2
+  6 2C    W 10  -130   6.66 1
+  7 3C    W 11  -150   6.08 3
+ 10 3H    E 11  -200   5.02 2
+ 12 3NT   W  9  -400   0.56 1
+ 13 5C    W 11  -400   0.56 2
+ 15 3NT   W 10  -430  -0.39 3
+ 18 4H    E 10  -420  -0.39 31
+ 49 4H    W 10  -420  -0.39 4
+ 53 3NT   W 11  -460  -1.33 2
+ 55 4H    E 11  -450  -1.33 47
+102 4H    W 11  -450  -1.33 3
+105 5H    E 11  -450  -1.33 2
+
+[Board "729"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQT8.Q8.KQ62.J64 975.KT9542.85.Q9 A43.AJ7.JT9.KT82 J62.63.A743.A753"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[ScoreIMP "NS 1.38"]
+[Auction "N"]
+1D Pass 2C Pass
+2D Pass 2S Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "E"]
+H5 H7 H6 HQ
+D8 DJ D3 D2
+D5 DT D4 D6
+H4 D9 DA DQ
+S7 S3 S2 SK
+C9 CT C3 C4
+S5 SA S6 S8
+S9 S4 SJ SQ
+H2 C2 H3 ST
+H9 C8 D7 DK
+HT HJ C5 H8
+HK HA C7 C6
+CQ CK CA CJ
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 2HX   E  6   500   2.39 2
+  3 3NT   N 11   460   1.38 7
+ 10 3NT   S 11   460   1.38 44
+ 54 4NT   S 11   460   1.38 1
+ 55 4S    N 11   450   1.36 1
+ 56 3NT   N 10   430   0.45 2
+ 58 3NT   S 10   430   0.45 28
+ 86 3NT   S  9   400  -0.49 8
+ 94 2H    W  5   300  -2.93 1
+ 95 1NT   S 11   210  -5.01 1
+ 96 2NT   N 11   210  -5.01 1
+ 97 2NT   S 11   210  -5.01 4
+101 2NT   S 10   180  -5.71 6
+107 3NT   S  8   -50  -9.93 1
+108 5S    N  9  -100 -10.47 1
+
+[Board "730"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:4.QT.AK974.KQJ54 K97.973.8652.T86 J865.AJ862.J.973 AQT32.K54.QT3.A2"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[ScoreIMP "NS -1.36"]
+[Auction "E"]
+1D Pass 1H 1S
+2C Pass 2H 2S
+3C Pass Pass Pass
+[Play "S"]
+S7 S5 SA S4
+C6 C3 CA C4
+C8 C7 C2 CJ
+H3 H2 HK HQ
+D2 DJ DQ DA
+H7 H6 H4 HT
+D5 C9 D3 D4
+H9 HA H5 D7
+CT HJ S3 D9
+SK - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4HX   W  7   800  13.20 2
+  3 5CX   E  9   500  10.44 1
+  4 3NT   W  5   400   9.17 2
+  6 4H    W  6   400   9.17 2
+  8 3NT   W  6   300   7.55 3
+ 11 4H    W  7   300   7.55 1
+ 12 3D    E  7   200   5.48 1
+ 13 3H    W  7   200   5.48 2
+ 15 3NT   W  7   200   5.48 2
+ 17 5C    E  9   200   5.48 4
+ 21 2S    N  8   110   3.66 2
+ 23 2H    W  7   100   3.36 2
+ 25 3C    E  8   100   3.36 2
+ 27 4C    E  9   100   3.36 1
+ 28 5C    E 10   100   3.36 1
+ 29 2C    E  8   -90  -0.83 6
+ 35 2S    N  7  -100  -1.21 1
+ 36 2C    E  9  -110  -1.36 14
+ 50 2H    W  8  -110  -1.36 1
+ 51 3C    E  9  -110  -1.36 17
+ 68 2C    E 10  -130  -2.15 14
+ 82 3C    E 10  -130  -2.15 8
+ 90 2H    W  9  -140  -2.28 2
+ 92 2C    E 11  -150  -2.50 2
+ 94 3C    E 11  -150  -2.50 5
+ 99 3H    W 10  -170  -3.09 1
+100 2H    W 11  -200  -3.92 1
+101 3H    W 11  -200  -3.92 1
+102 3S    N  7  -200  -3.92 3
+105 3S    N  6  -300  -6.05 1
+106 3NT   W  9  -600 -10.64 1
+107 4H    W 10  -620 -10.98 2
+
+[Board "731"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:QJT62.864.K94.T4 A43.QT52.QJ.J972 97.AJ973.T65.AQ8 K85.K.A8732.K653"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[ScoreIMP "NS 0.32"]
+[Auction "S"]
+Pass Pass 1H Pass
+2H Pass Pass Pass
+[Play "E"]
+S5 SJ SA S7
+D7 DK DJ D6
+CK CT CJ CQ
+DA D4 DQ D5
+D2 D9 H2 DT
+SK S2 S4 S9
+D8 C4 HT HJ
+C3 H4 C2 C8
+HK H8 H5 HA
+C5 H6 HQ H3
+- - C7 -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 2NT   W  5   150   5.11 1
+  2 3NT   W  6   150   5.11 1
+  3 5C    E  8   150   5.11 1
+  4 2H    N  9   140   5.06 1
+  5 2H    N  8   110   4.22 6
+ 11 2NT   W  6   100   4.09 1
+ 12 3D    E  7   100   4.09 2
+ 14 1NT   E  6    50   2.77 1
+ 15 1NT   W  6    50   2.77 1
+ 16 2S    W  7    50   2.77 2
+ 18 2NT   W  7    50   2.77 5
+ 23 3C    E  8    50   2.77 2
+ 25 3C    W  8    50   2.77 2
+ 27 3D    E  8    50   2.77 2
+ 29 3NT   E  8    50   2.77 1
+ 30 3NT   W  8    50   2.77 8
+ 38 Pass  -  -     0   1.51 1
+ 39 1S    S  6   -50   0.32 1
+ 40 2H    N  7   -50   0.32 11
+ 51 2S    S  7   -50   0.32 1
+ 52 1NT   W  7   -90  -0.85 1
+ 53 2C    E  8   -90  -0.85 1
+ 54 1NT   N  5  -100  -1.07 1
+ 55 2H    N  6  -100  -1.07 11
+ 66 3H    N  7  -100  -1.07 3
+ 69 3HX   N  8  -100  -1.07 1
+ 70 3S    S  7  -100  -1.07 1
+ 71 2C    E  9  -110  -1.31 1
+ 72 3C    E  9  -110  -1.31 6
+ 78 3C    W  9  -110  -1.31 3
+ 81 3D    E  9  -110  -1.31 1
+ 82 1NT   W  8  -120  -1.79 1
+ 83 2NT   W  8  -120  -1.79 2
+ 85 2D    E 10  -130  -1.91 1
+ 86 3C    E 10  -130  -1.91 1
+ 87 3D    E 10  -130  -1.91 2
+ 89 1NT   E  9  -150  -2.46 2
+ 91 1NT   W  9  -150  -2.46 2
+ 93 2H    N  5  -150  -2.46 3
+ 96 2S    S  5  -150  -2.46 1
+ 97 2NT   W  9  -150  -2.46 5
+102 3H    N  6  -150  -2.46 1
+103 2HX   N  6  -300  -5.79 1
+104 3NT   W  9  -400  -7.81 3
+107 3SX   S  6  -500  -9.53 1
+108 4HX   N  7  -500  -9.53 1
+
+[Board "732"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A862.AJT52.64.52 .K876.AKT72.8643 K753.943.93.AKJ7 QJT94.Q.QJ85.QT9"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS 110"]
+[ScoreIMP "NS 3.53"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 1NT Pass 2D
+Pass Pass Pass
+[Play "E"]
+CA C9 C5 C3
+S3 S9 SA D2
+H3 HQ HA H8
+CK CT C2 C6
+C7 CQ D4 C4
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4SX   E  5  1100  14.79 1
+  2 3HX   W  7   300   7.47 2
+  4 3S    E  5   200   5.51 1
+  5 2DX   N  8   180   5.23 1
+  6 2S    E  5   150   4.41 1
+  7 2S    W  5   150   4.41 1
+  8 4S    E  7   150   4.41 1
+  9 2D    N 10   130   4.11 1
+ 10 3D    S 10   130   4.11 1
+ 11 4D    N 10   130   4.11 1
+ 12 2NT   S  8   120   3.74 1
+ 13 2D    N  9   110   3.53 2
+ 15 3D    N  9   110   3.53 11
+ 26 2S    E  6   100   3.33 1
+ 27 3H    W  7   100   3.33 2
+ 29 3HX   W  8   100   3.33 1
+ 30 3S    E  7   100   3.33 2
+ 32 4H    E  8   100   3.33 1
+ 33 1NT   N  7    90   3.03 1
+ 34 2H    W  7    50   2.02 4
+ 38 2S    E  7    50   2.02 1
+ 39 3H    E  8    50   2.02 2
+ 41 3H    W  8    50   2.02 5
+ 46 Pass  -  -     0   0.80 12
+ 58 1NT   E  7   -90  -1.33 1
+ 59 3D    N  8  -100  -1.57 1
+ 60 4D    N  9  -100  -1.57 4
+ 64 1H    W  8  -110  -1.75 1
+ 65 2H    W  8  -110  -1.75 13
+ 78 2S    W  8  -110  -1.75 1
+ 79 2H    W  9  -140  -2.56 7
+ 86 3H    W  9  -140  -2.56 1
+ 87 3H    W 10  -170  -3.41 1
+ 88 2S    S  6  -200  -3.90 1
+ 89 4D    N  8  -200  -3.90 1
+ 90 4DX   N  9  -200  -3.90 2
+ 92 5D    N  9  -200  -3.90 1
+ 93 2S    S  5  -300  -5.94 1
+ 94 3NT   N  6  -300  -5.94 2
+ 96 2HX   W  8  -470  -8.93 1
+ 97 4DX   S  8  -500  -9.49 1
+ 98 5DX   N  9  -500  -9.49 2
+100 3HX   W  9  -530  -9.78 3
+103 2SX   S  5  -800 -12.57 1
+
+[Board "733"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQJ8.QJ63.AT95.9 962.984.KJ8.Q853 AT743.A752.62.A7 5.KT.Q743.KJT642"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 680"]
+[ScoreIMP "NS 2.25"]
+[Auction "N"]
+1D Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+HK H3 H9 HA
+S5 SK S2 S3
+C6 SQ S6 S4
+HT HQ H4 H2
+- S8 S9 -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6S    S 12  1430  13.50 1
+  2 5CX   W  8   800   4.99 2
+  4 4S    S 12   680   2.25 13
+ 17 4H    S 11   650   1.38 3
+ 20 4S    N 11   650   1.38 2
+ 22 4S    S 11   650   1.38 68
+ 90 5S    S 11   650   1.38 1
+ 91 5CX   W  9   500  -2.24 2
+ 93 6S    N 11  -100 -11.51 1
+ 94 6S    S 11  -100 -11.51 11
+105 6SX   S 11  -200 -11.88 1
+
+[Board "734"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AJT6.KT5.KQJ9.73 Q8.Q9743.854.942 9432.A86.AT73.Q8 K75.J2.62.AKJT65"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[ScoreIMP "NS -1.20"]
+[Auction "E"]
+1D Pass 1S 3C
+3S Pass Pass Pass
+[Play "N"]
+CA C3 C2 C8
+CK C7 C9 CQ
+HJ H5 H7 HA
+S5 ST SQ S2
+S7 SJ S8 S3
+SK SA H3 S4
+D2 D9 D8 DA
+H2 HT HQ H6
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 2NTX  E  6   300   8.59 1
+  2 4S    W  8   100   4.95 3
+  5 5S    W  9   100   4.95 1
+  6 3D    E  8    50   3.54 1
+  7 3S    W  8    50   3.54 1
+  8 4S    E  9    50   3.54 3
+ 11 4S    W  9    50   3.54 32
+ 43 4C    N  8  -100  -0.19 1
+ 44 2D    E  9  -110  -0.27 1
+ 45 2S    W  8  -110  -0.27 4
+ 49 3D    E  9  -110  -0.27 3
+ 52 2S    E  9  -140  -1.20 1
+ 53 2S    W  9  -140  -1.20 16
+ 69 3S    W  9  -140  -1.20 15
+ 84 2S    W 10  -170  -2.14 3
+ 87 3S    W 10  -170  -2.14 2
+ 89 4CX   N  8  -300  -4.82 2
+ 91 3NT   E  9  -400  -6.85 1
+ 92 4S    E 10  -420  -7.30 1
+ 93 4S    W 10  -420  -7.30 8
+101 4HX   S  7  -500  -8.59 1
+102 5CX   N  8  -500  -8.59 2
+
+[Board "736"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:93.JT954.Q62.AJ2 AQ.K32.K987.K543 KJ62.A876.A.QT86 T8754.Q.JT543.97"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -50"]
+[ScoreIMP "NS 1.83"]
+[Auction "W"]
+Pass 1NT Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+DA D5 D2 D9
+CQ C7 CA C5
+S2 D3 D6 D7
+HA HQ H4 H3
+H6 S4 H5 H2
+SK S5 S3 SQ
+H7 D4 H9 HK
+S6 S7 S9 SA
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 2DX   E  4  1100  15.14 1
+  2 4HX   W  8   500  11.43 1
+  3 2NT   W  6   200   6.99 1
+  4 4HX   W  9   200   6.99 1
+  5 5H    W  9   200   6.99 1
+  6 4D    S 10   130   5.93 1
+  7 2NT   N  8   120   5.77 1
+  8 2S    N  8   110   5.10 3
+ 11 3D    S  9   110   5.10 1
+ 12 1NT   N  7    90   4.91 1
+ 13 2D    N  8    90   4.91 1
+ 14 1NT   N  6   -50   1.83 1
+ 15 2S    N  7   -50   1.83 25
+ 40 2S    S  7   -50   1.83 1
+ 41 3D    N  8   -50   1.83 1
+ 42 4D    S  9   -50   1.83 1
+ 43 2S    N  6  -100   0.36 13
+ 56 2SX   N  7  -100   0.36 1
+ 57 2S    S  6  -100   0.36 2
+ 59 2NT   N  6  -100   0.36 1
+ 60 4D    N  8  -100   0.36 1
+ 61 2H    W  9  -140  -0.79 3
+ 64 3H    E  9  -140  -0.79 1
+ 65 3H    W  9  -140  -0.79 3
+ 68 2S    N  5  -150  -0.97 16
+ 84 2S    S  5  -150  -0.97 1
+ 85 5D    N  8  -150  -0.97 1
+ 86 2H    W 10  -170  -1.33 4
+ 90 3H    W 10  -170  -1.33 1
+ 91 3SX   N  7  -300  -4.23 1
+ 92 4H    S  4  -300  -4.23 1
+ 93 1NTX  N  4  -500  -8.14 1
+ 94 3SX   N  6  -500  -8.14 1
+ 95 4SX   N  7  -500  -8.14 1
+ 96 4SX   S  7  -500  -8.14 1
+ 97 5DX   N  8  -500  -8.14 2
+ 99 4H    W 10  -620  -9.82 4
+103 3HX   W  9  -730 -11.06 1
+104 3SX   N  5  -800 -11.89 1
+
+[Board "737"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:6.AT97653.Q98.KQ KQ872.J4.75.T643 AJT953.Q82.643.A 4.K.AKJT2.J98752"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "9"]
+[Score "NS 300"]
+[ScoreIMP "NS 0.43"]
+[Auction "N"]
+1H Pass 1S 2NT
+3H 4C 4H 5C
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+H2 HK HA H4
+SA S4 S6 SQ
+SJ C2 H3 S2
+CA C5 CQ C3
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4SX   E  4  1400  14.77 1
+  2 5SX   E  6  1100  12.90 1
+  3 4HX   N 11   690   8.35 1
+  4 4HX   N 10   590   6.87 1
+  5 5DX   W  8   500   4.93 1
+  6 6CX   E  9   500   4.93 4
+ 10 4H    N 11   450   3.97 11
+ 21 5H    N 11   450   3.97 6
+ 27 4H    N 10   420   3.10 24
+ 51 5CX   E  9   300   0.43 11
+ 62 5CX   W  9   300   0.43 9
+ 71 6CX   W 10   300   0.43 1
+ 72 3H    N 11   200  -1.99 1
+ 73 5C    E  9   100  -3.99 1
+ 74 5CX   W 10   100  -3.99 1
+ 75 4H    N  9   -50  -6.91 3
+ 78 5H    N 10   -50  -6.91 18
+ 96 6H    N 11   -50  -6.91 3
+ 99 5HX   N 10  -100  -8.01 3
+102 6HX   N 11  -100  -8.01 1
+103 6HX   N 10  -300 -10.58 1
+
+[Board "738"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T8642.J9764.T.K3 KQJ5.832.8642.A9 9.KQ5.KQJ973.J87 A73.AT.A5.QT6542"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "6"]
+[Score "NS 150"]
+[ScoreIMP "NS 1.11"]
+[Auction "E"]
+Pass Pass 3D Pass
+Pass Pass
+[Play "N"]
+HA H6 H2 H5
+HT H4 H3 HK
+D5 H7 H8 HQ
+DA DT D4 D3
+SA S2 SJ S9
+S3 S4 SQ D7
+C5 H9 D2 DK
+C6 S6 D6 DQ
+C2 CK CA C7
+CQ C3 C9 CJ
+CT S8 S5 C8
+S7 - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NTX  E  3  1400  15.40 1
+  2 4SX   S 11   990  12.86 1
+  3 3SX   E  5   800  11.47 1
+  4 5CX   N 11   750  10.91 1
+  5 3NT   N 11   660  10.15 2
+  7 3NT   S 11   660  10.15 1
+  8 3NT   N 10   630   9.49 1
+  9 5C    N 11   600   9.21 6
+ 15 3NT   W  5   200   2.38 1
+ 16 3C    N 12   170   1.62 1
+ 17 3S    S 10   170   1.62 1
+ 18 2C    N 11   150   1.11 3
+ 21 3C    N 11   150   1.11 11
+ 32 3D    W  6   150   1.11 1
+ 33 4C    N 11   150   1.11 3
+ 36 4D    W  7   150   1.11 1
+ 37 3C    N 10   130   0.59 3
+ 40 4C    N 10   130   0.59 1
+ 41 2S    S  8   110   0.23 2
+ 43 3C    N  9   110   0.23 6
+ 49 3D    W  7   100  -0.14 3
+ 52 3H    E  7   100  -0.14 1
+ 53 4DX   W  9   100  -0.14 1
+ 54 4H    E  8   100  -0.14 2
+ 56 2D    W  7    50  -1.39 6
+ 62 2H    E  7    50  -1.39 1
+ 63 3D    W  8    50  -1.39 7
+ 70 3H    E  8    50  -1.39 4
+ 74 2D    W  8   -90  -4.41 4
+ 78 3S    S  8  -100  -4.57 1
+ 79 2D    W  9  -110  -4.70 3
+ 82 2H    E  8  -110  -4.70 1
+ 83 3D    W  9  -110  -4.70 7
+ 90 2D    W 10  -130  -5.35 1
+ 91 3D    W 10  -130  -5.35 2
+ 93 2S    S  6  -200  -6.63 1
+ 94 3S    S  7  -200  -6.63 1
+ 95 3NT   N  7  -200  -6.63 2
+ 97 3NT   N  6  -300  -8.57 3
+100 4S    S  7  -300  -8.57 1
+
+[Board "739"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:Q962.KT7653.K74. KJ3.Q84.T92.AKQT T5.A.J86.J965432 A874.J92.AQ53.87"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[ScoreIMP "NS -3.20"]
+[Auction "S"]
+2H 2NT Pass 3NT
+Pass Pass Pass
+[Play "N"]
+C2 C7 H6 CT
+D6 D3 DK DT
+D8 DQ D4 D2
+HA HJ H3 H4
+C9 C8 H5 CA
+DJ DA D7 D9
+C6 D5 H7 S3
+C3 H2 HK H8
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4S    E  6   400  12.34 1
+  2 3D    E  6   300  11.70 2
+  4 4H    W  7   300  11.70 1
+  5 4S    E  7   300  11.70 2
+  7 4S    W  7   300  11.70 1
+  8 3C    E  7   200  10.36 1
+  9 4S    E  8   200  10.36 5
+ 14 3D    E  8   100   9.15 1
+ 15 3NT   E  8   100   9.15 1
+ 16 3NT   W  8   100   9.15 1
+ 17 4S    E  9   100   9.15 1
+ 18 2H    S  6  -100   6.88 3
+ 21 2S    E  8  -110   6.73 2
+ 23 2NT   W  8  -120   6.60 1
+ 24 2C    N  5  -150   5.97 1
+ 25 5H    S  6  -250   4.45 1
+ 26 2HX   S  6  -300   3.48 2
+ 28 3CX   N  7  -300   3.48 3
+ 31 3CX   N  6  -500  -0.18 4
+ 35 3HX   S  6  -500  -0.18 1
+ 36 4CX   N  7  -500  -0.18 1
+ 37 4HX   S  7  -500  -0.18 1
+ 38 3NT   W  9  -600  -2.48 12
+ 50 4S    E 10  -620  -3.13 1
+ 51 3NT   W 10  -630  -3.20 36
+ 87 3NT   W 11  -660  -3.87 5
+ 92 3CX   N  5  -800  -6.90 2
+ 94 4CX   N  6  -800  -6.90 4
+ 98 4HX   S  6  -800  -6.90 1
+ 99 3CXX  S  6 -1000 -10.16 1
+100 4HX   S  5 -1100 -11.33 1
+101 5CX   N  6 -1100 -11.33 1
+
+[Board "740"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KT52.7654.J64.98 Q84.AKJ.KT93.KQ5 J7.983.AQ.AT7632 A963.QT2.8752.J4"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[ScoreIMP "NS -1.59"]
+[Auction "W"]
+Pass 1D 2C X
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+C6 CJ C9 C5
+DQ D2 D4 DT
+CA C4 C8 CQ
+C2 S3 H4 CK
+H3 HQ H5 HJ
+DA D5 D6 DK
+CT H2 S5 D3
+C7 D7 S2 S4
+C3 S6 H6 D9
+SJ SA ST SQ
+H8 HT H7 HK
+H9 D8 SK HA
+S7 S9 DJ S8
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4CX   E  7   800  13.57 1
+  2 3NT   N 10   630  12.27 1
+  3 3NT   N  9   600  12.18 1
+  4 2CX   E  6   500  11.15 1
+  5 2C    E  6   200   7.27 1
+  6 3C    E  7   200   7.27 1
+  7 2NT   N  8   120   5.91 1
+  8 2D    N  9   110   5.32 1
+  9 2S    S  8   110   5.32 2
+ 11 2C    E  7   100   5.18 3
+ 14 1NT   N  7    90   5.06 7
+ 21 2D    N  8    90   5.06 5
+ 26 1NT   N  6  -100   0.91 3
+ 29 2S    S  7  -100   0.91 1
+ 30 2NT   N  7  -100   0.91 7
+ 37 3D    N  8  -100   0.91 1
+ 38 3NT   N  8  -100   0.91 3
+ 41 1NT   N  5  -200  -1.59 1
+ 42 2NT   N  6  -200  -1.59 2
+ 44 3NT   N  7  -200  -1.59 37
+ 81 1NT   N  4  -300  -4.09 1
+ 82 3NT   N  6  -300  -4.09 11
+ 93 4S    S  7  -300  -4.09 1
+ 94 3NT   N  5  -400  -6.10 7
+101 3NT   N  4  -500  -7.93 2
+
+[Board "741"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:653.A982.J9653.K 874.T65.T7.AT872 AKQJ9.Q43.K.J963 T2.KJ7.AQ842.Q54"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[ScoreIMP "NS 1.67"]
+[Auction "N"]
+Pass Pass 1S X
+2S Pass Pass Pass
+[Play "W"]
+C4 CK CA C3
+DA D3 DT DK
+D2 D9 D7 H3
+D4 D5 H5 S9
+C5 S3 C2 C6
+H7 HA H6 H4
+D8 D6 HT SJ
+CQ S5 C7 C9
+S2 S6 S4 SQ
+ST H2 S7 SK
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3DX   W  5   800  11.84 1
+  2 4S    S 10   620   9.71 7
+  9 3NT   S  9   600   9.52 1
+ 10 2DX   W  5   500   7.99 1
+ 11 3DX   W  6   500   7.99 3
+ 14 2DX   W  6   300   4.43 2
+ 16 3C    E  4   250   3.30 1
+ 17 2S    S 10   170   1.67 7
+ 24 3S    S 10   170   1.67 3
+ 27 3C    E  6   150   0.88 1
+ 28 3D    W  6   150   0.88 1
+ 29 2S    S  9   140   0.85 24
+ 53 3S    S  9   140   0.85 5
+ 58 2H    N  8   110  -0.14 1
+ 59 2S    S  8   110  -0.14 7
+ 66 2DX   W  7   100  -0.18 1
+ 67 3C    E  7   100  -0.18 2
+ 69 3S    S  8  -100  -4.58 9
+ 78 4S    S  9  -100  -4.58 6
+ 84 3NT   N  7  -200  -6.69 1
+ 85 3NT   S  7  -200  -6.69 1
+ 86 4S    S  8  -200  -6.69 10
+ 96 4S    S  7  -300  -8.60 3
+
+[Board "742"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A5.K976.T653.Q75 T8.8542.QJ7.J643 43.AJT.A92.KT982 KQJ9762.Q3.K84.A"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[ScoreIMP "NS -2.43"]
+[Auction "E"]
+Pass Pass 1C 4S
+Pass Pass Pass
+[Play "E"]
+H6 H2 HA HQ
+H7 H4 HJ H3
+H9 H5 HT S6
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3SX   N  9   530  10.01 1
+  2 4S    N 10   420   8.43 1
+  3 1NT   E  4   300   5.93 1
+  4 3NT   W  6   300   5.93 1
+  5 4C    W  8   200   3.86 1
+  6 3S    N 10   170   3.33 3
+  9 2S    N  9   140   2.36 12
+ 21 3S    N  9   140   2.36 29
+ 50 1NT   W  6   100   1.35 1
+ 51 3C    W  8   100   1.35 1
+ 52 4C    W  9   100   1.35 2
+ 54 3S    N  8   -50  -2.43 1
+ 55 4S    N  9   -50  -2.43 31
+ 86 3C    W  9  -110  -3.90 1
+ 87 4SX   N  9  -100  -3.90 12
+ 99 1NT   E 10  -180  -5.83 1
+100 4H    E 10  -620 -12.07 1
+
+[Board "743"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J75.T87.J87.QJ94 43.K4.QT95.AKT63 KT2.J2.K6432.875 AQ986.AQ9653.A.2"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -1430"]
+[ScoreIMP "NS -7.51"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 3C Pass 3S
+Pass 3NT Pass 4S
+Pass 5H Pass 6D
+Pass 6H Pass Pass
+Pass
+[Play "S"]
+H7 H4 HJ HQ
+C4 CA C8 C2
+C9 CK C5 S6
+S5 S4 SK SA
+S7 S3 ST SQ
+SJ HK S2 S8
+D7 D5 D4 DA
+H8 C3 H2 HA
+HT - - H3
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 6NT   W 11   100  14.44 1
+  2 3S    E 12  -230  11.69 1
+  3 3NT   W 10  -630   5.79 8
+ 11 3NT   W 11  -660   5.45 6
+ 17 4NT   W 11  -660   5.45 3
+ 20 4H    E 12  -680   4.84 7
+ 27 4S    E 12  -680   4.84 2
+ 29 5H    E 12  -680   4.84 1
+ 30 3NT   W 12  -690   4.70 2
+ 32 4NT   W 12  -690   4.70 1
+ 33 4H    E 13  -710   4.17 23
+ 56 5H    E 13  -710   4.17 4
+ 60 3NT   W 13  -720   3.85 1
+ 61 6H    E 12 -1430  -7.51 13
+ 74 6S    E 12 -1430  -7.51 1
+ 75 6NT   W 12 -1440  -7.54 1
+ 76 6H    E 13 -1460  -8.20 20
+ 96 6H    W 13 -1460  -8.20 1
+ 97 7H    E 13 -2210 -15.53 1
+
+[Board "744"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J84.842.QT862.32 AQT653.AKJ..AKJ4 97.QT.KJ7543.T98 K2.97653.A9.Q765"]
+[Declarer "N"]
+[Contract "7S"]
+[Result "13"]
+[Score "NS 1510"]
+[ScoreIMP "NS 10.23"]
+[Auction "W"]
+Pass 2C Pass 2H
+Pass 2S Pass 2NT
+Pass 3C Pass 3S
+Pass 4C Pass 4D
+X Pass Pass XX
+Pass 4H Pass 5S
+Pass 5NT Pass 6C
+Pass 7S Pass Pass
+Pass
+[Play "E"]
+DK D9 D8 S3
+S7 SK S4 S5
+S9 S2 S8 SQ
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 7NT   N 13  1520  10.28 1
+  2 7H    S 13  1510  10.23 2
+  4 7S    N 13  1510  10.23 9
+ 13 7C    N 13  1440   9.32 4
+ 17 6DX   E  6  1400   8.45 1
+ 18 6NT   N 13  1020   1.63 2
+ 20 6NT   S 13  1020   1.63 2
+ 22 6H    S 13  1010   1.45 7
+ 29 6S    N 13  1010   1.45 28
+ 57 6S    S 13  1010   1.45 1
+ 58 6H    S 12   980   0.71 6
+ 64 6C    N 13   940   0.06 7
+ 71 3NT   S 13   520  -7.22 2
+ 73 4H    S 13   510  -7.68 1
+ 74 4S    N 13   510  -7.68 12
+ 86 5S    N 13   510  -7.68 1
+ 87 4H    S 12   480  -7.95 1
+ 88 2S    N 13   260 -10.46 1
+ 89 7H    S 12   -50 -12.96 6
+ 95 7H    S 11  -100 -13.77 1
+
+[Board "745"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K654.AQT7.KQ94.J QT83.98.J86.AQ53 A72.K632.T32.T96 J9.J54.A75.K8742"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[ScoreIMP "NS -0.01"]
+[Auction "N"]
+1D Pass 1H Pass
+3H Pass Pass Pass
+[Play "W"]
+SJ SK S3 S2
+C7 CJ CA C6
+S9 S4 S8 SA
+D5 DK D6 D3
+C2 S5 ST S7
+D7 S6 SQ D2
+DA D4 D8 DT
+CK H7 C3 C9
+H4 HA H8 H2
+H5 HT H9 HK
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4H    S 11   450   7.13 2
+  3 4H    N 10   420   6.53 1
+  4 4H    S 10   420   6.53 11
+ 15 2H    S 11   200   1.60 2
+ 17 3H    S 11   200   1.60 1
+ 18 2H    S 10   170   0.97 2
+ 20 3H    S 10   170   0.97 18
+ 38 2H    S  9   140  -0.01 10
+ 48 3H    S  9   140  -0.01 16
+ 64 1D    N  9   110  -0.89 2
+ 66 2H    S  8   110  -0.89 1
+ 67 1NT   S  7    90  -1.36 1
+ 68 1D    N  7    70  -1.84 1
+ 69 3H    S  8   -50  -4.69 10
+ 79 4H    S  9   -50  -4.69 6
+ 85 3H    S  7  -100  -5.93 1
+ 86 3NT   S  7  -100  -5.93 1
+ 87 4H    S  8  -100  -5.93 4
+
+[Board "746"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KT853.72.K.K9743 Q2.AJT4.T82.AQ62 A96.Q53.AQJ964.J J74.K986.753.T85"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[ScoreIMP "NS 2.48"]
+[Auction "E"]
+Pass 1C 2D Pass
+Pass Pass
+[Play "N"]
+C8 C3 CQ CJ
+D3 DK D2 D4
+SJ S3 S2 S9
+H6 H2 HA H3
+HK H7 HJ HQ
+H9 - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3D    W  8   100   6.48 2
+  3 4S    E  9   100   6.48 12
+ 15 1D    W  8   -90   2.48 3
+ 18 2D    W  8   -90   2.48 5
+ 23 2D    W  9  -110   2.13 1
+ 24 2S    E  8  -110   2.13 2
+ 26 3D    W  9  -110   2.13 1
+ 27 1D    W 10  -130   1.40 1
+ 28 2D    W 10  -130   1.40 1
+ 29 1S    E  9  -140   1.27 1
+ 30 2S    E  9  -140   1.27 8
+ 38 3S    E  9  -140   1.27 5
+ 43 2D    W 11  -150   1.23 1
+ 44 2S    E 10  -170   0.43 4
+ 48 3S    E 10  -170   0.43 2
+ 50 1S    E 11  -200  -0.28 1
+ 51 2H    S  6  -200  -0.28 1
+ 52 2S    E 11  -200  -0.28 8
+ 60 3H    N  7  -200  -0.28 4
+ 64 3S    E 11  -200  -0.28 3
+ 67 2S    E 12  -230  -1.18 1
+ 68 3H    N  6  -300  -2.59 1
+ 69 4S    E 10  -620  -8.39 3
+ 72 3NT   E 10  -630  -8.62 1
+ 73 4S    E 11  -650  -9.16 10
+ 83 4S    E 12  -680  -9.44 1
+
+[Board "747"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q95.QT3.AJ753.Q4 J32.AKJ72.T.J952 876.984.KQ62.T87 AKT4.65.984.AK63"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[ScoreIMP "NS -5.46"]
+[Auction "S"]
+Pass Pass Pass 1C
+1D 1H 2D 2H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+DK D4 D7 DT
+D2 D8 DA H2
+C8 CA C4 C2
+H4 H5 H3 HJ
+H8 H6 HT HA
+H9 D9 HQ HK
+S8 S4 SQ SJ
+DQ C3 DJ H7
+C7 CK CQ C5
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   E  7   100   7.30 1
+  2 3NT   E  8    50   6.35 3
+  5 4H    W  9    50   6.35 2
+  7 5C    E 10    50   6.35 1
+  8 5C    W 10    50   6.35 1
+  9 3C    E  9  -110   2.78 1
+ 10 2C    E 10  -130   2.24 1
+ 11 3C    E 10  -130   2.24 5
+ 16 4C    E 10  -130   2.24 4
+ 20 2H    W  9  -140   1.84 2
+ 22 2C    E 11  -150   1.70 1
+ 23 2D    S  5  -150   1.70 1
+ 24 3C    E 11  -150   1.70 8
+ 32 3C    W 11  -150   1.70 1
+ 33 3D    N  6  -150   1.70 1
+ 34 3D    S  6  -150   1.70 3
+ 37 4C    E 11  -150   1.70 1
+ 38 2H    W 10  -170   1.05 3
+ 41 3H    W 10  -170   1.05 3
+ 44 3S    E 10  -170   1.05 4
+ 48 4C    E 12  -170   1.05 1
+ 49 4C    W 12  -170   1.05 1
+ 50 1H    W 11  -200   0.19 1
+ 51 2H    W 11  -200   0.19 4
+ 55 2S    E 11  -200   0.19 2
+ 57 3H    W 11  -200   0.19 3
+ 60 2S    E 12  -230  -0.41 1
+ 61 2DX   S  6  -300  -2.27 1
+ 62 4H    W 10  -420  -4.87 1
+ 63 4S    E 10  -420  -4.87 1
+ 64 4H    W 11  -450  -5.46 11
+ 75 4S    E 11  -450  -5.46 1
+ 76 3DX   N  6  -500  -6.56 1
+ 77 3DX   S  6  -500  -6.56 2
+ 79 1CXX  E 10  -830 -11.18 1
+ 80 5DX   N  6 -1100 -13.56 1
+
+[Board "748"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J9643.J3.AQ4.AK7 Q87.AKT95.K72.52 A52..J986.QT9863 KT.Q87642.T53.J4"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[ScoreIMP "NS 3.57"]
+[Auction "W"]
+1S Pass 2S Pass
+Pass Pass
+[Play "N"]
+HA S2 H6 H3
+DK D6 D5 DQ
+S7 SA ST S3
+D7 D8 D3 DA
+H5 S5 H7 HJ
+C2 C3 C4 CA
+S8 C6 SK S4
+HT C8 H4 S6
+D2 DJ DT D4
+SQ D9 H2 C7
+HK C9 H8 S9
+C5 CT CJ SJ
+H9 CQ HQ CK
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4SX   W  9   100   9.18 1
+  2 5SX   W 10   100   9.18 1
+  3 3NT   W  8    50   8.14 3
+  6 5S    W 10    50   8.14 2
+  8 3H    N  8  -100   5.36 1
+  9 3C    E 10  -130   4.59 2
+ 11 3C    W 10  -130   4.59 1
+ 12 4C    W 10  -130   4.59 1
+ 13 4C    E 11  -150   4.27 1
+ 14 2S    W 10  -170   3.57 5
+ 19 3S    W 10  -170   3.57 3
+ 22 3S    W 11  -200   3.05 1
+ 23 4HX   N  9  -200   3.05 5
+ 28 3NT   W  9  -400  -1.72 2
+ 30 5C    E 11  -400  -1.72 2
+ 32 5C    W 11  -400  -1.72 1
+ 33 4S    W 10  -420  -2.47 29
+ 62 5C    W 12  -420  -2.47 1
+ 63 4S    W 11  -450  -3.24 5
+ 68 4HX   N  8  -500  -4.36 2
+ 70 5HX   N  9  -500  -4.36 6
+
+[Board "749"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AKQ64.763.QJ.J98 32.A85.T7643.T64 J8.QJ2.K9852.Q72 T975.KT94.A.AK53"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[ScoreIMP "NS 0.89"]
+[Auction "N"]
+1S Pass 1NT Pass
+Pass Pass
+[Play "W"]
+HT H3 HA H2
+H4 H6 H8 HQ
+DA DJ D4 D2
+CK C8 C4 C2
+HK H7 H5 HJ
+H9 C9 S2 D8
+CA - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 2DX   E  5   800  12.47 1
+  2 3DX   E  6   800  12.47 1
+  3 3DX   E  7   500   9.46 1
+  4 2D    E  5   300   5.78 1
+  5 2D    E  6   200   3.68 2
+  7 3C    W  7   200   3.68 1
+  8 3NT   W  7   200   3.68 1
+  9 1NT   S  9   150   2.45 1
+ 10 1DX   S  7   140   2.38 1
+ 11 1NT   S  8   120   1.84 4
+ 15 1S    N  8   110   1.43 1
+ 16 2S    N  8   110   1.43 13
+ 29 2D    E  7   100   1.11 2
+ 31 2NT   W  7   100   1.11 2
+ 33 1NT   S  7    90   0.89 19
+ 52 2C    N  7  -100  -3.72 1
+ 53 2D    S  7  -100  -3.72 3
+ 56 2S    N  7  -100  -3.72 16
+ 72 2NT   S  7  -100  -3.72 2
+ 74 2H    W  8  -110  -3.92 1
+ 75 2NT   W  8  -120  -4.34 1
+ 76 2DX   S  7  -200  -5.99 1
+ 77 2HX   W  8  -670 -12.45 1
+
+[Board "750"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AK.QT9.J532.K764 6.KJ765.T876.AJ2 Q975432.4.AQ9.QT JT8.A832.K4.9853"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[ScoreIMP "NS 4.68"]
+[Auction "E"]
+1C 1H 1S 2H
+Pass Pass 3S Pass
+Pass Pass
+[Play "N"]
+HA H9 H7 H4
+H8 HT HJ S2
+SJ SA S6 S3
+S8 SK H5 S4
+DK D2 D6 DQ
+H2 HQ HK S5
+ST C4 - SQ
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3NT   E  6   150  10.39 1
+  2 5SX   W 10   100   9.86 1
+  3 6S    W 10   100   9.86 1
+  4 4S    W  9    50   9.07 1
+  5 5H    S 10   -50   7.49 1
+  6 2S    W 10  -170   4.68 3
+  9 3S    W 10  -170   4.68 6
+ 15 2S    W 11  -200   4.29 1
+ 16 3S    W 11  -200   4.29 1
+ 17 4S    E 10  -420  -1.22 1
+ 18 4S    W 10  -420  -1.22 36
+ 54 4S    W 11  -450  -2.17 15
+ 69 4S    W 12  -480  -3.00 4
+ 73 4SX   W 11  -690  -7.65 1
+
+[Board "751"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K632.A.KT42.A964 T.JT853.A7653.83 74.Q962.Q.KQJT75 AQJ985.K74.J98.2"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "10"]
+[Score "NS 130"]
+[ScoreIMP "NS -2.37"]
+[Auction "S"]
+1C Pass 1H 1S
+Pass Pass 2C Pass
+Pass Pass
+[Play "W"]
+ST S4 SA S2
+C3 S7 SQ SK
+HJ H2 H7 HA
+DA DQ D8 D2
+H3 H9 HK C4
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3SX   E  5   800  10.03 1
+  2 4HX   W  6   800  10.03 1
+  3 3NT   S 11   660   8.03 1
+  4 3NT   S 10   630   7.48 10
+ 14 3NT   N  9   600   6.86 2
+ 16 3NT   S  9   600   6.86 8
+ 24 4DX   E  7   500   5.18 1
+ 25 4HX   W  7   500   5.18 1
+ 26 4SX   E  7   500   5.18 1
+ 27 4SX   E  8   300   1.39 1
+ 28 4SXX  E  9   200  -0.90 1
+ 29 3C    N 12   170  -1.51 1
+ 30 4C    N 12   170  -1.51 1
+ 31 3C    N 11   150  -1.80 2
+ 33 2C    N 10   130  -2.37 1
+ 34 2C    S 10   130  -2.37 1
+ 35 3C    N 10   130  -2.37 6
+ 41 3C    S 10   130  -2.37 4
+ 45 4C    N 10   130  -2.37 4
+ 49 4C    S 10   130  -2.37 2
+ 51 2SX   E  7   100  -3.10 1
+ 52 3H    W  7   100  -3.10 1
+ 53 3SX   E  8   100  -3.10 1
+ 54 4H    W  8   100  -3.10 1
+ 55 3S    E  8    50  -3.92 2
+ 57 2S    E  8  -110  -6.73 1
+ 58 5C    N 10  -100  -6.73 8
+ 66 5C    S 10  -100  -6.73 3
+ 69 1SX   E  7  -160  -7.87 1
+ 70 5CX   S 10  -200  -8.52 1
+ 71 6C    N 10  -200  -8.52 1
+ 72 6CX   S 10  -500 -12.37 1
+
+[Board "752"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT8543.T7.J95.KQ J7.Q5.KQT32.9642 K62.KJ43.A86.T87 Q9.A9862.74.AJ53"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[ScoreIMP "NS 6.12"]
+[Auction "W"]
+1S 2D 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+S7 S2 SQ SA
+HQ HK HA HT
+DQ DA D7 D9
+SJ SK S9 S3
+C2 C7 CA CQ
+DT D6 D4 D5
+DK D8 H6 DJ
+H5 - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 3S    W  8   100   6.12 2
+  3 4S    W  9   100   6.12 4
+  7 Pass  -  -     0   4.11 7
+ 14 2C    S  7   -50   2.67 1
+ 15 3H    S  8   -50   2.67 1
+ 16 1NT   N  5  -100   1.45 1
+ 17 3C    S  7  -100   1.45 1
+ 18 3H    S  7  -100   1.45 2
+ 20 2S    W  9  -140   0.39 4
+ 24 3S    W  9  -140   0.39 9
+ 33 3H    S  6  -150   0.33 1
+ 34 4C    N  7  -150   0.33 1
+ 35 4D    N  7  -150   0.33 1
+ 36 4H    S  7  -150   0.33 1
+ 37 1S    W 10  -170  -0.48 1
+ 38 2S    W 10  -170  -0.48 6
+ 44 3S    W 10  -170  -0.48 12
+ 56 2NT   E 10  -180  -0.53 1
+ 57 2S    W 11  -200  -1.29 1
+ 58 4H    S  6  -200  -1.29 3
+ 61 3NT   E  9  -600  -9.35 1
+ 62 4S    W 10  -620  -9.45 4
+ 66 3NT   E 10  -630  -9.53 1
+ 67 4SX   W 10  -790 -11.48 1
+
+[Board "753"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K6.Q3.AQ9652.T52 J952.AK75.84.J73 AQT3.T864.JT7.KQ 874.J92.K3.A9864"]
+[Declarer "N"]
+[Contract "1D"]
+[Result "11"]
+[Score "NS 150"]
+[ScoreIMP "NS -2.95"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D Pass Pass Pass
+[Play "E"]
+HA H4 H2 H3
+HK H6 H9 HQ
+S2 ST S4 S6
+D4 DJ DK DA
+D8 DT D3 D2
+H5 H8 HJ D9
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4DX   N 10   510   5.66 1
+  2 3NT   N 12   490   5.08 1
+  3 3NT   S 12   490   5.08 4
+  7 3NT   N 11   460   4.38 2
+  9 3NT   S 11   460   4.38 9
+ 18 1DX   N 10   440   3.66 1
+ 19 3NT   N 10   430   3.61 4
+ 23 3NT   S 10   430   3.61 6
+ 29 3NT   N  9   400   2.92 1
+ 30 2NT   S 12   240  -0.83 1
+ 31 2NT   N 10   180  -2.14 1
+ 32 2D    N 12   170  -2.48 1
+ 33 2D    S 12   170  -2.48 1
+ 34 4D    S 12   170  -2.48 1
+ 35 1D    N 11   150  -2.95 1
+ 36 1NT   N  9   150  -2.95 1
+ 37 2D    N 11   150  -2.95 10
+ 47 3D    N 11   150  -2.95 1
+ 48 2D    N 10   130  -3.62 9
+ 57 2D    S 10   130  -3.62 2
+ 59 3D    N 10   130  -3.62 4
+ 63 3D    S 10   130  -3.62 1
+ 64 Pass  -  -     0  -6.70 1
+ 65 2S    S  6  -100  -8.33 1
+
+[Board "754"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:8764.7.AK842.KT7 T9.A9853.QT5.QJ5 KJ532.KJ62.J6.84 AQ.QT4.973.A9632"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[ScoreIMP "NS -2.97"]
+[Auction "E"]
+Pass Pass 1S Pass
+3S Pass Pass Pass
+[Play "N"]
+D7 DA D5 D6
+HT H7 HA H2
+SQ S4 ST SJ
+SA S6 S9 S2
+C2 CK C5 C4
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4SX   W  8   300   8.32 1
+  2 1H    S  8   110   4.29 1
+  3 4S    W  8   100   4.29 1
+  4 4SX   W  9   100   4.29 5
+  9 4S    W  9    50   2.97 13
+ 22 Pass  -  -     0   1.62 10
+ 32 2H    S  7  -100  -1.02 1
+ 33 3H    N  8  -100  -1.02 1
+ 34 3H    S  8  -100  -1.02 3
+ 37 2S    E  9  -140  -2.02 1
+ 38 2S    W  9  -140  -2.02 8
+ 46 3S    E  9  -140  -2.02 1
+ 47 3S    W  9  -140  -2.02 13
+ 60 3S    W 10  -170  -2.97 3
+ 63 3H    S  7  -200  -3.52 1
+ 64 4C    N  8  -200  -3.52 1
+ 65 4H    S  7  -300  -5.61 1
+ 66 5H    S  7  -400  -7.64 1
+ 67 5CX   N  8  -800 -12.55 1
+
+[Board "755"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T4.K832.J94.KJ82 J9853.A4.A6.A974 AK7.JT65.QT532.6 Q62.Q97.K87.QT53"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 100"]
+[ScoreIMP "NS 4.86"]
+[Auction "S"]
+Pass 1S X 2S
+3H 3S Pass Pass
+Pass
+[Play "N"]
+C6 CQ CK CA
+SK S2 S4 S3
+HT HQ HK HA
+SA S6 ST S5
+H5 H7 H8 H4
+D2 C3 CJ C4
+S7 C5 C8 C7
+HJ H9 H2 S8
+H6 SQ C2 S9
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 4S    W  8   200   7.06 2
+  3 4SX   W  9   200   7.06 1
+  4 3S    W  8   100   4.86 5
+  9 4S    W  9   100   4.86 4
+ 13 3H    S  8   -50   1.51 3
+ 16 4D    N  9   -50   1.51 1
+ 17 3D    N  7  -100  -0.14 1
+ 18 3H    S  7  -100  -0.14 2
+ 20 2S    W  8  -110  -0.17 3
+ 23 1NT   E  8  -120  -0.41 1
+ 24 2S    W  9  -140  -1.17 15
+ 39 3S    W  9  -140  -1.17 16
+ 55 4H    N  7  -150  -1.22 1
+ 56 2S    W 10  -170  -2.10 5
+ 61 3S    W 10  -170  -2.10 2
+ 63 4DX   N  8  -300  -5.06 1
+ 64 4SX   W 10  -790 -12.21 1
+
+[Board "756"]
+[West "Bigguy46"]
+[North "papi"]
+[East "POOHBYR"]
+[South "snabu"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q4.62.AQ76.KJT82 AKJ653.A5.KT84.Q T8.KT743.93.9653 972.QJ98.J52.A74"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[ScoreIMP "NS 2.21"]
+[Auction "W"]
+1C X 1D 1H
+2D 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+D9 D2 DA D4
+D3 DJ D6 D8
+S8 S2 S4 SA
+ST S7 SQ SK
+C5 CA C8 CQ
+HK HQ H6 H5
+C6 - - -
+*
+[ScoreTable "Rank\3R;Contract\5L;Declarer\1;Result\2R;Score_NS\5R;IMP_NS\6R;Multiplicity"]
+  1 5CX   W  7  1100  10.80 1
+  2 4S    N 12   680   3.08 2
+  4 3NT   S 11   660   2.23 2
+  6 4S    N 11   650   2.21 28
+ 34 4S    N 10   620   1.30 17
+ 51 3S    N 12   230  -6.85 1
+ 52 2S    N 11   200  -7.51 2
+ 54 3S    N 11   200  -7.51 3
+ 57 1S    N 10   170  -7.98 1
+ 58 2S    N 10   170  -7.98 1
+ 59 3C    W  8   100  -9.13 1
+ 60 5S    N 10  -100 -11.34 2
+ 62 3NT   S  6  -300 -13.23 1
+
