@@ -1,0 +1,117 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.11"]
+[Round "08"]
+[Board "22"]
+[Room "Open"]
+[West "Amos Kaminski"]
+[North "Bob Hamman"]
+[East "Piotr Gawrys"]
+[South "Nick Nickell"]
+[Dealer "E"]
+[Deal "S:K3.AK63.JT986.82 A874.Q5.KQ5.AT75 J95.T9874.743.Q3 QT62.J2.A2.KJ964"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "W"]
+{
+Neither Piotr Gawrys nor Nickell considers his 11-point hand
+worth an opening bid, so Amos Kaminski, a former winner of this
+event, is left to open 1NT third in hand, after which a Stayman
+auction gets him to 4S on the 4-4 fit. When Hamman leads a heart
+and Nickell shows up with the ace/king there, it wouldn't be
+too unreasonable to play Hamman for the SK, but Kaminski gets
+both trumps and clubs right for a fairly normal, but nice-looking,
+plus 620.
+}
+[Auction "E"]
+Pass Pass 1NT Pass 
+2C Pass 2S Pass 
+4S Pass Pass Pass 
+[Play "N"]
+HT H2 HK H5 
+H9 HJ HA HQ 
+D3 DA DT D5 
+S5 S2 S3 SA 
+S9 ST SK S7 
+D4 D2 D9 DK 
+SJ SQ H3 S8 
+C3 CK C2 C5 
+CQ C4 C8 CA 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "08"]
+[Board "23"]
+[Room "Open"]
+[West "Amos Kaminski"]
+[North "Bob Hamman"]
+[East "Piotr Gawrys"]
+[South "Nick Nickell"]
+[Dealer "S"]
+[Deal "S:K52.T73.974.QT94 J964.K86.KQJ85.J QT8.9.62.AK87532 A73.AQJ542.AT3.6"]
+[Vulnerable "Both"]
+[Contract "7H"]
+[Declarer "E"]
+{
+Twenty years ago, everbody had the same set of responses to Blackwood.
+Nowadays, there are many different schemes. When Gawrys overcalls
+Hamman's third-seat 3C opening and Nickell decides to raise,
+fearing that would only help his opponents, Kaminski has the
+chance to issue a cooperative slam try with a 4C cue-bid.
+}
+[Auction "S"]
+Pass Pass 3C 3H 
+Pass 4NT Pass 5C 
+Pass 7H Pass Pass 
+Pass    
+[Play "S"]
+CT CJ CK C6 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "08"]
+[Board "24"]
+[Room "Open"]
+[West "Amos Kaminski"]
+[North "Bob Hamman"]
+[East "Piotr Gawrys"]
+[South "Nick Nickell"]
+[Dealer "W"]
+[Deal "S:KQJ9732.T92.Q.AJ 6.A874.AT542.987 T4.KQJ53.K7.KQ54 A85.6.J9863.T632"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "S"]
+{
+ After passing initially, Kaminski (steaming, perhaps) comes
+in with a delayed takeout double even though he hold only three
+cards in one of the two unbid suits. A lesser player than Gawrys
+might skip several levels in diamonds but he is either trying
+to steal from his opponents or catering to his partner's eccentricity
+when he settles for a quiet 1NT. This has no effect on North/South's
+bidding but you can judge for yourself whether it affected the
+play.
+}
+[Auction "W"]
+Pass 1H Pass 1S 
+X Pass 1NT 4S 
+Pass Pass Pass  
+[Play "W"]
+DA D7 D9 DQ 
+HA H3 H6 HT 
+C9 C4 C2 CA 
+C7 CK C3 CJ 
+D2 DK D3 H2 
+C8 CQ C6 H9 
+- ST - - 
+*
+[Result "10"]
+

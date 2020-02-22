@@ -1,0 +1,1422 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "European Team Championships '99"]
+[Site "Malta, MLT"]
+[Date "1999.06.23"]
+[Board "1"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J7.KQT542.KQ.AK8 AQ8.J86.AT83.T74 K953.A3.52.J9653 T642.97.J9764.Q2"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS 420"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "N"]
+1H Pass 1S Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+C4 CJ CQ CA
+H6 HA H7 H2
+H8 H3 H9 HK
+HJ C3 D4 HQ
+DA D2 D6 DK
+D3 D5 D7 DQ
+S8 SK S2 S7
+CT C5 C2 C8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "1"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J7.KQT542.KQ.AK8 AQ8.J86.AT83.T74 K953.A3.52.J9653 T642.97.J9764.Q2"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 450"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1H Pass 1S Pass
+3C Pass 4C Pass
+4H Pass Pass Pass
+[Play "E"]
+DA D2 D9 DQ
+SA S3 S6 S7
+S8 SK S2 SJ
+H6 HA H7 H2
+H8 H3 H9 HQ
+HJ D5 D4 HK
+D3 S5 D6 HT
+C4 C3 C2 CA
+C7 C5 CQ CK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "2"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J75.432.T83.T962 KT83.987.A975.KQ 962.JT6.KQ64.AJ8 AQ4.AKQ5.J2.7543"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS 630"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2D Pass 2S
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "W"]
+S9 S4 S5 ST
+HJ HA H2 H9
+S2 SA S7 S3
+H6 HK H3 H7
+S6 SQ SJ S8
+CA C3 C2 CK
+DK D2 D3 D5
+DQ DJ D8 DA
+D4 C4 DT D9
+C8 C5 C6 CQ
+HT - - SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "2"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J75.432.T83.T962 KT83.987.A975.KQ 962.JT6.KQ64.AJ8 AQ4.AKQ5.J2.7543"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "E"]
+C9 CQ CA C4
+D8 D5 DK D2
+C2 CK C8 C5
+S7 S3 S2 SQ
+C6 H7 CJ C3
+H2 H8 HJ HK
+CT H9 HT C7
+H3 D7 H6 HQ
+H4 S8 D4 HA
+S5 ST S6 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "3"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J42.87.AKT52.J85 K93.AT3.Q643.962 QT86.9.J97.AQ743 A75.KQJ6542.8.KT"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS -620"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "S"]
+Pass Pass Pass 4H
+Pass Pass Pass
+[Play "S"]
+DA D3 DJ D8
+SJ S3 S6 SA
+H7 HA H9 H2
+D2 D4 D9 HJ
+H8 HT D7 H4
+D5 D6 C3 H5
+S2 SK S8 S5
+DK DQ C4 S7
+S4 S9 ST -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "3"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J42.87.AKT52.J85 K93.AT3.Q643.962 QT86.9.J97.AQ743 A75.KQJ6542.8.KT"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -650"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1C 1H
+Pass 2D Pass 4H
+Pass Pass Pass
+[Play "S"]
+DK D3 DJ D8
+C5 C2 CA CT
+D2 D4 D7 HJ
+H7 H3 H9 HK
+H8 HA C3 H2
+D5 HT C4 HQ
+C8 S3 S6 H6
+CJ D6 D9 H5
+- - - CK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "4"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:2.T9.J842.AKQ954 T753.K63.KQ753.7 QJ986.A74.96.J83 AK4.QJ852.AT.T62"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "8"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS -90"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "W"]
+1C Pass 1S Pass
+2C Pass Pass Pass
+[Play "N"]
+DK D6 DT D4
+H3 H4 HJ H9
+C7 C3 C2 CA
+D3 D9 DA D2
+D5 C8 C6 C4
+HK HA H2 HT
+H6 H7 H5 C5
+D7 S6 CT D8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "4"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:2.T9.J842.AKQ954 T753.K63.KQ753.7 QJ986.A74.96.J83 AK4.QJ852.AT.T62"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+3C Pass Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+CA C7 C8 C6
+S2 S3 S6 SA
+H9 HK HA H2
+HT S5 SQ SK
+CK H3 C3 C2
+C4 H6 H4 HQ
+C5 D3 H7 HJ
+C9 S7 S8 H8
+D2 ST D6 H5
+D4 D5 D9 DA
+DJ DQ - DT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "5"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:3.A973.J85.AQJ96 9652.42.Q6.KT732 AJ874.KQJ86.AT7. KQT.T5.K9432.854"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "13"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS 1460"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "N"]
+1C Pass 1H Pass
+2C Pass 2H Pass
+3H Pass 4D Pass
+4S Pass 6H Pass
+Pass Pass
+[Play "W"]
+SK S3 S2 SA
+ST H7 S5 S4
+C4 CA C2 D7
+C5 CQ C3 DT
+D2 D5 D6 DA
+SQ HA S6 S7
+- H3 H2 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "5"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:3.A973.J85.AQJ96 9652.42.Q6.KT732 AJ874.KQJ86.AT7. KQT.T5.K9432.854"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 1430"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1C Pass 1S Pass
+2C Pass 3H Pass
+4D Pass 6H Pass
+Pass Pass
+[Play "W"]
+D3 D5 DQ DA
+ST S3 S2 SA
+SK H3 S5 S4
+C4 C6 C2 H6
+SQ H7 S6 S7
+H5 HA H2 H8
+HT H9 H4 HJ
+C5 C9 C3 HQ
+D2 CJ S9 SJ
+D4 CQ C7 S8
+- - - D7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "6"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KT3.Q983.97.AT32 965.AT642.T4.965 QJ87.J.AJ86.Q874 A42.K75.KQ532.KJ"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS -110"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "E"]
+Pass Pass 1D 1NT
+X 2H Pass Pass
+X Pass 2S Pass
+Pass Pass
+[Play "N"]
+S2 ST S6 S7
+DQ D7 D4 D6
+H5 H3 HA HJ
+SA S3 S5 S8
+S4 SK S9 SJ
+DK D9 DT DJ
+D2 C2 H2 D8
+CJ CA C5 C4
+- CT C6 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "6"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KT3.Q983.97.AT32 965.AT642.T4.965 QJ87.J.AJ86.Q874 A42.K75.KQ532.KJ"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 110"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass Pass 1NT
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "E"]
+D7 D4 DA D2
+D9 DT D6 DK
+H8 HT D8 DQ
+H3 HA HJ H5
+H9 H2 C7 HK
+C2 H4 DJ D3
+CA C5 C4 CJ
+HQ H6 S7 H7
+S3 S5 SJ S2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "7"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:83.J93.765.AKQT9 9742.T7542.T9.43 AQJT.AQ86.K84.82 K65.K.AQJ32.J765"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS 630"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "S"]
+1C Pass 1D 2D
+Pass Pass 2S Pass
+3H Pass 3NT Pass
+Pass Pass
+[Play "E"]
+DA D5 DT D4
+DQ D6 D9 DK
+C5 CA C3 C2
+C6 CK C4 C8
+C7 CQ S2 ST
+HK H9 H2 HA
+S5 HJ H4 H6
+D2 H3 H5 H8
+D3 S3 ^R S4 HQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "7"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:83.J93.765.AKQT9 9742.T7542.T9.43 AQJT.AQ86.K84.82 K65.K.AQJ32.J765"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1NT Pass
+3NT Pass Pass Pass
+[Play "E"]
+DQ D5 DT DK
+C7 CA C4 C8
+SK S3 S2 SQ
+DJ D6 D9 D4
+DA D7 H5 D8
+D2 H3 H2 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "8"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A98.J932.AQJ.AK9 QT63.74.98532.QT KJ.AQT5.K6.86432 7542.K86.T74.J75"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "11"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS 50"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "W"]
+1C Pass 1H Pass
+2NT Pass 3C Pass
+4C Pass 4D Pass
+4H Pass 4NT Pass
+5D Pass 6H Pass
+Pass Pass
+[Play "S"]
+C5 CA CT C2
+HK H9 H4 H5
+C7 CK CQ C3
+H6 H2 H7 HQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "8"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A98.J932.AQJ.AK9 QT63.74.98532.QT KJ.AQT5.K6.86432 7542.K86.T74.J75"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1H Pass
+4H Pass 4NT Pass
+5S X 6H Pass
+Pass Pass
+[Play "S"]
+S4 S8 SQ SK
+D7 DJ D2 D6
+HK H9 H4 H5
+S5 S9 ST SJ
+H6 H2 H7 HA
+H8 H3 D5 HQ
+S2 HJ S6 HT
+S7 SA S3 C2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "9"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQT8..9853.QJ987 AJ6.865.AKJ6.KT2 754.QJT9432.T7.6 932.AK7.Q42.A543"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS -600"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "N"]
+Pass 1NT 3H 3NT
+Pass Pass Pass
+[Play "S"]
+HT HK D8 H5
+C6 CA C7 C2
+H2 C3 CJ CK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "9"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQT8..9853.QJ987 AJ6.865.AKJ6.KT2 754.QJT9432.T7.6 932.AK7.Q42.A543"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -630"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1D 3H 3NT
+Pass Pass Pass
+[Play "N"]
+CQ C2 C6 CA
+C9 CT H2 C4
+D3 DA D7 D2
+D5 D6 DT DQ
+D8 DJ HQ D4
+D9 DK H3 S2
+C7 CK S4 C3
+S8 H5 H9 HA
+ST H6 H4 HK
+CJ H8 HT H7
+C8 S6 HJ C5
+SQ SA S5 S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "10"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:K3.J95.AT5.KJT85 9876.Q64.7432.Q3 AJT.K873.KQ9.A76 Q542.AT2.J86.942"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS -630"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "E"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+1NT Pass 3NT Pass
+Pass Pass
+[Play "S"]
+S9 ST S2 S3
+CQ C6 C2 CJ
+S6 SJ S4 SK
+H4 HK HA H5
+- - S5 HJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "10"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:K3.J95.AT5.KJT85 9876.Q64.7432.Q3 AJT.K873.KQ9.A76 Q542.AT2.J86.942"]
+[Declarer "E"]
+[Contract "4NT"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -660"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1NT Pass 2D Pass
+3C Pass 4C Pass
+4NT Pass Pass Pass
+[Play "S"]
+H4 H3 HT HJ
+C3 CA C2 C5
+CQ C6 C4 CJ
+S8 ST SQ SK
+- - - CK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "11"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A.AKQJ94.4.Q9832 43.3.AKT732.AT54 T9872.T8765.Q8.6 KQJ65.2.J965.KJ7"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "11"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS 650"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "S"]
+1H 2D 4H 4S
+5C X 5H Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+DK D8 D5 D4
+DA DQ D6 H4
+H3 HT H2 H9
+CT C6 C7 C8
+S4 S2 S5 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "11"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A.AKQJ94.4.Q9832 43.3.AKT732.AT54 T9872.T8765.Q8.6 KQJ65.2.J965.KJ7"]
+[Declarer "E"]
+[Contract "5SX"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 300"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1H 2D 4H 4S
+5C 5S X Pass
+Pass Pass
+[Play "S"]
+HK H3 H8 H2
+C9 CT C6 C7
+SA S3 S2 SQ
+C8 C4 S7 CJ
+H4 S4 S8 SJ
+H9 D2 S9 SK
+D4 DA D8 D5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "12"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:8.KQ764.T9542.97 KJ752.A.KQ3.AKQ3 AQT9.J532.J7.J42 643.T98.A86.T865"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "8"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS -500"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "W"]
+2D 2H 3H Pass
+Pass 3S Pass 4S
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+H3 H8 HQ HA
+S9 S3 S8 S2
+H2 H9 HK S5
+ST S4 D5 S7
+SA S6 H4 SJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "12"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:8.KQ764.T9542.97 KJ752.A.KQ3.AKQ3 AQT9.J532.J7.J42 643.T98.A86.T865"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -200"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 2C Pass 2D
+2H X 3H Pass
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+H2 H8 HQ HA
+D7 DA D5 D3
+SA S3 S8 SK
+H3 H9 HK S2
+S9 S4 C9 S7
+SQ S6 C7 S5
+HJ HT H6 SJ
+C2 C5 D2 CK
+C4 C6 D4 CA
+CJ C8 D9 CQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "13"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q.T8.A9853.T9654 986432.5.J764.AQ KT.9643.KQT.K732 AJ75.AKQJ72.2.J8"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "11"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS -650"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1S Pass 4D
+Pass 4NT Pass 5H
+Pass 5S Pass Pass
+Pass
+[Play "S"]
+DQ D2 DA D6
+C2 C8 C9 CA
+ST SA SQ S2
+H3 HA H8 H5
+- HK HT -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "13"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q.T8.A9853.T9654 986432.5.J764.AQ KT.9643.KQT.K732 AJ75.AKQJ72.2.J8"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -650"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1NT Pass 4S
+Pass Pass Pass
+[Play "N"]
+DA D4 DT D2
+D5 D6 DQ S5
+SQ S2 ST SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "14"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:Q32.854.T742.KJ3 AJ975.9763.3.T62 KT4.AKJ.8.AQ9875 86.QT2.AKQJ965.4"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "5"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS 200"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "E"]
+Pass 2D X Pass
+Pass XX 3C 3D
+Pass Pass X Pass
+3NT Pass Pass Pass
+[Play "S"]
+D3 D8 DJ D2
+- - DQ D4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "14"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:Q32.854.T742.KJ3 AJ975.9763.3.T62 KT4.AKJ.8.AQ9875 86.QT2.AKQJ965.4"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1C 1D
+2C Pass 3D Pass
+5C Pass Pass Pass
+[Play "N"]
+DK D2 D3 D8
+DQ D4 S5 C5
+C4 C3 C2 CA
+D5 CJ C6 C8
+HQ H4 H3 HJ
+DA D7 S7 C7
+H2 H5 H6 HA
+HT H8 H7 HK
+S6 SQ SA S4
+S8 S2 S9 SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "15"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:T3.KJ965.K42.K72 85.QT2.Q975.Q963 KQ962.843.JT86.J AJ74.A7.A3.AT854"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS -130"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "S"]
+Pass Pass Pass 1C
+1H Pass 1S X
+Pass 1NT 2H Pass
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+ST S5 SQ SA
+C2 C3 CJ CA
+C7 C6 H8 C4
+S3 S8 S2 S4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "15"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:T3.KJ965.K42.K72 85.QT2.Q975.Q963 KQ962.843.JT86.J AJ74.A7.A3.AT854"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -130"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass Pass 1C
+1H 2C 2S X
+Pass 3C Pass Pass
+Pass
+[Play "S"]
+ST S5 SQ SA
+C2 C3 CJ CA
+CK C6 H3 C4
+S3 S8 SK S4
+HK H2 H4 H7
+DK D5 D6 DA
+C7 CQ - C5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "16"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K.QT95.95.KQJ983 AQT852.A.AQ3.AT2 J3.432.KT764.754 9764.KJ876.J82.6"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "13"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS 1010"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "W"]
+1C 1S Pass 3C
+Pass 4C Pass 4S
+Pass 6S Pass Pass
+Pass
+[Play "E"]
+D4 D2 D9 DQ
+S3 S4 SK SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "16"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K.QT95.95.KQJ983 AQT852.A.AQ3.AT2 J3.432.KT764.754 9764.KJ876.J82.6"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 480"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C X 1D 1H
+2C 4S Pass Pass
+Pass
+[Play "E"]
+C7 C6 CJ CA
+H2 H6 H5 HA
+C4 S4 C3 C2
+S3 S6 SK SA
+C5 S7 C8 CT
+SJ S9 CK SQ
+DK D2 D5 D3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "17"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQJ3.943.T74.732 A2.JT862.AKJ93.A 8754.AQ5.Q65.J94 T96.K7.82.KQT865"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS -450"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "N"]
+Pass 1H Pass 1NT
+Pass 2D Pass 2H
+Pass 3D Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+S5 S6 SJ SA
+D5 D2 D4 DA
+D6 D8 D7 DK
+C4 C5 C2 CA
+DQ H7 DT D3
+C9 CK C3 S2
+CJ CQ C7 D9
+S4 S9 S3 H2
+S7 HK SQ DJ
+S8 ST SK H6
+H5 C6 H3 H8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "17"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQJ3.943.T74.732 A2.JT862.AKJ93.A 8754.AQ5.Q65.J94 T96.K7.82.KQT865"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -450"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2D Pass 2H
+Pass 3D Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+C4 C5 C7 CA
+D5 D2 D4 DA
+D6 D8 D7 DK
+DQ H7 DT D3
+C9 CK C2 S2
+HA HK H3 H2
+S4 S6 SJ SA
+HQ C6 H4 HJ
+S5 S9 SQ H6
+H5 C8 H9 HT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "18"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KQ2.JT6.AJ5.Q632 5.AQ8.T98632.AT9 AT743.K9743.Q.K8 J986.52.K74.J754"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS 50"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "E"]
+1C Pass 1S Pass
+1NT 2D 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+D4 DA D2 DQ
+S6 SK S5 S3
+S8 SQ D3 S4
+H2 HJ HA H3
+DK D5 D6 C8
+C4 C2 CA CK
+D7 DJ D8 H4
+H5 HT HQ HK
+SJ S2 C9 ST
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "18"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KQ2.JT6.AJ5.Q632 5.AQ8.T98632.AT9 AT743.K9743.Q.K8 J986.52.K74.J754"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1NT 2D 4D X
+Pass Pass 4H Pass
+Pass Pass
+[Play "N"]
+DK DA D2 DQ
+H2 HJ HA H3
+S6 SQ S5 S3
+H5 H6 H8 HK
+S8 SK HQ S4
+C4 C2 CA C8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "19"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKQJT64.A86.A3.8 985.J42.K75.KT64 72.Q953.984.J932 3.KT7.QJT62.AQ75"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS 400"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "S"]
+2C Pass 2D X
+3NT Pass Pass Pass
+[Play "W"]
+D5 D4 DT DA
+S5 S2 S3 SA
+S8 S7 C5 SK
+S9 D8 C7 SQ
+DK D9 H7 SJ
+HJ H3 CQ ST
+H4 C2 D6 S6
+C4 C3 D2 S4
+H2 H5 HT HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "19"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKQJT64.A86.A3.8 985.J42.K75.KT64 72.Q953.984.J932 3.KT7.QJT62.AQ75"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+2C Pass 2D Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+S9 S2 S3 ST
+S5 S7 C5 SA
+S8 D4 D2 SK
+C4 H3 D6 SQ
+D5 D8 C7 SJ
+C6 D9 DQ S6
+H2 H5 H7 HA
+H4 HQ HK H6
+D7 C2 DJ DA
+CT H9 HT S4
+DK C3 DT D3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.23"]
+[Board "20"]
+[West "Nab B"]
+[North "Godtfredsen S"]
+[East "Bertens H"]
+[South "Moller S"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T3.J73.52.KQJ864 AK74.KQ6.T976.95 Q985.A9.J3.AT732 J62.T8542.AKQ84."]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Denmark"]
+[Room "Open"]
+[Round "28"]
+[Score "NS 650"]
+[Table "10"]
+[VisitTeam "Neth.lnds"]
+[Auction "W"]
+Pass 1NT Pass 2D
+Pass 2H Pass 3D
+Pass 3H Pass 3NT
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+S8 SJ S3 S4
+HA H2 H3 HK
+C2 H4 C4 C5
+H9 H5 H7 HQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "20"]
+[West "Schaltz P"]
+[North "De Boer W"]
+[East "Schaltz D"]
+[South "Muller B"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T3.J73.52.KQJ864 AK74.KQ6.T976.95 Q985.A9.J3.AT732 J62.T8542.AKQ84."]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1D Pass 1H
+2C X 2H 4H
+Pass Pass Pass
+[Play "W"]
+CK C5 CA H2
+H3 HK HA H5
+CQ C9 C7 S2
+C6 H6 C2 D4
+H7 HQ H9 H4
+D2 D6 D3 DA
+*
+

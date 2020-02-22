@@ -1,0 +1,122 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.12"]
+[Round "26"]
+[Board "22"]
+[Room "Open"]
+[West "J-C Quantin"]
+[North "Alain Levy"]
+[East "M. Abecassis"]
+[South "Paul Chemla"]
+[Dealer "E"]
+[Deal "S:8.95432.Q54.A987 J93.AQ.76.KT6532 A75.KJ8.KJT982.J KQT642.T76.A3.Q4"]
+[Vulnerable "EW"]
+[Contract "5DX"]
+[Declarer "N"]
+{
+Vive la France! European pairs champions Jean-Christophe Quantin
+and Michel Abecassis take on their countrymen, world champions
+Paul Chemla and Alain Lévy. Quantin/Abecassis are fifth after
+two sessions, while Chemla/Lévy have done badly so far. Time
+for a change, maybe? Here, the bidding quickly escalates to 4S,
+and even though Lévy has good defense, the vulnerability tempts
+him into a save.
+}
+[Auction "E"]
+1S Pass 2C 2D 
+2S 3D 4S 5D 
+Pass Pass X Pass 
+Pass Pass   
+[Play "E"]
+CQ CA C6 CJ 
+H6 H2 HA H8 
+DA D4 D6 D8 
+D3 DQ D7 D9 
+- H3 HQ HK 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "26"]
+[Board "23"]
+[Room "Open"]
+[West "J-C Quantin"]
+[North "Alain Levy"]
+[East "M. Abecassis"]
+[South "Paul Chemla"]
+[Dealer "S"]
+[Deal "S:765.AKQ97.63.K85 QT92.JT.QT.AJ972 A83.532.AKJ85.Q3 KJ4.864.9742.T64"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "S"]
+{
+If South's hearts are worth five tricks, 3NT is where you want
+to be, since you only go down if you get a spade lead, and spades
+are 5-2 or 6-1 with the long spade hand also having the CA. But
+when Chemla rebid his chunky hearts instead of 2NT (which still
+may have led to 4H, of course), North/South ended in 4H, as most
+pairs would.
+}
+[Auction "S"]
+1H Pass 2D Pass 
+2H Pass 4H Pass 
+Pass Pass   
+[Play "W"]
+ST S3 SK S6 
+S2 SA SJ S5 
+CA CQ C4 C5 
+SQ S8 S4 S7 
+DT DA D2 D3 
+HJ H2 H4 HA 
+C7 C3 C6 CK 
+C2 H3 CT C8 
+HT H5 H6 HK 
+- - - HQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "26"]
+[Board "24"]
+[Room "Open"]
+[West "J-C Quantin"]
+[North "Alain Levy"]
+[East "M. Abecassis"]
+[South "Paul Chemla"]
+[Dealer "W"]
+[Deal "S:T.AJ9852.72.K843 KQ76.7.JT93.JT96 8542.KQ4.A86.A72 AJ93.T63.KQ54.Q5"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "S"]
+{
+I would expect the choice for most players with the East hand
+would be between double and pass, but Abecassis preferred 1D.
+After pass or double, North/South may have been content with
+a heart part-score, but now momentum carried them all the way
+to 4H. All Chemla had to do was ruff a club in dummy before drawing
+trumps, and when he started on clubs immediately, he soon had
+his ten tricks; plus 420.
+}
+[Auction "W"]
+Pass 1C 1D 2H 
+3D 4H Pass Pass 
+Pass    
+[Play "W"]
+DJ DA D5 D7 
+CJ CA C5 C3 
+C6 C2 CQ CK 
+C9 C7 D4 C4 
+DT D6 DQ D2 
+D3 D8 DK H2 
+CT HK S3 C8 
+H7 HQ H3 H5 
+*
+[Result "10"]
+

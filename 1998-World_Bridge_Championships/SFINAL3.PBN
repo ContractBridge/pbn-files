@@ -1,0 +1,853 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1998 World Bridge Championships"]
+[Site "Grand Palais - Lille, France, FRA"]
+[Date "1998.09.04"]
+[Round "3"]
+[Board "1"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "None"]
+[Deal "S:AKJ.754.K43.AKQ3 T32.6.J9862.9872 864.AKJT832.A.T4 Q975.Q9.QT75.J65"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 2C Pass 
+2S Pass 2NT Pass 
+3C Pass 3D Pass 
+3NT Pass 4C Pass 
+4D Pass 4S Pass 
+4NT Pass 5C Pass 
+5H Pass 7NT Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "7NT"]
+[Play "W"]
+C9 CT CJ CA 
+H6 HA H9 H5 
+*
+[Room "Open"]
+[Result "13"]
+[Score "+1520"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "1"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "None"]
+[Deal "S:AKJ.754.K43.AKQ3 T32.6.J9862.9872 864.AKJT832.A.T4 Q975.Q9.QT75.J65"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 2C Pass 
+2H Pass 2NT Pass 
+3D Pass 3H Pass 
+4D Pass 4NT Pass 
+5C Pass 5D Pass 
+5H Pass 5S Pass 
+6H Pass 6NT Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "6NT"]
+[Play "W"]
+D6 DA D5 D3 
+H6 HA H9 H4 
+*
+[Room "Closed"]
+[Result "13"]
+[Score "+1020"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "2"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "NS"]
+[Deal "S:T732.K6.AQ43.AT8 985.A94.JT876.K3 K6.QT87.K52.Q962 AQJ4.J532.9.J754"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C Pass 1H 
+1S Pass 2S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+S3 S5 SK SA 
+DQ D6 D5 D9 
+HK HA H7 H2 
+D3 DJ DK S4 
+C8 CK C2 C4 
+H6 H4 HQ H3 
+S2 H9 HT HJ 
+S7 S8 S6 SJ 
+D4 S9 H8 H5 
+DA DT D2 C5 
+ST - - - 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "2"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "NS"]
+[Deal "S:T732.K6.AQ43.AT8 985.A94.JT876.K3 K6.QT87.K52.Q962 AQJ4.J532.9.J754"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D Pass 1H 
+X Pass 1S 1NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+D9 D3 D6 DK 
+C4 C8 C3 CQ 
+H2 HK HA H8 
+H3 DA DJ D2 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "3"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "EW"]
+[Deal "S:AQ98.AT63..AQJ84 765.842.AJ42.K52 K2.KJ975.KT9.T76 JT43.Q.Q87653.93"]
+[Dealer "S"]
+[Auction "S"]
+1C Pass 1H Pass 
+4D Pass 4NT Pass 
+5C Pass 5D Pass 
+5H Pass 6H Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "6H"]
+[Play "E"]
+D6 H3 D4 D9 
+HQ HA H2 H5 
+D8 H6 H4 HK 
+C3 C4 C5 CT 
+C9 CQ CK C6 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+980"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "3"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "EW"]
+[Deal "S:AQ98.AT63..AQJ84 765.842.AJ42.K52 K2.KJ975.KT9.T76 JT43.Q.Q87653.93"]
+[Dealer "S"]
+[Auction "S"]
+1C Pass 1H Pass 
+4D Pass 4NT Pass 
+5C Pass 5D Pass 
+5H Pass 6H Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "6H"]
+[Play "E"]
+S3 S8 S7 S2 
+HQ HA H2 H5 
+D3 H3 H4 HJ 
+- - - HK 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+980"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "4"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "Both"]
+[Deal "S:J9.T842.AKQ74.AK 52.AJ63.J5.JT973 AT.9.98632.86542 KQ87643.KQ75.T.Q"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1S 2D 
+Pass 4D Pass 5D 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "5D"]
+[Play "W"]
+CJ C2 CQ CA 
+D5 D2 DT DA 
+DJ D3 S7 DK 
+C3 C4 S3 CK 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "4"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "Both"]
+[Deal "S:J9.T842.AKQ74.AK 52.AJ63.J5.JT973 AT.9.98632.86542 KQ87643.KQ75.T.Q"]
+[Dealer "W"]
+[Auction "W"]
+2C Pass 3S Pass 
+4S Pass Pass Pass 
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+SJ S2 SA S3 
+H4 HA H9 H5 
+S9 S5 ST SQ 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "5"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "NS"]
+[Deal "S:842.J94.7432.K87 T3.AKQT.AQJT.J64 AJ96.86.K98.T952 KQ75.7532.65.AQ3"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 1D 
+Pass 1H Pass 3H 
+Pass 3NT Pass 4H 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+S2 S3 SA S5 
+CK C4 CT C3 
+C8 C6 C2 CA 
+HJ HA H6 H2 
+H9 HK H8 H3 
+H4 HQ D8 H5 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "5"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "NS"]
+[Deal "S:842.J94.7432.K87 T3.AKQT.AQJT.J64 AJ96.86.K98.T952 KQ75.7532.65.AQ3"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 2H Pass 4H 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+C2 C3 CK C4 
+DK D5 D2 DQ 
+SA S5 S8 S3 
+D9 D6 D3 DA 
+H6 H2 H4 HA 
+H8 H3 H9 HK 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "6"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "EW"]
+[Deal "S:Q7.6543.QT5.K763 K93.Q8.K642.A852 AT82.T2.J93.QJ94 J654.AKJ97.A87.T"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 2C Pass 
+2H Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+CQ CT C3 C2 
+C4 S4 CK C5 
+C9 S5 C6 CA 
+H2 H7 H3 HQ 
+HT HA H4 H8 
+S2 HK H5 S3 
+S8 HJ H6 D2 
+D9 H9 C7 D4 
+D3 DA D5 D6 
+DJ D7 DT DK 
+- - - C8 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "6"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "EW"]
+[Deal "S:Q7.6543.QT5.K763 K93.Q8.K642.A852 AT82.T2.J93.QJ94 J654.AKJ97.A87.T"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 2C Pass 
+2H Pass 2S Pass 
+3C Pass 3NT Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+CQ CT C7 C2 
+CJ D7 C3 C5 
+C4 S4 CK CA 
+H2 H7 H3 HQ 
+HT HA H4 H8 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "7"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "None"]
+[Deal "S:J6543.Q642.A8.75 AQ.K.KQJ754.KQT9 82.AT98.T632.J82 KT97.J753.9.A643"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1H Pass 
+3C Pass 4C Pass 
+4D Pass 4S Pass 
+5C Pass Pass Pass 
+[Declarer "W"]
+[Contract "5C"]
+[Play "N"]
+HA H3 H2 HK 
+HT HJ HQ C9 
+C2 C3 C5 CQ 
+D2 D9 DA DQ 
+H9 H7 H4 CT 
+C8 C4 C7 CK 
+D6 C6 D8 D4 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "7"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "None"]
+[Deal "S:J6543.Q642.A8.75 AQ.K.KQJ754.KQT9 82.AT98.T632.J82 KT97.J753.9.A643"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 2H Pass 
+3D Pass 3NT Pass 
+4C Pass 4S Pass 
+5C Pass Pass Pass 
+[Declarer "W"]
+[Contract "5C"]
+[Play "N"]
+HA H3 H2 HK 
+HT HJ HQ C9 
+D2 D9 DA DK 
+H8 H5 H4 CT 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "8"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "Both"]
+[Deal "S:J654.97.A6.J8753 KQ732.8654.952.6 AT98.QJ2.KQJ8.K4 .AKT3.T743.AQT92"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1NT 2C 
+X 2H Pass Pass 
+2S Pass 3S Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "3S"]
+[Play "W"]
+C6 CK CA C5 
+H8 H2 HK H9 
+H4 HJ HA H7 
+D9 C4 CQ C3 
+D2 D8 D3 D6 
+H5 HQ H3 C7 
+D5 DJ DT DA 
+S2 S8 C2 S4 
+S3 DK D7 C8 
+SK SA CT S5 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "8"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "Both"]
+[Deal "S:J654.97.A6.J8753 KQ732.8654.952.6 AT98.QJ2.KQJ8.K4 .AKT3.T743.AQT92"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1NT 2C 
+X 2H Pass Pass 
+2S Pass 3S Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "3S"]
+[Play "W"]
+C6 C4 CQ C3 
+H4 H2 HK H9 
+H5 CK CA C8 
+H6 HJ HA H7 
+D2 D8 CT CJ 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "9"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "EW"]
+[Deal "S:K852.KQ8.J63.T74 64.64.9852.AKQ95 AQT9.JT9752.QT4. J73.A3.AK7.J8632"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C Pass 2C 
+2H X 3H Pass 
+Pass X Pass 4C 
+Pass 4D Pass 5C 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "5C"]
+[Play "S"]
+HK H4 HJ HA 
+C7 CA H2 C2 
+C4 CK H5 C3 
+CT CQ H7 C6 
+DJ D2 D4 D7 
+H8 H6 H9 H3 
+S2 S4 SA S7 
+SK S6 S9 SJ 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "9"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "EW"]
+[Deal "S:K852.KQ8.J63.T74 64.64.9852.AKQ95 AQT9.JT9752.QT4. J73.A3.AK7.J8632"]
+[Dealer "N"]
+[Auction "N"]
+2H X 3H 4C 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "4C"]
+[Play "N"]
+HJ H3 HQ H4 
+H2 HA H8 H6 
+H5 C2 C4 CA 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "10"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "None"]
+[Deal "S:764.K943.J94.Q42 QJT.QJ82.AQ2.T73 A852.A5.T853.K98 K93.T76.K76.AJ65"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+S5 SK S7 ST 
+H5 H6 H3 HQ 
+HA H7 H4 H2 
+S2 S3 S6 SJ 
+D8 HT HK H8 
+SA S9 S4 SQ 
+S8 C5 - - 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "10"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "None"]
+[Deal "S:764.K943.J94.Q42 QJT.QJ82.AQ2.T73 A852.A5.T853.K98 K93.T76.K76.AJ65"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D Pass 1NT 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+H3 H2 HA H6 
+S4 ST S2 S9 
+HK H8 H5 HT 
+S6 - - - 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "11"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "Both"]
+[Deal "S:Q65.Q97.9875.Q65 9872.832.KJ4.874 J43.AJT54.T63.A9 AKT.K6.AQ2.KJT32"]
+[Dealer "E"]
+[Auction "E"]
+2NT Pass 3C Pass 
+3D Pass 3NT Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+SQ S2 S3 SA 
+D5 DK D6 DQ 
+CQ C4 C9 CJ 
+S6 S7 SJ SK 
+C6 C7 CA C3 
+H7 H2 HT HK 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+660"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "11"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "Both"]
+[Deal "S:Q65.Q97.9875.Q65 9872.832.KJ4.874 J43.AJT54.T63.A9 AKT.K6.AQ2.KJT32"]
+[Dealer "E"]
+[Auction "E"]
+1C Pass 1D 1H 
+1NT Pass Pass Pass 
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+H7 H2 HT HK 
+D5 DJ D3 D2 
+CQ C4 C9 CJ 
+HQ H3 H4 H6 
+H9 - - - 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "12"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "NS"]
+[Deal "S:KQJ964.A.75.QJ96 AT3.T72.Q832.K83 872.KQ85.AKJT9.4 5.J9643.64.AT752"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D Pass 2C 
+Pass 2H Pass 2S 
+Pass 2NT Pass 3C 
+Pass 3D Pass 4C 
+Pass 4D Pass 4S 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+D8 DA D6 D5 
+H7 H5 H4 HA 
+S3 S2 S5 SK 
+CK C4 C7 CQ 
+SA S7 H3 S6 
+ST S8 C2 SQ 
+H2 D9 C5 SJ 
+C3 DT D4 S9 
+D2 DK CT D7 
+HT HK H6 C6 
+- HQ H9 - 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "12"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "NS"]
+[Deal "S:KQJ964.A.75.QJ96 AT3.T72.Q832.K83 872.KQ85.AKJT9.4 5.J9643.64.AT752"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D 1H 1S 
+2H X Pass 3S 
+Pass 4S Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+HT H5 H3 HA 
+CK C4 C5 CJ 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "13"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "Both"]
+[Deal "S:954.A4.Q954.J763 J.J7653.KJ873.K9 AK83.T9.T6.AQT42 QT762.KQ82.A2.85"]
+[Dealer "N"]
+[Auction "N"]
+2C X 3C 4H 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+SA S2 S9 SJ 
+CA C5 CJ C9 
+SK S6 S5 H3 
+H9 HK HA H5 
+- - C3 CK 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "13"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "Both"]
+[Deal "S:954.A4.Q954.J763 J.J7653.KJ873.K9 AK83.T9.T6.AQT42 QT762.KQ82.A2.85"]
+[Dealer "N"]
+[Auction "N"]
+1C 1S 2C X 
+3C Pass Pass Pass 
+[Declarer "N"]
+[Contract "3C"]
+[Play "E"]
+HK HA H7 H9 
+C5 CJ C9 C4 
+C8 C3 CK CA 
+D2 D9 DJ D6 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "14"]
+[West "Branco"]
+[North "Lindkvist"]
+[East "Chagas"]
+[South "Fredin"]
+[Vulnerable "None"]
+[Deal "S:73.AT8.AKQ64.T72 QT984.K763.T3.K5 KJ52.J52.5.J9843 A6.Q94.J9872.AQ6"]
+[Dealer "E"]
+[Auction "E"]
+1NT X 2S Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+D5 D2 DQ DT 
+C9 C6 C2 CK 
+C4 CQ C7 C5 
+C3 CA CT D3 
+H5 H4 H8 HK 
+H2 H9 HT H6 
+S5 D7 DA S4 
+HJ HQ HA H3 
+SJ D8 D4 S8 
+C8 D9 S7 S9 
+S2 S6 S3 ST 
+- - - H7 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "14"]
+[West "Fallenius"]
+[North "Campos"]
+[East "Nilsland"]
+[South "Villas Boas"]
+[Vulnerable "None"]
+[Deal "S:73.AT8.AKQ64.T72 QT984.K763.T3.K5 KJ52.J52.5.J9843 A6.Q94.J9872.AQ6"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 2C Pass 
+2D Pass 2NT Pass 
+Pass 3D Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3D"]
+[Play "W"]
+CK C3 C6 C2 
+C5 C4 CQ CT 
+D3 D5 D2 DA 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-150"]
+

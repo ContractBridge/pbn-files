@@ -1,0 +1,1311 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "6th NEC Cup Bridge Festival 2001"]
+[Site "JCBL - Pacifico Yokohama, Yokohama City, Japan, JPN"]
+[Date "2001.02.07"]
+[Round "01"]
+[Board "1"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "N"]
+[Deal "S:J.973.AQJT73.JT5 652.A862.86.A984 AQT973.QT4.952.7 K84.KJ5.K4.KQ632"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+Over North's classic weak 2S both Ogihara and Schiesser bit the
+bullet and tried 2NT, surely not liking it much. Geller checked
+for a heart fit but Wernle, fearing spade ruffs, sensibly raised
+to 3NT. In effect, the textbook weak two pushed the E/W pairs
+into a game they would not have bid on their own. A spade lead
+and diamond shift could have led to a quick three down but it
+didn't happen that way at either table.
+}
+[Auction "N"]
+2S 2NT Pass 3C 
+Pass 3D X 3NT 
+Pass Pass Pass  
+[Play "S"]
+SJ S2 SQ SK 
+C5 C4 C7 CK 
+CT CA S3 C2 
+CJ C9 D5 CQ 
+D3 C8 D2 C3 
+H3 HA H4 H5 
+H7 H2 HT HK 
+D7 H6 D9 C6 
+H9 H8 HQ HJ 
+- - SA - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "1"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "N"]
+[Deal "S:J.973.AQJT73.JT5 652.A862.86.A984 AQT973.QT4.952.7 K84.KJ5.K4.KQ632"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "E"]
+[Auction "N"]
+2S 2NT Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+DQ D6 D2 DK 
+C5 C8 C7 CK 
+CT CA S7 C2 
+CJ C9 S3 CQ 
+H9 C4 S9 C6 
+D3 S2 D5 C3 
+H3 HA H4 H5 
+SJ S5 SA S4 
+DT D8 D9 D4 
+DA S6 HT S8 
+DJ H2 HQ HJ 
+D7 H6 ST SK 
+H7 H8 SQ HK 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "2"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "E"]
+[Deal "S:KT97.K94.42.KQ64 J.AT7653.Q.AJ975 42.82.AJ765.T832 AQ8653.QJ.KT983."]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "W"]
+{
+Geller took a conservative approach by inviting game and focusing
+on hearts. With a good hand for that strain Ogihara saw no need
+to continue describing her own hand. Gloyer stayed off the unbid
+suit, leading the S4, Geller ducking to the king. Schifko switched
+to a diamond to secure the ace and on the diamond return, Geller
+went up with the king, discarding a club. Then SK to throw a
+club, D ruff, CA, C ruff, D ruff, C ruff, D ruff, Shifko discarding
+spade, club, spade. In the three-card ending Geller was poised
+to make his contract by exiting with the 7. Gloyer went in with
+the eight but Shifko overtook with the nine to return the four.
+Geller went up with the ace but the king did not drop, so he
+was one down: minus 50. What a curious position, If South had
+indeed started with three small hearts (as Geller assumed) he
+could not afford to ruff in, keeping a spade to lead for the
+trump promotion late in the day, because Geller would eventually
+be able to play ace and another trump to clear the suit. So with
+three small trumps Shifko would have been squeezed out of the
+spade he needed to save Gloyer's doubleton king of trumps.
+}
+[Auction "E"]
+1S Pass 1NT Pass 
+2D Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "N"]
+S4 S3 SK SJ 
+DA D3 D2 DQ 
+D6 DK D4 C5 
+S2 SA S7 C7 
+D7 D8 ST H3 
+C2 S5 C4 CA 
+C3 HJ C6 C9 
+D5 D9 CK H5 
+C8 HQ CQ CJ 
+DJ DT S9 H6 
+H8 S6 H9 H7 
+H2 S8 H4 HA 
+CT SQ HK HT 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "2"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "E"]
+[Deal "S:KT97.K94.42.KQ64 J.AT7653.Q.AJ975 42.82.AJ765.T832 AQ8653.QJ.KT983."]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "E"]
+[Auction "E"]
+1S Pass 2H Pass 
+3D Pass 3NT Pass 
+4S Pass Pass Pass 
+[Play "S"]
+CK C5 C3 S3 
+D2 DQ DA D3 
+SK SJ S2 S5 
+ST H3 S4 SQ 
+S7 H5 C2 S6 
+HK HA H2 HJ 
+H4 H6 H8 HQ 
+S9 C7 D5 SA 
+D4 C9 D6 DK 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "3"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "S"]
+[Deal "S:5.AKQ763.A73.QJ6 A8432.T82.65.K52 Q976.94.KJ4.AT97 KJT.J5.QT982.843"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+It's not clear to me why Schifko didn't show his hearts directly
+and one of the effects of his bidding was that he had to guess
+which game would be better without having all the information
+he needed [EK]. Perhaps it would have been better to show a good
+six-card heart suit and allow partner to choose the strain. Gloyer
+got a diamond lead and with the CK right and hearts three-two,
+took all the tricks: plus 520. Well, maybe the straightforward
+auction wasn't good enough, because in that context Abe chose
+notrump when hearts would have been safer. Thirteen tricks on
+a diamond lead: plus 520. No swing. Still 0-0.
+}
+[Auction "S"]
+1C Pass 1NT Pass 
+2C Pass 2S Pass 
+3H Pass 3NT Pass 
+Pass Pass   
+[Play "E"]
+D9 D3 D6 DJ 
+H5 HA H2 H4 
+HJ HK H8 H9 
+SJ HQ HT S6 
+DT H7 S4 S7 
+ST H6 S2 S9 
+C3 H3 S3 SQ 
+D2 DA D5 D4 
+C4 CQ CK CA 
+*
+[Result "13"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "3"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "S"]
+[Deal "S:5.AKQ763.A73.QJ6 A8432.T82.65.K52 Q976.94.KJ4.AT97 KJT.J5.QT982.843"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "N"]
+[Auction "S"]
+1H Pass 1S Pass 
+3H Pass 3NT Pass 
+Pass Pass   
+[Play "E"]
+DT D3 D6 DJ 
+HJ HA H2 H4 
+H5 HK H8 H9 
+C8 HQ HT S7 
+D2 H3 C2 S6 
+C4 H6 S3 S9 
+C3 H7 S4 SQ 
+D8 CQ CK CA 
+ST CJ C5 C7 
+- C6 S2 - 
+*
+[Result "13"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "4"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "W"]
+[Deal "S:753.Q.Q8532.QJ87 AT864.AT73..K632 KQJ9.92.AK9764.4 2.KJ8654.JT.AT95"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "W"]
+{
+5-card trump support and a singleton opposite a vulnerable 2-level
+overcall might have tempted many players to take up some bidding
+room, but Shifko settled for a gentle raise, and Geller was permitted
+to declare 4H in relative peace. He got the lead of the C4 and
+established a long spade for his 12th trick; plus 680. East's
+decision to compete with a negative double rather than a direct
+2H is in itself a close one. Morozumi showed much more initiative
+by bouncing all the way to 5D, setting a problem for E/W. As
+it happens the only losing action is to pass out 5D, which can
+be set 3. If East's 2-level negative double establishes a forcing
+pass situation at the 5-level, West is under no pressure to act
+with a marginal hand that could take plenty of tricks on offense.
+If pass is not forcing, whatever West decides to do is very uncomfortable.
+Here, where Wernle did not double, Schiesser judged it expedient
+to try 5H and he found a suitable dummy. On a diamond lead Schiesser
+could have taken 12 tricks by starting spades but he drew trumps
+first and could no longer establish the long spade: plus 650.
+1 IMP to Geller, for the first swing in the match.
+}
+[Auction "W"]
+1S 2D X 3D 
+4H Pass Pass Pass 
+[Play "N"]
+C4 CT CJ CK 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "4"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "W"]
+[Deal "S:753.Q.Q8532.QJ87 AT864.AT73..K632 KQJ9.92.AK9764.4 2.KJ8654.JT.AT95"]
+[Vulnerable "Both"]
+[Contract "5H"]
+[Declarer "E"]
+[Auction "W"]
+1S 2D X 5D 
+Pass Pass 5H Pass 
+Pass Pass   
+[Play "S"]
+D2 H3 D4 DT 
+HQ HA H2 H4 
+S3 H7 H9 HK 
+D5 HT D6 DJ 
+S5 SA S9 S2 
+S7 S4 SK H5 
+C7 CK C4 C5 
+CQ C2 D9 C9 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "5"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "N"]
+[Deal "S:K83.Q.AQ953.7652 J75.T9753.JT6.QT Q96.82.872.AKJ83 AT42.AKJ64.K4.94"]
+[Vulnerable "NS"]
+[Contract "2H"]
+[Declarer "W"]
+{
+Ogihara's heavy Flannery 2D opening worked beautifully when Geller
+settled for a gentle 2H and shut everyone out; N/S could make
+4C. Even 2H was too high, however, when Gloyer cashed two clubs
+and switched to a trump. The defenders stayed off spades and
+Geller lost two of those and two diamonds to go one down: minus
+50. Wernle, facing a limited opening bid, tried to muddy the
+waters by starting with a semi-forcing notrump (5-11). I've never
+understood why the fact that opener can't have 17 points makes
+a raise to 2NT with 16 a good bid, but someone is sure to tell
+to me sooner or later. Here Schiesser's raise got him to 3H,
+which looks like the reasonable resting place for E/W.  Morozumi
+led a spade to the nine and ten and now the defenders had to
+cash out to defeat 3Hx but Morozumi duly switched to a club when
+he won the King and the rest was easy. One down: minus 50. No
+swing. Still Geller, 1-0.
+}
+[Auction "N"]
+Pass 2D Pass 2H 
+Pass Pass Pass  
+[Play "N"]
+CA C4 C5 CQ 
+H2 HA HQ H3 
+H8 H4 D3 HT 
+S6 ST SK S5 
+CJ C9 C6 CT 
+D8 DK DA D6 
+S9 SA S3 S7 
+SQ S2 S8 SJ 
+D7 D4 DQ DT 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "5"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "N"]
+[Deal "S:K83.Q.AQ953.7652 J75.T9753.JT6.QT Q96.82.872.AKJ83 AT42.AKJ64.K4.94"]
+[Vulnerable "NS"]
+[Contract "3H"]
+[Declarer "E"]
+[Auction "N"]
+Pass 1H Pass 1NT 
+Pass 2NT Pass 3H 
+Pass Pass Pass  
+[Play "S"]
+S3 S5 S9 ST 
+HQ H3 H2 HA 
+D5 H7 H8 HK 
+S8 S7 S6 SA 
+SK SJ SQ S2 
+C7 CT CJ C4 
+DA D6 D7 DK 
+C6 CQ CK C9 
+DQ DT D8 D4 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "6"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "E"]
+[Deal "S:Q742.T65.J5.AT53 K.AJ3.Q9873.KQJ9 JT653.K2.KT2.862 A98.Q9874.A64.74"]
+[Vulnerable "EW"]
+[Contract "4SX"]
+[Declarer "N"]
+{
+Apparently the value of the spade suit is not something at which
+to sneeze in Austria, or we'd be hard pressed to justify an overcall
+of 1S with that North hand. Apparently Shifko has seen some of
+Gloyer's best efforts in this area for he contented himself with
+a simple raise over Ogihara's passed-hand free bid of 2H. Later,
+however, Shifko changed his mind and saved unilaterally at 4S,
+sparing Ogihara some potential anxiety in 4H. Diamonds were not
+played until late, and by then Gloyer had an idea where the ace
+was located, so he got out for down three: minus 500. If Schiesser
+could bring home 4H Schifko's undisciplined action would bring
+in a few points, if not, Austria was booked for a heavy loss.
+The odds were simply awful, which might give you some idea about
+the quality of the double-clutch 4S. The "impossible" diamond
+lead, he would have defeated 4H, but a spade was led. Schiesser
+knocked out the CA and the HK, discarded a D on a high C, ruff
+his last S in dummy, and with the DA still in hand, drew the
+last trump safely for plus 620. A D at trick 2, might still have
+defeated 4H. 3 hair-raising IMPs to Austria.
+}
+[Auction "E"]
+Pass Pass 1D 1S 
+2H 2S 4H Pass 
+Pass 4S Pass Pass 
+X Pass Pass Pass 
+[Play "E"]
+H4 H5 HA H2 
+C7 CA CK C2 
+S8 S2 SK S3 
+H7 H6 H3 HK 
+SA S4 D3 ST 
+C4 C3 C9 C6 
+D6 C5 CQ C8 
+D4 CT CJ SJ 
+S9 SQ D7 S5 
+DA DJ DQ DK 
+H8 HT - - 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "6"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "E"]
+[Deal "S:Q742.T65.J5.AT53 K.AJ3.Q9873.KQJ9 JT653.K2.KT2.862 A98.Q9874.A64.74"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "E"]
+[Auction "E"]
+Pass Pass 1D 1S 
+X 3S X Pass 
+4H Pass Pass Pass 
+[Play "S"]
+S4 SK S3 S8 
+CA CK C6 C4 
+S2 D3 ST SA 
+H5 HJ HK H4 
+HT HA H2 H7 
+C3 CQ C8 C7 
+C5 CJ C2 D4 
+CT C9 S5 H8 
+S7 H3 S6 S9 
+D5 D7 D2 DA 
+H6 D8 DT HQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "7"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "S"]
+[Deal "S:AT942.Q9.72.J752 K76.3.AQ986.AQ43 J.T865.KJT54.K86 Q853.AKJ742.3.T9"]
+[Vulnerable "Both"]
+[Contract "2H"]
+[Declarer "E"]
+{
+Apparently vulnerability is not a big issue when a would-be Austrian
+overcaller holds five spades and here Shifko provides us with
+a glimpse of the tolerance level for such an endeavour. The rest
+of the auction might have been no fun at all for him but Geller
+took him off the hook by volunteering 1NT, converted to (just)
+2H by Ogihara. Schifko's decision to lead the S10 was not a big
+success for it convinced Ogihara to play ace king of trumps,
+among things. Plus 140. Left to themselves, Schiesser/Wernle
+drove themselves to 3NT, an ugly little contract that seems doomed
+on the lie of the cards. Appearances can be deceiving, of course.
+Abe decided to lead a low D and the nine won. Wernle led a H
+to the J and Q and Morozumi switched to a low spade to the J
+and Q. Wernle cashed the A-K of hearts, getting the bad news,
+and ran the C9 to the king. Abe did not cash the high H but instead
+exited with the C6. Morozumi did not cover dummy's ten so now
+Wernle could lead a spade towards the K for plus 600. A 10-IMP
+gain for Austria, 13-1.
+}
+[Auction "S"]
+Pass 1D Pass 1H 
+1S 1NT Pass 2H 
+Pass Pass Pass  
+[Play "S"]
+ST S6 SJ SQ 
+H9 H3 H5 HA 
+HQ C3 H6 HK 
+S2 D6 H8 HJ 
+D2 DQ DK D3 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "7"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "S"]
+[Deal "S:AT942.Q9.72.J752 K76.3.AQ986.AQ43 J.T865.KJT54.K86 Q853.AKJ742.3.T9"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "S"]
+Pass 2C Pass 2H 
+Pass 2S Pass 3S 
+Pass 3NT Pass Pass 
+Pass    
+[Play "N"]
+D5 D3 D7 D9 
+H6 HJ HQ H3 
+SJ SQ S4 S7 
+H5 HA H9 D6 
+H8 HK S2 D8 
+CK C9 C2 C4 
+C6 CT C5 C3 
+C8 S3 SA S6 
+DJ S5 D2 DA 
+D4 S8 S9 SK 
+DT H2 C7 CA 
+HT H4 CJ CQ 
+DK H7 ST DQ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "8"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "W"]
+[Deal "S:.QT43.AQT5.T9876 JT8.K82.932.AKJ2 AK932.AJ765.J4.5 Q7654.9.K876.Q43"]
+[Vulnerable "None"]
+[Contract "1S"]
+[Declarer "N"]
+{
+This deal will not make the highlight reel for two-tier (weak
+or strong) two-suited overcalls. Gloyer was left to declare 1S
+on a five-zero fit when he could have made 6H on a five-four
+fit. My heart goes out to him, for it could have happened to
+me, I suppose, although I would like to believe that South would
+not pass 1S. Gloyer took eight tricks when Ogihara led her singleton
+heart and later Geller gave her a ruff, shortening her trumps
+while establishing declarer's side suit. Plus 110. Abe's less
+constrained Michaels Cue-bid would have located the heart fit
+immediately, but apparently there was some doubt in everyone's
+mind about the nature of 2D against a 2+ (cards) 1D  opening.
+Schiesser, who was told that 2D was Michaels, stuck in a 2H cue-bid
+to show a decent diamond raise that he didn't have. Morozumi
+thought 2D was natural and so informed Wernle, who duly raised
+Schiesser's "natural" 2H. It's not clear why Schiesser then interpreted
+3H as natural and passed before worse befell him, but in doing
+so he hit a home run, He took a remarkable four tricks: two spades
+(yes), a club, and a trump: minus 250. 4 IMPs to Geller; 5-13.
+}
+[Auction "W"]
+1C 1S Pass Pass 
+Pass    
+[Play "E"]
+H9 HT H2 H5 
+C4 C6 CK C5 
+S5 H3 HK HA 
+D8 DA D2 D4 
+C3 C7 CA S2 
+S4 C8 S8 SA 
+S6 C9 ST SK 
+S7 CT SJ S3 
+SQ H4 H8 H6 
+CQ HQ C2 S9 
+D6 D5 CJ HJ 
+D7 DT D3 H7 
+DK DQ D9 DJ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "8"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "W"]
+[Deal "S:.QT43.AQT5.T9876 JT8.K82.932.AKJ2 AK932.AJ765.J4.5 Q7654.9.K876.Q43"]
+[Vulnerable "None"]
+[Contract "3H"]
+[Declarer "E"]
+[Auction "W"]
+1D 2D 2H Pass 
+3H Pass Pass Pass 
+[Play "S"]
+C8 CA C5 C3 
+DA D2 D4 DK 
+DQ D3 DJ D6 
+DT D9 S9 D7 
+D5 S8 H5 D8 
+C6 ST SK S4 
+C7 SJ SA S5 
+C9 C2 S3 S6 
+CT CJ S2 SQ 
+H3 CK H6 C4 
+HT HK H7 H9 
+*
+[Result "4"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "9"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "N"]
+[Deal "S:JT987.7652.8.AQ5 6.KQ.AJ965432.93 Q43.JT983.KQ7.K2 AK52.A4.T.JT8764"]
+[Vulnerable "EW"]
+[Contract "3H"]
+[Declarer "N"]
+{
+A late alert in the Open Room (about the 1S response) resulted
+in the auction being adjusted to the one you see here. 3H was
+deemed to go just one down, perhaps on the basis of the remarkable
+defense at the other table as a guideline.  Remarkably, no one
+has protested this decision. N/S minus 50. Wernle's 3NT suggests
+that he likes to roll the dice and it would appear that this
+does not have a negative effect on his teammates' morale. Whether
+it affected Schiesser's defense on this deal, however, is another
+question. Against 4H doubled, Schiesser cashed a high spade,
+then switched to a club. Abe won the king and played two more
+rounds of clubs, discarding the SQ as Wernle ruffed in with the
+HQ. Ace and another diamond followed and Schiesser erred by ruffing
+low in front of dummy. Now Abe could overruff and play a trump,
+crashing the defensive honors. Ouch. Losing his concentration,
+Schiesser played a club, and now declarer could ruff in dummy
+and discard his last spade. Just one down: minus 100. 2 IMPs
+to Austria, ahead 15-5.
+}
+[Auction "N"]
+1H Pass 1S 3D 
+Pass Pass 3H Pass 
+Pass Pass   
+[Play "E"]
+SA S7 S6 S3 
+SK S8 D2 S4 
+S2 S9 HK SQ 
+DT D8 DA D7 
+H4 H6 D4 DQ 
+HA H2 HQ H3 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "9"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "N"]
+[Deal "S:JT987.7652.8.AQ5 6.KQ.AJ965432.93 Q43.JT983.KQ7.K2 AK52.A4.T.JT8764"]
+[Vulnerable "EW"]
+[Contract "4HX"]
+[Declarer "N"]
+[Auction "N"]
+1H 1S 2S 3D 
+Pass Pass 3H 3NT 
+X Pass Pass 4D 
+X Pass 4H Pass 
+Pass X Pass Pass 
+Pass    
+[Play "E"]
+SA S7 S6 SQ 
+C6 C5 C9 CK 
+C4 CQ C3 C2 
+C7 CA HQ S4 
+DT D8 DA D7 
+H4 H7 DJ DK 
+HA H2 HK H3 
+CJ - - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "10"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "E"]
+[Deal "S:T7.A75.K964.KT84 AKJ42.K96.732.62 5.QJT42.AQJ.QJ75 Q9863.83.T85.A93"]
+[Vulnerable "Both"]
+[Contract "4SX"]
+[Declarer "W"]
+{
+Perhaps 2H is automatic but I don't think so, although both Norths
+were willing to risk it. Ogihara followed the Law of Total Tricks
+and bounced to 4H, forcing a decision on Schifko. His double
+looks like the practical action, particularly facing a somewat
+random overcall. There were five obvious losers so Geller was
+two down: minus 500. Schiesser contented himself with 3S, then
+sold out to 4H, refusing to break discipline. There was nothing
+to the play after two rounds of spades, but had Wernle switched
+to a club, Schiesser would have been in a position to defeat
+the contract by ducking, leaving the communications open for
+West to get a club ruff. Plus 620 for Abe-san and 3 IMPs to Geller,
+8-15. Most E/W pairs competed to 4Sx but we can report that England's
+Glyn Liggins/Joe Fawcett sold out to 4Hx and defeated it.
+}
+[Auction "E"]
+Pass Pass 1S 2H 
+4S X Pass Pass 
+Pass    
+[Play "N"]
+HQ H3 HA H6 
+DJ D5 D4 D2 
+S5 S3 S7 SA 
+H4 S6 ST SK 
+H2 H8 H5 HK 
+HT S8 H7 H9 
+DQ D8 D6 D3 
+DA DT D9 D7 
+CQ CA C4 C2 
+CJ C9 C8 C6 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "10"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "E"]
+[Deal "S:T7.A75.K964.KT84 AKJ42.K96.732.62 5.QJT42.AQJ.QJ75 Q9863.83.T85.A93"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "E"]
+Pass Pass 1S 2H 
+3S 4H Pass Pass 
+Pass    
+[Play "E"]
+S3 S7 SK S5 
+S6 ST SA H2 
+H3 H5 HK HJ 
+H8 HA H6 H4 
+- H7 H9 HT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "11"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "S"]
+[Deal "S:JT7.AT87.AJ9.T65 KQ9843.4.76.KJ94 6.932.5432.AQ872 A52.KQJ65.KQT8.3"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "W"]
+{
+The West hand is not a classic weak two-bid, but it's not exactly
+a lovely one-bid either. Geller tried 2S and the final cotract
+was never in doubt. Gloyer started with the D4, second from a
+weak holding and Schifko ducked dummy's king. The SK lost to
+the ace and a low club went to the jack and queen. Gloyer reverted
+to diamonds, leading the deuce, and the ten lost to the jack.
+When Schifko tried to cash the DA, Geller misguessed, ruffing
+high. He played two high trumps and conceded one down: minus
+50. That looked very good indeed for Austria. But no. After 1S
+Schiesser began to think of slam. Wernle followed up with 2 cue-bids,
+it was impossible to turn Schiesser off below the 5-level. The
+D3 went to the K and A and Morozumi switched to the H7. Wernle
+put up the K and finessed the D10, hoping to discard the singleton
+H. The DJ won and Morozumi continued spades. Wernle won in dummy
+and knocked out the HA. Morozumi won and returned his last trump.
+Wernle exited with the CJ and if the play record is to be credited,
+Abe won and played ... a H. Just two down: minus 100. 2 IMPs
+to Geller, 10-15.
+}
+[Auction "S"]
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Play "N"]
+D4 DK D9 D6 
+H2 HK HA H4 
+CQ C3 C6 CJ 
+D2 DT DJ D7 
+D3 D8 DA SK 
+S6 S2 SJ SQ 
+H3 SA S7 S9 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "11"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "S"]
+[Deal "S:JT7.AT87.AJ9.T65 KQ9843.4.76.KJ94 6.932.5432.AQ872 A52.KQJ65.KQT8.3"]
+[Vulnerable "None"]
+[Contract "5S"]
+[Declarer "W"]
+[Auction "S"]
+Pass 1S Pass 2H 
+Pass 2S Pass 3S 
+Pass 4C Pass 4D 
+Pass 4H Pass 4NT 
+Pass 5D Pass 5S 
+Pass Pass Pass  
+[Play "N"]
+D3 DK DA D7 
+S6 S2 S7 SK 
+D2 DT DJ D6 
+C2 S5 SJ SQ 
+H2 HK HA H4 
+CQ C3 C6 CJ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "12"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "W"]
+[Deal "S:K.AQ964.Q86.AK82 AJ2.JT85.KT2.J97 T98654.2.A53.T43 Q73.K73.J974.Q65"]
+[Vulnerable "NS"]
+[Contract "3S"]
+[Declarer "N"]
+{
+The Austrians came to rest in their most promising strain, albeit
+a level or two higher than they might have preferred. Ogihara
+found the excellent diamond lead, queen, king, ace, and Gloyer
+finessed the HQ, threw a diamond on the HA, and lost the SK to
+the ace. Gloyer ruffed the third diamond and tried the S10, losing
+to the queen. When Ogihara exited safely with the thirteenth
+diamond Geller ruffed with the master trump, so Gloyer discarded
+a club: plus 140. Schiesser's third-seat 1S suggests that his
+inclination to psych might not be as rare as his convention card
+suggests. He survived well enough when Wernle allowed Morizumi
+to play peacefully in 1NT. On the lead of the HJ to the king
+and ace Morizumi was in fair shape. He led the SK to the ace
+and Wernle switched to the DK and it got easier for Morizumi
+after that; he ducked a club and finished with seven tricks:
+plus 90. 2 IMPs to Austria, 17-10.
+}
+[Auction "W"]
+Pass Pass Pass 1C 
+Pass 1D Pass 2H 
+Pass 2S Pass 2NT 
+Pass 3S Pass Pass 
+Pass    
+[Play "E"]
+D7 DQ DK DA 
+H3 HQ HT H2 
+HK HA H5 D3 
+S3 SK SA S4 
+D9 D6 D2 D5 
+DJ D8 DT S5 
+SQ C2 S2 ST 
+D4 H4 SJ C3 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "12"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "W"]
+[Deal "S:K.AQ964.Q86.AK82 AJ2.JT85.KT2.J97 T98654.2.A53.T43 Q73.K73.J974.Q65"]
+[Vulnerable "NS"]
+[Contract "1NT"]
+[Declarer "S"]
+[Auction "W"]
+Pass Pass 1S X 
+XX Pass Pass 1NT 
+Pass Pass Pass  
+[Play "W"]
+HJ H2 HK HA 
+SA S4 S3 SK 
+DK DA D4 D6 
+C7 C3 C5 CA 
+C9 C4 C6 CK 
+CJ CT CQ C2 
+H5 D3 H7 HQ 
+D2 S5 D7 C8 
+DT D5 D9 DQ 
+S2 S6 DJ D8 
+SJ S8 SQ H4 
+H8 S9 H3 H6 
+HT ST S7 H9 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "13"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "N"]
+[Deal "S:Q983.KT.K97632.4 JT5.97.AQ5.AKQJ8 AK7.AJ64.T84.T65 642.Q8532.J.9732"]
+[Vulnerable "Both"]
+[Contract "3D"]
+[Declarer "S"]
+{
+Schifko's hand doesn't fit the description of his sequence (1NT
+was 12-14) but who's counting. 3D produced plenty of tricks -
+ten of them to be exact: plus 130. In the Closed Room, where
+Morozumi couldn't tell that Abe held abalanced hand, it was awkward
+for him to compete over 2H. Just as well. He led his club against
+2H and Schiesser won in dummy to duck a trump to the ten. Morozumi
+switched to a spade and after three rounds of thise switched
+to the D7. Schiesser won, ducked a heart to the king, ruffed
+the thirteenth spade, and exited hopefully with a heart. Abe
+took two heart tricks, and dummy was squeezed. Abe tucked dummy
+in with a club and the defense got two diamonds later. Four down:
+minus 400. 7 IMPs to Geller, tying the match at 17.
+}
+[Auction "N"]
+1NT Pass 2C X 
+2H Pass 3D Pass 
+Pass Pass   
+[Play "W"]
+CK C5 C3 C4 
+CA C6 C7 D2 
+S5 SA S2 S8 
+DA D4 DJ DK 
+SJ SK S4 S3 
+DQ D8 H2 D3 
+CQ CT C2 D6 
+D5 DT H3 D7 
+ST S7 S6 SQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "13"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "N"]
+[Deal "S:Q983.KT.K97632.4 JT5.97.AQ5.AKQJ8 AK7.AJ64.T84.T65 642.Q8532.J.9732"]
+[Vulnerable "Both"]
+[Contract "2H"]
+[Declarer "E"]
+[Auction "N"]
+1C Pass 1D 1NT 
+Pass 2H Pass Pass 
+Pass    
+[Play "S"]
+C4 CA C5 C9 
+HT H7 H4 H2 
+S3 S5 SK S2 
+S8 ST SA S4 
+SQ SJ S7 S6 
+D7 DA D4 DJ 
+HK H9 H6 H5 
+S9 C8 C6 H3 
+D2 CJ HJ H8 
+D3 CQ HA HQ 
+D6 CK CT C2 
+D9 D5 D8 C3 
+DK DQ DT C7 
+*
+[Result "4"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "14"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "E"]
+[Deal "S:2.A763.KQT86.T95 AK74.QT9.A973.76 QJT86.8.J42.AK83 953.KJ542.5.QJ42"]
+[Vulnerable "None"]
+[Contract "1NT"]
+[Declarer "W"]
+{
+As Geller has demonstrated his willingness to rebid 1NT in this
+situation with a singleton heart Ogiwars was reluctant to branch
+out into her long suit. 1NT did not handle well, Schifko ducking
+hearts twice and Gloyer ducking clubs not at all. Two down: minus
+100. Schiesser's 2H showed at least five hearts and an unknown
+second suit. Apparently it could have been truly repulsive nonvulnerable
+for Wernle never peeped , holding the best hand at the table,
+with a fit. Against Morozumi's 3D Wernle led the H10. Morozumi
+won and played a spade and now Wernle couldn't do everything
+at once. He switched to a club but Morozumi won and played loser-on-loser
+with the SQ, eventually coming to ten tricks: plus 130. 1 IMP
+to Geller, 18-17.
+}
+[Auction "E"]
+Pass Pass 1D 1S 
+X Pass 1NT Pass 
+Pass Pass   
+[Play "N"]
+SQ S3 S2 SA 
+H8 H2 H3 HQ 
+C8 H4 H6 HT 
+CK C2 C5 C7 
+SJ S5 CT SK 
+CA C4 C9 C6 
+ST S9 D6 S4 
+S8 H5 H7 S7 
+S6 D5 D8 D3 
+D2 CJ DT DA 
+C3 HJ HA H9 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "14"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "E"]
+[Deal "S:2.A763.KQT86.T95 AK74.QT9.A973.76 QJT86.8.J42.AK83 953.KJ542.5.QJ42"]
+[Vulnerable "None"]
+[Contract "3D"]
+[Declarer "S"]
+[Auction "E"]
+2H Pass Pass 2S 
+Pass 3D Pass Pass 
+Pass    
+[Play "W"]
+HT H8 HK HA 
+SK S6 S3 S2 
+C6 CA C4 C5 
+SA SQ S5 C9 
+C7 CK C2 CT 
+S4 SJ S9 H3 
+S7 ST D5 D6 
+H9 D2 H2 H6 
+DA C3 CJ DT 
+D3 D4 CQ D8 
+HQ DJ H4 H7 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "15"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "S"]
+[Deal "S:T876.Q7.K43.A653 AKJ432.AT3.QJ6.8 95.K965.A92.JT92 Q.J842.T875.KQ74"]
+[Vulnerable "NS"]
+[Contract "2S"]
+[Declarer "W"]
+{
+The defense got busy against Geller's 2S after the CJ to the
+king and ace. Diamond to the queen and ace, diamond nine to the
+king, jack, SQ. Plus 170. Wernle's raise to 2NT, unlike Schiesser's
+on Board 7, makes a lot of sense, especially if it shows this
+type of hand, a 3S bid with a decent suit, suitable for notrump.
+Morozumi led a low club to the nine and . . . four. The CJ went
+to the queen and and ace and a third club left Schiesser with
+two club winners. He had nine tricks now: plus 150. 1 IMP more
+to Geller, 19-17.
+}
+[Auction "S"]
+Pass 1S Pass 1NT 
+Pass 2S Pass Pass 
+Pass    
+[Play "N"]
+CJ CK CA C8 
+DA D5 D3 DQ 
+D9 D7 DK DJ 
+H9 H2 HQ HA 
+S5 SQ S6 S2 
+C2 C4 C5 S3 
+S9 H4 S7 SA 
+H5 H8 S8 SJ 
+H6 HJ ST SK 
+D2 DT D4 D6 
+C9 D8 C3 HT 
+CT CQ C6 H3 
+HK C7 H7 S4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "15"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "S"]
+[Deal "S:T876.Q7.K43.A653 AKJ432.AT3.QJ6.8 95.K965.A92.JT92 Q.J842.T875.KQ74"]
+[Vulnerable "NS"]
+[Contract "2NT"]
+[Declarer "E"]
+[Auction "S"]
+Pass 1S Pass 1NT 
+Pass 2NT Pass Pass 
+Pass    
+[Play "S"]
+C3 C8 C9 C4 
+CA D6 CJ CQ 
+C6 H3 CT CK 
+S6 S2 S5 SQ 
+C5 DJ C2 C7 
+H7 HA H5 H4 
+S7 SA S9 D5 
+S8 SK D2 D7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "16"]
+[Room "Open"]
+[West "Robert Geller"]
+[North "Andreas Gloyer"]
+[East "S. Ogihara"]
+[South "Martin Schifko"]
+[Dealer "W"]
+[Deal "S:AJ.J962.J743.KJ3 Q.QT5.AKQT96.A62 T9543.AK4.5.Q987 K8762.873.82.T54"]
+[Vulnerable "EW"]
+[Contract "2S"]
+[Declarer "N"]
+{
+Gloyer ruffed the second diamond and led a spade to the jack
+and queen. The third diamond was ruffed high and over-ruffed
+and ta trump tucked dummy in. The CK lost to the ace and Geller
+could play another diamond with profit. Gloyer was one down:
+minus 50. Abe played a club to the king and ace at trick three.
+When he ruffed the third diamond low, Schiesser discarded a club.
+Now Abe played on clubs. When Schiesser ruffed the third and
+played a trump Abe rose with the ace played ace-king of hearts,
+and led his last club. He had to scramble home now, with Schiesser
+caught in the crossfire of Abe's combined trump holding: plus
+110. 4 IMPs to Geller, who won the match 23-17, 16-14 in VP.
+}
+[Auction "W"]
+1D 1S Pass 1NT 
+2D Pass Pass 2S 
+Pass Pass Pass  
+[Play "E"]
+D8 D3 D9 D5 
+D2 D4 DQ S3 
+S2 SJ SQ S4 
+SK D7 DK ST 
+S6 SA D6 S5 
+CT CK CA C7 
+H3 DJ DA S9 
+H7 H2 H5 HA 
+H8 H6 HT HK 
+C4 CJ C2 C8 
+C5 C3 C6 CQ 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "16"]
+[Room "Closed"]
+[West "A. Wernle"]
+[North "Hiroya Abe"]
+[East "G. Schiesser"]
+[South "Akira Morozumi"]
+[Dealer "W"]
+[Deal "S:AJ.J962.J743.KJ3 Q.QT5.AKQT96.A62 T9543.AK4.5.Q987 K8762.873.82.T54"]
+[Vulnerable "EW"]
+[Contract "2S"]
+[Declarer "N"]
+[Auction "W"]
+1C 1S Pass 1NT 
+2D Pass Pass 2S 
+Pass Pass Pass  
+[Play "E"]
+D8 D3 D9 D5 
+D2 D4 DK S3 
+C4 CK CA C7 
+C5 D7 DQ S5 
+CT CJ C6 C8 
+S2 C3 C2 C9 
+S6 SA SQ S4 
+H3 H2 H5 HA 
+H7 H6 HT HK 
+SK H9 D6 CQ 
+S8 SJ DT S9 
+H8 HJ HQ H4 
+S7 DJ DA ST 
+*
+[Result "8"]
+

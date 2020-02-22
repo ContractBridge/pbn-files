@@ -1,0 +1,865 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "10th World Bridge Team Olympiad 1996"]
+[Site "Rodos Palace Hotel - Rhodos, Greece, GRC"]
+[Date "1996.11.02"]
+[Round "11"]
+[Board "1"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "EW"]
+[Deal "S:A42.K74.T75.T632 Q853.QJT953.J9.9 K97.A82.KQ842.K5 JT6.6.A63.AQJ874"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 2H 
+X Pass Pass Pass 
+[Declarer "W"]
+[Contract "2HX"]
+[Play "N"]
+*
+[Room "Open"]
+[Result "8"]
+[Score "+670"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "1"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "EW"]
+[Deal "S:A42.K74.T75.T632 Q853.QJT953.J9.9 K97.A82.KQ842.K5 JT6.6.A63.AQJ874"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 3H 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3H"]
+[Play "N"]
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "2"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "None"]
+[Deal "S:T6532.85.AKT986. K.AKJ62.7.KT9752 AQJ984.T3.Q42.A6 7.Q974.J53.QJ843"]
+[Dealer "W"]
+[Auction "W"]
+1H X 4H 4S 
+5H 5S Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "5S"]
+[Play "W"]
+*
+[Room "Open"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "2"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "None"]
+[Deal "S:T6532.85.AKT986. K.AKJ62.7.KT9752 AQJ984.T3.Q42.A6 7.Q974.J53.QJ843"]
+[Dealer "W"]
+[Auction "W"]
+Pass 5S Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "5S"]
+[Play "E"]
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "3"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "Both"]
+[Deal "S:7.JT862.Q542.K53 QJ9.AQ43.KT87.JT K6432.K75.J93.Q4 AT85.9.A6.A98762"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D Pass 2C 
+Pass 2NT Pass 3S 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+CQ CA C3 CT 
+C4 C2 CK CJ 
+HK H9 HJ HQ 
+H7 S5 H8 H4 
+H5 S8 HT HA 
+S2 SA S7 SQ 
+S3 C9 C5 D7 
+S4 C8 H6 SJ 
+D3 C7 D2 S9 
+- ST - - 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "3"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "Both"]
+[Deal "S:7.JT862.Q542.K53 QJ9.AQ43.KT87.JT K6432.K75.J93.Q4 AT85.9.A6.A98762"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D Pass 2C 
+Pass 2NT Pass 3C 
+Pass 3S Pass 3NT 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "4"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "EW"]
+[Deal "S:J954.J8654.832.5 K763.AQ3.KQ5.982 AQT8.T7.74.KT763 2.K92.AJT96.AQJ4"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 1S Pass 
+2C Pass 3NT Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+D7 D6 D2 DK 
+D4 DA D3 DQ 
+C3 DJ D8 D5 
+C6 D9 H4 C8 
+H7 DT C5 S3 
+HT HK H5 H3 
+CT H2 H6 HA 
+ST H9 H8 HQ 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+660"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "4"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "EW"]
+[Deal "S:J954.J8654.832.5 K763.AQ3.KQ5.982 AQT8.T7.74.KT763 2.K92.AJT96.AQJ4"]
+[Dealer "E"]
+[Auction "E"]
+2S Pass 4S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+*
+[Room "Closed"]
+[Result "5"]
+[Score "-500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "5"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "NS"]
+[Deal "S:J653.76.Q9842.J8 AK87.93.KT6.K752 2.AKJT842.A73.Q3 QT94.Q5.J5.AT964"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass Pass X 
+3H 3S Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3S"]
+[Play "S"]
+H7 H3 HK H5 
+H6 H9 HA HQ 
+CJ CK C3 C9 
+S3 SA S2 S4 
+S5 S7 H2 SQ 
+S6 S8 H4 ST 
+C8 C2 CQ CA 
+SJ SK H8 S9 
+D2 C7 HT CT 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "5"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "NS"]
+[Deal "S:J653.76.Q9842.J8 AK87.93.KT6.K752 2.AKJT842.A73.Q3 QT94.Q5.J5.AT964"]
+[Dealer "N"]
+[Auction "N"]
+4H Pass Pass Pass 
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "6"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "Both"]
+[Deal "S:AQT74.AK5.64.QJ7 853.8.KQT95.A985 J62.QT32.J732.K4 K9.J9764.A8.T632"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1C 
+Pass 1D Pass 1S 
+Pass 3S Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3S"]
+[Play "W"]
+H8 HT HJ HK 
+S3 S2 S9 SA 
+S5 SJ SK S4 
+DT D2 DA D6 
+S8 H3 H9 HA 
+DK D3 D8 D4 
+C5 C4 CT CQ 
+D5 S6 H4 SQ 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "6"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "Both"]
+[Deal "S:AQT74.AK5.64.QJ7 853.8.KQT95.A985 J62.QT32.J732.K4 K9.J9764.A8.T632"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1C 
+1D X Pass 1S 
+Pass 2S Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "7"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "EW"]
+[Deal "S:Q9754.A983.94.J2 KT32.Q72.K863.64 J86.JT5.QJT7.T73 A.K64.A52.AKQ985"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 2C 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+DQ DA D4 D3 
+C3 CA C2 C4 
+C7 CK CJ C6 
+CT CQ S4 D6 
+H5 C5 S9 D8 
+D7 C8 D9 S3 
+S6 C9 H3 H7 
+S8 SA S5 S2 
+HT H4 H8 HQ 
+DJ D2 H9 DK 
+- - - SK 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+660"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "7"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "EW"]
+[Deal "S:Q9754.A983.94.J2 KT32.Q72.K863.64 J86.JT5.QJT7.T73 A.K64.A52.AKQ985"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 1C 
+Pass 1NT Pass 2C 
+Pass 2NT Pass 6C 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "6C"]
+[Play "S"]
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+1370"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "8"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "NS"]
+[Deal "S:K42.KJT5.73.A874 AJ98653.9.Q9.K96 T7.AQ2.AK86.QJT3 Q.87643.JT542.52"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 4S X 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "4SX"]
+[Play "N"]
+DA D2 D7 D9 
+DK D4 D3 DQ 
+S7 SQ S2 S3 
+D6 DJ S4 S5 
+H2 H3 HT H9 
+HA H4 H5 S6 
+CT C2 C4 C9 
+HQ H6 HK S8 
+ST D5 SK SA 
+C3 - - CK 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "8"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "NS"]
+[Deal "S:K42.KJT5.73.A874 AJ98653.9.Q9.K96 T7.AQ2.AK86.QJT3 Q.87643.JT542.52"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D 3S X 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "9"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "None"]
+[Deal "S:8652.95.AKJ63.Q5 QJT4.KQ86.42.963 973.AT43.T87.874 AK.J72.Q95.AKJT2"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C 1S X 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+DK D2 D7 D9 
+H9 HK HA H2 
+DA D4 DT DQ 
+DJ C3 D8 D5 
+D6 - - - 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "9"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "None"]
+[Deal "S:8652.95.AKJ63.Q5 QJT4.KQ86.42.963 973.AT43.T87.874 AK.J72.Q95.AKJT2"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C 1D X 
+Pass 2C Pass 2D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "10"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "EW"]
+[Deal "S:5.AQ8.AKQ8643.A6 J97.T52.T75.J983 AK64.KJ94.J9.K52 QT832.763.2.QT74"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D Pass 2C 
+Pass 2D Pass 2H 
+Pass 3C Pass 3D 
+Pass 3S Pass 4C 
+Pass 4NT Pass 7NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "7NT"]
+[Play "E"]
+*
+[Room "Open"]
+[Result "13"]
+[Score "+1520"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "10"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "EW"]
+[Deal "S:5.AQ8.AKQ8643.A6 J97.T52.T75.J983 AK64.KJ94.J9.K52 QT832.763.2.QT74"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 7D 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "7D"]
+[Play "W"]
+*
+[Room "Closed"]
+[Result "13"]
+[Score "+1440"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "11"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "NS"]
+[Deal "S:KQJ7.J743.7.KQJ7 8654.65.J865.A32 2.T92.432.T98654 AT93.AKQ8.AKQT9."]
+[Dealer "S"]
+[Auction "S"]
+2D Pass Pass Pass 
+[Declarer "S"]
+[Contract "2D"]
+[Play "W"]
+H6 HT HQ H7 
+D5 D2 DA D7 
+D8 D3 DQ CJ 
+H5 H2 HK H3 
+D6 H9 H8 H4 
+CA C4 S3 C7 
+C3 C5 D9 CQ 
+DJ D4 DK S7 
+S4 C8 HA HJ 
+S5 S2 ST SJ 
+*
+[Room "Open"]
+[Result "2"]
+[Score "-600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "11"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "NS"]
+[Deal "S:KQJ7.J743.7.KQJ7 8654.65.J865.A32 2.T92.432.T98654 AT93.AKQ8.AKQT9."]
+[Dealer "S"]
+[Auction "S"]
+1D Pass Pass Pass 
+[Declarer "S"]
+[Contract "1D"]
+[Play "W"]
+*
+[Room "Closed"]
+[Result "2"]
+[Score "-500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "12"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "None"]
+[Deal "S:Q.AJ7.Q985.97642 KJ65.Q965.AT.JT5 AT83.K432.J6.KQ8 9742.T8.K7432.A3"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass 1D 
+Pass 1NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "1NT"]
+[Play "W"]
+H5 H2 HT HJ 
+C5 CQ CA C4 
+DA D6 D3 D5 
+DT DJ DK D8 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "12"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "None"]
+[Deal "S:Q.AJ7.Q985.97642 KJ65.Q965.AT.JT5 AT83.K432.J6.KQ8 9742.T8.K7432.A3"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1D X 
+Pass 2C Pass Pass 
+2D 2H Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "2H"]
+[Play "W"]
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "13"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "Both"]
+[Deal "S:KQJ86.K4.AQJ72.A 4.AJT852.T9.Q964 9752.76.K83.KT83 AT3.Q93.654.J752"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1C 1H 
+X 2H 2S Pass 
+4S Pass Pass Pass 
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+DT DK D4 D2 
+S4 S7 S3 SK 
+H5 S2 SA SQ 
+HA H6 H3 HK 
+HJ H7 H9 H4 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "13"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "Both"]
+[Deal "S:KQJ86.K4.AQJ72.A 4.AJT852.T9.Q964 9752.76.K83.KT83 AT3.Q93.654.J752"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 4S Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "14"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "NS"]
+[Deal "S:AQJT8.AKT.8.Q872 93.Q43.J7542.KJ6 642.J98.AQT93.A4 K75.7652.K6.T953"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1C 
+Pass 2D Pass 2S 
+Pass 3S Pass 4S 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+D4 DA D6 D8 
+C6 CA C3 C2 
+CK C4 C5 CQ 
+S3 S2 S5 S8 
+CJ S4 C9 C8 
+HQ HJ H2 HT 
+D2 D9 DK SJ 
+H3 H8 H5 HA 
+H4 H9 H6 HK 
+S9 D3 CT C7 
+D5 DT H7 ST 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "14"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "NS"]
+[Deal "S:AQJT8.AKT.8.Q872 93.Q43.J7542.KJ6 642.J98.AQT93.A4 K75.7652.K6.T953"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 2C 
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "15"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "None"]
+[Deal "S:A84.974.75.T8753 532..JT96432.964 KQT9.JT863.AK.AK J76.AKQ52.Q8.QJ2"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C 1H 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "1H"]
+[Play "S"]
+*
+[Room "Open"]
+[Result "3"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "15"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "None"]
+[Deal "S:A84.974.75.T8753 532..JT96432.964 KQT9.JT863.AK.AK J76.AKQ52.Q8.QJ2"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C 1H 
+X 2D X Pass 
+3C Pass 3NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "16"]
+[West "Tai"]
+[North "Vlajnic"]
+[East "Wu"]
+[South "Zipovski"]
+[Vulnerable "Both"]
+[Deal "S:T.KQ84.AJ73.JT74 A5.AT72.KT5.K532 Q873.J963.Q9.Q96 KJ9642.5.8642.A8"]
+[Dealer "E"]
+[Auction "E"]
+2H Pass 2NT Pass 
+3S Pass Pass Pass 
+[Declarer "E"]
+[Contract "3S"]
+[Play "S"]
+HK HA H6 H5 
+ST SA S7 S2 
+D7 S5 S3 SJ 
+DA D5 D9 D2 
+CJ C2 C6 CA 
+H4 DT S8 SK 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "11"]
+[Board "16"]
+[West "Lin"]
+[North "Markovic"]
+[East "Shen"]
+[South "Jovanovic"]
+[Vulnerable "Both"]
+[Deal "S:T.KQ84.AJ73.JT74 A5.AT72.KT5.K532 Q873.J963.Q9.Q96 KJ9642.5.8642.A8"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D X 1H 
+4S Pass Pass Pass 
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+620"]
+

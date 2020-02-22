@@ -1,0 +1,829 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "10th World Bridge Team Olympiad 1996"]
+[Site "Rodos Palace Hotel - Rhodos, Greece, GRC"]
+[Date "1996.11.02"]
+[Round "01"]
+[Board "1"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "EW"]
+[Deal "S:T42..AQJ762.JT85 A53.JT8.KT.AK963 K97.AKQ9542..Q74 QJ86.763.98543.2"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 1NT Pass 
+4H Pass Pass Pass 
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+C2 C5 CK CQ 
+SQ S2 SA S9 
+D9 C8 CA C4 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "1"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "EW"]
+[Deal "S:T42..AQJ762.JT85 A53.JT8.KT.AK963 K97.AKQ9542..Q74 QJ86.763.98543.2"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 1NT Pass 
+4D Pass 4H Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+C2 C5 - - 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "2"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "None"]
+[Deal "S:JT42.6.K842.AK86 KQ53.A75.AT7.J74 7.KQT3.QJ65.QT95 A986.J9842.93.32"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 2C Pass 
+2S Pass Pass Pass 
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+S7 S8 ST SQ 
+H3 H2 H6 HA 
+HQ H4 D2 H5 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "2"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "None"]
+[Deal "S:JT42.6.K842.AK86 KQ53.A75.AT7.J74 7.KQT3.QJ65.QT95 A986.J9842.93.32"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 2C Pass 
+2S Pass Pass Pass 
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+S7 S6 S2 - 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "3"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "Both"]
+[Deal "S:KQ.KQ54.QJ96.J96 T963.2.A.AQ87542 A7.T3.KT8754.KT3 J8542.AJ9876.32."]
+[Dealer "S"]
+[Auction "S"]
+1NT 2C 3NT Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+C7 C3 S8 C9 
+DA D4 D2 DJ 
+H2 HT HA H4 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "3"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "Both"]
+[Deal "S:KQ.KQ54.QJ96.J96 T963.2.A.AQ87542 A7.T3.KT8754.KT3 J8542.AJ9876.32."]
+[Dealer "S"]
+[Auction "S"]
+1D 2S 3NT 4S 
+X Pass Pass Pass 
+[Declarer "W"]
+[Contract "4SX"]
+[Play "N"]
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+790"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "4"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "EW"]
+[Deal "S:AK852.T3.K93.J97 Q943.K8.8754.AK3 6.AJ972.QJ.Q6542 JT7.Q654.AT62.T8"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1S Pass 1NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+H4 H3 HK HA 
+C8 CJ CK C4 
+DA D3 D8 DQ 
+*
+[Room "Open"]
+[Result "7"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "4"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "EW"]
+[Deal "S:AK852.T3.K93.J97 Q943.K8.8754.AK3 6.AJ972.QJ.Q6542 JT7.Q654.AT62.T8"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1D 1H 
+1S 1NT Pass 2C 
+Pass 2H Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "2H"]
+[Play "E"]
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "5"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "NS"]
+[Deal "S:93.QT83.KJ62.AJ3 KQ42.K7654.Q97.Q T65.J9.T84.K7654 AJ87.A2.A53.T982"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT Pass 2D 
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+S9 S2 S5 SJ 
+H3 HK HJ H2 
+S3 S4 S6 SA 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "5"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "NS"]
+[Deal "S:93.QT83.KJ62.AJ3 KQ42.K7654.Q97.Q T65.J9.T84.K7654 AJ87.A2.A53.T982"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 1NT Pass 2C 
+Pass 2S Pass 3S 
+Pass 4S Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+S3 S2 S6 S7 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "6"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "Both"]
+[Deal "S:75.KT854.874.AKJ AJ9863.A73.J32.5 KQ4.J6.965.QT964 T2.Q92.AKQT.8732"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1H 
+1S 1NT Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+DK D4 DJ D5 
+ST S5 SA S4 
+DT D7 D3 D6 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "6"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "Both"]
+[Deal "S:75.KT854.874.AKJ AJ9863.A73.J32.5 KQ4.J6.965.QT964 T2.Q92.AKQT.8732"]
+[Dealer "W"]
+[Auction "W"]
+1S Pass 1NT Pass 
+2C Pass 2D Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "2D"]
+[Play "S"]
+D4 D2 - - 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "7"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "EW"]
+[Deal "S:A8732.Q5.T5.K932 6.T9632.AKQJ4.A5 T95.AKJ4.932.JT6 KQJ4.87.876.Q874"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 2D Pass 2H 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+CJ C4 C2 CA 
+H4 H7 HQ H3 
+D2 D6 DT DA 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "7"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "EW"]
+[Deal "S:A8732.Q5.T5.K932 6.T9632.AKQJ4.A5 T95.AKJ4.932.JT6 KQJ4.87.876.Q874"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 2D Pass 2H 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+HK H7 H5 H2 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "8"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "NS"]
+[Deal "S:4.AJT9875.982.84 AK82.Q.QJ4.AKJ52 QJ97653.K3.A653. T.642.KT7.QT9763"]
+[Dealer "E"]
+[Auction "E"]
+Pass 3H X 4H 
+5C Pass Pass Pass 
+[Declarer "E"]
+[Contract "5C"]
+[Play "S"]
+S4 - - - 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "8"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "NS"]
+[Deal "S:4.AJT9875.982.84 AK82.Q.QJ4.AKJ52 QJ97653.K3.A653. T.642.KT7.QT9763"]
+[Dealer "E"]
+[Auction "E"]
+3C 3H 4NT 5S 
+Pass Pass X Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "5SX"]
+[Play "E"]
+C9 C4 CK S3 
+- - - H3 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-800"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "9"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "None"]
+[Deal "S:KT753.T5.AK63.K3 AQ6.J86.T54.QT98 98.KQ73.Q8.76542 J42.A942.J972.AJ"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT X Pass 
+Pass XX Pass Pass 
+2C Pass Pass X 
+Pass 2D Pass Pass 
+X Pass Pass Pass 
+[Declarer "E"]
+[Contract "2DX"]
+[Play "S"]
+*
+[Room "Open"]
+[Result "7"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "9"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "None"]
+[Deal "S:KT753.T5.AK63.K3 AQ6.J86.T54.QT98 98.KQ73.Q8.76542 J42.A942.J972.AJ"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D 1S Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "1S"]
+[Play "W"]
+C9 C2 - - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "10"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "EW"]
+[Deal "S:Q875.J975.63.T72 A632.AQ43.T974.J K.T8.AJ52.AQ9654 JT94.K62.KQ8.K83"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D Pass 1H 
+Pass 2C Pass Pass 
+X Pass 2S Pass 
+Pass 2NT X 3C 
+X Pass Pass Pass 
+[Declarer "N"]
+[Contract "3CX"]
+[Play "E"]
+C3 C2 CJ CQ 
+D8 D3 D4 D2 
+SJ S5 SA SK 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "10"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "EW"]
+[Deal "S:Q875.J975.63.T72 A632.AQ43.T974.J K.T8.AJ52.AQ9654 JT94.K62.KQ8.K83"]
+[Dealer "W"]
+[Auction "W"]
+1D 2C X Pass 
+2H Pass 3C Pass 
+4C Pass 4S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+C2 CJ - - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "11"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "NS"]
+[Deal "S:T653.A9765.54.T4 K82.J832.K9.AJ98 J74.Q.AQJ873.Q53 AQ9.KT4.T62.K762"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+DQ D2 D5 DK 
+C3 CK C4 C9 
+CQ C2 CT CJ 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "11"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "NS"]
+[Deal "S:T653.A9765.54.T4 K82.J832.K9.AJ98 J74.Q.AQJ873.Q53 AQ9.KT4.T62.K762"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D Pass 1H 
+Pass 1NT 2D X 
+Pass 2H Pass 2NT 
+Pass 3NT Pass Pass 
+X Pass Pass Pass 
+[Declarer "W"]
+[Contract "3NTX"]
+[Play "N"]
+DJ D2 - - 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "12"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "None"]
+[Deal "S:K83.A.T42.AKT852 J9.Q987653.AJ3.J AT765.K2.K865.Q4 Q42.JT4.Q97.9763"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D 2H 2S 
+3H 4H Pass 4S 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+HJ HA H3 H2 
+S2 S3 S9 SA 
+H4 D2 H5 HK 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "12"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "None"]
+[Deal "S:K83.A.T42.AKT852 J9.Q987653.AJ3.J AT765.K2.K865.Q4 Q42.JT4.Q97.9763"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C 1H 1S 
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "13"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "Both"]
+[Deal "S:963.KJ765.T4.QJ9 J8.AT92.KQ87.T63 AT7.Q843.93.AK74 KQ542..AJ652.852"]
+[Dealer "N"]
+[Auction "N"]
+1D 1S X 1NT 
+Pass 2D Pass 3D 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "3D"]
+[Play "S"]
+HJ C3 C4 C2 
+CJ C6 CK C5 
+C9 CT CA C8 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "13"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "Both"]
+[Deal "S:963.KJ765.T4.QJ9 J8.AT92.KQ87.T63 AT7.Q843.93.AK74 KQ542..AJ652.852"]
+[Dealer "N"]
+[Auction "N"]
+1C 1S X XX 
+2H Pass 3H Pass 
+4H Pass Pass X 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "4HX"]
+[Play "E"]
+S2 S3 - - 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-800"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "14"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "NS"]
+[Deal "S:QT9.AT9.JT843.95 A5.K84.AK652.A82 KJ.QJ7653..KQ763 876432.2.Q97.JT4"]
+[Dealer "W"]
+[Auction "W"]
+1D 2NT Pass 3H 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+- H3 D7 D3 
+SA SK S2 S9 
+D2 H5 D9 D4 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "14"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "NS"]
+[Deal "S:QT9.AT9.JT843.95 A5.K84.AK652.A82 KJ.QJ7653..KQ763 876432.2.Q97.JT4"]
+[Dealer "W"]
+[Auction "W"]
+1C 1NT Pass 2D 
+Pass 2H 2S Pass 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+H2 - - - 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "15"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "None"]
+[Deal "S:KQT.A63.KJ753.87 J854.Q95.A642.K9 762.J872.QT8.A62 A93.KT4.9.QJT543"]
+[Dealer "S"]
+[Auction "S"]
+1NT Pass Pass Pass 
+[Declarer "S"]
+[Contract "1NT"]
+[Play "W"]
+S4 S2 SA ST 
+CK C2 CQ C7 
+C9 CA CT C8 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "15"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "None"]
+[Deal "S:KQT.A63.KJ753.87 J854.Q95.A642.K9 762.J872.QT8.A62 A93.KT4.9.QJT543"]
+[Dealer "S"]
+[Auction "S"]
+1D Pass 1H 2C 
+X XX 2D 3C 
+3D Pass Pass Pass 
+[Declarer "S"]
+[Contract "3D"]
+[Play "W"]
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "16"]
+[West "Kokish"]
+[North "Nilsland"]
+[East "Silver"]
+[South "Fallenius"]
+[Vulnerable "Both"]
+[Deal "S:5.QJ84.KQ32.AT64 973.AK7532.94.83 KQT.T96.JT6.KQJ7 AJ8642..A875.952"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D 1H X 
+1S Pass Pass X 
+Pass 2D 2S 2NT 
+Pass 3C Pass Pass 
+3S Pass Pass Pass 
+[Declarer "E"]
+[Contract "3S"]
+[Play "S"]
+S5 S3 SK SA 
+C4 C8 CJ C5 
+D2 D4 DJ D5 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "01"]
+[Board "16"]
+[West "Lindberg"]
+[North "Gitelman"]
+[East "Lindkvist"]
+[South "Mittelman"]
+[Vulnerable "Both"]
+[Deal "S:5.QJ84.KQ32.AT64 973.AK7532.94.83 KQT.T96.JT6.KQJ7 AJ8642..A875.952"]
+[Dealer "E"]
+[Auction "E"]
+2S X 3D 3NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+S4 S5 - - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+600"]
+

@@ -1,0 +1,543 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "6th Forbo-Krommenie International Bridge Tournament"]
+[Site "Kurhaus Hotel - Scheveningen, The Netherlands, NLD"]
+[Date "1998.02.20"]
+[Round "5"]
+[Board "1"]
+[West "Passell"]
+[North "Wang"]
+[East "Ramer"]
+[South "Fu"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "W:T4.AT2.9853.JT42 A.K.AT642.K98765 Q87532.J987.KJ.3 KJ96.Q6543.Q7.AQ"]
+[HomeTeam "China"]
+[VisitTeam "USA"]
+[Declarer "S"]
+[Contract "3NT"]
+[Auction "N"]
+1D 1S X Pass 
+3C Pass 3NT Pass 
+Pass Pass   
+[Play "W"]
+ST SA S2 S6 
+C2 C5 C3 CA 
+C4 C6 S3 CQ 
+HA HK H7 H3 
+D5 D2 DK D7 
+D3 DA DJ DQ 
+CT CK S5 H4 
+CJ C7 S7 SJ 
+HT D4 HJ HQ 
+H2 D6 H9 H6 
+D8 C8 H8 H5 
+S4 C9 S8 S9 
+D9 DT SQ SK 
+[Score "NS -50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "1"]
+[West "Li"]
+[North "Goldman"]
+[East "Wang"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "W:T4.AT2.9853.JT42 A.K.AT642.K98765 Q87532.J987.KJ.3 KJ96.Q6543.Q7.AQ"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Auction "N"]
+1D 1S 2H Pass 
+3C Pass 3NT Pass 
+Pass Pass   
+[Play "W"]
+ST SA S2 S6 
+C2 C5 C3 CA 
+C4 C6 S3 CQ 
+HA HK H9 H3 
+D3 D2 DK DQ 
+H2 C7 H7 HQ 
+S4 C8 S8 SK 
+D5 DT DJ D7 
+HT C9 SQ S9 
+- - HJ H5 
+*
+[Score "NS -150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "2"]
+[West "Passell"]
+[North "Wang"]
+[East "Ramer"]
+[South "Fu"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "W:64.AQJ.J87632.J7 KQ7.642.AT9.6432 JT52.KT53.Q.AT95 A983.987.K54.KQ8"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Auction "E"]
+Pass 1D Pass 1NT 
+Pass Pass Pass  
+[Play "E"]
+H3 H7 HJ H2 
+DQ DK D8 DT 
+S2 S3 S6 SK 
+C5 CK C7 C2 
+S5 S8 S4 SQ 
+ST SA D3 S7 
+C9 D4 D2 D9 
+CT D5 D6 DA 
+*
+[Score "NS +90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "2"]
+[West "Li"]
+[North "Goldman"]
+[East "Wang"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "W:64.AQJ.J87632.J7 KQ7.642.AT9.6432 JT52.KT53.Q.AT95 A983.987.K54.KQ8"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Auction "E"]
+Pass 1C Pass 1NT 
+2C Pass 2H Pass 
+Pass Pass   
+[Play "N"]
+H2 H3 H8 HJ 
+C3 C5 CQ CJ 
+H4 H5 H7 HA 
+C2 C9 CK C7 
+H6 HK H9 HQ 
+C4 CA C8 D2 
+C6 CT D5 D3 
+S7 S2 S3 S6 
+D9 DQ DK D7 
+DT HT D4 D8 
+*
+[Score "NS +100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "3"]
+[West "Passell"]
+[North "Wang"]
+[East "Ramer"]
+[South "Fu"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "W:AT8.KJ982.AJ3.T4 Q7432.Q75.K84.J5 K96.AT6.962.K987 J5.43.QT75.AQ632"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Auction "S"]
+Pass 1H Pass 1NT 
+Pass 2D Pass 2H 
+Pass Pass Pass  
+[Play "N"]
+CJ CK CA C4 
+C5 C7 C3 CT 
+H5 H6 H3 H8 
+H7 HT H4 H2 
+HQ HA C2 H9 
+S2 C8 CQ HJ 
+S3 S6 C6 HK 
+S4 SK S5 ST 
+DK C9 D7 DJ 
+S7 S9 SJ SA 
+D4 D2 D5 DA 
+*
+[Score "NS -170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "3"]
+[West "Li"]
+[North "Goldman"]
+[East "Wang"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "W:AT8.KJ982.AJ3.T4 Q7432.Q75.K84.J5 K96.AT6.962.K987 J5.43.QT75.AQ632"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Auction "S"]
+Pass 1H Pass 2H 
+Pass Pass Pass  
+[Play "N"]
+S3 S6 SJ SA 
+C5 C7 CQ CT 
+SQ SK S5 S8 
+S2 S9 H3 ST 
+DK D2 DT DJ 
+D4 D9 DQ DA 
+H5 HA H4 H2 
+H7 H6 C6 HK 
+CJ CK CA C4 
+D8 D6 D7 D3 
+*
+[Score "NS +100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "4"]
+[West "Passell"]
+[North "Wang"]
+[East "Ramer"]
+[South "Fu"]
+[Dealer "W"]
+[Vulnerable "Both"]
+[Room "Open"]
+[Deal "W:9832.Q92.K753.AT KQJ765.A84.4.764 AT.K75.AJT9862.3 4.JT63.Q.KQJ9852"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Auction "W"]
+Pass 1S 2D Pass 
+2S X XX 3C 
+3D 3S 3NT 4C 
+5D Pass Pass Pass 
+[Play "S"]
+S4 S2 SJ SA 
+DQ D3 D4 DA 
+CK CA C4 C3 
+C2 CT C6 D2 
+C5 S3 SQ ST 
+*
+[Score "NS -600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "4"]
+[West "Li"]
+[North "Goldman"]
+[East "Wang"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "Both"]
+[Room "Closed"]
+[Deal "W:9832.Q92.K753.AT KQJ765.A84.4.764 AT.K75.AJT9862.3 4.JT63.Q.KQJ9852"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Auction "W"]
+Pass 2S 3D Pass 
+3S Pass 5D Pass 
+Pass Pass   
+[Play "S"]
+S4 S2 SJ SA 
+DQ D3 D4 DA 
+CK S3 SQ ST 
+*
+[Score "NS -600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "5"]
+[West "Passell"]
+[North "Wang"]
+[East "Ramer"]
+[South "Fu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "W:AKQ.Q54.AQ9842.4 6.AKT876.5.KJT72 T87.J9.KT73.9653 J95432.32.J6.AQ8"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "5D"]
+[Auction "N"]
+1H Pass 1S 2D 
+2H 4D Pass 5D 
+Pass Pass Pass  
+[Play "N"]
+HA H9 H3 H5 
+HK HJ H2 HQ 
+H7 DK S2 H4 
+D5 D3 D6 DA 
+*
+[Score "NS +50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "5"]
+[West "Li"]
+[North "Goldman"]
+[East "Wang"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "W:AKQ.Q54.AQ9842.4 6.AKT876.5.KJT72 T87.J9.KT73.9653 J95432.32.J6.AQ8"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "5DX"]
+[Auction "N"]
+1H Pass 1S 3D 
+3H 4D 4H 5D 
+X Pass Pass Pass 
+[Play "N"]
+HK H9 H3 H4 
+HA HJ H2 HQ 
+S6 S7 S2 SK 
+D5 D3 D6 DA 
+H6 D7 DJ DQ 
+*
+[Score "NS +100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "6"]
+[West "Passell"]
+[North "Wang"]
+[East "Ramer"]
+[South "Fu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "W:T754.AJ853..A742 98.Q96.T76.KQT93 KJ632.K.AQ985.85 AQ.T742.KJ432.J6"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "E"]
+[Contract "5S"]
+[Auction "E"]
+1S Pass 4D Pass 
+4H Pass 5C X 
+5D Pass 5H Pass 
+5S Pass Pass Pass 
+[Play "S"]
+CJ CA CK C5 
+H4 H3 H6 HK 
+D2 C2 D6 DA 
+D3 S4 D7 D5 
+H2 HA H9 C8 
+H7 H5 HQ S2 
+D4 S5 DT D8 
+HT HJ S9 SJ 
+DJ ST C3 D9 
+C6 C4 C9 S3 
+DK S7 S8 DQ 
+SQ C7 CQ S6 
+SA H8 CT SK 
+[Score "NS +100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "6"]
+[West "Li"]
+[North "Goldman"]
+[East "Wang"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "W:T754.AJ853..A742 98.Q96.T76.KQT93 KJ632.K.AQ985.85 AQ.T742.KJ432.J6"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Auction "E"]
+1S Pass 3H Pass 
+4D Pass 4H Pass 
+4S Pass Pass Pass 
+[Play "S"]
+CJ CA CK C8 
+H2 H5 H6 HK 
+D2 S4 D6 D5 
+HT H3 HQ S3 
+*
+[Score "NS -620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "7"]
+[West "Passell"]
+[North "Wang"]
+[East "Ramer"]
+[South "Fu"]
+[Dealer "S"]
+[Vulnerable "Both"]
+[Room "Open"]
+[Deal "W:72.A52.64.AQJ975 643.J97.K72.T832 KQ95.KT.AQ953.K6 AJT8.Q8643.JT8.4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "6C"]
+[Auction "S"]
+Pass 1C Pass 1D 
+Pass 2C Pass 2S 
+Pass 3H Pass 4C 
+Pass 5C Pass 6C 
+Pass Pass Pass  
+[Play "N"]
+H7 HK H3 H5 
+H9 HT H4 HA 
+S3 SK SA S7 
+S6 SQ SJ S2 
+S4 S5 S8 C5 
+D2 DQ DJ D4 
+D7 DA D8 D6 
+DK D3 DT C7 
+HJ C6 H6 H2 
+C2 CK C4 C9 
+*
+[Score "NS -1370"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "7"]
+[West "Li"]
+[North "Goldman"]
+[East "Wang"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "Both"]
+[Room "Closed"]
+[Deal "W:72.A52.64.AQJ975 643.J97.K72.T832 KQ95.KT.AQ953.K6 AJT8.Q8643.JT8.4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Auction "S"]
+Pass 1C Pass 1D 
+X 2C Pass 2NT 
+Pass 3C Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+H4 H2 HJ HK 
+C4 C5 C2 CK 
+H6 CA C3 C6 
+H3 CQ C8 D5 
+DJ CJ CT D3 
+DT C9 S3 S5 
+D8 C7 S4 S9 
+S8 D4 D2 D9 
+SA S2 S6 SK 
+SJ S7 H7 SQ 
+H8 HA H9 HT 
+ST D6 D7 DQ 
+HQ H5 DK DA 
+[Score "NS -690"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "8"]
+[West "Passell"]
+[North "Wang"]
+[East "Ramer"]
+[South "Fu"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "W:A.Q83.K986543.J3 8652.KT964.AJ.T8 J43.J2.Q72.KQ754 KQT97.A75.T.A962"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Auction "W"]
+Pass Pass Pass 1S 
+2D 3D X 4S 
+Pass Pass Pass  
+[Play "W"]
+D3 DA D2 DT 
+SA S2 S4 SQ 
+D4 DJ DQ ST 
+CJ C8 C4 C6 
+C3 CT CQ CA 
+D8 S5 S3 SK 
+DK S6 C5 C2 
+H8 H4 H2 HA 
+D5 S8 C7 C9 
+H3 HK HJ H5 
+HQ H6 D7 H7 
+*
+[Score "NS -50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "8"]
+[West "Li"]
+[North "Goldman"]
+[East "Wang"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "W:A.Q83.K986543.J3 8652.KT964.AJ.T8 J43.J2.Q72.KQ754 KQT97.A75.T.A962"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Auction "W"]
+1D 1H X XX 
+2D Pass Pass 4H 
+Pass Pass Pass  
+[Play "E"]
+D2 DT DK DA 
+DQ H5 D9 DJ 
+H2 HA H3 H4 
+HJ H7 H8 HK 
+S4 SK SA S5 
+CQ CA C3 C8 
+C4 C2 CJ CT 
+D7 S9 HQ H6 
+C5 C6 D8 H9 
+S3 S7 D3 S8 
+*
+[Score "NS +420"]
+

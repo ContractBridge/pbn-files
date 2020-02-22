@@ -1,0 +1,650 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "7th Hero 1999 Youth festival"]
+[Site "Hogeschool Den Bosch The Netherlands, NLD"]
+[Date "1999.08.01"]
+[Round "10"]
+[Board "1"]
+[West "Ashment"]
+[North "Mac Cormac"]
+[East "Zivan"]
+[South "Nolan"]
+[Vulnerable "None"]
+[Deal "S:Q742.K74.Q92.642 AT83.A863.KJ8.Q3 J965.QJT5.74.AT8 K.92.AT653.KJ975"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 1NT 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+HQ H2 H4 H6 
+HJ H9 H7 HA 
+C8 C5 C2 CQ 
+CA C7 C4 C3 
+S5 SK S2 S3 
+CT CK C6 S8 
+D7 CJ S4 ST 
+S6 C9 HK H3 
+D4 D3 D2 DK 
+S9 D5 S7 SA 
+H5 DA D9 DJ 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "1"]
+[West "Clarson"]
+[North "Zalin"]
+[East "Mitchell"]
+[South "Birdsall"]
+[Vulnerable "None"]
+[Deal "S:Q742.K74.Q92.642 AT83.A863.KJ8.Q3 J965.QJT5.74.AT8 K.92.AT653.KJ975"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 2C Pass 2S 
+Pass 3C Pass 3NT 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+S5 SK S7 S3 
+D4 D3 D2 DK 
+D7 D5 DQ DJ 
+S6 H2 S2 SA 
+C8 CJ C2 C3 
+CA C5 C4 CQ 
+SJ H9 S4 S8 
+S9 - - - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "2"]
+[West "Ashment"]
+[North "Mac Cormac"]
+[East "Zivan"]
+[South "Nolan"]
+[Vulnerable "NS"]
+[Deal "S:J96.4.AQJ743.Q54 Q72.AT632.95.KT9 AK43.875.T6.A832 T85.KQJ9.K82.J76"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 2H Pass 
+3H Pass Pass Pass 
+[Declarer "W"]
+[Contract "3H"]
+[Play "N"]
+SA S5 S6 S2 
+DT DK DA D5 
+D6 D2 DQ D9 
+H5 D8 DJ H2 
+H7 HK H4 H3 
+H8 HQ D3 H6 
+C2 HJ D4 HT 
+CA CJ C4 C9 
+C3 C6 CQ CK 
+C8 C7 C5 CT 
+SK S8 S9 S7 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "2"]
+[West "Clarson"]
+[North "Zalin"]
+[East "Mitchell"]
+[South "Birdsall"]
+[Vulnerable "NS"]
+[Deal "S:J96.4.AQJ743.Q54 Q72.AT632.95.KT9 AK43.875.T6.A832 T85.KQJ9.K82.J76"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass Pass 
+[Contract "Pass"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "3"]
+[West "Ashment"]
+[North "Mac Cormac"]
+[East "Zivan"]
+[South "Nolan"]
+[Vulnerable "EW"]
+[Deal "S:KQJ72.K63.T.KJ87 T53.Q9854.9.QT65 984.J2.AKQJ5.942 A6.AT7.876432.A3"]
+[Dealer "S"]
+[Auction "S"]
+1S Pass 2D Pass 
+2NT Pass 3S Pass 
+4S Pass Pass Pass 
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+H5 HJ HA H3 
+D9 D5 D8 DT 
+H4 H2 H7 HK 
+H8 S4 HT H6 
+S3 DA D2 C7 
+C5 C2 CA C8 
+H9 DJ D4 SJ 
+S5 S8 SA SK 
+ST DQ D3 CJ 
+CQ C4 C3 CK 
+- - - SQ 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "3"]
+[West "Clarson"]
+[North "Zalin"]
+[East "Mitchell"]
+[South "Birdsall"]
+[Vulnerable "EW"]
+[Deal "S:KQJ72.K63.T.KJ87 T53.Q9854.9.QT65 984.J2.AKQJ5.942 A6.AT7.876432.A3"]
+[Dealer "S"]
+[Auction "S"]
+1S Pass 2D Pass 
+2S Pass 3S Pass 
+4S Pass Pass Pass 
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+D9 DA D3 DT 
+H8 H2 HA H3 
+S3 DJ D2 C7 
+C5 C2 CA C8 
+H4 D5 D4 SJ 
+S5 S4 SA SK 
+ST DQ D6 S7 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "4"]
+[West "Ashment"]
+[North "Mac Cormac"]
+[East "Zivan"]
+[South "Nolan"]
+[Vulnerable "Both"]
+[Deal "S:A953.954.T75.732 Q2.J8.KJ43.A8654 KJT4.AK732.82.QJ 876.QT6.AQ96.KT9"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1H Pass Pass 
+2C Pass Pass Pass 
+[Declarer "W"]
+[Contract "2C"]
+[Play "N"]
+CJ CK C2 C4 
+CQ CT C3 C5 
+HA H6 H4 H8 
+D8 DA D5 D3 
+H2 C9 C7 C6 
+HK HQ H5 HJ 
+D2 DQ D7 D4 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "4"]
+[West "Clarson"]
+[North "Zalin"]
+[East "Mitchell"]
+[South "Birdsall"]
+[Vulnerable "Both"]
+[Deal "S:A953.954.T75.732 Q2.J8.KJ43.A8654 KJT4.AK732.82.QJ 876.QT6.AQ96.KT9"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1H Pass Pass 
+X Pass 1NT Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+H4 HJ HK H6 
+H5 H8 HA HQ 
+H9 S2 H3 HT 
+D5 D3 D2 DA 
+D7 D4 D8 DQ 
+DT DJ S4 D6 
+C2 DK CJ D9 
+C3 C4 CQ CK 
+C7 C5 H2 CT 
+S3 CA ST C9 
+- C8 - - 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+210"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "5"]
+[West "Ashment"]
+[North "Mac Cormac"]
+[East "Zivan"]
+[South "Nolan"]
+[Vulnerable "NS"]
+[Deal "S:QT952.Q842.5.AJ9 K8.J976.AQ4.T754 AJ6.A3.KJT832.Q6 743.KT5.976.K832"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 1S Pass 
+1NT Pass 3NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+S4 SQ SK SA 
+S7 S2 S8 SJ 
+S3 ST H6 S6 
+D9 S9 H7 D2 
+C2 S5 H9 D3 
+D6 D5 DA D8 
+HK H2 HJ H3 
+C3 C9 CT CQ 
+H5 H4 C4 HA 
+D7 CJ D4 DK 
+- - - C6 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+660"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "5"]
+[West "Clarson"]
+[North "Zalin"]
+[East "Mitchell"]
+[South "Birdsall"]
+[Vulnerable "NS"]
+[Deal "S:QT952.Q842.5.AJ9 K8.J976.AQ4.T754 AJ6.A3.KJT832.Q6 743.KT5.976.K832"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 1S Pass 
+1NT Pass 2C Pass 
+2S Pass 4S Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+H6 H3 HK H2 
+H7 HA H5 H4 
+DQ DJ D6 D5 
+DA D2 D7 S2 
+S8 S6 S4 ST 
+SK SA S3 S5 
+- SJ S7 S9 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "6"]
+[West "Ashment"]
+[North "Mac Cormac"]
+[East "Zivan"]
+[South "Nolan"]
+[Vulnerable "EW"]
+[Deal "S:JT63.AKJ6.Q974.J KQ92.T3.KT3.AT62 A75.5.AJ85.KQ943 84.Q98742.62.875"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1S Pass 2C 
+Pass 2H Pass 3D 
+Pass 3NT Pass 4S 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+D3 D5 D6 D7 
+SQ SA S4 ST 
+H3 H5 H7 HA 
+HT D8 H2 HK 
+DT S5 H4 H6 
+C2 C3 C5 CJ 
+DK DA D2 D4 
+C6 CK C7 S3 
+S2 DJ C8 DQ 
+SK S7 S8 S6 
+S9 C4 H8 SJ 
+CT C9 H9 D9 
+CA CQ HQ HJ 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "6"]
+[West "Clarson"]
+[North "Zalin"]
+[East "Mitchell"]
+[South "Birdsall"]
+[Vulnerable "EW"]
+[Deal "S:JT63.AKJ6.Q974.J KQ92.T3.KT3.AT62 A75.5.AJ85.KQ943 84.Q98742.62.875"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1NT Pass 
+2D Pass 2H X 
+Pass 2S Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+HT H5 HQ HK 
+CA C3 C5 CJ 
+C2 CK C7 D4 
+C6 CQ C8 D7 
+SQ S5 S4 ST 
+D3 D5 D6 DQ 
+H3 D8 H2 HA 
+DT DJ D2 D9 
+DK DA S8 H6 
+S9 C4 H9 HJ 
+CT C9 H4 S3 
+S2 S7 H7 S6 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "7"]
+[West "Ashment"]
+[North "Mac Cormac"]
+[East "Zivan"]
+[South "Nolan"]
+[Vulnerable "Both"]
+[Deal "S:AT642.JT3.5.QJ54 Q9.965.QT9.AK763 8753.8.AK743.T82 KJ.AKQ742.J862.9"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 1H 
+1S 2C Pass 2H 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+D5 D9 DK DJ 
+SA S9 S3 SJ 
+S2 SQ S5 SK 
+H3 H5 H8 HA 
+HT H6 C2 HK 
+HJ H9 D3 HQ 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "7"]
+[West "Clarson"]
+[North "Zalin"]
+[East "Mitchell"]
+[South "Birdsall"]
+[Vulnerable "Both"]
+[Deal "S:AT642.JT3.5.QJ54 Q9.965.QT9.AK763 8753.8.AK743.T82 KJ.AKQ742.J862.9"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 1H 
+1S 2C 3S Pass 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+D5 D9 DK D2 
+S2 DT DA D6 
+H3 DQ D3 D8 
+SA S9 S3 SJ 
+S4 SQ S5 SK 
+HT H5 H8 HA 
+HJ H6 S7 HK 
+- - - HQ 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "8"]
+[West "Ashment"]
+[North "Mac Cormac"]
+[East "Zivan"]
+[South "Nolan"]
+[Vulnerable "None"]
+[Deal "S:972.J7.KJ98.T863 .AQ8643.AQT764.4 KQT843.KT9.2.Q75 AJ65.52.53.AKJ92"]
+[Dealer "W"]
+[Auction "W"]
+1H 1S 2C Pass 
+2D 2S 3NT Pass 
+4D Pass 4H Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+SK SA S2 D4 
+HK H2 HJ HQ 
+C7 CA C3 C4 
+D2 D3 D8 DQ 
+H9 H5 H7 HA 
+HT D5 D9 DA 
+C5 CJ C6 D6 
+CQ CK C8 D7 
+S3 C9 CT DT 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "8"]
+[West "Clarson"]
+[North "Zalin"]
+[East "Mitchell"]
+[South "Birdsall"]
+[Vulnerable "None"]
+[Deal "S:972.J7.KJ98.T863 .AQ8643.AQT764.4 KQT843.KT9.2.Q75 AJ65.52.53.AKJ92"]
+[Dealer "W"]
+[Auction "W"]
+1H 1S 2C 2S 
+3D 3S 4H Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+SK SA S2 D4 
+HK H2 H7 HQ 
+D2 D3 DK DA 
+H9 D5 D8 DQ 
+HT H5 HJ HA 
+C5 CJ C3 C4 
+C7 CA C6 D6 
+CQ CK C8 D7 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "9"]
+[West "Ashment"]
+[North "Mac Cormac"]
+[East "Zivan"]
+[South "Nolan"]
+[Vulnerable "EW"]
+[Deal "S:KT642.K987.J94.Q A7.QJT.K832.KJT2 Q953.A53.T76.A97 J8.642.AQ5.86543"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 1NT 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+S3 SJ SK SA 
+D6 DQ D4 D2 
+C7 C3 CQ CK 
+CA C4 H7 CJ 
+SQ S8 S2 S7 
+S9 H2 ST D3 
+S5 H4 S4 C2 
+H3 H6 HK HT 
+DT C5 S6 D8 
+HA - H9 HJ 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "9"]
+[West "Clarson"]
+[North "Zalin"]
+[East "Mitchell"]
+[South "Birdsall"]
+[Vulnerable "EW"]
+[Deal "S:KT642.K987.J94.Q A7.QJT.K832.KJT2 Q953.A53.T76.A97 J8.642.AQ5.86543"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 1NT 
+Pass Pass X Pass 
+2C Pass 2H Pass 
+2S Pass Pass Pass 
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+C6 CQ CK CA 
+S8 SK SA S3 
+H6 HK HQ H3 
+SJ S2 S7 S9 
+H2 H7 HT HA 
+H4 H8 HJ H5 
+DQ D4 D2 D6 
+DA D9 D3 D7 
+D5 DJ DK DT 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "10"]
+[West "Ashment"]
+[North "Mac Cormac"]
+[East "Zivan"]
+[South "Nolan"]
+[Vulnerable "Both"]
+[Deal "S:KJ.K952.KT5.Q875 QT7642.Q4.43.K63 5.JT6.AQJ862.J42 A983.A873.97.AT9"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 2H Pass 
+3S Pass Pass Pass 
+[Declarer "E"]
+[Contract "3S"]
+[Play "S"]
+C5 C3 CJ CA 
+SJ S2 S5 SA 
+HK H4 H6 H3 
+D5 D3 DA D7 
+DT D4 DQ D9 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "10"]
+[Board "10"]
+[West "Clarson"]
+[North "Zalin"]
+[East "Mitchell"]
+[South "Birdsall"]
+[Vulnerable "Both"]
+[Deal "S:KJ.K952.KT5.Q875 QT7642.Q4.43.K63 5.JT6.AQJ862.J42 A983.A873.97.AT9"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 2H Pass 
+2S Pass Pass Pass 
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+H2 HQ H6 H3 
+SJ S2 S5 SA 
+SK S4 D6 S3 
+D5 D3 DA D7 
+DT D4 DQ D9 
+H5 H4 HJ HA 
+C5 CK C2 CT 
+CQ C3 C4 C9 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+140"]
+

@@ -1,0 +1,902 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "10th World Bridge Team Olympiad 1996"]
+[Site "Rodos Palace Hotel - Rhodos, Greece, GRC"]
+[Date "1996.11.02"]
+[Round "05"]
+[Board "1"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "EW"]
+[Deal "S:965.KJT76.AT5.Q9 QT2.2.K9432.T865 AK8.954.J87.AK42 J743.AQ83.Q6.J73"]
+[Dealer "N"]
+[Auction "N"]
+1NT Pass 2D Pass 
+2H Pass 3NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+S3 S5 SQ SA 
+H3 H6 H2 H9 
+HA H7 D4 H4 
+C3 C9 CT CA 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "1"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "EW"]
+[Deal "S:965.KJT76.AT5.Q9 QT2.2.K9432.T865 AK8.954.J87.AK42 J743.AQ83.Q6.J73"]
+[Dealer "N"]
+[Auction "N"]
+1NT Pass 2D Pass 
+2H Pass 3NT Pass 
+4H Pass Pass Pass 
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+C3 C9 CT CA 
+H3 HT H2 H4 
+C7 CQ C5 C2 
+S3 S5 S2 SA 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "2"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "None"]
+[Deal "S:JT94..AQT654.AJ9 KQ7.8653.J98.Q87 863.AQ72.K7.5432 A52.KJT94.32.KT6"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1H 2D 
+2H Pass Pass 2S 
+Pass Pass 3H Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "3H"]
+[Play "S"]
+SJ SK S3 S2 
+D4 H3 H2 HJ 
+S4 SQ S6 S5 
+D5 H8 HA H4 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "2"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "None"]
+[Deal "S:JT94..AQT654.AJ9 KQ7.8653.J98.Q87 863.AQ72.K7.5432 A52.KJT94.32.KT6"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1H 2D 
+2H 3D Pass 3S 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+HJ S4 H3 HQ 
+D2 DQ D8 D7 
+D3 D4 D9 DK 
+H4 S9 H5 HA 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "3"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "Both"]
+[Deal "S:KJ73.K98.943.QT8 9652.Q654..A9732 T84.T2.AQT75.J64 AQ.AJ73.KJ862.K5"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 1D 
+Pass 1H Pass 3H 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+S4 SQ SK S2 
+S8 SA S3 S5 
+D5 D2 D3 H4 
+ST H3 S7 S6 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "3"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "Both"]
+[Deal "S:KJ73.K98.943.QT8 9652.Q654..A9732 T84.T2.AQT75.J64 AQ.AJ73.KJ862.K5"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 2D 2NT 
+3D 4C Pass 4H 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+S3 S2 S8 SQ 
+D3 H4 D7 D2 
+C8 C2 C4 CK 
+D4 H5 D5 D6 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "4"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "EW"]
+[Deal "S:Q74.KJ7.AKQ52.T2 AK2.4.T973.K7653 63.QT3.864.QJ984 JT985.A98652.J.A"]
+[Dealer "E"]
+[Auction "E"]
+1H 1NT X Pass 
+2H Pass Pass Pass 
+[Declarer "E"]
+[Contract "2H"]
+[Play "S"]
+DA D3 D4 DJ 
+DK D7 D6 H2 
+C2 C3 C4 CA 
+SQ SA S3 SJ 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "4"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "EW"]
+[Deal "S:Q74.KJ7.AKQ52.T2 AK2.4.T973.K7653 63.QT3.864.QJ984 JT985.A98652.J.A"]
+[Dealer "E"]
+[Auction "E"]
+1S 1NT X Pass 
+2H Pass 2S Pass 
+3S Pass 4S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+DA D3 D4 DJ 
+S4 SA S3 S5 
+D2 D7 D6 S8 
+C2 C3 C4 CA 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "5"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "NS"]
+[Deal "S:AT72.K92.T.QJ987 954.83.K9632.T64 J8.AQJT54.Q875.A KQ63.76.AJ4.K532"]
+[Dealer "N"]
+[Auction "N"]
+1D X XX Pass 
+2H Pass 4H Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+H7 H2 H3 HT 
+C2 C7 C4 CA 
+DJ DT D2 D5 
+H6 H9 H8 H4 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "5"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "NS"]
+[Deal "S:AT72.K92.T.QJ987 954.83.K9632.T64 J8.AQJT54.Q875.A KQ63.76.AJ4.K532"]
+[Dealer "N"]
+[Auction "N"]
+1H X 2C Pass 
+2D Pass 3H Pass 
+4H Pass Pass Pass 
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+SK S2 S4 S8 
+H6 H9 H3 H4 
+DJ DT D2 D5 
+H7 H2 H8 HT 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "6"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "Both"]
+[Deal "S:J72.QJ4.A82.9754 K653.K75.7.KQJT3 AQT9.A982.K3.A82 84.T63.QJT9654.6"]
+[Dealer "W"]
+[Auction "W"]
+1C X 1D 1NT 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+CK C2 C6 C4 
+CQ CA D4 C5 
+D7 D3 DQ DA 
+H5 H2 H3 HQ 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "6"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "Both"]
+[Deal "S:J72.QJ4.A82.9754 K653.K75.7.KQJT3 AQT9.A982.K3.A82 84.T63.QJT9654.6"]
+[Dealer "W"]
+[Auction "W"]
+1S 1NT 2D X 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "2DX"]
+[Play "S"]
+HQ H5 H9 H3 
+SJ S3 ST S4 
+S7 S5 S9 S8 
+DA D7 D3 DJ 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "7"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "EW"]
+[Deal "S:T.976542.T6543.9 983.KT.KJ2.AKT82 J54.AJ83.Q8.Q753 AKQ762.Q.A97.J64"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 2S 
+Pass 2NT Pass 3C 
+Pass 3D Pass 3H 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+H3 HQ H2 HT 
+S4 SA ST S3 
+C3 C4 C9 CA 
+C5 C6 D3 CK 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+690"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "7"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "EW"]
+[Deal "S:T.976542.T6543.9 983.KT.KJ2.AKT82 J54.AJ83.Q8.Q753 AKQ762.Q.A97.J64"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 3H 
+3S 4C Pass 4D 
+Pass 4S Pass 4NT 
+Pass 5D Pass 6S 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "6S"]
+[Play "N"]
+S4 SA ST S3 
+S5 SK H2 S8 
+SJ SQ H4 S9 
+C3 C4 C9 CA 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+1430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "8"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "NS"]
+[Deal "S:9.QJ2.AQ6432.762 AT87.K753.97.J54 KQJ432.A.T8.T983 65.T9864.KJ5.AKQ"]
+[Dealer "E"]
+[Auction "E"]
+1NT 2C Pass 2S 
+Pass 3D Pass 3S 
+Pass Pass X Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3SX"]
+[Play "E"]
+CA C2 C4 C3 
+CK C6 C5 C8 
+CQ C7 CJ C9 
+HT HJ H5 HA 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "8"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "NS"]
+[Deal "S:9.QJ2.AQ6432.762 AT87.K753.97.J54 KQJ432.A.T8.T983 65.T9864.KJ5.AKQ"]
+[Dealer "E"]
+[Auction "E"]
+1H 2D 2H 2S 
+3H Pass Pass 3S 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "3S"]
+[Play "E"]
+CA C2 C4 C3 
+CQ C6 C5 C8 
+CK C7 CJ C9 
+HT HQ H3 HA 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "9"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "None"]
+[Deal "S:84.A964.KJ8.Q874 J95.J875.Q754.T9 K632.KT3.962.AJ6 AQT7.Q2.AT3.K532"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C Pass 1H 
+Pass 1NT Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+C4 C9 CA C5 
+CQ CT CJ C3 
+C7 D4 C6 CK 
+C8 D5 D2 C2 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "9"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "None"]
+[Deal "S:84.A964.KJ8.Q874 J95.J875.Q754.T9 K632.KT3.962.AJ6 AQT7.Q2.AT3.K532"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+H4 H5 HT HQ 
+H6 H7 HK H2 
+DJ DQ D2 DT 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "10"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "EW"]
+[Deal "S:AT3.4.JT984.7654 9762.QT2.7.KQT82 QJ8.A983.AQ63.AJ K54.KJ765.K52.93"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1C Pass 1D 
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+H6 H4 HQ H3 
+H5 C4 HT H8 
+HJ C5 H2 HA 
+SK SA S2 SQ 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "10"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "EW"]
+[Deal "S:AT3.4.JT984.7654 9762.QT2.7.KQT82 QJ8.A983.AQ63.AJ K54.KJ765.K52.93"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D 1H 3D 
+3H 4C Pass 5D 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "5D"]
+[Play "E"]
+S4 ST S7 S8 
+C3 C4 CK CA 
+SK SA S2 SQ 
+S5 S3 S6 SJ 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "11"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "NS"]
+[Deal "S:J85.Q643.9653.Q7 K.J852.QJ87.T653 QT9743.7.AT2.AJ8 A62.AKT9.K4.K942"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1S 1NT 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+S5 SK S3 S6 
+HQ H2 H7 HT 
+SJ C3 SQ S2 
+S8 C5 ST SA 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "11"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "NS"]
+[Deal "S:J85.Q643.9653.Q7 K.J852.QJ87.T653 QT9743.7.AT2.AJ8 A62.AKT9.K4.K942"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1S X 
+2S X 2NT 3S 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+S7 S2 SJ SK 
+H7 H9 HQ HJ 
+S9 SA S5 C3 
+S3 HA H3 H2 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "12"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "None"]
+[Deal "S:95.A.KQ3.KQJ9874 Q8732.5.865.AT63 AJT.KQ9872.AJ9.2 K64.JT643.T742.5"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C X 2C 
+Pass 6C Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "6C"]
+[Play "W"]
+D5 DJ D4 D3 
+CA C2 C5 CK 
+S3 SA S4 S5 
+H5 H2 H3 HA 
+*
+[Room "Open"]
+[Result "11"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "12"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "None"]
+[Deal "S:95.A.KQ3.KQJ9874 Q8732.5.865.AT63 AJT.KQ9872.AJ9.2 K64.JT643.T742.5"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C 1H X 
+1S 2H Pass 2S 
+X 5C Pass 6H 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "6H"]
+[Play "W"]
+S2 ST SK S5 
+CA C2 C5 CK 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "13"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "Both"]
+[Deal "S:AK98.T7652.942.A JT752.K3.AT53.76 Q63.AQ.KJ86.KT42 4.J984.Q7.QJ9853"]
+[Dealer "N"]
+[Auction "N"]
+1NT Pass 2D Pass 
+2H Pass 2S Pass 
+2NT Pass 3NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+CQ CA C6 C2 
+DQ D9 D3 D6 
+S4 SK S2 S3 
+D7 D4 D5 D8 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "13"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "Both"]
+[Deal "S:AK98.T7652.942.A JT752.K3.AT53.76 Q63.AQ.KJ86.KT42 4.J984.Q7.QJ9853"]
+[Dealer "N"]
+[Auction "N"]
+1NT Pass 2D Pass 
+2H Pass 3S Pass 
+3NT Pass Pass Pass 
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+CQ CA C6 C2 
+DQ D9 D3 D6 
+H4 H2 HK HA 
+S4 SA S2 S3 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "14"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "NS"]
+[Deal "S:A52.AQ87.AJ.6432 J98.KT2.T765.AT5 KQ3.J6543.KQ92.Q T764.9.843.KJ987"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1H Pass 2NT 
+Pass 4H Pass 4S 
+Pass 5C Pass 5D 
+Pass 5H Pass 6H 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "6H"]
+[Play "E"]
+S4 S2 SJ SK 
+H9 H7 HK HJ 
+C7 C2 CA CQ 
+*
+[Room "Open"]
+[Result "11"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "14"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "NS"]
+[Deal "S:A52.AQ87.AJ.6432 J98.KT2.T765.AT5 KQ3.J6543.KQ92.Q T764.9.843.KJ987"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1H X 2NT 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+S4 S2 SJ SK 
+H9 HQ HK H3 
+S6 SA S9 S3 
+C7 HA H2 H4 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "15"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "None"]
+[Deal "S:85.AK54.94.T9862 Q2.JT873.75.AJ73 AJ9643.Q2.AJ6.Q5 KT7.96.KQT832.K4"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1S 2D 
+X Pass 2S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+CK C2 C7 C5 
+C4 C6 CA CQ 
+D2 D4 D7 DA 
+S7 S5 S2 SA 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "15"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "None"]
+[Deal "S:85.AK54.94.T9862 Q2.JT873.75.AJ73 AJ9643.Q2.AJ6.Q5 KT7.96.KQT832.K4"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1S 2D 
+X Pass 2S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+DK D4 D5 DA 
+H6 H4 H3 HQ 
+H9 HA H7 H2 
+S7 HK H8 C5 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "16"]
+[West "Gower"]
+[North "Feichtinger"]
+[East "Convery"]
+[South "Terraneo"]
+[Vulnerable "Both"]
+[Deal "S:87.9865.Q5.Q8542 A2.AQJ732.K764.7 QJT9653..32.AKJ9 K4.KT4.AJT98.T63"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1H 4S 
+X Pass Pass Pass 
+[Declarer "N"]
+[Contract "4SX"]
+[Play "E"]
+H4 H5 HA S3 
+SK S7 S2 SJ 
+S4 S8 SA S5 
+HK H6 H2 S6 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+790"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "05"]
+[Board "16"]
+[West "Umshaus"]
+[North "Mansell"]
+[East "Kriftner"]
+[South "Cope"]
+[Vulnerable "Both"]
+[Deal "S:87.9865.Q5.Q8542 A2.AQJ732.K764.7 QJT9653..32.AKJ9 K4.KT4.AJT98.T63"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 2D 4S 
+Pass Pass 5H Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "5H"]
+[Play "N"]
+CA C3 C2 C7 
+SQ S4 S7 SA 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+680"]
+

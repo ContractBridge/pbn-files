@@ -1,0 +1,315 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "2001 ING BANK Top Circuit"]
+[Site "Onstein castle - Vorden, Netherlands, NLD"]
+[Date "2001.04.14"]
+[Round "F1C"]
+[Board "1"]
+[Room "Open"]
+[West "Tuwanakotta"]
+[North "Verhees"]
+[East "Borm"]
+[South "Jansma"]
+[Dealer "N"]
+[Deal "S:7.JT982.AT984.J7 J864.654.J.KT862 AKT92.A.Q765.A95 Q53.KQ73.K32.Q43"]
+[Vulnerable "None"]
+[Contract "2D"]
+[Declarer "N"]
+[Auction "N"]
+1S Pass 1NT Pass 
+2D Pass Pass Pass 
+[Play "E"]
+HK H2 H4 HA 
+S3 S7 S4 SA 
+S5 C7 S6 SK 
+SQ DT S8 S2 
+D2 DA DJ D5 
+C3 CJ C2 CA 
+H3 D4 SJ S9 
+H7 H8 H5 D6 
+C4 D8 C6 C5 
+HQ H9 H6 D7 
+CQ HT C8 ST 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1C"]
+[Board "2"]
+[Room "Open"]
+[West "Tuwanakotta"]
+[North "Verhees"]
+[East "Borm"]
+[South "Jansma"]
+[Dealer "E"]
+[Deal "S:T852.A4.T753.A94 AK4..K642.KQJ865 Q97.KT852.AQJ.32 J63.QJ9763.98.T7"]
+[Vulnerable "NS"]
+[Contract "3C"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 1C 1H 
+Pass Pass 2D Pass 
+3C Pass Pass Pass 
+[Play "N"]
+C3 CT CA C5 
+C2 C7 C4 CJ 
+H8 H3 C9 CK 
+DJ D8 D3 D4 
+H5 HQ HA C6 
+DQ D9 D5 D2 
+DA H6 D7 D6 
+HK H7 H4 C8 
+H2 H9 DT DK 
+HT HJ S2 CQ 
+S7 S3 S5 SA 
+S9 S6 S8 SK 
+SQ SJ ST S4 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1C"]
+[Board "3"]
+[Room "Open"]
+[West "Tuwanakotta"]
+[North "Verhees"]
+[East "Borm"]
+[South "Jansma"]
+[Dealer "S"]
+[Deal "S:A98.9865.742.AQ3 6.QJ72.T63.98652 KT73.AKT.Q95.KJ4 QJ542.43.AKJ8.T7"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "N"]
+[Auction "S"]
+Pass Pass 1NT Pass 
+2C Pass 2S Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+DA D2 D6 D5 
+CT CQ C2 C4 
+SJ S8 S6 S3 
+C7 C3 C5 CJ 
+H3 H5 H7 HA 
+S2 SA DT ST 
+H4 H6 H2 HK 
+S4 CA C6 CK 
+S5 S9 D3 SK 
+SQ D4 C8 S7 
+D8 D7 C9 D9 
+DJ H8 HJ HT 
+DK H9 HQ DQ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1C"]
+[Board "4"]
+[Room "Open"]
+[West "Tuwanakotta"]
+[North "Verhees"]
+[East "Borm"]
+[South "Jansma"]
+[Dealer "W"]
+[Deal "S:A653.J62.KQ2.K74 987.KQ4.64.JT962 KQJ.T7.A973.AQ53 T42.A9853.JT85.8"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "N"]
+[Auction "W"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Play "E"]
+H3 H2 HQ H7 
+H5 H6 HK HT 
+- - H4 - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1C"]
+[Board "5"]
+[Room "Open"]
+[West "Tuwanakotta"]
+[North "Verhees"]
+[East "Borm"]
+[South "Jansma"]
+[Dealer "N"]
+[Deal "S:T9.AKT32.KQ6.432 763.Q76.AT98.QJ6 KQ542.954.542.95 AJ8.J8.J73.AKT87"]
+[Vulnerable "NS"]
+[Contract "1NT"]
+[Declarer "W"]
+[Auction "N"]
+Pass 1C 1H 1NT 
+Pass Pass Pass  
+[Play "N"]
+S2 S8 ST S6 
+SK SJ S9 S7 
+H4 H8 HK H7 
+D5 D3 DK DA 
+H9 HJ HA H6 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1C"]
+[Board "6"]
+[Room "Open"]
+[West "Tuwanakotta"]
+[North "Verhees"]
+[East "Borm"]
+[South "Jansma"]
+[Dealer "E"]
+[Deal "S:K9632.K9.9732.32 T4.Q842.Q865.Q94 8.753.KJT4.KJ765 AQJ75.AJT6.A.AT8"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "E"]
+[Auction "E"]
+1S Pass 1NT Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Play "S"]
+D3 D5 D4 DA 
+SK S4 S8 S5 
+C3 C4 CJ CA 
+C2 C9 CK C8 
+H9 CQ C7 CT 
+S2 ST H3 S7 
+HK D6 C6 SJ 
+S3 HQ - - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1C"]
+[Board "7"]
+[Room "Open"]
+[West "Tuwanakotta"]
+[North "Verhees"]
+[East "Borm"]
+[South "Jansma"]
+[Dealer "S"]
+[Deal "S:AKQ982.AQ2.T83.7 T53.J8.AK.QT9432 J7.KT96.Q752.AJ8 64.7543.J964.K65"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "S"]
+1S 2C X Pass 
+4S Pass Pass Pass 
+[Play "W"]
+C3 CA C5 C7 
+S3 SJ S4 S2 
+S5 S7 S6 SA 
+ST C8 C6 SK 
+H8 H6 H3 HA 
+HJ - - HQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1C"]
+[Board "8"]
+[Room "Open"]
+[West "Tuwanakotta"]
+[North "Verhees"]
+[East "Borm"]
+[South "Jansma"]
+[Dealer "W"]
+[Deal "S:AK3.74.KJT853.93 72.AKT96.9764.64 J965.J853.A.Q875 QT84.Q2.Q2.AKJT2"]
+[Vulnerable "None"]
+[Contract "3D"]
+[Declarer "S"]
+[Auction "W"]
+2H Pass Pass 3D 
+Pass Pass Pass  
+[Play "W"]
+HA H3 H2 H7 
+C6 C7 CT C9 
+H6 H5 HQ H4 
+D4 DA D2 D3 
+S7 S6 S4 SA 
+D6 H8 DQ DK 
+D7 HJ C2 DJ 
+D9 C5 CJ DT 
+C4 C8 S8 D8 
+S2 S5 CK D5 
+H9 CQ CA C3 
+HT SJ ST S3 
+HK S9 SQ SK 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1C"]
+[Board "9"]
+[Room "Open"]
+[West "Tuwanakotta"]
+[North "Verhees"]
+[East "Borm"]
+[South "Jansma"]
+[Dealer "N"]
+[Deal "S:AK842.8.863.AQJ9 T5.A53.K754.K876 QJ3.JT97.T9.T542 976.KQ642.AQJ2.3"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "E"]
+[Auction "N"]
+Pass 1H 1S X 
+2S 3D Pass 4H 
+Pass Pass Pass  
+[Play "S"]
+SA S5 SQ S6 
+S2 ST SJ S7 
+CA C6 C4 C3 
+SK H3 S3 S9 
+H8 HA H7 H2 
+S4 H5 H9 HK 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1C"]
+[Board "10"]
+[Room "Open"]
+[West "Tuwanakotta"]
+[North "Verhees"]
+[East "Borm"]
+[South "Jansma"]
+[Dealer "E"]
+[Deal "S:9732.654.A2.AKT5 JT84.QT87.T63.43 AK6.A92.J98.J972 Q5.KJ3.KQ754.Q86"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "N"]
+[Auction "E"]
+1D Pass Pass 1NT 
+Pass 3NT Pass Pass 
+Pass    
+[Play "E"]
+D4 D2 DT DJ 
+S5 S2 S4 SA 
+SQ S3 S8 SK 
+H3 S7 ST S6 
+HJ H4 H8 H9 
+D5 DA D6 D9 
+C6 CA C3 C2 
+HK H5 H7 HA 
+CQ CK C4 CJ 
+*
+[Result "9"]
+

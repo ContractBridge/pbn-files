@@ -1,0 +1,808 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1998 World Bridge Championships"]
+[Site "Grand Palais - Lille, France, FRA"]
+[Date "1998.09.04"]
+[Round "1"]
+[Board "1"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "NS"]
+[Deal "S:AQJ9.AQ942.74.A8 K8743.86.AJ.KJ95 T6.KJ5.632.QT642 52.T73.KQT985.73"]
+[Dealer "E"]
+[Auction "E"]
+2D X Pass 3C 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+DA D2 DT D7 
+DJ D3 DQ D4 
+S8 D6 DK C8 
+SK S6 S5 S9 
+S3 ST S2 SJ 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "1"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "NS"]
+[Deal "S:AQJ9.AQ942.74.A8 K8743.86.AJ.KJ95 T6.KJ5.632.QT642 52.T73.KQT985.73"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1H 1S 2H 
+Pass 3D Pass 3H 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+H8 H5 H3 H9 
+C5 C2 C3 CA 
+CK C4 C7 C8 
+DA D2 D5 D4 
+DJ D3 DQ D7 
+- - DK - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "2"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "None"]
+[Deal "S:AQT62.92.A32.T85 4.KT7.Q9765.KJ63 KJ753.J86.T4.972 98.AQ543.KJ8.AQ4"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+SA S4 S7 S8 
+S6 D5 SK S9 
+ST D7 S3 D8 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "2"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "None"]
+[Deal "S:AQT62.92.A32.T85 4.KT7.Q9765.KJ63 KJ753.J86.T4.972 98.AQ543.KJ8.AQ4"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1H 1S X 
+3S X Pass 4H 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+SA S4 S7 S8 
+D2 D5 DT DK 
+S6 H7 S3 S9 
+H2 HK H6 H3 
+H9 HT H8 HQ 
+- - - HA 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "3"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "EW"]
+[Deal "S:T53.JT9.964.T972 872.Q5.KQ8732.KJ AKQ4.8742.J.A654 J96.AK63.AT5.Q83"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D X XX 
+Pass 2D Pass 2H 
+Pass 3D Pass 3NT 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+CT CK CA C3 
+S3 S2 SA S6 
+S5 S7 SK S9 
+ST S8 SQ SJ 
+D4 D2 S4 H3 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "3"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "EW"]
+[Deal "S:T53.JT9.964.T972 872.Q5.KQ8732.KJ AKQ4.8742.J.A654 J96.AK63.AT5.Q83"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C Pass 
+Pass 1D Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+HJ HQ H2 H3 
+D4 D2 DJ DA 
+D6 D3 C4 DT 
+D9 DQ C5 D5 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "4"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "NS"]
+[Deal "S:6.KJ62.Q53.AQ654 AKT7.T83.974.J82 Q43.9754.AKT2.K9 J9852.AQ.J86.T73"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 2C Pass 
+2NT Pass 3H Pass 
+4H Pass Pass Pass 
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+SA S3 S2 S6 
+SK S4 SJ H2 
+C2 CK C3 C6 
+H3 H4 HA H6 
+H8 H5 HQ HK 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "4"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "NS"]
+[Deal "S:6.KJ62.Q53.AQ654 AKT7.T83.974.J82 Q43.9754.AKT2.K9 J9852.AQ.J86.T73"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 1H Pass 
+2H Pass 4H Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+SA S3 S2 S6 
+SK S4 S5 H2 
+C2 CK C3 C4 
+H3 H4 HA H6 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "5"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "Both"]
+[Deal "S:Q65.82.QJT8.7632 T874.J964.654.K8 AK93.KQT3.A97.94 J2.A75.K32.AQJT5"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1NT Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+CQ C2 CK C4 
+CT C3 C8 C9 
+CJ C6 D4 D7 
+CA C7 D5 H3 
+C5 D8 D6 D9 
+D2 DT S4 DA 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "5"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "Both"]
+[Deal "S:Q65.82.QJT8.7632 T874.J964.654.K8 AK93.KQT3.A97.94 J2.A75.K32.AQJT5"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1NT Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+CQ C2 CK C4 
+CT C3 C8 C9 
+CJ C6 D4 H3 
+CA C7 D5 HT 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "6"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "Both"]
+[Deal "S:AT9.A865.643.743 KQ75.J42.Q975.J9 J843.T7.A82.AKT6 62.KQ93.KJT.Q852"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C Pass 
+1H Pass 1S Pass 
+1NT Pass Pass Pass 
+[Declarer "S"]
+[Contract "1NT"]
+[Play "W"]
+D5 DA DJ D3 
+SQ S3 S6 ST 
+D7 D2 DK D4 
+DQ D8 DT D6 
+D9 C6 C5 C4 
+C9 CA C2 C3 
+SK S4 S2 S9 
+*
+[Room "Open"]
+[Result "5"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "6"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "Both"]
+[Deal "S:AT9.A865.643.743 KQ75.J42.Q975.J9 J843.T7.A82.AKT6 62.KQ93.KJT.Q852"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C Pass 
+1H Pass 1NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+HQ HA H2 H7 
+C2 C3 C9 CA 
+S6 S9 SQ S3 
+H3 H5 HJ HT 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "7"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "EW"]
+[Deal "S:AJ7.T2.A763.KQJ6 9854.KQ63.T95.T8 KQT3.AJ4.4.A9543 62.9875.KQJ82.72"]
+[Dealer "E"]
+[Auction "E"]
+2D Pass Pass X 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+DT D4 D2 D3 
+D9 H4 DJ DA 
+C8 C3 C2 CK 
+CT C4 C7 CQ 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "7"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "EW"]
+[Deal "S:AJ7.T2.A763.KQJ6 9854.KQ63.T95.T8 KQT3.AJ4.4.A9543 62.9875.KQJ82.72"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 3NT 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+S8 S3 S6 SA 
+C8 C3 C2 CK 
+CT C4 C7 CQ 
+S9 C5 S2 CJ 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "8"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "None"]
+[Deal "S:A42.A875.JT73.32 KQJT5..642.J8764 .JT6432.A985.KQ5 98763.KQ9.KQ.AT9"]
+[Dealer "W"]
+[Auction "W"]
+2S Pass 4S Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+CK CA C3 C4 
+H2 S3 SA SK 
+CQ C9 C2 C8 
+C5 CT S4 C6 
+DA DQ D7 D2 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "8"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "None"]
+[Deal "S:A42.A875.JT73.32 KQJT5..642.J8764 .JT6432.A985.KQ5 98763.KQ9.KQ.AT9"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1H 1S 2S 
+4H 5H X Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "5HX"]
+[Play "E"]
+DK D3 D2 DA 
+H9 HA S5 H2 
+DQ D7 D6 D5 
+HK H5 C4 H3 
+HQ H7 SK H4 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-300"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "9"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "Both"]
+[Deal "S:87.865.QT93.JT76 K952.K72.6.Q9432 T6.AJ943.J875.85 AQJ43.QT.AK42.AK"]
+[Dealer "E"]
+[Auction "E"]
+2C Pass 2H Pass 
+2S Pass 3S Pass 
+4S Pass 4NT Pass 
+5S Pass 6S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "6S"]
+[Play "S"]
+S7 S2 ST SA 
+S8 S5 S6 SQ 
+C7 C2 C5 CA 
+C6 C3 C8 CK 
+DT D6 D5 DA 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+1430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "9"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "Both"]
+[Deal "S:87.865.QT93.JT76 K952.K72.6.Q9432 T6.AJ943.J875.85 AQJ43.QT.AK42.AK"]
+[Dealer "E"]
+[Auction "E"]
+2C Pass 2D Pass 
+2S Pass 3S Pass 
+4C Pass 4D Pass 
+4S Pass Pass Pass 
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+CJ C2 C5 CK 
+C6 C3 C8 CA 
+S7 SK S6 S3 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+680"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "10"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "EW"]
+[Deal "S:Q3.A83.K64.JT632 AKT42.975.AJ2.AQ J85.42.T753.9874 976.KQJT6.Q98.K5"]
+[Dealer "N"]
+[Auction "N"]
+Pass 2H Pass 2NT 
+Pass 3C Pass 4H 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+D4 D2 DT DQ 
+H3 H5 H2 HQ 
+H8 H7 H4 HJ 
+D6 DJ D3 D8 
+S3 SA S5 S6 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "10"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "EW"]
+[Deal "S:Q3.A83.K64.JT632 AKT42.975.AJ2.AQ J85.42.T753.9874 976.KQJT6.Q98.K5"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 2C Pass 3NT 
+Pass 4C Pass 4D 
+Pass 4H Pass 4S 
+Pass 4NT Pass 5C 
+Pass 6NT Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "6NT"]
+[Play "N"]
+C9 C5 C2 CA 
+H4 HK HA H5 
+C4 CK C3 CQ 
+S5 S6 S3 SA 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "11"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "None"]
+[Deal "S:8643.AT94.986.A2 KQ2.KJ3.AQT7.T43 AJT97.Q75.K.KJ85 5.862.J5432.Q976"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT 2D Pass 
+4S Pass Pass Pass 
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+HK H5 H2 HA 
+SQ SA S5 S3 
+SK SJ D2 S4 
+S2 ST D5 S6 
+DA DK D3 D6 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "11"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "None"]
+[Deal "S:8643.AT94.986.A2 KQ2.KJ3.AQT7.T43 AJT97.Q75.K.KJ85 5.862.J5432.Q976"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT 2S Pass 
+3S Pass 4S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+D2 D6 DA DK 
+D3 D8 DT S7 
+C7 CA C3 C5 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "12"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "Both"]
+[Deal "S:K4.A5432.Q92.T86 Q8.KT86.AK4.J943 953.QJ97.876.AKQ AJT762.JT53.752."]
+[Dealer "N"]
+[Auction "N"]
+1C 2S X Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+DJ DQ DK D8 
+D3 D2 DA D7 
+DT D9 D4 D6 
+SA S4 S8 S3 
+S2 SK SQ S5 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "12"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "Both"]
+[Deal "S:K4.A5432.Q92.T86 Q8.KT86.AK4.J943 953.QJ97.876.AKQ AJT762.JT53.752."]
+[Dealer "N"]
+[Auction "N"]
+1C 2S X Pass 
+3H Pass Pass Pass 
+[Declarer "N"]
+[Contract "3H"]
+[Play "E"]
+DJ DQ DK D6 
+D3 D2 DA D7 
+DT D9 D4 D8 
+SA S4 S8 S3 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "13"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "NS"]
+[Deal "S:A942.AQ98732.QT. .J6.9753.Q987632 QJ76.T5.A62.AK54 KT853.K4.KJ84.JT"]
+[Dealer "W"]
+[Auction "W"]
+3C Pass Pass 4H 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+C9 CA CT DT 
+HJ HT H4 H3 
+D9 DA D8 DQ 
+H6 H5 HK HA 
+C2 SQ SK S2 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "13"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "NS"]
+[Deal "S:A942.AQ98732.QT. .J6.9753.Q987632 QJ76.T5.A62.AK54 KT853.K4.KJ84.JT"]
+[Dealer "W"]
+[Auction "W"]
+3C Pass Pass 3H 
+Pass 3NT Pass 4H 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+D7 DA D8 DT 
+C2 CA CT DQ 
+C3 CK CJ S2 
+H6 H5 H4 HQ 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+680"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "14"]
+[West "Michaels"]
+[North "D'Ovidio"]
+[East "Tornay"]
+[South "Bessis"]
+[Vulnerable "None"]
+[Deal "S:QJ5.KT64.Q.AKQ83 KT9.832.4.JT9752 A8742.7.KJT8752. 63.AQJ95.A963.64"]
+[Dealer "E"]
+[Auction "E"]
+1H 2C Pass 2D 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+H2 H7 HA H4 
+H3 S2 HJ HK 
+C5 S4 C6 CK 
+C2 S7 C4 CA 
+D4 DK DA DQ 
+H8 D2 HQ H6 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "14"]
+[West "Willard"]
+[North "Wood"]
+[East "Cronier"]
+[South "Kivel"]
+[Vulnerable "None"]
+[Deal "S:QJ5.KT64.Q.AKQ83 KT9.832.4.JT9752 A8742.7.KJT8752. 63.AQJ95.A963.64"]
+[Dealer "E"]
+[Auction "E"]
+1H 2C Pass 2D 
+Pass 3NT Pass 4S 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+HA H4 H2 H7 
+C6 CA C2 D2 
+S3 SQ S9 S2 
+DA DQ D4 D5 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+420"]
+

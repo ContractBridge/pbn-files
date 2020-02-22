@@ -1,0 +1,1650 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1999 ING Bank Dutch Top Circuit Final"]
+[Site "Hotel Newport - Huizen, Netherlands, NLD"]
+[Date "1999.05.24"]
+[Round "2"]
+[Board "1"]
+[West "Van der Pas"]
+[North "De Boer"]
+[East "Vriend"]
+[South "Muller"]
+[Vulnerable "None"]
+[Deal "S:AKJ4.A7.KT943.J6 853.Q432.62.T972 6.KJT986.QJ5.A43 QT972.5.A87.KQ85"]
+[Dealer "N"]
+[Auction "N"]
+1H 1S 2D Pass 
+2H Pass 3NT Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+S5 S6 SQ SK 
+D2 DQ D7 D3 
+D6 DJ D8 D4 
+S8 D5 DA D9 
+C7 CA CK C6 
+H2 HJ H5 HA 
+C2 H6 S7 DK 
+C9 H8 C5 DT 
+S3 C3 S2 SA 
+H3 C4 S9 SJ 
+H4 H9 C8 H7 
+- HK - - 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+490"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "2"]
+[West "Van der Pas"]
+[North "De Boer"]
+[East "Vriend"]
+[South "Muller"]
+[Vulnerable "NS"]
+[Deal "S:AJ96432.9.KQT5.T T7.A8653.9.A8762 .J.AJ862.KQJ9543 KQ85.KQT742.743."]
+[Dealer "E"]
+[Auction "E"]
+1H 4S 5H X 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "5HX"]
+[Play "S"]
+DK D9 DJ D3 
+SA S7 D6 S5 
+S9 ST HJ S8 
+CT C2 CJ HK 
+H9 HA C3 H2 
+*
+[Room "Open"]
+[Result "10"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "3"]
+[West "Van der Pas"]
+[North "De Boer"]
+[East "Vriend"]
+[South "Muller"]
+[Vulnerable "EW"]
+[Deal "S:KQJ95.85.876.AJ8 76.962.AKJ94.K64 T32.KJT4.53.9753 A84.AQ73.QT2.QT2"]
+[Dealer "S"]
+[Auction "S"]
+1S Pass 1NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+C2 CJ CK C5 
+D2 D6 DK D3 
+DQ D7 DA D5 
+DT D8 DJ H4 
+H7 S5 D9 S3 
+S4 H5 D4 S2 
+HQ H8 H9 HJ 
+CQ CA C4 C3 
+SA SK S6 ST 
+CT C8 C6 C9 
+HA S9 H2 HT 
+*
+[Room "Open"]
+[Result "3"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "4"]
+[West "Van der Pas"]
+[North "De Boer"]
+[East "Vriend"]
+[South "Muller"]
+[Vulnerable "Both"]
+[Deal "S:982.QJ3.62.AKJ73 J7654.54.JT8.Q62 AT.A862.9753.T54 KQ3.KT97.AKQ4.98"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1NT Pass 
+2H Pass 2S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+CK C2 CT C8 
+CA C6 C5 C9 
+D6 D8 D3 DA 
+S9 S4 SA SK 
+D2 DT D9 D4 
+S2 S5 ST SQ 
+S8 SJ C4 S3 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "5"]
+[West "Van der Pas"]
+[North "De Boer"]
+[East "Vriend"]
+[South "Muller"]
+[Vulnerable "NS"]
+[Deal "S:53.32.AK975.AJ92 J96.QT54.QT6.Q53 KQ42.K97.J84.K86 AT87.AJ86.32.T74"]
+[Dealer "N"]
+[Auction "N"]
+1C Pass 1D Pass 
+1S Pass 2H Pass 
+2NT Pass 3C Pass 
+3NT Pass Pass Pass 
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+H6 H2 HQ HK 
+D2 DA D6 D8 
+D3 DK DT D4 
+S8 D5 DQ DJ 
+HJ H3 H4 H9 
+HA S3 H5 H7 
+SA S5 S6 S2 
+H8 - - - 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "6"]
+[West "Van der Pas"]
+[North "De Boer"]
+[East "Vriend"]
+[South "Muller"]
+[Vulnerable "EW"]
+[Deal "S:J8762.96.43.9863 QT953.K2.AT82.AK A.JT5.KQJ976.542 K4.AQ8743.5.QJT7"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 1S 2D 
+2H Pass 3D X 
+3S Pass 4H Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+D4 DA D6 D5 
+H6 HK H5 H3 
+H9 H2 HT HQ 
+C9 D2 HJ HA 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+680"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "7"]
+[West "Van der Pas"]
+[North "De Boer"]
+[East "Vriend"]
+[South "Muller"]
+[Vulnerable "Both"]
+[Deal "S:JT7.Q6.Q983.QT83 A3.AT32.42.AK954 54.K9854.KT76.62 KQ9862.J7.AJ5.J7"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 2H 
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+D7 D5 D3 D2 
+H4 H7 HQ HA 
+S4 S2 SJ SA 
+S5 SK S7 S3 
+H5 SQ ST H2 
+HK HJ H6 H3 
+D6 DA D8 D4 
+C2 C7 C3 CA 
+H8 DJ D9 HT 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "8"]
+[West "Van der Pas"]
+[North "De Boer"]
+[East "Vriend"]
+[South "Muller"]
+[Vulnerable "None"]
+[Deal "S:J96.A6.QJT9.AK76 T82.J975.6432.T5 AQ.KQ43.AK85.942 K7543.T82.7.QJ83"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D 1S 2S 
+Pass 2NT Pass 3NT 
+Pass 4NT Pass 6D 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "6D"]
+[Play "E"]
+CJ CA C5 C4 
+D7 D9 D2 D5 
+S4 DT D3 D8 
+H2 HA H5 H3 
+H8 H6 H7 HK 
+HT DJ H9 H4 
+S3 DQ D4 DA 
+S5 C6 D6 DK 
+C3 C7 HJ HQ 
+S7 S6 S2 SA 
+SK S9 S8 SQ 
+C8 CK CT C2 
+CQ SJ ST C9 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+920"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "9"]
+[West "Van der Pas"]
+[North "De Boer"]
+[East "Vriend"]
+[South "Muller"]
+[Vulnerable "EW"]
+[Deal "S:A87532.J9.K82.T5 Q6.T76532.943.A7 J9.K8.AJ75.J9432 KT4.AQ4.QT6.KQ86"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT 2S 3D 
+3S 4H Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+SA S6 SJ S4 
+S5 SQ S9 SK 
+C5 CA C4 C6 
+CT C7 C3 CK 
+S7 D3 H8 ST 
+D2 D4 DA D6 
+DK D9 D5 DT 
+S2 H2 HK HA 
+H9 H3 C2 HQ 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "10"]
+[West "Van der Pas"]
+[North "De Boer"]
+[East "Vriend"]
+[South "Muller"]
+[Vulnerable "Both"]
+[Deal "S:AK874.KJT.K9.KT7 T2.Q8.AQJ8732.98 Q953.A32..AQ5432 J6.97654.T654.J6"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1S 2D 4D 
+Pass 4H Pass 5D 
+Pass 5H Pass 6C 
+Pass 6S Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "6S"]
+[Play "W"]
+S2 S3 SJ SA 
+ST SQ S6 S4 
+C8 CA C6 C7 
+C9 C2 CJ CK 
+*
+[Room "Open"]
+[Result "13"]
+[Score "+1460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "11"]
+[West "Simons"]
+[North "Hoogenkamp"]
+[East "Pasman"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:T92.K62.AQJ6.KQ5 J74.T93.T987.AT3 AK53.AJ5.K532.97 Q86.Q874.4.J8642"]
+[Dealer "S"]
+[Auction "S"]
+1C Pass 1S Pass 
+1NT Pass 2D Pass 
+2S Pass 3D Pass 
+4S Pass Pass Pass 
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+H4 H2 H9 HJ 
+S6 ST SJ S3 
+D4 DJ D7 D2 
+S8 S2 S4 SA 
+SQ S9 S7 SK 
+C4 CK C3 C7 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "12"]
+[West "Simons"]
+[North "Hoogenkamp"]
+[East "Pasman"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:Q5.Q.JT83.AJ9764 KJT3.9852.A7.KT8 A87.AJT764.Q5.52 9642.K3.K9642.Q3"]
+[Dealer "W"]
+[Auction "W"]
+1H Pass 1S 2C 
+2S X Pass 3C 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3C"]
+[Play "W"]
+ST S7 S2 SQ 
+D7 DQ DK D3 
+CT C2 C3 C9 
+SK SA S4 S5 
+DA D5 D4 DT 
+H2 HA H3 HQ 
+H5 HJ HK C4 
+C8 H4 D2 D8 
+CK C5 CQ CA 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "13"]
+[West "Simons"]
+[North "Hoogenkamp"]
+[East "Pasman"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:AQT65.T94.J4.JT3 J974.K.AT5.K9652 832.A32.Q8763.87 K.QJ8765.K92.AQ4"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1H 1S 1NT 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+CJ C2 C8 CA 
+H4 HK H3 H5 
+D4 D5 D3 DK 
+HT S4 HA HQ 
+SA S7 S3 SK 
+SQ S9 S2 H6 
+H9 C5 H2 HJ 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "14"]
+[West "Simons"]
+[North "Hoogenkamp"]
+[East "Pasman"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:Q98652.A42.K7.K6 T74.JT53.T.AQ954 K3.KQ86.A643.T83 AJ.97.QJ9852.J72"]
+[Dealer "E"]
+[Auction "E"]
+2C 2S Pass 2NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "2NT"]
+[Play "E"]
+DQ DK DT D3 
+SA S2 S4 SK 
+D8 D7 C5 DA 
+SJ SQ S7 S3 
+H7 H2 H3 HK 
+H9 H4 H5 HQ 
+D2 HA HT H6 
+D5 S9 ST D4 
+C2 S5 HJ H8 
+C7 C6 CA C3 
+CJ CK C4 C8 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "15"]
+[West "Simons"]
+[North "Hoogenkamp"]
+[East "Pasman"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:4.KQJT874.A85.82 KT873.95.Q643.97 AQ6.62.J972.QT65 J952.A3.KT.AKJ43"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1C 3H 
+Pass Pass X Pass 
+4S Pass Pass Pass 
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+H2 HA H4 H5 
+SQ S2 S4 S8 
+H6 H3 HK H9 
+D2 DT DA D3 
+D7 S5 HQ D4 
+SA SJ H7 S3 
+S6 S9 H8 - 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "16"]
+[West "Simons"]
+[North "Hoogenkamp"]
+[East "Pasman"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:7.AKJ6.J953.QJT9 AK4.Q85.862.K754 T86532.T42.AT.62 QJ9.973.KQ74.A83"]
+[Dealer "S"]
+[Auction "S"]
+1D Pass 2S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+H7 HA H5 H4 
+CA CQ C4 C6 
+H9 H6 HQ HT 
+D7 D3 D6 DA 
+H3 HJ H8 H2 
+S9 HK D8 DT 
+DK D5 D2 S2 
+SJ S7 S4 ST 
+C8 CJ CK C2 
+C3 C9 C5 S3 
+SQ D9 SK S6 
+D4 CT C7 S5 
+DQ DJ SA S8 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "17"]
+[West "Simons"]
+[North "Hoogenkamp"]
+[East "Pasman"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:QJ543.T32.KT2.83 T82.QJ5.AQ43.KJ5 AK76.AK87.J9.T72 9.964.8765.AQ964"]
+[Dealer "N"]
+[Auction "N"]
+1C Pass 1S Pass 
+3S Pass 4S Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+HQ HA H4 H3 
+S2 S6 S9 SQ 
+S8 SA C9 S3 
+ST SK C6 S5 
+DQ D9 D5 D2 
+C5 C2 CA C3 
+CJ C7 C4 C8 
+DA DJ D6 DK 
+CK CT CQ S4 
+D3 H7 D7 DT 
+HJ HK H6 HT 
+H5 H8 H9 H2 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "18"]
+[West "Simons"]
+[North "Hoogenkamp"]
+[East "Pasman"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:93.QJT83.K8.J865 J7.AK97542.J2.KT KQ65..AQT753.AQ2 AT842.6.964.9743"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1H X 
+Pass 1NT 2H 3H 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+HA S5 H6 H8 
+SJ SK SA S3 
+S7 SQ ST S9 
+D2 D3 D6 DK 
+CT CQ C3 C5 
+DJ DA D4 D8 
+H2 DQ D9 H3 
+H4 DT S2 HT 
+H5 D7 S4 HJ 
+H7 D5 C4 HQ 
+CK CA C7 C6 
+H9 C2 C9 CJ 
+HK S6 S8 C8 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+660"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "19"]
+[West "Simons"]
+[North "Hoogenkamp"]
+[East "Pasman"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:J9.932.97.KJ9642 K86.A.AQT63.Q753 AQ73.Q765.K2.AT8 T542.KJT84.J854."]
+[Dealer "S"]
+[Auction "S"]
+3C 3D Pass 3H 
+Pass 3NT Pass 5D 
+Pass Pass X Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "5DX"]
+[Play "N"]
+CA D4 C2 C3 
+H5 H4 H9 HA 
+C8 D5 C4 C5 
+H6 HK H2 S6 
+H7 H8 H3 D3 
+CT D8 C6 C7 
+HQ HT S9 D6 
+DK S2 C9 CQ 
+D2 DJ D7 DT 
+S3 HJ D9 DQ 
+SQ S4 SJ S8 
+SA S5 CJ SK 
+*
+[Room "Open"]
+[Result "10"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "20"]
+[West "Simons"]
+[North "Hoogenkamp"]
+[East "Pasman"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:AK42.K954.A54.KT J876.862.Q2.J953 53.3.KJT763.Q874 QT9.AQJT7.98.A62"]
+[Dealer "W"]
+[Auction "W"]
+Pass 2C 2H 3NT 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+H6 H3 HA H4 
+H8 C4 HT H5 
+H2 S3 HJ HK 
+D2 D3 D8 DA 
+DQ DK D9 D5 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "21"]
+[West "Bomhof"]
+[North "Westra"]
+[East "Niemeijer"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:K85.Q9.AQ753.AJ2 Q96.KJ54.K4.T864 73.T73.T9862.KQ3 AJT42.A862.J.975"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1NT Pass 
+Pass 2C 2D 2H 
+3D Pass Pass 3H 
+4D Pass Pass Pass 
+[Declarer "S"]
+[Contract "4D"]
+[Play "W"]
+H5 H3 HA H9 
+HK H7 H2 HQ 
+HJ HT H6 D3 
+C4 CK C7 C2 
+D4 DT DJ DA 
+C6 C3 C5 CA 
+C8 CQ C9 CJ 
+S6 S3 SA S5 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "22"]
+[West "Bomhof"]
+[North "Westra"]
+[East "Niemeijer"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:KT4.6.AK842.KT72 A9632.QT5.Q65.Q6 .AKJ832.T9.98543 QJ875.974.J73.AJ"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D 1S 2H 
+4S X Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "4SX"]
+[Play "N"]
+HA H4 H6 H5 
+HK H7 D8 HT 
+H8 H9 S4 HQ 
+D9 DJ D4 D6 
+H2 SQ ST S2 
+C3 S5 SK SA 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-300"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "23"]
+[West "Bomhof"]
+[North "Westra"]
+[East "Niemeijer"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:AT.T85.J9753.J82 QJ32.K4.T2.KQ753 854.AQJ93.KQ6.A6 K976.762.A84.T94"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+CT C2 C7 CA 
+DA D3 D2 DQ 
+SK SA S3 S4 
+D4 D5 DT DK 
+D8 DJ S2 D6 
+H2 D9 C5 S5 
+S9 D7 SJ S8 
+H7 H8 H4 H3 
+H6 HT HK HA 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+210"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "24"]
+[West "Bomhof"]
+[North "Westra"]
+[East "Niemeijer"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:AJT.76.Q754.AJ97 8632.K543.A6.542 754.AQJT8.T982.T KQ9.92.KJ3.KQ863"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1C Pass 
+1H Pass 1NT Pass 
+2S Pass 3NT Pass 
+Pass X Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3NTX"]
+[Play "S"]
+H7 H3 HT H2 
+D5 DA DT D3 
+CA C2 CT CQ 
+H6 H4 HJ H9 
+ST H5 HA C3 
+DQ D6 D2 DJ 
+D7 S2 D8 DK 
+C7 C4 S4 CK 
+SA S3 S5 SQ 
+CJ C5 H8 C6 
+C9 S6 HQ C8 
+D4 S8 D9 S9 
+SJ HK S7 SK 
+*
+[Room "Open"]
+[Result "4"]
+[Score "-1400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "25"]
+[West "Bomhof"]
+[North "Westra"]
+[East "Niemeijer"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:J5.AJ94.9865.J43 AQ73.Q5.A43.AK65 984.T7.KQ72.QT82 KT62.K8632.JT.97"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 3S Pass 4S 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+DK DT D6 D4 
+D2 DJ D5 D3 
+H7 H2 H4 HQ 
+C8 C7 C3 CA 
+C2 C9 C4 CK 
+CT S2 CJ C5 
+S4 SK S5 S3 
+S8 S6 SJ SA 
+CQ ST H9 C6 
+HT H3 HJ H5 
+S9 H6 HA S7 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "26"]
+[West "Bomhof"]
+[North "Westra"]
+[East "Niemeijer"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:K.QJT.AKQ42.AJT9 AT65.A876.63.K43 J832.K.J985.Q652 Q974.95432.T7.87"]
+[Dealer "S"]
+[Auction "S"]
+1D X 3D Pass 
+3NT Pass Pass Pass 
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+C3 CQ C7 C9 
+HA HK H4 HT 
+CK C2 C8 CA 
+D3 DJ D7 D2 
+D6 D5 DT DA 
+H6 D8 H2 DK 
+H7 D9 S4 DQ 
+H8 - - D4 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+660"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "27"]
+[West "Bomhof"]
+[North "Westra"]
+[East "Niemeijer"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:85.9743.8543.AK5 AKQ962.JT2.Q2.Q6 JT4.A865.A96.J94 73.KQ.KJT7.T8732"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1S Pass 
+1NT Pass 2S Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+C4 C2 CK C6 
+S4 S3 S5 SA 
+ST S7 S8 SK 
+SJ C3 H3 SQ 
+D6 D7 D4 DQ 
+DA DT D3 D2 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "28"]
+[West "Bomhof"]
+[North "Westra"]
+[East "Niemeijer"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:5.KJ84.JT9762.K9 A984.7653.AK8.J3 KT7632.T.Q53.Q76 QJ.AQ92.4.AT8542"]
+[Dealer "W"]
+[Auction "W"]
+1D 2S X Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+C6 C2 CK CJ 
+S7 SJ S5 SA 
+D3 D4 D6 DA 
+D5 SQ D2 DK 
+C7 CT C9 C3 
+HT HA H4 H5 
+S3 H2 H8 H3 
+DQ H9 DJ D8 
+CQ CA HJ S4 
+S2 HQ HK H6 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "29"]
+[West "Bomhof"]
+[North "Westra"]
+[East "Niemeijer"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:KQJ.KJ43.KT42.Q8 7432.T8652.85.J4 AT.97.A763.KT952 9865.AQ.QJ9.A763"]
+[Dealer "N"]
+[Auction "N"]
+1C Pass 1D Pass 
+2D Pass 3NT Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+H2 H7 HA H3 
+H5 H9 HQ HK 
+C4 C2 C3 CQ 
+CJ CK - C8 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "30"]
+[West "Bomhof"]
+[North "Westra"]
+[East "Niemeijer"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:Q9.Q53.J85.KT984 AK62.AJ.KT43.Q62 T875.T64.AQ72.A7 J43.K9872.96.J53"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1NT Pass 
+2D Pass 2H Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+S8 SJ SQ SK 
+S5 S3 S9 SA 
+S7 S4 D5 S2 
+ST H7 HQ S6 
+DA D6 D8 DK 
+CA C3 CT C6 
+C7 C5 CK C2 
+H4 CJ C8 CQ 
+DQ D9 DJ D3 
+D2 H8 C4 D4 
+H6 H2 H3 HA 
+HT H9 H5 HJ 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "31"]
+[West "Zhao"]
+[North "Westra"]
+[East "Van Eijck"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:KQ984.J3.7642.K5 A653.K6.AQ9.Q942 T.AQ985.KJ853.J3 J72.T742.T.AT876"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT 2H Pass 
+2S Pass Pass Pass 
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+C2 C3 CA C5 
+S3 ST SJ SK 
+SA H5 S2 SQ 
+HK HA H4 H3 
+H6 H8 H2 HJ 
+S5 D3 S7 S9 
+S6 D5 C7 S8 
+D9 DJ DT D6 
+C4 CJ C6 CK 
+DA D8 C8 D2 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "32"]
+[West "Zhao"]
+[North "Westra"]
+[East "Van Eijck"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:AKJ73.732.A73.64 T82.AQ65.Q42.KQ7 94.J.KT95.AJT983 Q65.KT984.J86.52"]
+[Dealer "W"]
+[Auction "W"]
+1H 2C 3H 3S 
+Pass 4C Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "4C"]
+[Play "E"]
+HT H2 HA HJ 
+H4 H3 H5 C3 
+S5 SA S8 S4 
+C2 C4 C7 CJ 
+S6 SK ST S9 
+SQ S3 S2 C9 
+C5 C6 CQ CA 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "33"]
+[West "Zhao"]
+[North "Westra"]
+[East "Van Eijck"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:AKJ75.A32.32.AJT T9642.KJ96.K7.62 .T875.AJT98654.8 Q83.Q4.Q.KQ97543"]
+[Dealer "N"]
+[Auction "N"]
+5D Pass 6D Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "6D"]
+[Play "E"]
+CK CA C6 C8 
+S8 SA S2 H5 
+S3 SK S4 H7 
+SQ S5 S6 D8 
+DQ D2 D7 DA 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+1370"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "34"]
+[West "Zhao"]
+[North "Westra"]
+[East "Van Eijck"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:AK73.97543.3.854 J52.AKQ.JT962.AK T94.J2.Q754.9763 Q86.T86.AK8.QJT2"]
+[Dealer "E"]
+[Auction "E"]
+1C Pass 1D Pass 
+1NT Pass 4NT Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "4NT"]
+[Play "S"]
+SA S2 S4 S6 
+S3 S5 S9 SQ 
+C4 CK C3 C2 
+C5 CA C6 CT 
+D3 D2 D5 DA 
+C8 D6 C7 CQ 
+H3 SJ C9 CJ 
+H4 D9 D4 DK 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "35"]
+[West "Zhao"]
+[North "Westra"]
+[East "Van Eijck"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:T952.T.AQJT7.AK3 KJ4.KQ5.983.J962 A83.J942.42.T854 Q76.A8763.K65.Q7"]
+[Dealer "S"]
+[Auction "S"]
+1D Pass 1H Pass 
+1S Pass Pass 1NT 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+DQ D3 D2 DK 
+S2 SJ SA S6 
+DT D8 D4 D6 
+DJ D9 S8 D5 
+DA C2 C4 H6 
+CK C6 C5 C7 
+D7 H5 C8 H3 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "36"]
+[West "Zhao"]
+[North "Westra"]
+[East "Van Eijck"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:J8643..A632.QJ94 KQT75.QT64.K7.63 A9.J953.JT985.82 2.AK872.Q4.AKT75"]
+[Dealer "W"]
+[Auction "W"]
+2C Pass 4H Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+CQ C3 C2 CA 
+D3 H4 H3 HA 
+S3 SK SA S2 
+C4 C6 C8 CK 
+C9 H6 H9 C5 
+D2 HT H5 H2 
+DA D7 DJ DQ 
+D6 DK D5 D4 
+S4 S5 S9 H7 
+CJ HQ D8 C7 
+S6 SQ HJ HK 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "37"]
+[West "Zhao"]
+[North "Westra"]
+[East "Van Eijck"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:KJ97632.32.3.J95 T5.KJ6.AQJ84.AQ6 Q84.AT984.K9.K32 A.Q75.T7652.T874"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 1S X 
+XX 2D 4S Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+DA D9 D2 D3 
+CQ CK C8 C5 
+D4 DK D5 H3 
+H6 HA H5 H2 
+HK H4 H7 S6 
+S5 SQ SA S2 
+CA C2 C4 C9 
+C6 C3 CT CJ 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "38"]
+[West "Zhao"]
+[North "Westra"]
+[East "Van Eijck"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:KT2.QJ8.T963.974 654.T5.A754.KT63 J.K9764.KJ82.QJ2 AQ9873.A32.Q.A85"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 1NT Pass 
+2S Pass Pass X 
+Pass 3D 3S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "3S"]
+[Play "S"]
+HQ H5 H7 H2 
+DT DA D8 DQ 
+S2 S4 SJ SA 
+H8 HT H6 HA 
+HJ S5 H4 H3 
+ST S6 H9 S3 
+SK D4 D2 S7 
+D3 D5 DK S8 
+D6 C3 HK SQ 
+C4 C6 DJ S9 
+C7 CK C2 C5 
+C9 CT CJ CA 
+D9 D7 CQ C8 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "39"]
+[West "Zhao"]
+[North "Westra"]
+[East "Van Eijck"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:864.KT863.A6.962 A73.AJ.K9542.753 KJT95.Q942.QJT.J Q2.75.873.AKQT84"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D 1S 2C 
+2S Pass Pass 3C 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "3C"]
+[Play "S"]
+S8 S3 SK S2 
+HK HA H2 H5 
+C2 C3 CJ CA 
+C6 C5 SJ CK 
+S4 S7 ST SQ 
+H6 HJ HQ H7 
+- - DQ D3 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+130"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "40"]
+[West "Zhao"]
+[North "Westra"]
+[East "Van Eijck"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:64.QJ.J8762.AKJ7 AQT752.73.4.Q963 K.AKT9854.AK5.52 J983.62.QT93.T84"]
+[Dealer "W"]
+[Auction "W"]
+2D X 2H X 
+2S 4H Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+S3 S4 SA SK 
+D3 D2 D4 DA 
+H2 HJ H3 H4 
+H6 HQ H7 HA 
+S8 S6 S2 HK 
+S9 D6 S5 HT 
+D9 D7 S7 DK 
+DT D8 ST H9 
+SJ C7 SQ H8 
+C4 DJ C3 H5 
+C8 CA C6 C2 
+CT CK C9 C5 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "41"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:98.KJ95.Q96.J943 A.QT632.K75.A652 KJT753.8.AT843.T Q642.A74.J2.KQ87"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C Pass 1H 
+2NT Pass 3C 3D 
+3S 4H Pass Pass 
+4S X 4NT X 
+Pass Pass 5C X 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "5CX"]
+[Play "W"]
+C2 CT CQ C3 
+HT H8 H4 H5 
+H6 S3 HA H9 
+H2 D3 H7 HK 
+SA S5 S2 S9 
+HQ D4 D2 HJ 
+C5 S7 CK C4 
+CA D8 C7 CJ 
+H3 DT DJ C9 
+D7 DA C8 D6 
+C6 ST S4 S8 
+DK SJ S6 D9 
+D5 SK SQ DQ 
+*
+[Room "Open"]
+[Result "3"]
+[Score "-2300"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "42"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:A9864.AK92.Q2.A6 QJ75.J3.J9865.K7 K.T75.KT7.QT8542 T32.Q864.A43.J93"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1S Pass 1NT 
+Pass 2C Pass 2D 
+Pass 2H Pass 3NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+H4 HA H3 H5 
+C3 CA C7 C2 
+C9 C6 CK C4 
+H6 HK HJ H7 
+S3 S4 S5 SK 
+CJ S6 D9 CQ 
+D4 S8 S7 CT 
+S2 S9 D6 C8 
+HQ H2 SQ HT 
+DA D2 D5 D7 
+D3 DQ D8 - 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "43"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:JT854.AJ74.J.765 KQ962.KQT8.AKT4. A73.632.75.KQT93 .95.Q98632.AJ842"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1S 2C Pass 
+3C X Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "3CX"]
+[Play "E"]
+D3 DJ DK D7 
+H5 H4 HK H3 
+C2 S4 SK SA 
+H9 HA H8 H2 
+C4 C5 S6 CK 
+D2 C6 D4 D5 
+D6 SJ SQ S7 
+D8 H7 HQ H6 
+C8 S5 S2 S3 
+D9 S8 DA C3 
+*
+[Room "Open"]
+[Result "5"]
+[Score "-1100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "44"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:AJ97.Q54.A3.7432 K82.AT.QJ7.QT965 64.J762.K8542.K8 QT53.K983.T96.AJ"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1H Pass 
+1NT Pass Pass Pass 
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+D4 D6 DA DJ 
+D5 D9 D3 D7 
+C8 CA C2 C5 
+CK CJ C3 CQ 
+DK DT C4 DQ 
+D2 S3 C7 S2 
+D8 H3 H4 S8 
+S4 S5 SA SK 
+*
+[Room "Open"]
+[Result "7"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "45"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:A2.T98.542.AQJT5 Q.AQ765.T863.876 J8643.J3.AKQ7.32 KT975.K42.J9.K94"]
+[Dealer "N"]
+[Auction "N"]
+1S Pass 2C Pass 
+2D Pass 2S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+H2 H8 HA HJ 
+D9 D2 D6 DA 
+C9 CQ C6 C2 
+DJ D4 D3 DK 
+C4 CJ C7 C3 
+CK CA C8 H3 
+S5 SA SQ S3 
+S9 S2 H5 S8 
+HK H9 H6 S4 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "46"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:JT4.JT972.A9.KJT 8632.AK83.J543.8 A75.654.Q76.9742 KQ9.Q.KT82.AQ653"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 2C Pass 
+2D Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+HJ H3 H6 HQ 
+DA D3 D7 DK 
+SJ S2 SA S9 
+S4 S3 S7 SK 
+ST S6 S5 SQ 
+D9 D4 DQ DT 
+H2 D5 D6 D8 
+CT DJ C7 D2 
+CJ S8 C2 C3 
+H7 HA H4 C5 
+H9 HK H5 C6 
+CK C8 C4 CA 
+HT H8 C9 CQ 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "47"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:K75432.97.JT.AJ6 98.KT5.Q98654.T3 AQJ6.AJ62.2.K752 T.Q843.AK73.Q984"]
+[Dealer "S"]
+[Auction "S"]
+2D Pass 4C Pass 
+4H Pass 4S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+DA DT D8 D2 
+C4 CJ C3 C2 
+ST S2 S9 SA 
+D3 S3 S8 SQ 
+C8 CA CT C5 
+DK DJ DQ SJ 
+H3 H7 H5 HA 
+H4 SK D4 S6 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "48"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:A6.KJ987.965.Q64 KJT82.53.3.A8752 Q74.AT2.AK872.J9 953.Q64.QJT4.KT3"]
+[Dealer "W"]
+[Auction "W"]
+2D Pass 3H Pass 
+3S Pass Pass Pass 
+[Declarer "W"]
+[Contract "3S"]
+[Play "N"]
+DK D4 D9 D3 
+CJ CK C6 C7 
+SQ S3 S6 SJ 
+C9 CT CQ CA 
+S7 S5 SA ST 
+S4 C3 C4 C5 
+HA H4 H7 H5 
+HT HQ HK H3 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "49"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:KT7.763.75.KQT83 Q94.J982.AQ642.2 A8653.A.T93.A764 J2.KQT54.KJ8.J95"]
+[Dealer "N"]
+[Auction "N"]
+1S Pass 2S Pass 
+Pass 3H Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3H"]
+[Play "S"]
+CK C2 C4 C5 
+H7 H2 HA H4 
+S7 S4 SA S2 
+SK S9 S6 SJ 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "50"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:K85.J.AT986.A964 T74.T643.KQ5.KJ3 J62.K982.74.QT75 AQ93.AQ75.J32.82"]
+[Dealer "E"]
+[Auction "E"]
+1H 2D 2H Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "2H"]
+[Play "S"]
+S8 S4 SJ SQ 
+C4 CK C5 C8 
+HJ H3 H2 HQ 
+CA C3 C7 C2 
+DT D5 D4 DJ 
+DA DQ D7 D2 
+D9 DK H8 D3 
+SK S7 S6 S3 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+

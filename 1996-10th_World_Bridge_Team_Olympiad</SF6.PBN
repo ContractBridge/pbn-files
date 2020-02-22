@@ -1,0 +1,866 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "10th World Bridge Team Olympiad 1996"]
+[Site "Rodos Palace Hotel - Rhodos, Greece, GRC"]
+[Date "1996.11.02"]
+[Round "6"]
+[Board "1"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "EW"]
+[Deal "S:J9843.K5.Q43.KJ6 A5.J86.AKJ87.A84 Q7.9432.T962.Q72 KT62.AQT7.5.T953"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 2C Pass 
+2D Pass 3NT Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+H3 H7 HK H6 
+D2 D5 D4 DJ 
+D6 S2 D3 DA 
+D9 S6 DQ D8 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "1"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "EW"]
+[Deal "S:J9843.K5.Q43.KJ6 A5.J86.AKJ87.A84 Q7.9432.T962.Q72 KT62.AQT7.5.T953"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 3NT Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "2"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "NS"]
+[Deal "S:JT754.K763.J8.K2 63.J8.A732.AQT95 A982.QT942.K.J83 KQ.A5.QT9654.764"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 5D 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "5D"]
+[Play "S"]
+H6 HJ HQ HA 
+D8 D2 DK DQ 
+SJ S3 SA SQ 
+H3 H8 HT H5 
+S4 S6 S2 SK 
+C2 CT CJ C6 
+- - S8 C4 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "2"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "NS"]
+[Deal "S:JT754.K763.J8.K2 63.J8.A732.AQT95 A982.QT942.K.J83 KQ.A5.QT9654.764"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 3NT 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "3"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "None"]
+[Deal "S:JT982.K86.984.KT A643.JT93.AK.632 K7.Q52.QT5.QJ985 Q5.A74.J7632.A74"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 2NT Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "2NT"]
+[Play "N"]
+*
+[Room "Open"]
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "3"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "None"]
+[Deal "S:JT982.K86.984.KT A643.JT93.AK.632 K7.Q52.QT5.QJ985 Q5.A74.J7632.A74"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 2C X 
+2D Pass 2NT Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "2NT"]
+[Play "S"]
+CK - - - 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "4"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "Both"]
+[Deal "S:Q654.A2.KT9742.3 973.Q9.J63.KQ854 AKT82.64.AQ5.A97 J.KJT8753.8.JT62"]
+[Dealer "N"]
+[Auction "N"]
+1S Pass 2NT Pass 
+3C 3H 3S Pass 
+4H Pass 4NT Pass 
+5D Pass 5NT Pass 
+6H Pass 7S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "7S"]
+[Play "E"]
+SJ S4 S7 SK 
+*
+[Room "Open"]
+[Result "13"]
+[Score "+2210"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "4"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "Both"]
+[Deal "S:Q654.A2.KT9742.3 973.Q9.J63.KQ854 AKT82.64.AQ5.A97 J.KJT8753.8.JT62"]
+[Dealer "N"]
+[Auction "N"]
+1NT 3H 3NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+*
+[Room "Closed"]
+[Result "13"]
+[Score "+720"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "5"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "NS"]
+[Deal "S:AQ.AKQ95.Q873.JT K983.82.T.AK9654 JT742.764.A95.72 65.JT3.KJ642.Q83"]
+[Dealer "W"]
+[Auction "W"]
+2C Pass 2D 2H 
+2S 3H Pass 4H 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+CA C2 C3 CT 
+DT D9 DK D3 
+C4 C7 CQ CJ 
+SK S2 S6 SQ 
+CK H4 C8 D7 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "5"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "NS"]
+[Deal "S:AQ.AKQ95.Q873.JT K983.82.T.AK9654 JT742.764.A95.72 65.JT3.KJ642.Q83"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1S 2H 
+Pass Pass 3C Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "3C"]
+[Play "N"]
+H6 - - - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "6"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "None"]
+[Deal "S:AQ864.86.K64.JT7 JT953.J42.8.Q532 K7.7.JT9752.AK64 2.AKQT953.AQ3.98"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1D 4H 
+4S X 4NT X 
+5D Pass Pass X 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "5DX"]
+[Play "E"]
+S2 S4 SJ SK 
+D3 D4 D8 D9 
+DA D6 H2 D2 
+H5 H6 HJ H7 
+DQ S6 S5 S7 
+*
+[Room "Open"]
+[Result "10"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "6"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "None"]
+[Deal "S:AQ864.86.K64.JT7 JT953.J42.8.Q532 K7.7.JT9752.AK64 2.AKQT953.AQ3.98"]
+[Dealer "S"]
+[Auction "S"]
+Pass 2S Pass 3H 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "7"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "Both"]
+[Deal "S:64.AJT643.AQJ7.A A9832.K975.K52.7 KJ7.8.T63.KQ9432 QT5.Q2.984.JT865"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1H 1S 3C 
+Pass 3H Pass 3NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+S5 S4 SA S7 
+SQ S6 S3 SJ 
+ST H3 S9 SK 
+D8 DQ DK D3 
+D4 H4 S8 C2 
+C5 H6 S2 C3 
+D9 DJ D2 D6 
+C6 CA C7 C4 
+C8 D7 D5 DT 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "7"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "Both"]
+[Deal "S:64.AJT643.AQJ7.A A9832.K975.K52.7 KJ7.8.T63.KQ9432 QT5.Q2.984.JT865"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C 1S 2C 
+2S 3H Pass 3NT 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+C7 - - - 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "8"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "EW"]
+[Deal "S:KT84.J874.A6.AT3 .AKQ965.JT83.965 AQ32.T.Q974.KQJ7 J9765.32.K52.842"]
+[Dealer "N"]
+[Auction "N"]
+1C Pass 1H Pass 
+1S Pass 4S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+H3 H4 HQ HT 
+H2 H7 HA S2 
+S6 S4 H6 SA 
+C4 CA C6 C7 
+C2 C3 C5 CK 
+C8 CT C9 CQ 
+D5 DA D3 D4 
+D2 H8 H9 SQ 
+S5 S8 H5 CJ 
+- D6 - - 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "8"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "EW"]
+[Deal "S:KT84.J874.A6.AT3 .AKQ965.JT83.965 AQ32.T.Q974.KQJ7 J9765.32.K52.842"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 1H 2H 
+2S Pass 4C Pass 
+4S Pass Pass Pass 
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+H3 - - - 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "9"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "None"]
+[Deal "S:AT93.K974.Q54.74 .T65.JT9832.K963 J8654.J32.A76.QT KQ72.AQ8.K.AJ852"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1C Pass 
+1D Pass 1NT Pass 
+3C Pass 3D Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "3D"]
+[Play "N"]
+H2 HQ HK H6 
+DA DK D5 D3 
+CQ C2 C4 CK 
+D7 S2 DQ D8 
+- - SA - 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+130"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "9"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "None"]
+[Deal "S:AT93.K974.Q54.74 .T65.JT9832.K963 J8654.J32.A76.QT KQ72.AQ8.K.AJ852"]
+[Dealer "W"]
+[Auction "W"]
+2S Pass 2NT Pass 
+3D Pass Pass Pass 
+[Declarer "W"]
+[Contract "3D"]
+[Play "N"]
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+130"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "10"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "Both"]
+[Deal "S:AJT.962.KT9642.J KQ542.Q75.Q5.AKQ 9876.AJT8.3.T876 3.K43.AJ87.95432"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 2C 
+2D 2S Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+H9 H5 H8 HK 
+CJ CQ C8 C5 
+D2 CK C6 C4 
+DK DQ D3 D7 
+H6 HQ HA H3 
+H2 H7 HJ H4 
+D4 S2 HT C2 
+SA - S8 S3 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "10"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "Both"]
+[Deal "S:AJT.962.KT9642.J KQ542.Q75.Q5.AKQ 9876.AJT8.3.T876 3.K43.AJ87.95432"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1S Pass 1NT 
+Pass 2C Pass 2D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+D9 - - - 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "11"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "EW"]
+[Deal "S:A532.K.T983.K875 Q8.J962.A75.QT92 974.AQ8754.K42.6 KJT6.T3.QJ6.AJ43"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 1H Pass 
+1S Pass 1NT 2H 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "2H"]
+[Play "E"]
+DQ D3 DA D4 
+S6 S2 SQ S7 
+ST SA S8 S9 
+H3 HK H2 H4 
+SJ S3 CT S4 
+CA C5 C2 C6 
+SK S5 C9 H5 
+HT C7 H6 HA 
+C3 C8 H9 HQ 
+D6 D9 D7 DK 
+- - - H8 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "11"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "EW"]
+[Deal "S:A532.K.T983.K875 Q8.J962.A75.QT92 974.AQ8754.K42.6 KJT6.T3.QJ6.AJ43"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass Pass X 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "1NTX"]
+[Play "S"]
+DT - - - 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "+180"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "12"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "NS"]
+[Deal "S:QT83.AKQ5.A6.J92 72.J87642.KJT2.7 AK65.T9.93.AK853 J94.3.Q8754.QT64"]
+[Dealer "N"]
+[Auction "N"]
+1C Pass 1H Pass 
+1S Pass 2D X 
+XX Pass 4S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+H3 HA H8 H9 
+S4 S3 S2 SA 
+S9 S8 S7 SK 
+SJ SQ H4 S6 
+CQ CJ C7 C3 
+D4 DA D2 D3 
+C4 C9 H2 CA 
+C6 C2 DT CK 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+680"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "12"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "NS"]
+[Deal "S:QT83.AKQ5.A6.J92 72.J87642.KJT2.7 AK65.T9.93.AK853 J94.3.Q8754.QT64"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 1H Pass 
+1S Pass 2C Pass 
+3C Pass 3S Pass 
+4C Pass 5S Pass 
+6S Pass Pass Pass 
+[Declarer "N"]
+[Contract "6S"]
+[Play "E"]
+H3 - - - 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+1430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "13"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "Both"]
+[Deal "S:QT6.985.J85.AQ74 J95.7.AKQ2.JT982 AK843.QT6.T943.6 72.AKJ432.76.K53"]
+[Dealer "W"]
+[Auction "W"]
+1D 1S 2H 2S 
+3C Pass Pass Pass 
+[Declarer "W"]
+[Contract "3C"]
+[Play "N"]
+SA S2 S6 S9 
+SK S7 ST S5 
+S4 C3 SQ SJ 
+C6 C5 C4 CT 
+S8 CK CA C2 
+D3 D6 D8 DA 
+S3 H2 CQ CJ 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "13"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "Both"]
+[Deal "S:QT6.985.J85.AQ74 J95.7.AKQ2.JT982 AK843.QT6.T943.6 72.AKJ432.76.K53"]
+[Dealer "W"]
+[Auction "W"]
+1D 1S 2H 2S 
+Pass Pass 3H Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "3H"]
+[Play "S"]
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "14"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "EW"]
+[Deal "S:A872.Q863.942.J3 KJ965.75.AJT5.T2 QT43.AT942.K.Q98 .KJ.Q8763.AK7654"]
+[Dealer "S"]
+[Auction "S"]
+2D Pass 4H 4NT 
+Pass 5D Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "5D"]
+[Play "N"]
+S4 D3 S2 S6 
+DK DQ D2 D5 
+HA HJ H8 H5 
+S3 D6 S7 S5 
+H4 D7 D4 DT 
+ST D8 S8 S9 
+C8 CA C3 C2 
+C9 CK CJ CT 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "14"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "EW"]
+[Deal "S:A872.Q863.942.J3 KJ965.75.AJT5.T2 QT43.AT942.K.Q98 .KJ.Q8763.AK7654"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1H 2NT 
+4H 5D Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "5D"]
+[Play "N"]
+HA - - - 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "15"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "NS"]
+[Deal "S:J9542.9.Q64.A753 T876.AKQT.J9.Q94 AK.J76532.AT3.T2 Q3.84.K8752.KJ86"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1D 1H 
+2D Pass Pass Pass 
+[Declarer "W"]
+[Contract "2D"]
+[Play "N"]
+SK S3 S2 S7 
+SA SQ S4 S6 
+CT CJ CA C4 
+H2 H4 H9 HA 
+D3 DK D4 D9 
+DA D2 D6 DJ 
+H7 H8 DQ HT 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "15"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "NS"]
+[Deal "S:J9542.9.Q64.A753 T876.AKQT.J9.Q94 AK.J76532.AT3.T2 Q3.84.K8752.KJ86"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1H Pass 
+1NT Pass Pass Pass 
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "16"]
+[West "Manoppo"]
+[North "Koch-Palmun"]
+[East "Lasut"]
+[South "Auken"]
+[Vulnerable "None"]
+[Deal "S:A9873.KT73.K72.K T.86542.QT8.T654 KJ64.J9.J5.A8732 Q52.AQ.A9643.QJ9"]
+[Dealer "N"]
+[Auction "N"]
+[Contract "Pass"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "16"]
+[West "Blakset"]
+[North "Sakul"]
+[East "Christiense"]
+[South "Karwur"]
+[Vulnerable "None"]
+[Deal "S:A9873.KT73.K72.K T.86542.QT8.T654 KJ64.J9.J5.A8732 Q52.AQ.A9643.QJ9"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C 1S Pass 
+2C Pass 2H Pass 
+4S Pass Pass Pass 
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+420"]
+

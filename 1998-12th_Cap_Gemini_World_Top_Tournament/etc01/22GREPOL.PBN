@@ -1,0 +1,1219 @@
+% PBN 1.0
+% bridgeplaza source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "45th Generali European Team Championships 2001"]
+[Site "Tenerife, Canary Islands, ESP"]
+[Date "2001.06.25"]
+[Round "22"]
+[Board "1"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "N"]
+[Deal "S:AJT8.4.KJT643.A7 Q6542.J85.A5.KQJ 3.AK9763.7.98652 K97.QT2.Q982.T43"]
+[Vulnerable "None"]
+[Contract "3H"]
+[Declarer "S"]
+[Auction "N"]
+3D Pass 3H Pass 
+Pass Pass   
+[Play "W"]
+CK C2 C4 CA 
+CJ C5 C3 C7 
+H5 HA H2 H4 
+H8 HK HT D3 
+HJ H3 HQ D4 
+DA D7 D2 DK 
+S4 S3 SK SA 
+SQ H6 S7 SJ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "1"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "N"]
+[Deal "S:AJT8.4.KJT643.A7 Q6542.J85.A5.KQJ 3.AK9763.7.98652 K97.QT2.Q982.T43"]
+[Vulnerable "None"]
+[Contract "3C"]
+[Declarer "S"]
+[Auction "N"]
+2H Pass 3C Pass 
+Pass Pass   
+[Play "W"]
+CK C2 C4 CA 
+H5 HA HT H4 
+H8 HK H2 D3 
+HJ H3 HQ C7 
+DA D7 D2 DT 
+S4 S3 SK SA 
+SQ C5 S7 SJ 
+CJ C6 C3 D4 
+S2 H6 S9 ST 
+- - - S8 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "2"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "E"]
+[Deal "S:T976.876.642.A54 ..AJ9543AK987.KQ KQJ54.QT.QJ3.J72 A832.K2.T5.T9863"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 1H 1S 
+Pass 2S X Pass 
+3C Pass 4D Pass 
+4H Pass Pass Pass 
+[Play "N"]
+SK SA S6 CQ 
+DQ DT D6 DA 
+C2 C3 CA CK 
+S4 S2 ST H3 
+HT HK H6 H4 
+HQ H2 H7 HJ 
+SQ S3 S7 H5 
+C7 - - HA 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "2"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "E"]
+[Deal "S:T976.876.642.A54 ..AJ9543AK987.KQ KQJ54.QT.QJ3.J72 A832.K2.T5.T9863"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 1H 1S 
+X Pass 2S Pass 
+3C Pass 3D Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Play "N"]
+SK SA S6 CQ 
+D3 DT D6 DA 
+DQ D5 D2 DK 
+DJ H2 D4 D7 
+HT HK H6 H3 
+S4 S2 S7 H4 
+HQ - - HA 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "3"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "S"]
+[Deal "S:8764.AQT5.98.652 AJ5.7.KJ6.KQJ743 KQT32.64.AQT73.A 9.KJ9832.542.T98"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "N"]
+[Auction "S"]
+Pass 1C 1S Pass 
+2S 3C 4S Pass 
+Pass Pass   
+[Play "E"]
+C9 C2 CJ CA 
+S9 S4 SA SQ 
+C8 C5 CK S2 
+H2 HQ H7 H4 
+D2 D8 D6 DQ 
+D4 D9 DJ DA 
+D5 S6 DK D3 
+H3 S7 S5 SK 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "3"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "S"]
+[Deal "S:8764.AQT5.98.652 AJ5.7.KJ6.KQJ743 KQT32.64.AQT73.A 9.KJ9832.542.T98"]
+[Vulnerable "EW"]
+[Contract "5CX"]
+[Declarer "W"]
+[Auction "S"]
+Pass 1C 1S Pass 
+2S 3C 4S 5C 
+Pass Pass X Pass 
+Pass Pass   
+[Play "N"]
+SK S9 S8 SA 
+H4 HJ HQ H7 
+DQ D2 D8 DJ 
+DA D4 D9 D6 
+CA C8 C2 C3 
+D7 D5 C5 DK 
+H6 C9 C6 C4 
+S2 HK HA C7 
+SQ CT S4 SJ 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "4"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "W"]
+[Deal "S:J9542.KT5.K4.QJ6 A873.AJ843.65.95 ..762AQT9.AKT732 KQT6.Q9.J8732.84"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "W"]
+Pass 1C Pass 1S 
+Pass 2C Pass 3C 
+Pass 3D Pass 3NT 
+Pass Pass Pass  
+[Play "W"]
+H4 H2 HQ HK 
+C5 C2 C4 CQ 
+C9 C3 C8 CJ 
+D5 CA D7 C6 
+S3 C7 S6 S2 
+S7 CT ST S4 
+- CK - - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "4"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "W"]
+[Deal "S:J9542.KT5.K4.QJ6 A873.AJ843.65.95 ..762AQT9.AKT732 KQT6.Q9.J8732.84"]
+[Vulnerable "Both"]
+[Contract "3C"]
+[Declarer "N"]
+[Auction "W"]
+Pass 2C Pass 2S 
+Pass 3C Pass Pass 
+Pass    
+[Play "E"]
+SK S2 S8 C2 
+D3 DK D5 D9 
+D2 D4 D6 DA 
+D7 CQ S3 DT 
+C4 CJ C5 C3 
+C8 C6 C9 CA 
+D8 S4 H3 CK 
+H9 HT HJ H2 
+S6 S5 S7 C7 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "5"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "N"]
+[Deal "S:JT4.K76.KQT4.AK2 KQ9.T9542.J9.QJ8 A8.AQJ8.A762.765 76532.3.853.T943"]
+[Vulnerable "NS"]
+[Contract "4NT"]
+[Declarer "N"]
+[Auction "N"]
+1NT Pass 4NT Pass 
+Pass Pass   
+[Play "E"]
+S6 SJ SQ SA 
+D5 DK D9 D2 
+D3 D4 DJ DA 
+D8 DT H2 D6 
+S5 DQ H4 D7 
+C3 CA C8 C5 
+H3 HK H5 H8 
+S2 H6 H9 HJ 
+C4 H7 HT HQ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "5"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "N"]
+[Deal "S:JT4.K76.KQT4.AK2 KQ9.T9542.J9.QJ8 A8.AQJ8.A762.765 76532.3.853.T943"]
+[Vulnerable "NS"]
+[Contract "4NT"]
+[Declarer "N"]
+[Auction "N"]
+1NT Pass 4NT Pass 
+Pass Pass   
+[Play "E"]
+S6 S4 S9 SA 
+D3 DK D9 D2 
+D5 D4 DJ DA 
+D8 DT H2 D6 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "6"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "E"]
+[Deal "S:QJ8632.J82..K765 9.AQ3.K752.AQT82 AT4.K4.AJ93.J943 K75.T9765.QT864."]
+[Vulnerable "EW"]
+[Contract "2S"]
+[Declarer "S"]
+[Auction "E"]
+Pass Pass 1C Pass 
+1D 1S 2C 2S 
+Pass Pass Pass  
+[Play "W"]
+D2 D3 D8 S2 
+S9 S4 SK SQ 
+C8 SA S5 S3 
+D5 ST S7 SJ 
+CQ C3 H5 C5 
+HA H4 H6 H2 
+H3 HK H7 H8 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "6"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "E"]
+[Deal "S:QJ8632.J82..K765 9.AQ3.K752.AQT82 AT4.K4.AJ93.J943 K75.T9765.QT864."]
+[Vulnerable "EW"]
+[Contract "5DX"]
+[Declarer "E"]
+[Auction "E"]
+Pass 2D Pass 2H 
+Pass 2S X XX 
+3H 3S Pass Pass 
+4D Pass 5D X 
+Pass Pass Pass  
+[Play "S"]
+SQ S9 SA S5 
+S2 H3 ST SK 
+S3 DK DA D4 
+S6 D2 D3 D6 
+H8 HQ HK H5 
+S8 D5 S4 S7 
+- HA - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "7"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "S"]
+[Deal "S:AT8.J632.AKT93.T J7.AK98.QJ82.AJ9 953.Q54.75.Q7543 KQ642.T7.64.K862"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "S"]
+1D 1NT Pass 2H 
+Pass 2S Pass 3C 
+Pass 3NT Pass Pass 
+Pass    
+[Play "N"]
+D7 D4 D9 DJ 
+S5 S2 S8 SJ 
+S3 SK ST S7 
+S9 S4 SA C9 
+HQ H7 H2 H8 
+H5 HT HJ HA 
+H4 C2 H3 HK 
+D5 D6 - H9 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "7"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "S"]
+[Deal "S:AT8.J632.AKT93.T J7.AK98.QJ82.AJ9 953.Q54.75.Q7543 KQ642.T7.64.K862"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "S"]
+1D 1NT Pass 2H 
+Pass 2S Pass 3NT 
+Pass Pass Pass  
+[Play "N"]
+D5 D4 D9 DQ 
+S9 S2 S8 SJ 
+S5 SK SA S7 
+D7 D6 DA D2 
+HQ H7 H2 H8 
+H5 HT HJ HA 
+H4 C2 H3 HK 
+C4 C6 H6 H9 
+C5 CK CT C9 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "8"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "W"]
+[Deal "S:872.K76.T3.A9832 KQT.J983.KQ.KQ75 A643.Q52.J87.J64 J95.AT4.A96542.T"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "W"]
+1NT Pass 2C Pass 
+2H Pass 2S Pass 
+3C Pass 3NT Pass 
+Pass Pass   
+[Play "N"]
+S3 S5 S8 SQ 
+D7 D2 D3 DK 
+D8 D4 DT DQ 
+C4 CT CA CK 
+SA S9 S2 ST 
+S4 SJ S7 SK 
+C6 H4 C2 CQ 
+H2 HA H6 H3 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "8"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "W"]
+[Deal "S:872.K76.T3.A9832 KQT.J983.KQ.KQ75 A643.Q52.J87.J64 J95.AT4.A96542.T"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "W"]
+1NT Pass 3D Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+S3 S5 S8 SK 
+D8 D2 D3 DK 
+D7 D4 DT DQ 
+H5 H4 HK HJ 
+C6 CT C3 CK 
+SA S9 S2 ST 
+C4 HT CA C5 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "9"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "N"]
+[Deal "S:KQ854.853.Q3.AQ4 72.AT4.87.J98765 AJ6.96.A9654.K32 T93.KQJ72.KJT2.T"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "N"]
+1D 1H 1S 2H 
+X 3H 4S Pass 
+Pass Pass   
+[Play "W"]
+C9 C2 CT CA 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "9"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "N"]
+[Deal "S:KQ854.853.Q3.AQ4 72.AT4.87.J98765 AJ6.96.A9654.K32 T93.KQJ72.KJT2.T"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "N"]
+1D 1H 1S 2H 
+X Pass 3H Pass 
+3S Pass 4S Pass 
+Pass Pass   
+[Play "W"]
+C7 C2 CT CA 
+S2 SJ ST S4 
+D7 D4 DK D3 
+H4 H6 HK H5 
+HA H9 H2 H3 
+CJ C3 S3 C4 
+D8 D5 D2 DQ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "10"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "E"]
+[Deal "S:K43.A963.A83.943 Q9652.Q752.J.AKJ T.KJ84.KT962.Q76 AJ87.T.Q754.T852"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 1S Pass 
+2NT Pass 3C Pass 
+3H Pass 4S Pass 
+Pass Pass   
+[Play "N"]
+ST SJ SK S2 
+C6 C2 C3 CA 
+D2 S7 S3 SQ 
+D6 D4 DA DJ 
+H4 HT HA H2 
+C7 SA S4 S5 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "10"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "E"]
+[Deal "S:K43.A963.A83.943 Q9652.Q752.J.AKJ T.KJ84.KT962.Q76 AJ87.T.Q754.T852"]
+[Vulnerable "Both"]
+[Contract "3S"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 1S Pass 
+3S Pass Pass Pass 
+[Play "N"]
+DT D4 DA DJ 
+C7 C2 C4 CA 
+HJ HT H3 H2 
+ST SA S4 S2 
+C6 C5 C3 CK 
+H4 S7 H6 H5 
+D2 D5 D8 S5 
+H8 S8 H9 H7 
+D6 D7 D3 S6 
+HK SJ HA HQ 
+D9 DQ C9 S9 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "11"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "S"]
+[Deal "S:AJT6.A8.862.K765 KQ975.K6.KJ7.Q84 843.Q97.943.J932 2.JT5432.AQT5.AT"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "E"]
+[Auction "S"]
+1C 1S Pass 2H 
+Pass 3C Pass 3D 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Play "S"]
+D6 D7 D9 DQ 
+S6 SK S8 S2 
+ST S5 S3 H2 
+HA H6 H7 H3 
+D8 DK D4 D5 
+H8 HK H9 H4 
+SJ S7 S4 H5 
+D2 DJ D3 DT 
+SA S9 C3 HT 
+C5 C4 HQ DA 
+CK C8 C2 CT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "11"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "S"]
+[Deal "S:AJT6.A8.862.K765 KQ975.K6.KJ7.Q84 843.Q97.943.J932 2.JT5432.AQT5.AT"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "E"]
+[Auction "S"]
+1C 1S Pass 2H 
+Pass 2NT Pass 3D 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Play "S"]
+C5 CQ C2 CT 
+C6 C4 C9 CA 
+H8 HK H7 H2 
+HA H6 H9 HT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "12"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "W"]
+[Deal "S:AK8752.Q83.A.J86 Q63.KT962.QJ9.T9 J.A74.K762.AK752 T94.J5.T8543.Q43"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "W"]
+Pass 1C Pass 1S 
+Pass 2C Pass 2H 
+Pass 2NT Pass 3S 
+Pass 4S Pass Pass 
+Pass    
+[Play "W"]
+DQ D2 D5 DA 
+S6 SJ S4 SA 
+S3 D6 S9 SK 
+SQ C2 ST S2 
+CT C5 CQ C6 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "12"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "W"]
+[Deal "S:AK8752.Q83.A.J86 Q63.KT962.QJ9.T9 J.A74.K762.AK752 T94.J5.T8543.Q43"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "W"]
+Pass 1C Pass 1S 
+Pass 2C Pass 2D 
+Pass 2H Pass 2S 
+Pass 2NT Pass 3C 
+Pass 3D Pass 3S 
+Pass 4S Pass Pass 
+Pass    
+[Play "W"]
+DQ D2 D5 DA 
+S3 SJ S9 SA 
+S6 D6 S4 SK 
+SQ D7 ST S8 
+D9 DK D3 C6 
+C9 CA C3 C8 
+CT C2 C4 CJ 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "13"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "N"]
+[Deal "S:KT8.AK943.95.KQ3 965.Q.T742.AJ762 QJ.T75.KQJ63.985 A7432.J862.A8.T4"]
+[Vulnerable "Both"]
+[Contract "2H"]
+[Declarer "S"]
+[Auction "N"]
+Pass Pass 1H Pass 
+2H Pass Pass Pass 
+[Play "W"]
+S6 SJ SA S8 
+C6 C5 CT CK 
+S5 SQ S2 SK 
+S9 C8 S3 ST 
+D2 DK DA D5 
+CA C9 C4 CQ 
+CJ H7 D8 C3 
+HQ H5 H2 H3 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "13"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "N"]
+[Deal "S:KT8.AK943.95.KQ3 965.Q.T742.AJ762 QJ.T75.KQJ63.985 A7432.J862.A8.T4"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "N"]
+Pass Pass 1NT Pass 
+2C Pass 2H Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+C6 C5 CT CQ 
+D2 DK DA D5 
+CJ C8 C4 C3 
+CA C9 S2 CK 
+C7 H5 D8 H3 
+C2 D3 H2 S8 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "14"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "E"]
+[Deal "S:63.AK95.J4.J9643 K875.J64.A5.A875 AQ942.T83.Q93.T2 JT.Q72.KT8762.KQ"]
+[Vulnerable "None"]
+[Contract "3D"]
+[Declarer "E"]
+[Auction "E"]
+Pass Pass 1C 1S 
+3D Pass Pass Pass 
+[Play "S"]
+HA H4 H8 H2 
+S6 S5 SQ SJ 
+HK H6 H3 H7 
+S3 S7 SA ST 
+DJ S8 S9 D6 
+H5 HJ HT HQ 
+D4 DA D3 D2 
+C3 D5 D9 DT 
+- - - DK 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "14"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "E"]
+[Deal "S:63.AK95.J4.J9643 K875.J64.A5.A875 AQ942.T83.Q93.T2 JT.Q72.KT8762.KQ"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "E"]
+1D Pass 1S Pass 
+2D Pass 3NT Pass 
+Pass Pass   
+[Play "N"]
+S4 ST S3 S5 
+D3 D2 D4 DA 
+D9 DK DJ D5 
+DQ D6 C3 S7 
+H8 H2 HK H6 
+SQ SJ S6 S8 
+SA D7 C4 SK 
+H3 H7 HA H4 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "15"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "S"]
+[Deal "S:Q.A75.T854.KQ543 K953.JT6.93.AJ62 J82.K932.AK6.T98 AT764.Q84.QJ72.7"]
+[Vulnerable "NS"]
+[Contract "3S"]
+[Declarer "E"]
+[Auction "S"]
+1C Pass 1H 1S 
+X 2NT X 3S 
+Pass Pass Pass  
+[Play "S"]
+CK CA C8 C7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "15"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "S"]
+[Deal "S:Q.A75.T854.KQ543 K953.JT6.93.AJ62 J82.K932.AK6.T98 AT764.Q84.QJ72.7"]
+[Vulnerable "NS"]
+[Contract "PAS"]
+[Declarer "s"]
+[Auction "S"]
+Pass Pass Pass Pass 
+[Play "S"]
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "16"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "W"]
+[Deal "S:A3.KJ9643.964.73 KQ92.A.KJ7.QT642 8764.Q872.83.J95 JT5.T5.AQT52.AK8"]
+[Vulnerable "EW"]
+[Contract "6D"]
+[Declarer "E"]
+[Auction "W"]
+1C Pass 2D 2H 
+2S 3H Pass Pass 
+4H Pass 5C Pass 
+5D Pass 6D Pass 
+Pass Pass   
+[Play "S"]
+SA S2 S4 S5 
+S3 S9 S6 SJ 
+D4 DK D3 D2 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "16"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "W"]
+[Deal "S:A3.KJ9643.964.73 KQ92.A.KJ7.QT642 8764.Q872.83.J95 JT5.T5.AQT52.AK8"]
+[Vulnerable "EW"]
+[Contract "4HX"]
+[Declarer "S"]
+[Auction "W"]
+1C Pass 1D 2H 
+X 4H X Pass 
+Pass Pass   
+[Play "W"]
+HA H2 H5 H3 
+SK - - - 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "17"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "N"]
+[Deal "S:42.AKJ3.J82.A853 QJ.Q94.K96.KT972 AK98.T86.QT7.QJ4 T7653.752.A543.6"]
+[Vulnerable "None"]
+[Contract "2H"]
+[Declarer "S"]
+[Auction "N"]
+Pass Pass 1H Pass 
+2C Pass 2H Pass 
+Pass Pass   
+[Play "W"]
+SQ SA S6 S2 
+D9 DQ DA D2 
+CK C4 C6 C3 
+C2 CJ H2 C5 
+DK D7 D3 D8 
+CT CQ H5 C8 
+D6 DT D4 DJ 
+H4 H6 H7 HA 
+SJ SK S3 S4 
+H9 H8 S5 HK 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "17"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "N"]
+[Deal "S:42.AKJ3.J82.A853 QJ.Q94.K96.KT972 AK98.T86.QT7.QJ4 T7653.752.A543.6"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "N"]
+1C Pass 1H Pass 
+1S Pass 2C Pass 
+2H Pass 3NT Pass 
+Pass Pass   
+[Play "W"]
+CT CQ C6 C5 
+HQ H6 H7 HJ 
+SJ SK S3 S4 
+D6 DT D3 D2 
+H4 HT H5 H3 
+H9 H8 H2 HA 
+C2 D7 S5 HK 
+DK DQ D4 D8 
+D9 S8 DA DJ 
+C7 C4 D5 C3 
+SQ SA S6 S2 
+- CJ S7 CA 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "18"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "E"]
+[Deal "S:A42.AK543.KQ.KJ4 Q96.JT9.A95.QT96 J87.Q876.T63.853 KT53.2.J8742.A72"]
+[Vulnerable "NS"]
+[Contract "2NT"]
+[Declarer "S"]
+[Auction "E"]
+Pass 2NT Pass Pass 
+Pass    
+[Play "W"]
+HJ H6 H2 HK 
+H9 H7 C7 HA 
+HT HQ S3 H3 
+C6 H8 C2 H4 
+C9 C3 CA C4 
+DA D3 D2 DK 
+D9 D6 D4 DQ 
+- - - H5 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "18"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "E"]
+[Deal "S:A42.AK543.KQ.KJ4 Q96.JT9.A95.QT96 J87.Q876.T63.853 KT53.2.J8742.A72"]
+[Vulnerable "NS"]
+[Contract "2H"]
+[Declarer "S"]
+[Auction "E"]
+Pass 1H Pass Pass 
+X XX 2C 2H 
+Pass Pass Pass  
+[Play "W"]
+HJ H6 H2 HA 
+H9 H7 D7 HK 
+DA D3 D2 DQ 
+D9 D6 D4 DK 
+HT HQ D8 H3 
+D5 DT DJ H4 
+S6 S7 ST S2 
+S9 S8 S3 SA 
+SQ SJ - S4 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "19"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "S"]
+[Deal "S:2.J763.AKJ75.T73 AQ8.AT5.9863.A86 J964.KQ9..KQJ542 KT753.842.QT42.9"]
+[Vulnerable "EW"]
+[Contract "3C"]
+[Declarer "N"]
+[Auction "S"]
+Pass 1C 2C Pass 
+2D Pass 3C Pass 
+Pass Pass   
+[Play "E"]
+H4 H3 HA HQ 
+C9 CT C6 C2 
+D2 DA D3 S4 
+D4 DK D6 S6 
+S5 S2 SA S9 
+S3 C3 CA C4 
+H2 C7 C8 CJ 
+H8 H6 H5 HK 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "19"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "S"]
+[Deal "S:2.J763.AKJ75.T73 AQ8.AT5.9863.A86 J964.KQ9..KQJ542 KT753.842.QT42.9"]
+[Vulnerable "EW"]
+[Contract "3C"]
+[Declarer "N"]
+[Auction "S"]
+Pass 1D 2C 2D 
+Pass Pass X 2S 
+3C Pass Pass Pass 
+[Play "E"]
+D2 DJ D8 S4 
+D4 DA D3 S6 
+DT DK D6 S9 
+C9 C3 C6 CK 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "20"]
+[Room "Open"]
+[West "Kwiecien M"]
+[North "Kapayannid A"]
+[East "Pszczola J"]
+[South "Liarakos S"]
+[Dealer "W"]
+[Deal "S:AJ5.KQT43.T5.985 32.J962.9764.A42 T764.875.J2.KQT3 KQ98.A.AKQ83.J76"]
+[Vulnerable "Both"]
+[Contract "5D"]
+[Declarer "E"]
+[Auction "W"]
+Pass Pass 1D 1H 
+3D Pass 5D Pass 
+Pass Pass   
+[Play "S"]
+HK H2 H7 HA 
+SA S2 S4 SQ 
+C8 C2 CQ C6 
+S5 S3 S6 SK 
+SJ D4 S7 S8 
+D5 D6 D2 DA 
+DT D7 DJ DK 
+H3 D9 ST S9 
+H4 H6 H5 D3 
+HT H9 H8 DQ 
+C5 HJ C3 D8 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "20"]
+[Room "Closed"]
+[West "Skoularikis F"]
+[North "Lesniewski M"]
+[East "Zotos L"]
+[South "Martens K"]
+[Dealer "W"]
+[Deal "S:AJ5.KQT43.T5.985 32.J962.9764.A42 T764.875.J2.KQT3 KQ98.A.AKQ83.J76"]
+[Vulnerable "Both"]
+[Contract "3D"]
+[Declarer "E"]
+[Auction "W"]
+Pass Pass 1D 1H 
+Pass Pass X Pass 
+2D 2H 3D Pass 
+Pass Pass   
+[Play "S"]
+HK H2 H7 HA 
+SA S2 S4 SK 
+C8 CA C3 C6 
+S5 S3 S6 SQ 
+SJ D4 S7 S8 
+H3 H6 H5 D3 
+DT C2 ST S9 
+C5 C4 CQ CJ 
+C9 D6 CK C7 
+*
+[Result "10"]
+

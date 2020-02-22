@@ -1,0 +1,1235 @@
+% PBN 1.0
+% bridgeplaza source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "45th Generali European Team Championships 2001"]
+[Site "Tenerife, Canary Islands, ESP"]
+[Date "2001.06.27"]
+[Round "29"]
+[Board "1"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "N"]
+[Deal "S:T94.T92.Q.J65432 Q5.AKQJ3.AT94.K8 AK632.876.K82.Q9 J87.54.J7653.AT7"]
+[Vulnerable "None"]
+[Contract "2H"]
+[Declarer "W"]
+[Auction "N"]
+1S Pass 1NT X 
+Pass 2D Pass 2H 
+Pass Pass Pass  
+[Play "N"]
+SA S7 S4 S5 
+S2 S8 ST SQ 
+H6 H4 H9 HA 
+H7 H5 H2 HK 
+H8 D3 HT HQ 
+D2 D5 DQ DA 
+DK D6 C2 DT 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "1"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "N"]
+[Deal "S:T94.T92.Q.J65432 Q5.AKQJ3.AT94.K8 AK632.876.K82.Q9 J87.54.J7653.AT7"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "W"]
+[Auction "N"]
+1S Pass 3S 4H 
+Pass Pass Pass  
+[Play "N"]
+SK S7 S4 S5 
+CQ C7 C2 CK 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "2"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "E"]
+[Deal "S:J76.8432.AQT4.53 98.KQT97.K8.Q874 AT5.J6.97653.KT2 KQ432.A5.J2.AJ96"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "E"]
+1S Pass 2H Pass 
+3C Pass 3NT Pass 
+Pass Pass   
+[Play "N"]
+D6 DJ DQ DK 
+CK CA C5 CQ 
+H6 HA H2 H7 
+HJ H5 H3 HK 
+S5 S2 H4 HQ 
+ST S3 H8 HT 
+D3 S4 S6 H9 
+C2 C6 C3 C8 
+CT CJ D4 C4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "2"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "E"]
+[Deal "S:J76.8432.AQT4.53 98.KQT97.K8.Q874 AT5.J6.97653.KT2 KQ432.A5.J2.AJ96"]
+[Vulnerable "NS"]
+[Contract "3H"]
+[Declarer "E"]
+[Auction "E"]
+1S Pass 1NT Pass 
+2C Pass 2D Pass 
+2H Pass 3H Pass 
+Pass Pass   
+[Play "S"]
+H2 HT HJ HA 
+H3 HK H6 H5 
+H4 HQ D9 S2 
+H8 H9 D7 S3 
+C3 C4 C2 CJ 
+C5 C7 CT CA 
+D4 CQ CK C6 
+S6 S8 S5 SQ 
+DQ C8 D3 C9 
+DA D8 D5 D2 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "3"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "S"]
+[Deal "S:J94.JT984.62.Q54 KT62.KQ3.Q.KT982 A7.A62.AKJT98.73 Q853.75.7543.AJ6"]
+[Vulnerable "EW"]
+[Contract "3D"]
+[Declarer "N"]
+[Auction "S"]
+Pass 2C 2D 3C 
+Pass Pass 3D Pass 
+Pass Pass   
+[Play "E"]
+CA C4 C8 C3 
+CJ C5 C2 C7 
+C6 CQ CK D8 
+D3 D2 DQ DA 
+D4 D6 S2 DK 
+D5 H4 C9 DJ 
+D7 H8 CT DT 
+S3 S4 S6 SA 
+S5 S9 ST S7 
+S8 SJ SK D9 
+H5 H9 HK H2 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "3"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "S"]
+[Deal "S:J94.JT984.62.Q54 KT62.KQ3.Q.KT982 A7.A62.AKJT98.73 Q853.75.7543.AJ6"]
+[Vulnerable "EW"]
+[Contract "3S"]
+[Declarer "E"]
+[Auction "S"]
+Pass 1C X 1S 
+Pass 2S 3D Pass 
+Pass 3S Pass Pass 
+Pass    
+[Play "S"]
+HJ HQ HA H5 
+H8 HK H6 H7 
+S9 S2 S7 SQ 
+C4 C2 C3 CA 
+C5 C8 C7 CJ 
+CQ CK SA C6 
+D2 DQ DK D4 
+H4 H3 H2 S3 
+S4 ST D8 S5 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "4"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "W"]
+[Deal "S:K653..K752.AQ932 AQ.T98652.Q6.765 T72.KQJ4.A.KJT84 J984.A73.JT9843."]
+[Vulnerable "Both"]
+[Contract "6CX"]
+[Declarer "N"]
+[Auction "W"]
+Pass 1C Pass 1S 
+Pass 2C Pass 2D 
+Pass 3S Pass 4C 
+Pass 4D Pass 6C 
+X Pass Pass Pass 
+[Play "E"]
+DT D2 D6 DA 
+D3 C2 C7 CT 
+H3 S3 H2 HK 
+HA C3 H5 HQ 
+D4 DK DQ S2 
+D8 D5 H6 C4 
+H7 S5 H8 HJ 
+D9 C9 H9 H4 
+DJ D7 C5 C8 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "4"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "W"]
+[Deal "S:K653..K752.AQ932 AQ.T98652.Q6.765 T72.KQJ4.A.KJT84 J984.A73.JT9843."]
+[Vulnerable "Both"]
+[Contract "5C"]
+[Declarer "N"]
+[Auction "W"]
+Pass 2C Pass 2D 
+Pass 2H 3D 5C 
+Pass Pass Pass  
+[Play "E"]
+S9 S3 SQ S7 
+SJ S5 SA S2 
+D3 D2 DQ DA 
+D4 C2 C5 CK 
+D8 C3 C6 CJ 
+- - - CT 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "5"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "N"]
+[Deal "S:K543.J2.QJ632.85 AQT96.A9.AK4.KQ9 J.KQT763.T75.642 872.854.98.AJT73"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "W"]
+[Auction "N"]
+Pass Pass Pass 1C 
+1H X Pass 2S 
+Pass 3S Pass 4S 
+Pass Pass Pass  
+[Play "N"]
+HK H4 HJ H9 
+SJ S2 S3 SQ 
+C2 CJ C8 C9 
+H7 S7 S4 S6 
+- S8 - - 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "5"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "N"]
+[Deal "S:K543.J2.QJ632.85 AQT96.A9.AK4.KQ9 J.KQT763.T75.642 872.854.98.AJT73"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "W"]
+[Auction "N"]
+2D Pass 2H X 
+Pass 3C Pass 3H 
+X Pass Pass 3S 
+Pass 4S Pass Pass 
+Pass    
+[Play "N"]
+HK H4 HJ HA 
+SJ S2 S3 ST 
+HQ H5 H2 H9 
+HT H8 C5 S6 
+H3 S7 S4 SA 
+H6 S8 SK SQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "6"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "E"]
+[Deal "S:Q873.AQT64.9632. AKT.K93.KQT7.A93 965.J852.J8.KQ74 J42.7.A54.JT8652"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 1C Pass 
+1D 1H 1NT 2H 
+3NT Pass Pass Pass 
+[Play "N"]
+H5 H7 HQ HK 
+S5 S2 S3 SA 
+D8 D4 D3 DK 
+DJ DA D2 D7 
+S6 S4 S7 ST 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "6"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "E"]
+[Deal "S:Q873.AQT64.9632. AKT.K93.KQT7.A93 965.J852.J8.KQ74 J42.7.A54.JT8652"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "E"]
+[Auction "E"]
+Pass Pass 1D Pass 
+1NT 2C 3NT Pass 
+Pass Pass   
+[Play "S"]
+H6 H3 HJ H7 
+HT HK H2 C5 
+S3 SA S5 S4 
+D2 DK D8 D4 
+D3 D7 DJ DA 
+S8 ST S6 S2 
+S7 SK S9 SJ 
+D6 DQ C4 D5 
+D9 DT C7 C2 
+- CA CQ C6 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "7"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "S"]
+[Deal "S:Q7.Q53.K8.AK8432 A9865432.J6.QJ.9 K.KT9872.643.Q75 JT.A4.AT9752.JT6"]
+[Vulnerable "Both"]
+[Contract "5HX"]
+[Declarer "N"]
+[Auction "S"]
+1NT 2S 3D 3H 
+X 4S X Pass 
+5C Pass 5H X 
+Pass Pass Pass  
+[Play "E"]
+SJ S7 SA SK 
+C6 C2 C9 CQ 
+HA H3 H6 H7 
+DA D8 DJ D3 
+CJ CA HJ C5 
+- - S2 - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "7"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "S"]
+[Deal "S:Q7.Q53.K8.AK8432 A9865432.J6.QJ.9 K.KT9872.643.Q75 JT.A4.AT9752.JT6"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "W"]
+[Auction "S"]
+2C 3S Pass 4S 
+Pass Pass Pass  
+[Play "N"]
+C5 C6 CK C9 
+SK ST S7 SA 
+D4 D2 DK DQ 
+HK HA H3 HJ 
+D3 DA D8 DJ 
+- DT - - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "8"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "W"]
+[Deal "S:965..KQ98542.K92 KJT743.AQ73.AT.8 A2.JT986.3.AJT54 Q8.K542.J76.Q763"]
+[Vulnerable "None"]
+[Contract "3C"]
+[Declarer "S"]
+[Auction "W"]
+1S 2S Pass 3C 
+Pass Pass Pass  
+[Play "W"]
+DA D3 D7 D9 
+SK SA S8 S6 
+H3 H6 H2 C2 
+DT C4 D6 DQ 
+S3 S2 SQ S5 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "8"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "W"]
+[Deal "S:965..KQ98542.K92 KJT743.AQ73.AT.8 A2.JT986.3.AJT54 Q8.K542.J76.Q763"]
+[Vulnerable "None"]
+[Contract "4D"]
+[Declarer "S"]
+[Auction "W"]
+1S 2H Pass 3D 
+Pass 3S Pass 4D 
+Pass Pass Pass  
+[Play "W"]
+C8 CJ C7 C2 
+S7 S2 SQ S5 
+DT C4 C3 CK 
+DA D3 D6 D2 
+HA H6 H2 D4 
+S3 H8 D7 DK 
+- - - DQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "9"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "N"]
+[Deal "S:A5.T86.Q6532.K54 K9..KJ987.AQJ976 T43.AKQJ9543..82 QJ8762.72.AT4.T3"]
+[Vulnerable "EW"]
+[Contract "5DX"]
+[Declarer "E"]
+[Auction "N"]
+4H Pass Pass 4NT 
+X 5D X Pass 
+Pass Pass   
+[Play "S"]
+H6 D7 H9 H2 
+S5 SK S3 S2 
+D3 D8 H5 DA 
+C4 CQ C2 C3 
+SA S9 S4 SQ 
+H8 D9 H4 H7 
+C5 CA C8 CT 
+CK C6 H3 D4 
+D2 DJ ST SJ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "9"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "N"]
+[Deal "S:A5.T86.Q6532.K54 K9..KJ987.AQJ976 T43.AKQJ9543..82 QJ8762.72.AT4.T3"]
+[Vulnerable "EW"]
+[Contract "5DX"]
+[Declarer "E"]
+[Auction "N"]
+4H Pass Pass 4NT 
+Pass 5D X Pass 
+Pass Pass   
+[Play "S"]
+H8 D7 HA H2 
+D2 D8 H3 DA 
+C4 C6 C2 CT 
+C5 CQ C8 C3 
+CK CA H4 H7 
+S5 SK S3 S2 
+H6 CJ H5 DT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "10"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "E"]
+[Deal "S:AQT5.AQJ7.4.QJ82 ..K543AQT93.T964 KJ9842.92.J65.AK 763.T86.K872.753"]
+[Vulnerable "Both"]
+[Contract "6S"]
+[Declarer "N"]
+[Auction "E"]
+Pass 1C 1D 1S 
+Pass 3S Pass 4C 
+Pass 4D Pass 5C 
+Pass 5H Pass 5NT 
+Pass 6S Pass Pass 
+Pass    
+[Play "E"]
+H8 HA H3 H9 
+S3 SA D3 S2 
+- S5 - - 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "10"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "E"]
+[Deal "S:AQT5.AQJ7.4.QJ82 ..K543AQT93.T964 KJ9842.92.J65.AK 763.T86.K872.753"]
+[Vulnerable "Both"]
+[Contract "6S"]
+[Declarer "N"]
+[Auction "E"]
+Pass 1C 1D 1S 
+Pass 4D Pass 4NT 
+Pass 5S Pass 6S 
+Pass Pass Pass  
+[Play "E"]
+DK D4 D9 D5 
+H6 HA H3 H2 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "11"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "S"]
+[Deal "S:T4.T92.QT6.AJT85 J975.A843.J753.3 K862.KQJ75.AK9.9 AQ3.6.842.KQ7642"]
+[Vulnerable "None"]
+[Contract "2CX"]
+[Declarer "E"]
+[Auction "S"]
+Pass Pass 1H 2C 
+Pass Pass X Pass 
+Pass Pass   
+[Play "S"]
+H2 HA H5 H6 
+S4 S5 S2 SQ 
+ST S7 S6 SA 
+H9 S9 SK S3 
+CA C3 C9 CK 
+CJ H3 H7 C2 
+HT H4 HJ C4 
+- - - D2 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "11"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "S"]
+[Deal "S:T4.T92.QT6.AJT85 J975.A843.J753.3 K862.KQJ75.AK9.9 AQ3.6.842.KQ7642"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "S"]
+Pass Pass 1H 2C 
+2H Pass 4H Pass 
+Pass Pass   
+[Play "E"]
+CK CA C3 C9 
+SQ S4 S5 S6 
+D8 DQ D7 D9 
+S3 ST SJ S2 
+D2 D6 D3 DA 
+SA H2 S7 S8 
+- H9 H3 - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "12"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "W"]
+[Deal "S:J72.T62.543.8654 AT.AQJ8.QT76.Q97 Q984.K75.KJ.KJ32 K653.943.A982.AT"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "W"]
+1NT Pass 2C Pass 
+2H Pass 2S Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+C2 CT C6 C7 
+HK H3 H2 HQ 
+CJ CA C5 C9 
+H5 H9 H6 HA 
+DK DA D3 DQ 
+DJ D2 D4 DT 
+CK S3 C4 CQ 
+C3 S5 C8 H8 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "12"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "W"]
+[Deal "S:J72.T62.543.8654 AT.AQJ8.QT76.Q97 Q984.K75.KJ.KJ32 K653.943.A982.AT"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "W"]
+1NT Pass 2C Pass 
+2H Pass 3NT Pass 
+Pass Pass   
+[Play "N"]
+S9 S3 SJ SA 
+DJ DA D3 DT 
+DK D2 D4 DQ 
+SQ S5 S2 ST 
+S4 SK S7 C7 
+HK H3 H2 HQ 
+C2 - - - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "13"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "N"]
+[Deal "S:86.A82.KT3.KQ987 KJ97.KQJ3.84.632 AQ5432.T9.A72.A4 T.7654.QJ965.JT5"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "N"]
+1S Pass 2C Pass 
+2S Pass 3NT Pass 
+Pass Pass   
+[Play "W"]
+HQ H9 H7 H2 
+HJ HT H5 H8 
+H3 S2 H4 HA 
+C2 CA C5 C9 
+C3 C4 CT CK 
+C6 S3 CJ CQ 
+S9 S4 D5 C8 
+D4 D2 D6 C7 
+D8 DA D9 D3 
+S7 D7 DJ DK 
+SJ SA ST S6 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "13"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "N"]
+[Deal "S:86.A82.KT3.KQ987 KJ97.KQJ3.84.632 AQ5432.T9.A72.A4 T.7654.QJ965.JT5"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "N"]
+[Auction "N"]
+1S Pass 2C Pass 
+2NT Pass 3C Pass 
+3D Pass 4S Pass 
+Pass Pass   
+[Play "E"]
+H6 HA HK H9 
+ST S6 S7 SQ 
+H4 S8 SK SA 
+D5 H2 S9 S2 
+H5 H8 HQ HT 
+- - SJ - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "14"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "E"]
+[Deal "S:J82.T9732.T7.K73 AQ96.65.KJ943.QJ KT3.AJ4.Q65.A952 754.KQ8.A82.T864"]
+[Vulnerable "None"]
+[Contract "2H"]
+[Declarer "S"]
+[Auction "E"]
+Pass Pass 1D X 
+1NT 2H Pass Pass 
+Pass    
+[Play "W"]
+CQ C2 C4 CK 
+H5 H4 HQ HT 
+CJ CA C6 C3 
+DJ D5 D8 DT 
+D3 D6 DA D7 
+D4 DQ D2 H2 
+SQ SK S4 SJ 
+H6 HA H8 H3 
+S6 C5 C8 C7 
+S9 C9 CT H7 
+SA S3 S5 S2 
+DK - - - 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "14"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "E"]
+[Deal "S:J82.T9732.T7.K73 AQ96.65.KJ943.QJ KT3.AJ4.Q65.A952 754.KQ8.A82.T864"]
+[Vulnerable "None"]
+[Contract "3D"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 1D X 
+1NT Pass 2D Pass 
+2H Pass 3D Pass 
+Pass Pass   
+[Play "N"]
+S3 S4 SJ SQ 
+H4 HK H9 H6 
+CA C4 C7 CQ 
+SK S5 S2 SA 
+D5 DA D7 D4 
+DQ D2 DT DJ 
+ST S7 S8 S6 
+HA H8 H2 H5 
+C2 C6 C3 - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "15"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "S"]
+[Deal "S:AQ543.AQJ43.6.32 876.KT.QJ95.Q976 J92.7652.72.AK84 KT.98.AKT843.JT5"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "S"]
+1S Pass 2S 3D 
+3H 4D 4S Pass 
+Pass Pass   
+[Play "W"]
+DQ D2 DK D6 
+- - H9 - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "15"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "S"]
+[Deal "S:AQ543.AQJ43.6.32 876.KT.QJ95.Q976 J92.7652.72.AK84 KT.98.AKT843.JT5"]
+[Vulnerable "NS"]
+[Contract "5DX"]
+[Declarer "E"]
+[Auction "S"]
+1S Pass 2S 3D 
+4S 5D X Pass 
+Pass Pass   
+[Play "S"]
+HA HT H2 H8 
+H4 HK H5 H9 
+D6 DQ D2 D8 
+S5 DJ D7 DT 
+C2 C9 CK C5 
+SA S6 S2 SK 
+SQ S7 S9 ST 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "16"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "W"]
+[Deal "S:9764.A95.T4.8762 QJ.T87.J875.AQJT AK53.KQJ643.Q3.4 T82.2.AK962.K953"]
+[Vulnerable "EW"]
+[Contract "3S"]
+[Declarer "S"]
+[Auction "W"]
+Pass 1H Pass 1S 
+Pass 3S Pass Pass 
+Pass    
+[Play "W"]
+D7 D3 DK D4 
+H7 H3 H2 HA 
+- - - H5 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "16"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "W"]
+[Deal "S:9764.A95.T4.8762 QJ.T87.J875.AQJT AK53.KQJ643.Q3.4 T82.2.AK962.K953"]
+[Vulnerable "EW"]
+[Contract "3H"]
+[Declarer "N"]
+[Auction "W"]
+Pass 1H Pass 1NT 
+Pass 3H Pass Pass 
+Pass    
+[Play "E"]
+DA D4 D8 D3 
+DK DT D5 DQ 
+H2 H5 H7 HJ 
+D2 HA H8 H3 
+D6 H9 HT HK 
+S2 C2 CQ HQ 
+S8 S4 SQ SK 
+ST S6 SJ SA 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "17"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "N"]
+[Deal "S:AK2.3.AT765.A987 Q96.KJ54.932.542 J53.Q862.KQJ8.Q6 T874.AT97.4.KJT3"]
+[Vulnerable "None"]
+[Contract "5D"]
+[Declarer "S"]
+[Auction "N"]
+Pass Pass 1D Pass 
+1H Pass 2C Pass 
+3D Pass 5D Pass 
+Pass Pass   
+[Play "W"]
+S6 SJ S4 S2 
+C2 C6 C3 C9 
+HK H2 H7 H3 
+D2 D8 D4 D5 
+- DJ S7 - 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "17"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "N"]
+[Deal "S:AK2.3.AT765.A987 Q96.KJ54.932.542 J53.Q862.KQJ8.Q6 T874.AT97.4.KJT3"]
+[Vulnerable "None"]
+[Contract "5D"]
+[Declarer "S"]
+[Auction "N"]
+Pass Pass 1D Pass 
+1H Pass 2C Pass 
+3D Pass 5D Pass 
+Pass Pass   
+[Play "W"]
+S6 SJ S8 S2 
+H4 H2 HA H3 
+S9 S3 S4 SA 
+D3 DK D4 D5 
+D2 D8 H7 DT 
+C2 C6 CJ C7 
+H5 H6 HT D6 
+SQ S5 S7 SK 
+C4 CQ C3 CA 
+C5 DJ CT C8 
+- H8 H9 D7 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "18"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "E"]
+[Deal "S:QJ982.73.KJ752.2 KT76.QJT9.A3.876 4.A82.T984.AKQT4 A53.K654.Q6.J953"]
+[Vulnerable "NS"]
+[Contract "3S"]
+[Declarer "S"]
+[Auction "E"]
+Pass Pass 1D 2C 
+Pass 2S Pass 2NT 
+Pass 3D Pass 3H 
+Pass 3S Pass Pass 
+Pass    
+[Play "W"]
+HJ HA H4 H3 
+C6 CA C3 C2 
+C7 CK C5 H7 
+DA DT D6 D2 
+H9 H2 HK S2 
+D3 D4 DQ DK 
+SK S4 S5 SQ 
+HQ H8 H6 D5 
+HT C4 H5 S8 
+S6 D8 SA SJ 
+C8 CT C9 D7 
+ST CQ CJ S9 
+S7 D9 S3 DJ 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "18"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "E"]
+[Deal "S:QJ982.73.KJ752.2 KT76.QJT9.A3.876 4.A82.T984.AKQT4 A53.K654.Q6.J953"]
+[Vulnerable "NS"]
+[Contract "5D"]
+[Declarer "S"]
+[Auction "E"]
+Pass 2S Pass 2NT 
+Pass 3D Pass 5D 
+Pass Pass Pass  
+[Play "W"]
+HQ HA H6 H3 
+C6 CA C3 C2 
+C7 CK C5 H7 
+DA DT D6 D2 
+D3 D4 DQ DK 
+S6 S4 SA SQ 
+H9 H2 H4 D5 
+S7 D8 S3 S2 
+- CQ C9 S8 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "19"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "S"]
+[Deal "S:A82.Q63.AK2.Q953 T96.T72.983.A742 J53.9.QT754.JT86 KQ74.AKJ854.J6.K"]
+[Vulnerable "EW"]
+[Contract "3H"]
+[Declarer "E"]
+[Auction "S"]
+1NT Pass Pass X 
+Pass Pass 2D 2H 
+Pass Pass 3C X 
+Pass 3H Pass Pass 
+Pass    
+[Play "S"]
+DA D3 D4 D6 
+DK D8 D7 DJ 
+C5 C2 CT CK 
+H6 H2 H9 HA 
+S2 S6 S3 SK 
+HQ H7 D5 H4 
+H3 HT DT H5 
+C3 CA C6 S4 
+SA S9 S5 S7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "19"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "S"]
+[Deal "S:A82.Q63.AK2.Q953 T96.T72.983.A742 J53.9.QT754.JT86 KQ74.AKJ854.J6.K"]
+[Vulnerable "EW"]
+[Contract "2H"]
+[Declarer "E"]
+[Auction "S"]
+1NT Pass Pass 2C 
+Pass 2D X 2H 
+Pass Pass Pass  
+[Play "S"]
+DK D3 D7 D6 
+DA D8 D4 DJ 
+D2 D9 DQ H5 
+H3 H2 H9 HA 
+H6 H7 CJ HK 
+C3 CA C6 CK 
+SA ST S3 S4 
+HQ HT S5 H4 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "20"]
+[Room "Open"]
+[West "Petrunin A"]
+[North "Multon F"]
+[East "Gromov A"]
+[South "Quantin J"]
+[Dealer "W"]
+[Deal "S:KT432.JT7.T752.A 8.K3.QJ94.QT9742 QJ97.AQ652..KJ83 A65.984.AK863.65"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "N"]
+[Auction "W"]
+Pass 1H Pass 2H 
+Pass 2S Pass 4C 
+Pass 4H Pass 4S 
+Pass Pass Pass  
+[Play "E"]
+DK D2 D4 S7 
+S6 S2 S8 SJ 
+C5 CA C2 C3 
+D3 D5 D9 S9 
+C6 D7 C4 CK 
+SA S3 C9 SQ 
+D6 DT DQ H2 
+D8 S4 CQ C8 
+- SK C7 - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "29"]
+[Board "20"]
+[Room "Closed"]
+[West "Abecassis M"]
+[North "Kholomeev V"]
+[East "Soulet P"]
+[South "Zlotov D"]
+[Dealer "W"]
+[Deal "S:KT432.JT7.T752.A 8.K3.QJ94.QT9742 QJ97.AQ652..KJ83 A65.984.AK863.65"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "W"]
+Pass 1H Pass 2H 
+Pass 4H Pass Pass 
+Pass    
+[Play "E"]
+DA D2 DQ H2 
+S5 S2 S8 SQ 
+SA S3 C2 S9 
+D6 D5 D9 H5 
+C6 CA C4 C3 
+H4 HJ H3 H6 
+H8 H7 HK HA 
+H9 HT - HQ 
+*
+[Result "10"]
+

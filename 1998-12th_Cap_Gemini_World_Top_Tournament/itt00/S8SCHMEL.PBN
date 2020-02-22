@@ -1,0 +1,857 @@
+% PBN 1.0
+% http://www.acbl.org source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "USA 2000 International Team Trials"]
+[Site "East Memphis Hilton Memphis, Tennessee, USA"]
+[Date "2000.06.10"]
+[Round "S8"]
+[Board "106"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:T3.Q5.985432.KJ5 86.K97642.KQT.94 AJ4.3.J6.AT87632 KQ9752.AJT8.A7.Q"]
+[Vulnerable "Both"]
+[Auction "E"]
+1S Pass 1NT 3C 
+3H 4C 4H Pass 
+Pass Pass   
+[Contract "4H"]
+[Declarer "E"]
+[Play "S"]
+C5 C4 CA CQ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "106"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:T3.Q5.985432.KJ5 86.K97642.KQT.94 AJ4.3.J6.AT87632 KQ9752.AJT8.A7.Q"]
+[Vulnerable "Both"]
+[Auction "E"]
+1S Pass 1NT 2C 
+X 3C 4H 5C 
+Pass Pass X Pass 
+Pass Pass   
+[Contract "5CX"]
+[Declarer "N"]
+[Play "E"]
+HA H5 H7 H3 
+SK S3 S6 SA 
+CQ CK C4 C2 
+S2 C5 C9 CA 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "107"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:975.T532.T5.T643 AJT43.AK.A762.AQ K62.J98764.9.952 Q8.Q.KQJ843.KJ87"]
+[Vulnerable "None"]
+[Auction "S"]
+Pass 2C Pass 2S 
+Pass 2NT Pass 3C 
+Pass 3D Pass 3S 
+Pass 3NT Pass 4S 
+Pass 6D Pass 6NT 
+Pass 7D Pass Pass 
+Pass    
+[Contract "7D"]
+[Declarer "W"]
+[Play "N"]
+H9 - - - 
+*
+[Result "13"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "107"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:975.T532.T5.T643 AJT43.AK.A762.AQ K62.J98764.9.952 Q8.Q.KQJ843.KJ87"]
+[Vulnerable "None"]
+[Auction "S"]
+Pass 2C 3H 4NT 
+Pass 5D Pass 7NT 
+Pass Pass Pass  
+[Contract "7NT"]
+[Declarer "E"]
+[Play "S"]
+*
+[Result "13"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "108"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:QJ852.T.JT82.QJ5 9.AK8543.97543.9 AT764.972.AKQ.T2 K3.QJ6.6.AK87643"]
+[Vulnerable "NS"]
+[Auction "W"]
+4H Pass Pass Pass 
+[Contract "4H"]
+[Declarer "W"]
+[Play "N"]
+DQ D6 D2 D3 
+SA S3 S2 S9 
+C2 CA C5 C9 
+CT C3 CQ H8 
+H2 HQ HT H3 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "108"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:QJ852.T.JT82.QJ5 9.AK8543.97543.9 AT764.972.AKQ.T2 K3.QJ6.6.AK87643"]
+[Vulnerable "NS"]
+[Auction "W"]
+2H 2S 4H 4S 
+5H X Pass Pass 
+Pass    
+[Contract "5HX"]
+[Declarer "W"]
+[Play "N"]
+DK D6 DJ D3 
+DA H6 D2 D4 
+C2 CA C5 C9 
+CT CK CJ S9 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "109"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:2.AT743.T.AQ8763 AT9754.J5.Q87.92 KQ3.KQ82.AK3.KJ4 J86.96.J96542.T5"]
+[Vulnerable "Both"]
+[Auction "N"]
+2NT Pass 3C Pass 
+3H Pass 3S X 
+XX Pass 4NT Pass 
+5S Pass 6H Pass 
+Pass Pass   
+[Contract "6H"]
+[Declarer "N"]
+[Play "E"]
+S6 S2 SA S3 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "109"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:2.AT743.T.AQ8763 AT9754.J5.Q87.92 KQ3.KQ82.AK3.KJ4 J86.96.J96542.T5"]
+[Vulnerable "Both"]
+[Auction "N"]
+1C Pass 2C Pass 
+2D Pass 2H Pass 
+2S Pass 4C Pass 
+6NT Pass Pass Pass 
+[Contract "6NT"]
+[Declarer "N"]
+[Play "E"]
+D5 DT DQ DA 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "110"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:QT7.752.AJT5.K83 J432.T6.87643.QT K8.KQ984.Q92.642 A965.AJ3.K.AJ975"]
+[Vulnerable "None"]
+[Auction "E"]
+1C Pass 1S Pass 
+3D X 3S Pass 
+Pass Pass   
+[Contract "3S"]
+[Declarer "W"]
+[Play "N"]
+HK HA H2 H6 
+D2 DK DA D4 
+C2 C5 C3 CQ 
+HQ H3 H5 HT 
+C4 C7 CK CT 
+C6 C9 C8 D3 
+S8 S5 S7 S4 
+H9 HJ H7 D6 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "110"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:QT7.752.AJT5.K83 J432.T6.87643.QT K8.KQ984.Q92.642 A965.AJ3.K.AJ975"]
+[Vulnerable "None"]
+[Auction "E"]
+1C Pass 1S Pass 
+3S Pass Pass Pass 
+[Contract "3S"]
+[Declarer "W"]
+[Play "N"]
+HK HA H2 H6 
+HQ H3 H5 HT 
+D2 DK DA D3 
+D9 S5 DJ D4 
+H4 HJ H7 CT 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "111"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:A85.A842.Q9.AQT4 J.KT.JT73.J98753 QT62.J9763.A52.2 K9743.Q5.K864.K6"]
+[Vulnerable "NS"]
+[Auction "S"]
+1NT Pass 2C Pass 
+2H Pass 4H Pass 
+Pass Pass   
+[Contract "4H"]
+[Declarer "S"]
+[Play "W"]
+SJ SQ SK SA 
+HT H3 H5 HA 
+HK HJ HQ H2 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "111"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:A85.A842.Q9.AQT4 J.KT.JT73.J98753 QT62.J9763.A52.2 K9743.Q5.K864.K6"]
+[Vulnerable "NS"]
+[Auction "S"]
+1S Pass 2C Pass 
+2H Pass 4H Pass 
+Pass Pass   
+[Contract "4H"]
+[Declarer "S"]
+[Play "W"]
+C9 C2 CK CA 
+C7 H3 C6 C4 
+D7 D2 D4 DQ 
+HT H6 H5 HA 
+HK H7 HQ H4 
+DJ DA D6 D9 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "112"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:73.KJ42.842.J974 T965..AKJT9.AQT5 KJ4.AT8763.5.K32 AQ82.Q95.Q763.86"]
+[Vulnerable "EW"]
+[Auction "W"]
+1D 1H X 3H 
+4S 5H Pass Pass 
+5S Pass 6S Pass 
+Pass Pass   
+[Contract "6S"]
+[Declarer "W"]
+[Play "N"]
+HA H5 H4 S9 
+S4 S8 S3 S5 
+H3 H9 H2 S6 
+SJ SQ S7 ST 
+SK SA HJ C5 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "112"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:73.KJ42.842.J974 T965..AKJT9.AQT5 KJ4.AT8763.5.K32 AQ82.Q95.Q763.86"]
+[Vulnerable "EW"]
+[Auction "W"]
+1D 1H X 3H 
+4S X Pass Pass 
+Pass    
+[Contract "4SX"]
+[Declarer "W"]
+[Play "N"]
+D5 D3 D8 DJ 
+- - - C5 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "113"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:KT975.QT5.Q9.975 2.632.T762.AKQJ2 Q4.A97.KJ54.T863 AJ863.KJ84.A83.4"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass 1S Pass 1NT 
+Pass 2H Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+C6 C4 C9 CQ 
+H7 HJ HQ H3 
+C3 D3 C7 CA 
+C8 S3 C5 CK 
+CT S6 S5 CJ 
+D4 D8 S7 C2 
+H9 HK H5 H2 
+HA H4 HT H6 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "113"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:KT975.QT5.Q9.975 2.632.T762.AKQJ2 Q4.A97.KJ54.T863 AJ863.KJ84.A83.4"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass 1S Pass 1NT 
+Pass 2H Pass 2NT 
+Pass Pass Pass  
+[Contract "2NT"]
+[Declarer "W"]
+[Play "N"]
+C3 C4 C9 CQ 
+CT S6 C5 CJ 
+C6 S3 C7 CA 
+C8 D3 S5 CK 
+D4 H4 S7 C2 
+H7 HJ HQ H3 
+SQ SA S9 S2 
+D5 DA D9 D2 
+DK D8 DQ D6 
+DJ S8 H5 D7 
+S4 SJ SK H2 
+H9 H8 ST H6 
+HA HK HT DT 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "114"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:AJ8.QT85.KJ9.962 76.AK742.876.AJ7 QT53.J96.T42.K83 K942.3.AQ53.QT54"]
+[Vulnerable "NS"]
+[Auction "E"]
+1D Pass 1H Pass 
+1S Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+S5 SK SA S6 
+H9 H3 H8 HK 
+D4 DQ DK D7 
+H6 D3 H5 HA 
+D2 DA D9 D8 
+CK CQ C2 C7 
+SQ S2 S8 S7 
+S3 S4 SJ D6 
+DT D5 DJ H2 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "114"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:AJ8.QT85.KJ9.962 76.AK742.876.AJ7 QT53.J96.T42.K83 K942.3.AQ53.QT54"]
+[Vulnerable "NS"]
+[Auction "E"]
+Pass 1D 1H Pass 
+1NT Pass Pass Pass 
+[Contract "1NT"]
+[Declarer "E"]
+[Play "S"]
+H5 H7 HJ H3 
+S8 S6 S3 S4 
+C9 CJ CK C4 
+SJ S7 S5 S2 
+HT HA H6 D3 
+H8 HK H9 D5 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "115"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:AQ742.QT86.KQ3.9 KT65.KJ94.765.K4 83.53.AT42.QT652 J9.A72.J98.AJ873"]
+[Vulnerable "EW"]
+[Auction "S"]
+1S Pass 1NT Pass 
+2H Pass 2S Pass 
+Pass Pass   
+[Contract "2S"]
+[Declarer "S"]
+[Play "W"]
+D5 D2 D8 DQ 
+CK C2 C3 C9 
+D7 DA D9 D3 
+HJ H3 H2 HT 
+C4 CT CJ S2 
+H4 H5 H7 H6 
+S5 S3 S9 SA 
+H9 S8 HA H8 
+D6 D4 DJ DK 
+HK C5 SJ HQ 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "115"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:AQ742.QT86.KQ3.9 KT65.KJ94.765.K4 83.53.AT42.QT652 J9.A72.J98.AJ873"]
+[Vulnerable "EW"]
+[Auction "S"]
+1S Pass Pass X 
+Pass 1NT Pass Pass 
+Pass    
+[Contract "1NT"]
+[Declarer "W"]
+[Play "N"]
+C5 C7 C9 CK 
+D4 DJ DQ D6 
+H5 H2 H8 H9 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "116"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:KQ9.AJ62.954.843 AJ7.KT4.AJ76.AQ2 T.Q9873.KT.KJT76 865432.5.Q832.95"]
+[Vulnerable "Both"]
+[Auction "W"]
+1D 1H 2S 3D 
+3NT 4C 4D Pass 
+4S Pass Pass X 
+Pass Pass Pass  
+[Contract "4SX"]
+[Declarer "E"]
+[Play "S"]
+C8 CQ CK C5 
+C4 CA CJ C9 
+S9 SA ST S4 
+SQ SJ H3 S5 
+C3 C2 C6 S3 
+HA H4 H7 H5 
+SK S7 H8 S6 
+H2 HK H9 D3 
+H6 HT HQ S2 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "116"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:KQ9.AJ62.954.843 AJ7.KT4.AJ76.AQ2 T.Q9873.KT.KJT76 865432.5.Q832.95"]
+[Vulnerable "Both"]
+[Auction "W"]
+1D 1H 2S 3D 
+3H 4H Pass Pass 
+X Pass 4S X 
+Pass Pass Pass  
+[Contract "4SX"]
+[Declarer "E"]
+[Play "S"]
+HA H4 H3 H5 
+C8 CA C7 C5 
+H2 HK H7 C9 
+H6 HT H8 S2 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "117"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:8543.A42.84.AK94 J97.KJT853.K.J85 AT62.97.T92.7632 KQ.Q6.AQJ7653.QT"]
+[Vulnerable "NS"]
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 1NT Pass 4H 
+Pass Pass Pass  
+[Contract "4H"]
+[Declarer "W"]
+[Play "N"]
+S6 SQ S3 S7 
+SA SK S4 S9 
+C7 CT CK C8 
+C2 CQ CA C5 
+S2 D3 S5 SJ 
+H7 H6 H2 HT 
+H9 HQ HA H3 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "117"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:8543.A42.84.AK94 J97.KJT853.K.J85 AT62.97.T92.7632 KQ.Q6.AQJ7653.QT"]
+[Vulnerable "NS"]
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 3D Pass 3H 
+Pass 4H Pass Pass 
+Pass    
+[Contract "4H"]
+[Declarer "W"]
+[Play "N"]
+S6 SQ S3 S7 
+H9 H6 H2 HJ 
+D2 DA D4 DK 
+D9 DQ D8 S9 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "118"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:9643.J93.K92.K85 K.KT82.AQT753.32 AJ52.Q654.864.97 QT87.A7.J.AQJT64"]
+[Vulnerable "EW"]
+[Auction "E"]
+1C Pass 1D Pass 
+1S Pass 2H Pass 
+3C Pass 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+H5 H7 HJ HK 
+C9 CQ C5 C3 
+C7 CA C8 C2 
+D8 CJ CK D3 
+H4 HA H9 H2 
+S2 CT S4 D5 
+D4 C6 S3 D7 
+S5 C4 S6 DT 
+SA S7 S9 SK 
+HQ S8 H3 HT 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "118"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:9643.J93.K92.K85 K.KT82.AQT753.32 AJ52.Q654.864.97 QT87.A7.J.AQJT64"]
+[Vulnerable "EW"]
+[Auction "E"]
+1C Pass 1D Pass 
+1S Pass 2H Pass 
+3C Pass 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+S5 S7 S9 SK 
+C7 CT C5 C3 
+D4 DJ D2 D3 
+C9 CA C8 C2 
+- C4 - - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "119"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:JT42.T74.AKJ4.AJ 6.J52.72.T986432 AKQ5.AKQ963.83.K 9873.8.QT965.Q75"]
+[Vulnerable "Both"]
+[Auction "S"]
+1D Pass 1H Pass 
+1S Pass 4D Pass 
+4S Pass 4NT Pass 
+5H Pass 7S Pass 
+Pass Pass   
+[Contract "7S"]
+[Declarer "S"]
+[Play "W"]
+C8 CK C5 CJ 
+S6 SA S3 S4 
+C6 S5 S7 SJ 
+C2 SQ S9 S2 
+C3 SK S8 ST 
+H2 HA H8 H4 
+*
+[Result "13"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "119"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:JT42.T74.AKJ4.AJ 6.J52.72.T986432 AKQ5.AKQ963.83.K 9873.8.QT965.Q75"]
+[Vulnerable "Both"]
+[Auction "S"]
+1D Pass 1H Pass 
+1S Pass 4NT Pass 
+5H Pass 7S Pass 
+Pass Pass   
+[Contract "7S"]
+[Declarer "S"]
+[Play "W"]
+C8 CK C5 CJ 
+*
+[Result "13"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "120"]
+[West "Stansby"]
+[North "Levin"]
+[East "Martel"]
+[South "S.Weinstein"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:652.986.AQT86.32 K.Q54.K92.K98754 AQ984.KJT3.73.AT JT73.A72.J54.QJ6"]
+[Vulnerable "None"]
+[Auction "W"]
+1NT 2C Pass 2D 
+Pass 2S Pass Pass 
+Pass    
+[Contract "2S"]
+[Declarer "N"]
+[Play "E"]
+CQ C2 C4 CA 
+CJ C3 CK CT 
+S3 S2 SK SA 
+S7 S5 C7 SQ 
+D5 DQ DK D7 
+HA H6 H4 H3 
+ST S6 C5 S4 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S8"]
+[Board "120"]
+[West "Zia"]
+[North "Weichsel"]
+[East "Rosenberg"]
+[South "Sontag"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:652.986.AQT86.32 K.Q54.K92.K98754 AQ984.KJT3.73.AT JT73.A72.J54.QJ6"]
+[Vulnerable "None"]
+[Auction "W"]
+1NT X Pass Pass 
+2C Pass Pass 2D 
+Pass 2S Pass 3S 
+Pass Pass Pass  
+[Contract "3S"]
+[Declarer "N"]
+[Play "E"]
+CQ C2 C8 CA 
+D4 DT DK D7 
+*
+[Result "8"]

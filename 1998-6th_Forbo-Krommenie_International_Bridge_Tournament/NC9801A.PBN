@@ -1,0 +1,1325 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "6th Forbo-Krommenie International Bridge Tournament"]
+[Site "Kurhaus Hotel - Scheveningen, The Netherlands, NLD"]
+[Date "1998.02.20"]
+[Round "1"]
+[Board "1"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "W:AKJ2.AK94.A9.J42 97.T3.632.987653 854.Q85.KQJT87.K QT63.J762.54.AQT"]
+[HomeTeam "Holland"]
+[VisitTeam "USA"]
+[Declarer "W"]
+[Contract "3NT"]
+[Auction "N"]
+Pass 3D Pass 3NT 
+Pass Pass Pass  
+[Play "N"]
+C6 CK CA C2 
+C3 S4 CQ C4 
+*
+[Score "NS -460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "1"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "W:AKJ2.AK94.A9.J42 97.T3.632.987653 854.Q85.KQJT87.K QT63.J762.54.AQT"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Auction "N"]
+Pass 3D Pass 5D 
+Pass Pass Pass  
+[Play "S"]
+S3 SA S9 S5 
+D4 DA D2 D7 
+D5 D9 D3 DK 
+H2 C2 D6 DQ 
+H6 HA H3 H5 
+H7 H4 HT HQ 
+HJ HK C9 H8 
+CT H9 S7 CK 
+*
+[Score "NS -440"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "2"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "W:Q754.T84.Q.Q9862 JT32..JT9763.KJ5 AK98.Q93.AK842.3 6.AKJ7652.5.AT74"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "4SX"]
+[Auction "E"]
+1D 4H Pass Pass 
+X Pass 4S X 
+Pass Pass Pass  
+[Play "N"]
+C5 C3 CA C2 
+DJ H3 HK H4 
+D6 H9 HA H8 
+S2 HQ H6 HT 
+D7 D2 D5 DQ 
+S3 S8 S6 SQ 
+ST SA H2 S4 
+SJ SK H5 S5 
+- DA - - 
+*
+[Score "NS +100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "2"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "W:Q754.T84.Q.Q9862 JT32..JT9763.KJ5 AK98.Q93.AK842.3 6.AKJ7652.5.AT74"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Auction "E"]
+1D 4H Pass Pass 
+Pass    
+[Play "W"]
+DQ D3 D4 D5 
+S5 S2 SK S6 
+H8 D6 DA H7 
+S4 SJ SA H2 
+H4 D7 H3 HA 
+HT D9 H9 HK 
+C2 S3 HQ HJ 
+SQ ST S8 H5 
+C6 C5 C3 CA 
+C8 CJ - C4 
+*
+[Score "NS -100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "3"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "W:32.Q86.T953.7642 K974.953.76.AQJT AQ6.AKJ42.J82.83 JT85.T7.AKQ4.K95"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Auction "S"]
+1D Pass 1S 2H 
+2S Pass Pass Pass 
+[Play "E"]
+HK H7 H6 H3 
+C8 C5 C2 CA 
+D2 DQ D3 D6 
+D8 DA D5 D7 
+DJ DK D9 H5 
+SQ SJ S2 S4 
+HA HT H8 H9 
+C3 CK C4 CT 
+H2 D4 DT S7 
+SA S5 S3 SK 
+*
+[Score "NS +140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "3"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "W:32.Q86.T953.7642 K974.953.76.AQJT AQ6.AKJ42.J82.83 JT85.T7.AKQ4.K95"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Auction "S"]
+1D Pass 1S 2H 
+2S Pass Pass Pass 
+[Play "E"]
+HA H7 H8 H3 
+C8 CK C7 CJ 
+SA SJ S2 S4 
+HK HT H6 H5 
+H4 ST HQ H9 
+SQ S8 S3 S7 
+*
+[Score "NS +140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "4"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "Both"]
+[Room "Open"]
+[Deal "W:QJ92.AKQ53.7.J54 K87.T2.Q862.AQ98 A53.J84.AJ53.732 T64.976.KT94.KT6"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Auction "W"]
+1H Pass 1NT Pass 
+2C Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "N"]
+HT H4 H6 HK 
+S8 S3 S6 SJ 
+S7 SA S4 S2 
+SK S5 ST SQ 
+D6 DA D4 D7 
+D2 D3 D9 H3 
+H2 HJ H7 H5 
+*
+[Score "NS +100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "4"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "Both"]
+[Room "Closed"]
+[Deal "W:QJ92.AKQ53.7.J54 K87.T2.Q862.AQ98 A53.J84.AJ53.732 T64.976.KT94.KT6"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Auction "W"]
+1H Pass 1NT Pass 
+2C Pass 2H Pass 
+Pass Pass   
+[Play "N"]
+S7 S3 ST SJ 
+H2 HJ H6 H3 
+HT H4 H7 HA 
+D6 H8 H9 HK 
+C9 C2 S6 HQ 
+SK SA S4 SQ 
+S8 S5 D4 S9 
+*
+[Score "NS -170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "5"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "W:KT8.J962.K53.Q87 QJ53.QT43.42.J52 74.AK875.QT97.T4 A962..AJ86.AK963"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Auction "N"]
+Pass Pass 1C Pass 
+1H Pass 1S Pass 
+2S Pass 4S Pass 
+Pass Pass   
+[Play "W"]
+H2 HT HK S2 
+C7 C2 C4 CA 
+C8 C5 CT CK 
+CQ CJ H7 C3 
+HJ H3 H5 S6 
+D5 D2 S4 C6 
+D3 D4 D9 DA 
+DK S3 D7 D6 
+H6 H4 H8 S9 
+H9 S5 DT D8 
+S8 HQ HA SA 
+*
+[Score "NS +620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "5"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "W:KT8.J962.K53.Q87 QJ53.QT43.42.J52 74.AK875.QT97.T4 A962..AJ86.AK963"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Auction "N"]
+Pass 2H X 3H 
+Pass Pass X Pass 
+3S Pass Pass Pass 
+[Play "E"]
+HA S2 H2 H3 
+S4 S6 S8 SQ 
+C4 CA C7 C2 
+CT CK C8 C5 
+H8 C3 CQ CJ 
+S7 S9 ST SJ 
+H5 SA H6 H4 
+H7 C6 D3 HT 
+D7 C9 SK HQ 
+HK D6 H9 D2 
+D9 DA D5 D4 
+DT D8 DK S3 
+DQ DJ HJ S5 
+[Score "NS +170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "6"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "W:98.97.T9852.A965 AKQ62.A64.K73.T8 JT4.KT83.J6.7432 753.QJ52.AQ4.KQJ"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "S"]
+[Contract "4NT"]
+[Auction "E"]
+Pass 1NT Pass 2H 
+Pass 2S Pass 4NT 
+Pass Pass Pass  
+[Play "W"]
+DT D3 D6 DA 
+H7 H4 HK HJ 
+D5 D7 DJ DQ 
+S8 SA S4 S3 
+S9 SK ST S5 
+- C8 C2 CK 
+*
+[Score "NS +460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "6"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "W:98.97.T9852.A965 AKQ62.A64.K73.T8 JT4.KT83.J6.7432 753.QJ52.AQ4.KQJ"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "S"]
+[Contract "4NT"]
+[Auction "E"]
+Pass 1NT Pass 2H 
+Pass 2S Pass 4NT 
+Pass Pass Pass  
+[Play "W"]
+DT D3 D6 DQ 
+*
+[Score "NS +460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "7"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "Both"]
+[Room "Open"]
+[Deal "W:952.52.AQJT6.K76 AK64.AQ3.852.943 QJT.K8764.K73.Q2 873.JT9.94.AJT85"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Auction "S"]
+Pass Pass 1S Pass 
+2S Pass Pass Pass 
+[Play "E"]
+SQ S3 S2 S4 
+SJ S7 S5 SA 
+C2 CT C6 C3 
+DK D4 DT D2 
+ST S8 S9 SK 
+CQ C5 CK C4 
+D3 D9 DA D5 
+D7 H9 DQ D8 
+H4 HT H5 HA 
+*
+[Score "NS +110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "7"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "Both"]
+[Room "Closed"]
+[Deal "W:952.52.AQJT6.K76 AK64.AQ3.852.943 QJT.K8764.K73.Q2 873.JT9.94.AJT85"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "E"]
+[Contract "3D"]
+[Auction "S"]
+Pass 2C Pass 2D 
+Pass Pass X 3D 
+Pass Pass Pass  
+[Play "S"]
+HJ H2 HA H4 
+S3 S2 S4 SQ 
+CA C7 C3 CQ 
+S8 S5 SK SJ 
+S7 S9 SA ST 
+*
+[Score "NS -110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "8"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "W:Q72.AT98.QJ32.32 JT93.J5.T74.AQ64 K6.KQ32.965.T985 A854.764.AK8.KJ7"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Auction "W"]
+Pass Pass 1H X 
+XX 2H Pass 2S 
+Pass Pass Pass  
+[Play "W"]
+HA H5 H2 H4 
+H8 HJ HQ H6 
+D3 D4 D5 DA 
+H9 S3 H3 H7 
+S2 SJ SK SA 
+SQ S9 S6 S4 
+*
+[Score "NS +170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "8"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "W:Q72.AT98.QJ32.32 JT93.J5.T74.AQ64 K6.KQ32.965.T985 A854.764.AK8.KJ7"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Auction "W"]
+Pass Pass Pass 1NT 
+Pass 2C Pass 2S 
+Pass 3S Pass Pass 
+Pass    
+[Play "W"]
+DQ D4 D9 DA 
+H8 H5 HK H7 
+D2 D7 D6 DK 
+HA HJ H2 H6 
+DJ DT D5 D8 
+C3 CQ C5 C7 
+SQ SJ S6 S4 
+C2 CA CT CJ 
+S2 ST SK SA 
+*
+[Score "NS +140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "9"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "W:KT852.KQT3.K.743 AQ.42.AJ85432.A5 J94.A986.96.QJ62 763.J75.QT7.KT98"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Auction "N"]
+1D Pass 1NT Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+S5 SA S4 S6 
+C3 C5 C6 CK 
+DK DA D6 DQ 
+*
+[Score "NS +430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "9"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "W:KT852.KQT3.K.743 AQ.42.AJ85432.A5 J94.A986.96.QJ62 763.J75.QT7.KT98"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "S"]
+[Contract "3NTX"]
+[Auction "N"]
+1D Pass 1NT X 
+3NT X Pass Pass 
+Pass    
+[Play "W"]
+HK H2 H6 H5 
+HQ H4 H8 H7 
+H3 D2 HA HJ 
+HT D3 H9 S3 
+S2 SQ S4 S6 
+C3 C5 CJ CK 
+DK DA D6 DQ 
+*
+[Score "NS +550"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "10"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "Both"]
+[Room "Open"]
+[Deal "W:AKQ.KT72.T952.87 J872.854.A8.Q632 T654.J96.K.AKT94 93.AQ3.QJ7643.J5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Auction "E"]
+Pass Pass 1D Pass 
+1S Pass 1NT Pass 
+Pass Pass   
+[Play "N"]
+C3 C4 CJ C7 
+DA DK D3 D2 
+D8 S4 DJ D5 
+H4 S5 DQ DT 
+S2 S6 D4 D9 
+C2 C9 C5 C8 
+- CA - - 
+*
+[Score "NS -120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "10"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "Both"]
+[Room "Closed"]
+[Deal "W:AKQ.KT72.T952.87 J872.854.A8.Q632 T654.J96.K.AKT94 93.AQ3.QJ7643.J5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "E"]
+[Contract "1S"]
+[Auction "E"]
+Pass Pass 1D Pass 
+1S Pass Pass Pass 
+[Play "S"]
+D6 D2 DA DK 
+S9 SQ S2 S4 
+D3 D5 D8 S5 
+HA H2 H4 HJ 
+S3 SK S7 S6 
+D4 D9 H8 ST 
+H3 H7 H5 H9 
+C5 C7 C2 CA 
+CJ C8 C3 CK 
+HQ HK S8 H6 
+*
+[Score "NS -110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "11"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "W:AK5.AKJ87.J8.KJT JT.T9542.974.Q92 Q963.6.KT532.863 8742.Q3.AQ6.A754"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Auction "S"]
+1C X Pass 1D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Play "N"]
+C2 C3 CA CJ 
+CQ C6 C4 CT 
+C9 C8 C5 CK 
+D4 D2 DQ DJ 
+D7 D3 C7 H7 
+D9 D5 DA D8 
+*
+[Score "NS +50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "11"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "W:AK5.AKJ87.J8.KJT JT.T9542.974.Q92 Q963.6.KT532.863 8742.Q3.AQ6.A754"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Auction "S"]
+Pass 2C Pass 2D 
+Pass 2NT Pass 3C 
+Pass 3H Pass 3NT 
+Pass Pass Pass  
+[Play "N"]
+SJ S3 S2 SK 
+D4 D2 D6 DJ 
+D7 DT DQ D8 
+CQ C3 C4 CJ 
+C9 C6 C5 CT 
+ST S6 S4 SA 
+D9 S9 S7 S5 
+C2 SQ S8 CK 
+H2 H6 H3 HJ 
+H4 C8 HQ HK 
+H9 D3 C7 H7 
+H5 D5 CA H8 
+HT DK DA HA 
+[Score "NS -430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "12"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "W:Q6.QJ62.AKT.QJ42 KT3.4.98632.T953 9842.9873.QJ74.8 AJ75.AKT5.5.AK76"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "N"]
+[Contract "5C"]
+[Auction "W"]
+1NT Pass 2C X 
+2H Pass Pass 2S 
+Pass 4C Pass 4H 
+Pass 5C Pass Pass 
+Pass    
+[Play "E"]
+DQ D5 DK D2 
+S2 S5 SQ SK 
+C8 CA C2 C3 
+D4 CK C4 C5 
+H3 HA H2 H4 
+H7 H5 H6 C9 
+S4 SA S6 ST 
+H8 HK HJ S3 
+H9 HT HQ CT 
+D7 C6 DT D3 
+*
+[Score "NS -200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "12"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "W:Q6.QJ62.AKT.QJ42 KT3.4.98632.T953 9842.9873.QJ74.8 AJ75.AKT5.5.AK76"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Auction "W"]
+1NT Pass 2C X 
+Pass 3C Pass Pass 
+Pass    
+[Play "E"]
+DQ D5 DT D6 
+S4 S5 SQ SK 
+H3 HA H2 H4 
+H7 H5 HQ C3 
+C8 CA C2 C5 
+H8 HT HJ CT 
+H9 CK C4 C9 
+*
+[Score "NS +130"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "13"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "Both"]
+[Room "Open"]
+[Deal "W:43.A4.AJ97.KQ942 AJ8765.T92.K862. KT92.J765.T.T865 Q.KQ83.Q543.AJ73"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "5CX"]
+[Auction "N"]
+2S Pass Pass 3C 
+Pass 5C X Pass 
+Pass Pass   
+[Play "N"]
+SA S2 SQ S3 
+S5 S9 C3 S4 
+S6 C5 CA C2 
+S7 C6 CJ CK 
+D2 C8 C7 C4 
+S8 SK H3 H4 
+D6 DT D3 DA 
+D8 H5 DQ D9 
+H2 H6 HQ HA 
+*
+[Score "NS +500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "13"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "Both"]
+[Room "Closed"]
+[Deal "W:43.A4.AJ97.KQ942 AJ8765.T92.K862. KT92.J765.T.T865 Q.KQ83.Q543.AJ73"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "4C"]
+[Auction "N"]
+2S Pass Pass 3C 
+Pass 4C Pass Pass 
+Pass    
+[Play "N"]
+D2 DT DQ DA 
+SA S2 SQ S4 
+S5 S9 C3 S3 
+H9 H5 HQ HA 
+D6 C5 D3 D7 
+S6 SK C7 C9 
+D8 C6 D4 DJ 
+SJ ST D5 C2 
+DK C8 CJ D9 
+- - CA C4 
+*
+[Score "NS +200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "14"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "W:KJ.842.QT873.732 T53.KJ53.KJ92.Q6 A762.AT6.54.AT85 Q984.Q97.A6.KJ94"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Auction "E"]
+1C Pass 1NT Pass 
+Pass Pass   
+[Play "N"]
+H3 H6 H9 H4 
+H5 HA HQ H8 
+D9 D4 D6 D7 
+HJ HT H7 H2 
+HK S2 S4 D3 
+S3 S6 SQ SK 
+S5 S7 S8 SJ 
+C6 C8 C9 C2 
+D2 D5 DA D8 
+ST SA S9 C3 
+CQ CA C4 C7 
+*
+[Score "NS +100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "14"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "W:KJ.842.QT873.732 T53.KJ53.KJ92.Q6 A762.AT6.54.AT85 Q984.Q97.A6.KJ94"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Auction "E"]
+1C X 1NT 2H 
+Pass Pass Pass  
+[Play "E"]
+D5 D6 DQ DK 
+C5 CK C7 C6 
+CA C4 C3 CQ 
+S6 S4 SK S5 
+SA S8 SJ S3 
+S7 S9 H2 ST 
+D4 DA D7 D2 
+C8 C9 C2 H3 
+H6 HQ H4 H5 
+HA H7 H8 HK 
+*
+[Score "NS -50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "15"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "W:T5.J9863.KT8.KJ5 KQ872.KQ.Q754.A4 A4.A52.A963.Q932 J963.T74.J2.T876"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Auction "S"]
+Pass Pass 1S X 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Play "N"]
+SK SA S3 S5 
+S7 S4 SJ ST 
+HQ HA H4 H8 
+HK H2 H7 H9 
+S2 H5 S6 D8 
+*
+[Score "NS -420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "15"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "W:T5.J9863.KT8.KJ5 KQ872.KQ.Q754.A4 A4.A52.A963.Q932 J963.T74.J2.T876"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Auction "S"]
+Pass Pass 1S X 
+Pass 3H Pass Pass 
+Pass    
+[Play "N"]
+SK SA S6 S5 
+HQ HA H7 H3 
+HK H2 H4 H8 
+SQ S4 S9 ST 
+S7 H5 S3 D8 
+*
+[Score "NS -170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "16"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "W:A985.Q7.AKQ8.K62 J6.AKT986.J43.A4 Q742.J54.T52.J93 KT3.32.976.QT875"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Auction "W"]
+1D 1H Pass Pass 
+X Pass 1S Pass 
+Pass 2H Pass Pass 
+2S Pass Pass Pass 
+[Play "S"]
+H3 H7 HK H4 
+H2 HQ HA H5 
+ST SA H6 HJ 
+SK S5 S6 S7 
+S3 S8 SJ SQ 
+D6 DA D3 D2 
+D7 DK D4 D5 
+D9 DQ DJ DT 
+C5 D8 H8 C3 
+CQ C2 C4 CJ 
+C7 - - - 
+*
+[Score "NS -110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "16"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "W:A985.Q7.AKQ8.K62 J6.AKT986.J43.A4 Q742.J54.T52.J93 KT3.32.976.QT875"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Auction "W"]
+1C 1H Pass Pass 
+1NT Pass Pass Pass 
+[Play "N"]
+HK H4 H2 H7 
+H6 H5 H3 HQ 
+S6 S2 ST S8 
+CA C3 C7 CK 
+HA HJ D6 C2 
+HT S4 D7 C6 
+H8 D2 D9 S9 
+H9 D5 S3 D8 
+C4 C9 CT S5 
+D4 CJ CQ DK 
+D3 S7 C8 DQ 
+DJ SQ C5 DA 
+SJ DT SK SA 
+[Score "NS +500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "17"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "W:64.JT52.Q8.AJ432 AQT9875..AT.QT95 K.A987643.963.87 J32.KQ.KJ7542.K6"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Auction "N"]
+1S Pass 2D Pass 
+2S Pass 4S Pass 
+Pass Pass   
+[Play "E"]
+C8 C6 CA C5 
+H7 HQ H2 S5 
+SK S2 S4 SA 
+H3 S3 S6 SQ 
+D3 D2 D8 DA 
+D6 DK DQ DT 
+*
+[Score "NS +480"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "17"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "W:64.JT52.Q8.AJ432 AQT9875..AT.QT95 K.A987643.963.87 J32.KQ.KJ7542.K6"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "N"]
+[Contract "6S"]
+[Auction "N"]
+1S Pass 2D Pass 
+2S Pass 3S Pass 
+4D Pass 4S Pass 
+5H Pass 5NT Pass 
+6S Pass Pass Pass 
+[Play "E"]
+C8 C6 CA C9 
+H3 HQ H5 S5 
+C7 CK C2 C5 
+SK SJ S4 S7 
+*
+[Score "NS -50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "18"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "W:AQJT52.T862.T5.9 .AJ54.KJ73.KQT32 94.73.AQ92.AJ764 K8763.KQ9.864.85"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Auction "E"]
+1D Pass 1S 2C 
+Pass Pass 2S Pass 
+Pass Pass   
+[Play "N"]
+CK CA C5 C9 
+H4 H7 HQ H2 
+C2 S4 S3 S2 
+C3 C4 C8 S5 
+D3 DQ D4 D5 
+D7 DA D6 DT 
+CT C6 D8 ST 
+H5 H3 H9 H6 
+DJ S9 S6 SJ 
+HJ D2 HK H8 
+DK D9 S7 SQ 
+CQ C7 S8 SA 
+HA CJ SK HT 
+[Score "NS -140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "18"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "W:AQJT52.T862.T5.9 .AJ54.KJ73.KQT32 94.73.AQ92.AJ764 K8763.KQ9.864.85"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "S"]
+[Contract "4HX"]
+[Auction "E"]
+1C Pass 3S X 
+Pass 4H X Pass 
+Pass Pass   
+[Play "W"]
+C9 CK CA C5 
+H2 C2 C4 C8 
+DT DJ DQ D4 
+H8 C3 C6 D8 
+D5 D3 D9 D6 
+H6 D7 D2 S3 
+SQ DK S4 SK 
+HT H4 H3 HK 
+S2 HA H7 H9 
+*
+[Score "NS -800"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "19"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "W:J74.AT9862.Q32.3 Q986.3.KJ765.K76 A532.J754.98.J52 KT.KQ.AT4.AQT984"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Auction "S"]
+1C Pass 1D Pass 
+2NT Pass 3C Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+H9 H3 H5 HQ 
+C3 C6 C2 CQ 
+S4 CK C5 C4 
+H2 C7 CJ CA 
+D2 S6 S2 C8 
+D3 S8 S3 C9 
+H6 S9 H4 CT 
+DQ DK D8 D4 
+*
+[Score "NS +490"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "19"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "W:J74.AT9862.Q32.3 Q986.3.KJ765.K76 A532.J754.98.J52 KT.KQ.AT4.AQT984"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Auction "S"]
+1C 1H X 2H 
+3NT Pass Pass Pass 
+[Play "W"]
+H9 H3 HJ HK 
+C3 C6 C5 CA 
+S4 CK C2 C9 
+S7 C7 CJ CQ 
+H2 S8 S3 CT 
+H6 S9 S2 C8 
+H8 S6 H4 C4 
+D2 D6 D8 DA 
+D3 DK D9 DT 
+SJ SQ SA ST 
+HA - H5 HQ 
+*
+[Score "NS +400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "20"]
+[West "Passell"]
+[North "Jansen"]
+[East "Brachman"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "Both"]
+[Room "Open"]
+[Deal "W:K2.642.AKQ74.K76 Q3.KT987.J62.T85 AT74.AJ53.T.AQJ3 J9865.Q.9853.942"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "W"]
+[Contract "6NT"]
+[Auction "W"]
+1NT Pass 2NT Pass 
+3C Pass 4C Pass 
+4NT Pass 5C Pass 
+6NT Pass Pass Pass 
+[Play "N"]
+C5 C3 C9 CK 
+C8 CA C2 C6 
+CT CQ C4 C7 
+H7 CJ S6 H2 
+DJ DT D3 D4 
+SQ S4 S5 SK 
+D2 H3 D5 DA 
+D6 H5 D8 DK 
+H8 S7 D9 DQ 
+S3 HJ S8 D7 
+H9 - - S2 
+*
+[Score "NS +100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "#"]
+[Board "20"]
+[West "Jansma"]
+[North "Soloway"]
+[East "Van Cleeff"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "Both"]
+[Room "Closed"]
+[Deal "W:K2.642.AKQ74.K76 Q3.KT987.J62.T85 AT74.AJ53.T.AQJ3 J9865.Q.9853.942"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Declarer "E"]
+[Contract "6C"]
+[Auction "W"]
+1NT Pass 2C Pass 
+2D Pass 2S Pass 
+2NT Pass 3C Pass 
+3H Pass 3S Pass 
+4D Pass 6C Pass 
+Pass Pass   
+[Play "S"]
+HQ H2 HT H5 
+D3 DA D2 DT 
+D5 DK DJ H3 
+S5 SK SQ S4 
+S6 S2 S3 SA 
+C2 H4 H9 HA 
+S9 C6 C8 ST 
+S8 H6 HK HJ 
+*
+[Score "NS +300"]
+

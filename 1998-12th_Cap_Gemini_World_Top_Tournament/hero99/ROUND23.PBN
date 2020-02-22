@@ -1,0 +1,646 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "7th Hero 1999 Youth festival"]
+[Site "Hogeschool Den Bosch The Netherlands, NLD"]
+[Date "1999.08.01"]
+[Round "23"]
+[Board "1"]
+[West "Halldorsson"]
+[North "Wijma"]
+[East "Haraldsson"]
+[South "Schollaardt"]
+[Vulnerable "None"]
+[Deal "S:T97.543.K9642.87 J4.AQT96.T.AJ962 Q532.87.J875.QT4 AK86.KJ2.AQ3.K53"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1H Pass 2NT 
+Pass 3D Pass 3S 
+Pass 4C Pass 4NT 
+Pass 5S Pass 5NT 
+Pass 7H Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "7H"]
+[Play "N"]
+H8 HK H4 H6 
+H7 HJ H3 H9 
+D5 H2 H5 HA 
+D7 D3 D2 HQ 
+C4 CK C7 C2 
+CQ C3 C8 CJ 
+*
+[Room "Open"]
+[Result "12"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "1"]
+[West "Drijver"]
+[North "Thorsson"]
+[East "Jacobs"]
+[South "Stefansson"]
+[Vulnerable "None"]
+[Deal "S:T97.543.K9642.87 J4.AQT96.T.AJ962 Q532.87.J875.QT4 AK86.KJ2.AQ3.K53"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1H Pass 2NT 
+Pass 4C Pass 4NT 
+Pass 5S Pass 7H 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "7H"]
+[Play "N"]
+H8 H2 H3 H9 
+H7 HJ H4 HQ 
+C4 CK C7 C2 
+CQ C5 C8 CJ 
+CT C3 H5 C6 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "2"]
+[West "Halldorsson"]
+[North "Wijma"]
+[East "Haraldsson"]
+[South "Schollaardt"]
+[Vulnerable "NS"]
+[Deal "S:A9.K432.K874.A86 QT75.86.AQT.T953 KJ4.QT97.532.J74 8632.AJ5.J96.KQ2"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1D Pass 
+1S Pass 2S Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+H9 H5 H2 H8 
+H7 HA H3 H6 
+HT HJ H4 S5 
+C7 CK CA C5 
+S4 S2 SA S7 
+SK S3 S9 SQ 
+SJ S6 D4 ST 
+HQ S8 HK C3 
+D5 DJ DK DA 
+D2 D6 D7 DQ 
+D3 D9 D8 DT 
+C4 C2 C6 CT 
+CJ CQ C8 C9 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "2"]
+[West "Drijver"]
+[North "Thorsson"]
+[East "Jacobs"]
+[South "Stefansson"]
+[Vulnerable "NS"]
+[Deal "S:A9.K432.K874.A86 QT75.86.AQT.T953 KJ4.QT97.532.J74 8632.AJ5.J96.KQ2"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass 1H Pass 2H 
+Pass Pass X Pass 
+2S Pass Pass Pass 
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+H9 HA H2 H6 
+SJ S2 S9 ST 
+H7 H5 HK H8 
+HT HJ H4 S5 
+C4 CK CA C3 
+CJ CQ C8 C9 
+S4 S3 SA S7 
+C7 C2 C6 CT 
+D5 D6 D4 C5 
+SK S6 H3 SQ 
+HQ S8 D7 DT 
+D2 D9 D8 DQ 
+D3 DJ DK DA 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "3"]
+[West "Halldorsson"]
+[North "Wijma"]
+[East "Haraldsson"]
+[South "Schollaardt"]
+[Vulnerable "Both"]
+[Deal "S:9873.K9875.K95.5 AJ.AJ.87.AKT9863 6.T642.AQJ42.QJ2 KQT542.Q3.T63.74"]
+[Dealer "N"]
+[Auction "N"]
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+C5 CA C2 C4 
+S3 SA S6 S2 
+S7 SJ D2 SK 
+S8 D7 D4 SQ 
+S9 D8 DJ ST 
+H9 CK CJ C7 
+H5 C3 CQ S4 
+H7 HA H2 H3 
+- CT - - 
+*
+[Room "Open"]
+[Result "13"]
+[Score "+710"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "3"]
+[West "Drijver"]
+[North "Thorsson"]
+[East "Jacobs"]
+[South "Stefansson"]
+[Vulnerable "Both"]
+[Deal "S:9873.K9875.K95.5 AJ.AJ.87.AKT9863 6.T642.AQJ42.QJ2 KQT542.Q3.T63.74"]
+[Dealer "N"]
+[Auction "N"]
+Pass 2D Pass 2NT 
+Pass 3D Pass 4S 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+CQ C4 C5 CA 
+S6 S2 S3 SA 
+D2 SK S7 SJ 
+D4 SQ S8 D7 
+H2 ST S9 D8 
+C2 C7 H5 CK 
+CJ S4 H7 C3 
+H4 H3 H8 HA 
+- - - CT 
+*
+[Room "Closed"]
+[Result "13"]
+[Score "+710"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "4"]
+[West "Halldorsson"]
+[North "Wijma"]
+[East "Haraldsson"]
+[South "Schollaardt"]
+[Vulnerable "None"]
+[Deal "S:Q94.Q32.AQT8.642 T765.A754.K432.T KJ83.J986.75.A95 A2.KT.J96.KQJ873"]
+[Dealer "E"]
+[Auction "E"]
+2C Pass Pass Pass 
+[Declarer "E"]
+[Contract "2C"]
+[Play "S"]
+H2 HA H6 HT 
+C4 CT C5 C3 
+H3 H4 H8 HK 
+C2 D2 CA CQ 
+HQ H5 H9 C7 
+C6 S5 C9 CK 
+DA D3 D5 DJ 
+DQ DK D7 D6 
+S4 H7 HJ C8 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "4"]
+[West "Drijver"]
+[North "Thorsson"]
+[East "Jacobs"]
+[South "Stefansson"]
+[Vulnerable "None"]
+[Deal "S:Q94.Q32.AQT8.642 T765.A754.K432.T KJ83.J986.75.A95 A2.KT.J96.KQJ873"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 2C Pass 
+2D X Pass Pass 
+3C Pass Pass Pass 
+[Declarer "W"]
+[Contract "3C"]
+[Play "N"]
+D7 D6 DA D2 
+D5 D9 D8 D3 
+CA C3 C2 CT 
+H9 HK H2 H4 
+C5 CK C4 S5 
+C9 CQ C6 S6 
+S3 CJ H3 S7 
+H6 HT HQ HA 
+H8 C7 S4 H5 
+S8 C8 S9 H7 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+130"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "5"]
+[West "Halldorsson"]
+[North "Wijma"]
+[East "Haraldsson"]
+[South "Schollaardt"]
+[Vulnerable "NS"]
+[Deal "S:64.AJ97.T952.J96 AK53.8642.AK.AT5 987.KT5.J643.732 QJT2.Q3.Q87.KQ84"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 1NT 
+Pass 2C Pass 2S 
+Pass 4S Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+DT DA D3 D7 
+S4 SA S7 S2 
+S6 SK S8 ST 
+D2 S3 S9 SQ 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "5"]
+[West "Drijver"]
+[North "Thorsson"]
+[East "Jacobs"]
+[South "Stefansson"]
+[Vulnerable "NS"]
+[Deal "S:64.AJ97.T952.J96 AK53.8642.AK.AT5 987.KT5.J643.732 QJT2.Q3.Q87.KQ84"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 1D 
+Pass 2NT Pass 3C 
+Pass 3H Pass 3NT 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+S9 S2 S4 SA 
+D3 D7 D2 DA 
+D4 D8 D5 DK 
+S7 SQ S6 S3 
+S8 SJ D9 SK 
+C2 ST DT S5 
+D6 DQ H7 H2 
+C3 C4 C6 CA 
+C7 CK C9 C5 
+H5 CQ CJ CT 
+DJ C8 H9 H4 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "6"]
+[West "Halldorsson"]
+[North "Wijma"]
+[East "Haraldsson"]
+[South "Schollaardt"]
+[Vulnerable "EW"]
+[Deal "S:9764.82.J93.KJ76 QT2.A75.87.T8543 A83.KQJ64.42.AQ9 KJ5.T93.AKQT65.2"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1H 2D Pass 
+Pass X Pass 2S 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+D8 D2 DQ D3 
+D7 D4 DK D9 
+ST SA D5 DJ 
+HA HK H9 H2 
+CT CQ C2 C6 
+SQ S3 S5 S9 
+S2 S8 SJ S4 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "6"]
+[West "Drijver"]
+[North "Thorsson"]
+[East "Jacobs"]
+[South "Stefansson"]
+[Vulnerable "EW"]
+[Deal "S:9764.82.J93.KJ76 QT2.A75.87.T8543 A83.KQJ64.42.AQ9 KJ5.T93.AKQT65.2"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1H 2D Pass 
+Pass X Pass 2S 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+D8 D2 DQ D3 
+ST S3 S5 S4 
+C3 CA C2 C6 
+H5 HK H3 H8 
+D7 D4 DK DJ 
+H7 S8 DT D9 
+S2 SA SJ S6 
+C4 C9 D5 CJ 
+C5 CQ SK C7 
+SQ H4 DA S7 
+HA H6 H9 H2 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "7"]
+[West "Halldorsson"]
+[North "Wijma"]
+[East "Haraldsson"]
+[South "Schollaardt"]
+[Vulnerable "None"]
+[Deal "S:AJT543.A76.AT.KJ 96.52.97643.A982 K2.KQJT83.KQJ2.3 Q87.94.85.QT7654"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 1S Pass 
+2D Pass 3C Pass 
+3H Pass 4C Pass 
+4D Pass 4NT Pass 
+5C Pass 5D Pass 
+5S Pass 6H Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "6H"]
+[Play "E"]
+C5 CK CA C3 
+C4 CJ C2 HK 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+980"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "7"]
+[West "Drijver"]
+[North "Thorsson"]
+[East "Jacobs"]
+[South "Stefansson"]
+[Vulnerable "None"]
+[Deal "S:AJT543.A76.AT.KJ 96.52.97643.A982 K2.KQJT83.KQJ2.3 Q87.94.85.QT7654"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 1S Pass 
+2D Pass 3C Pass 
+3H Pass 4C Pass 
+4D Pass 4NT Pass 
+5D Pass 6H Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "6H"]
+[Play "E"]
+C5 CJ CA C3 
+- - C2 HK 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+980"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "8"]
+[West "Halldorsson"]
+[North "Wijma"]
+[East "Haraldsson"]
+[South "Schollaardt"]
+[Vulnerable "NS"]
+[Deal "S:A8.QJ87.43.AQ982 432.64.AT875.765 Q6.AK92.Q92.KJT3 KJT975.T53.KJ6.4"]
+[Dealer "E"]
+[Auction "E"]
+3S X 4S X 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4SX"]
+[Play "S"]
+HQ H4 HK H3 
+C9 C5 CT C4 
+H7 H6 HA H5 
+C2 C6 C3 S5 
+HJ S2 H2 HT 
+SA S3 S6 SJ 
+CA C7 CJ S7 
+D3 DT DQ D6 
+S8 S4 SQ SK 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-300"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "8"]
+[West "Drijver"]
+[North "Thorsson"]
+[East "Jacobs"]
+[South "Stefansson"]
+[Vulnerable "NS"]
+[Deal "S:A8.QJ87.43.AQ982 432.64.AT875.765 Q6.AK92.Q92.KJT3 KJT975.T53.KJ6.4"]
+[Dealer "E"]
+[Auction "E"]
+2D Pass 2H X 
+2S 3C Pass 3S 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+S2 SQ SK SA 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "9"]
+[West "Halldorsson"]
+[North "Wijma"]
+[East "Haraldsson"]
+[South "Schollaardt"]
+[Vulnerable "EW"]
+[Deal "S:754.AKQ943.52.52 QJ3.J.KQ874.KQ73 AKT9.62.JT63.AT8 862.T875.A9.J964"]
+[Dealer "S"]
+[Auction "S"]
+3H Pass Pass Pass 
+[Declarer "S"]
+[Contract "3H"]
+[Play "W"]
+DK D3 D9 D2 
+D4 D6 DA D5 
+CQ CA C6 C2 
+DQ DT S8 C5 
+CK C8 C4 H3 
+HJ H2 H5 HA 
+C3 H6 H7 HK 
+D7 S9 H8 HQ 
+S3 SA S2 S5 
+- DJ - - 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "9"]
+[West "Drijver"]
+[North "Thorsson"]
+[East "Jacobs"]
+[South "Stefansson"]
+[Vulnerable "EW"]
+[Deal "S:754.AKQ943.52.52 QJ3.J.KQ874.KQ73 AKT9.62.JT63.AT8 862.T875.A9.J964"]
+[Dealer "S"]
+[Auction "S"]
+3H Pass Pass Pass 
+[Declarer "S"]
+[Contract "3H"]
+[Play "W"]
+DK D3 D9 D2 
+CK CA C4 C2 
+HJ H2 H5 HQ 
+D8 H6 H7 HA 
+D4 DJ DA D5 
+CQ C8 C6 C5 
+C7 CT CJ H3 
+C3 D6 H8 HK 
+D7 S9 HT H4 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "10"]
+[West "Halldorsson"]
+[North "Wijma"]
+[East "Haraldsson"]
+[South "Schollaardt"]
+[Vulnerable "Both"]
+[Deal "S:97653.965.A43.J6 AJ4.J87.KT5.T754 KQ2.Q43.J86.AK98 T8.AKT2.Q972.Q32"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1NT Pass 2H 
+Pass 2S Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+HA H5 H7 H3 
+HK H6 H8 H4 
+HT H9 HJ HQ 
+S8 S3 SA SQ 
+ST S5 S4 SK 
+C2 CJ C4 C8 
+C3 C6 C5 CA 
+CQ D3 C7 CK 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "10"]
+[West "Drijver"]
+[North "Thorsson"]
+[East "Jacobs"]
+[South "Stefansson"]
+[Vulnerable "Both"]
+[Deal "S:97653.965.A43.J6 AJ4.J87.KT5.T754 KQ2.Q43.J86.AK98 T8.AKT2.Q972.Q32"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1NT Pass 2H 
+Pass 2S Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+HA H5 H7 H4 
+S8 S9 SA S2 
+H2 H6 HJ H3 
+CQ C6 C7 C9 
+HK H9 H8 HQ 
+ST S3 S4 SQ 
+C2 CJ C4 C8 
+HT S5 SJ SK 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+110"]
+

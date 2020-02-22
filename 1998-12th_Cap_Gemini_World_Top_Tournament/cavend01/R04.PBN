@@ -1,0 +1,133 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.11"]
+[Round "04"]
+[Board "10"]
+[Room "Open"]
+[West "Marty Fleisher"]
+[North "Mike Passell"]
+[East "Eric Rodwell"]
+[South "M. Brachman"]
+[Dealer "E"]
+[Deal "S:AK52.QT964.A7.T3 Q8764.J87.T.KJ72 T.K53.QJ982.AQ54 J93.A2.K6543.986"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "S"]
+{
+Two new pairs enter the stage. Marty Fleisher/Eric Rodwell as
+E/W, and Mike Passell/Malcolm Brachman as N/S. All are world
+champions except Fleisher but he is the defending champion here
+(with Rodwell). The first hand offered a natural and uncontested
+auction where Passell indicated that he might be interested in
+slam but Brachman denied any such interest. The D10 lead was
+won with dummy´s queen, and on a small heart from dummy East
+hopped up with the ace and played back a small diamond, which
+West ruffed to return a club.
+}
+[Auction "E"]
+Pass 1H Pass 2D 
+Pass 2H Pass 3H 
+Pass 4H Pass Pass 
+Pass    
+[Play "W"]
+DT DQ D5 D7 
+H8 H3 HA H4 
+H7 D2 D3 DA 
+C7 CA C9 C3 
+HJ H5 H2 HQ 
+S6 HK D4 H6 
+S4 DJ DK H9 
+CK C4 C6 CT 
+S7 ST SJ SA 
+S8 C5 S3 SK 
+SQ - - S2 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "04"]
+[Board "11"]
+[Room "Open"]
+[West "Marty Fleisher"]
+[North "Mike Passell"]
+[East "Eric Rodwell"]
+[South "M. Brachman"]
+[Dealer "S"]
+[Deal "S:T6.Q32.AQJ72.KQ3 QJ43.K5.643.AT65 AK852.T.K985.842 97.AJ98764.T.J97"]
+[Vulnerable "None"]
+[Contract "4D"]
+[Declarer "S"]
+{
+N/S did well to stop in 4D after East preempted with 3H. Or did
+they - 3NT, anyone? West led the HK and continued with a small
+spade. Afraid of enemy ruffs it would seem that declarer may
+not have realized that he needed some himself. He drew two rounds
+of trumps, then, instead of going for spades he played a club
+to king and ace. When West returned his last trump it was too
+late to establish spades, so declarer went one down. N/S minus
+50, and a heavy 77 IMPs for Fleisher and Rodwell.
+}
+[Auction "S"]
+1D Pass 1S 3H 
+Pass Pass 4D Pass 
+Pass Pass   
+[Play "W"]
+HK HT H8 H2 
+S4 SA S7 S6 
+D4 D5 DT DQ 
+D3 D8 H9 D7 
+CA C2 C7 CK 
+D6 D9 H4 D2 
+S3 SK S9 ST 
+SJ S2 H6 DJ 
+C5 C4 CJ CQ 
+CT C8 C9 C3 
+H5 S5 HA - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "04"]
+[Board "12"]
+[Room "Open"]
+[West "Marty Fleisher"]
+[North "Mike Passell"]
+[East "Eric Rodwell"]
+[South "M. Brachman"]
+[Dealer "W"]
+[Deal "S:AJ973.6.954.AJT2 .AJT843.AKJ2.Q93 T85.Q95.73.K7654 KQ642.K72.QT86.8"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "W"]
+{
+Fleisher decided to rebid the hearts, rather than showing his
+pretty good diamonds. After a club lead to South´s ace a trump
+lead looked natural with the spade holding that South had. This
+made it easy for declarer to make two overtricks, ruffing a club
+and establishing a spade trick. N/S minus 480. Five pairs were
+more ambitious, bidding slam, all in hearts. Two made it, three
+didn´t. Fleisher/Rodwell gained another 30 IMPs.
+}
+[Auction "W"]
+1H Pass 1S Pass 
+2H Pass 4H Pass 
+Pass Pass   
+[Play "N"]
+C5 C8 CA C3 
+H5 H2 H6 HJ 
+C4 H7 C2 C9 
+S5 SK SA H3 
+H9 HK S3 H4 
+S8 SQ S7 CQ 
+D3 D6 D4 DK 
+- - - HA 
+*
+[Result "12"]
+

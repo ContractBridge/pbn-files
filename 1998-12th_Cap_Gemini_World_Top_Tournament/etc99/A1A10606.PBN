@@ -1,0 +1,1432 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "European Team Championships '99"]
+[Site "Malta, MLT"]
+[Date "1999.06.15"]
+[Board "1"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJT97.3.982.QJT7 Q85.KT.AT765.842 42.AJ762.KQ.AK95 A63.Q9854.J43.63"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS 130"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S Pass 2C Pass
+Pass Pass
+[Play "W"]
+C3 C7 C2 CK
+SA S7 S5 S4
+D3 D2 DA DQ
+D4 D8 D5 DK
+S6 SJ SQ S2
+- - DT CA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "1"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJT97.3.982.QJT7 Q85.KT.AT765.842 42.AJ762.KQ.AK95 A63.Q9854.J43.63"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+2S Pass 2NT Pass
+3C Pass 5C Pass
+Pass Pass
+[Play "E"]
+C4 CA C3 C7
+SQ S2 S3 SJ
+DA DQ D3 D2
+D7 DK D4 D8
+S5 S4 SA S7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "2"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AT83..J84.KQJ753 764.643.A93.A864 K9.AJT9752.KQT7. QJ52.KQ8.652.T92"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS -400"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "E"]
+1C Pass 1H Pass
+1S Pass 2D Pass
+3C Pass 3H Pass
+3S Pass 3NT Pass
+Pass Pass
+[Play "N"]
+S2 S3 S4 S9
+H8 C3 H3 HA
+HQ C5 H6 HJ
+C2 CK CA D7
+S5 S8 S7 SK
+HK C7 H4 HT
+D2 D4 DA DT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "2"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AT83..J84.KQJ753 764.643.A93.A864 K9.AJT9752.KQT7. QJ52.KQ8.652.T92"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1C Pass 1H Pass
+1S Pass 2D Pass
+3C Pass 3H Pass
+3NT Pass 4H Pass
+Pass Pass
+[Play "N"]
+D5 D4 DA D7
+D6 D8 D9 DK
+H8 C3 H3 HA
+HQ C5 H4 HT
+D2 DJ D3 DQ
+HK C7 H6 HJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "3"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A98.J7.AQ8.AKJ84 T542.Q53.KJ92.75 KQ63.T62.T763.96 J7.AK984.54.QT32"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS 120"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "S"]
+1C Pass 1S Pass
+2NT Pass Pass Pass
+[Play "W"]
+D2 D7 D5 D8
+S2 SK SJ S9
+C7 C9 C2 CJ
+C5 C6 C3 CA
+H5 D3 CT CK
+S4 S3 S7 SA
+S5 SQ H9 S8
+D9 D6 D4 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "3"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A98.J7.AQ8.AKJ84 T542.Q53.KJ92.75 KQ63.T62.T763.96 J7.AK984.54.QT32"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 140"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C Pass 1D 1H
+2C 2H X Pass
+2S Pass Pass Pass
+[Play "W"]
+H3 H2 HK H7
+H5 H6 HA HJ
+HQ HT H4 S8
+C5 C6 C2 CA
+C7 C9 C3 CK
+D2 S3 CT C4
+D9 D3 D4 DA
+DJ S6 CQ C8
+DK D6 D5 DQ
+S2 SQ S7 S9
+S4 D7 SJ D8
+S5 DT H8 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "4"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J863.875.QJ.AJ52 QT2.JT6.9875.KT9 AK954.K4.T63.863 7.AQ932.AK42.Q74"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS 200"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "W"]
+Pass Pass 1S X
+2C Pass 2S Pass
+Pass Pass
+[Play "S"]
+DA DJ D8 D3
+C4 CJ CK C3
+HA H5 HJ HK
+HQ H7 H6 H4
+DK DQ D5 D6
+H2 H8 HT S4
+S7 S3 S2 SA
+D2 S6 ST SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "4"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J863.875.QJ.AJ52 QT2.JT6.9875.KT9 AK954.K4.T63.863 7.AQ932.AK42.Q74"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 300"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1S 2H
+2S Pass Pass X
+XX 3H Pass Pass
+3S Pass Pass Pass
+[Play "S"]
+DA DJ D7 D3
+DK DQ D5 D6
+C4 C2 C9 C3
+HA H5 HJ HK
+HQ H7 H6 H4
+H2 H8 HT S4
+S7 S3 S2 SA
+H3 S6 ST SK
+D2 C5 D8 DT
+C7 CA CT C6
+D4 S8 SQ S5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "5"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q9652.K82.J.AKQ3 K.Q3.96542.JT874 J83.T9754.AKQ3.9 AT74.AJ6.T87.652"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS 620"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "N"]
+1S 2NT 3C Pass
+3H Pass 4S Pass
+Pass Pass
+[Play "E"]
+CJ C9 C2 CA
+D2 D3 D7 DJ
+C8 S3 C5 C3
+D4 DA D8 H2
+D5 DK DT H8
+D6 DQ S4 S5
+SK S8 S7 S2
+HQ H4 HA HK
+D9 SJ SA S6
+- - HJ S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "5"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q9652.K82.J.AKQ3 K.Q3.96542.JT874 J83.T9754.AKQ3.9 AT74.AJ6.T87.652"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1S Pass 4S Pass
+Pass Pass
+[Play "E"]
+CJ C9 C2 CQ
+D2 D3 D7 DJ
+C7 H4 C5 CA
+C4 S3 C6 C3
+D4 DA D8 H2
+D5 DQ DT H8
+D6 DK S7 HK
+H3 H5 H6 S2
+CT S8 ST CK
+HQ H7 HA S5
+SK SJ S4 S6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "6"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:Q754.AKT.65.8543 AK96.76.J2.AKQ96 T32.9853.Q984.72 J8.QJ42.AKT73.JT"]
+[Declarer "N"]
+[Contract "4NT"]
+[Result "11"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS 460"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1S Pass 3NT
+Pass 4NT Pass Pass
+Pass
+[Play "E"]
+HA H6 H8 H4
+HK H7 H3 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "6"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:Q754.AKT.65.8543 AK96.76.J2.AKQ96 T32.9853.Q984.72 J8.QJ42.AKT73.JT"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 490"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C Pass 2D
+Pass 3C Pass 3H
+Pass 3NT Pass Pass
+Pass
+[Play "W"]
+S2 S8 SQ SA
+DQ DA D5 DJ
+D4 DK D6 D2
+D8 DT S4 H6
+S3 SJ S7 S6
+C2 CJ C3 C6
+C7 CT C4 CA
+H3 D3 C5 CK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "7"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:98.J8752.AQ7.A94 Q3.KT3.K92.KT765 K76.AQ9.T843.QJ2 AJT542.64.J65.83"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "7"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS -100"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "S"]
+Pass Pass 1C 1S
+X Pass 1NT Pass
+2NT Pass Pass Pass
+[Play "E"]
+SJ S8 SQ SK
+C3 C4 C5 CQ
+H6 H2 H3 HA
+H4 HJ HK H9
+ST S9 S3 S6
+SA C9 C6 S7
+S5 D7 C7 D3
+S4 DQ D2 D4
+D5 DA - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "7"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:98.J8752.AQ7.A94 Q3.KT3.K92.KT765 K76.AQ9.T843.QJ2 AJT542.64.J65.83"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1H Pass 1NT Pass
+2C Pass 2S X
+3H Pass Pass Pass
+[Play "W"]
+SQ S6 SJ S8
+S3 SK SA S9
+HT S7 ST H8
+H3 H9 H4 HJ
+HK HA H6 H2
+DK D3 D5 DQ
+D2 D4 D6 D7
+D9 D8 DJ DA
+C5 HQ S2 H5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "8"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q7.9643.8642.AJT J9.KJ75.KQ.K9842 AT532.AQ8.T753.Q K864.T2.AJ9.7653"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS 90"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "W"]
+Pass 1C 1S 1NT
+Pass Pass Pass
+[Play "W"]
+S7 SJ SA S4
+D2 DQ D7 D9
+CT C2 CQ C6
+SQ S9 S5 S6
+D4 DK D3 DA
+CJ CK H8 C5
+CA C8 DT C3
+H6 H5 HQ H2
+D6 H7 D5 DJ
+H3 HJ S2 SK
+- - - C7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "8"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q7.9643.8642.AJT J9.KJ75.KQ.K9842 AT532.AQ8.T753.Q K864.T2.AJ9.7653"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 2H Pass 3C
+Pass Pass Pass
+[Play "E"]
+D5 D9 D6 DK
+D7 DA D4 DQ
+D3 DJ D2 S9
+HQ HT H6 H5
+HA H2 H3 H7
+H8 C3 H4 HJ
+CQ C5 CJ CK
+S2 C6 CT C2
+SA S4 S7 SJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "9"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ7.QT963.94.Q82 8.J7.AKQJT.AJT73 9642.8.87652.K54 AQT53.AK542.3.96"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS -630"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2C Pass 3H
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+H8 H2 HQ H7
+D7 D3 D4 DQ
+D8 H4 H3 HJ
+S2 SA S7 S8
+S4 HA H6 C3
+- HK - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "9"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ7.QT963.94.Q82 8.J7.AKQJT.AJT73 9642.8.87652.K54 AQT53.AK542.3.96"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -690"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2C Pass 2H
+Pass 3C Pass 3NT
+Pass Pass Pass
+[Play "N"]
+H3 HJ H8 H5
+H6 H7 D2 HA
+C2 C3 CK C9
+S7 S8 S6 SA
+C8 CJ C4 C6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "10"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AT872.2.KQ75.754 53.AKJ9843.J8.K9 Q6.QT76.A642.AJT KJ94.5.T93.Q8632"]
+[Declarer "^S"]
+[Contract "4HX"]
+[Result "7"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS -800"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "E"]
+Pass 4C Pass 4H
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+H6 H5 H2 HA
+CA C2 C4 CK
+SQ SK SA S3
+DA D3 D5 D8
+S6 SJ S2 S5
+CT CQ C5 C9
+CJ C3 C7 H3
+D2 DT DK DJ
+H7 S4 ST H4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "10"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AT872.2.KQ75.754 53.AKJ9843.J8.K9 Q6.QT76.A642.AJT KJ94.5.T93.Q8632"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+SQ SK SA S3
+D2 D3 DK D8
+H6 H5 H2 HA
+D4 DT DQ DJ
+CT CQ C4 C9
+D6 D9 D5 H3
+CA C2 C5 CK
+S6 SJ S2 S5
+CJ C3 C7 H8
+^R DA S4 S7 HK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "11"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:84.A52.Q8752.Q94 3.KQ8743.JT94.52 KJ7652.J.K6.A763 AQT9.T96.A3.KJT8"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS -450"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "S"]
+Pass 2H 2S 4H
+Pass Pass Pass
+[Play "N"]
+S6 SQ S8 S3
+HJ HT H2 HQ
+S5 H9 H5 H3
+S7 S9 S4 H7
+C3 CK C4 C2
+S2 SA C9 C5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "11"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:84.A52.Q8752.Q94 3.KQ8743.JT94.52 KJ7652.J.K6.A763 AQT9.T96.A3.KJT8"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1H Pass
+1S 2H 2S 4H
+Pass Pass Pass
+[Play "N"]
+S2 SQ S8 S3
+S6 SA S4 C5
+S5 S9 D5 H4
+CA C8 C4 C2
+SK ST D2 H3
+DK DA D7 DJ
+HJ H6 H2 HK
+S7 H9 HA H8
+SJ HT H5 H7
+C3 CK C9 D4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "12"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q.AT975.J63.K982 AJ.J432.T8542.J7 KT9875..Q7.AQ653 6432.KQ86.AK9.T4"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS 50"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "W"]
+Pass Pass 1S Pass
+1NT Pass 2C Pass
+3C Pass 5C Pass
+Pass Pass
+[Play "S"]
+DA D3 D2 DQ
+DK D6 D4 D7
+HK HA H2 S5
+S2 SQ SA S7
+D9 DJ D8 S8
+C4 C2 C7 CA
+CT C8 CJ CQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "12"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q.AT975.J63.K982 AJ.J432.T8542.J7 KT9875..Q7.AQ653 6432.KQ86.AK9.T4"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -170"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1S Pass
+2H Pass 2S Pass
+Pass Pass
+[Play "S"]
+DA D3 D2 D7
+DK D6 D4 DQ
+D9 DJ D8 C3
+S2 SQ SA S5
+C4 H5 DT S7
+S3 H7 SJ SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "13"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:854.Q832.A43.AJ7 AKT6.AKT9.J.K862 J2.J64.T97.T9543 Q973.75.KQ8652.Q"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS -650"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 3D Pass 4S
+Pass Pass Pass
+[Play "N"]
+H3 HA H4 H5
+DA DJ D7 D5
+S4 S6 SJ SQ
+D4 C2 DT DK
+D3 C6 D9 DQ
+H8 HK H6 H7
+CA C8 C3 CQ
+S5 SA S2 S3
+H2 H9 HJ S9
+C7 HT C4 D2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "13"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:854.Q832.A43.AJ7 AKT6.AKT9.J.K862 J2.J64.T97.T9543 Q973.75.KQ8652.Q"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -650"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1D X Pass 1S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+S4 S6 SJ SQ
+DA DJ D7 D5
+S5 SA S2 S3
+CA C2 C3 CQ
+S8 ST C4 S7
+H2 HA H4 H5
+H3 HK H6 H7
+H8 H9 HJ S9
+D3 HT D9 DK
+D4 C6 DT DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "14"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K.T9762.K62.Q972 JT74.K5.753.J854 9832.QJ.AQJ98.K3 AQ65.A843.T4.AT6"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS -90"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "E"]
+Pass Pass 1D X
+1H Pass 1S Pass
+1NT Pass Pass Pass
+[Play "S"]
+SJ S2 S5 SK
+D3 DQ D4 D2
+D5 D8 DT DK
+D7 DA H4 D6
+C5 DJ H3 C2
+C4 D9 C6 H2
+C8 C3 CA C7
+ST S3 S6 H6
+S4 S8 SA C9
+S7 S9 SQ CQ
+H5 HJ HA H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "14"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K.T9762.K62.Q972 JT74.K5.753.J854 9832.QJ.AQJ98.K3 AQ65.A843.T4.AT6"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1D X
+1H 1S Pass Pass
+2D Pass Pass 2S
+Pass Pass 3D Pass
+Pass Pass
+[Play "N"]
+DT D2 D3 DQ
+H3 H2 HK HQ
+D4 D6 D5 DJ
+H4 H6 H5 HJ
+C6 CQ C4 C3
+H8 HT D7 D9
+SA SK S4 S2
+SQ DK S7 S3
+HA H7 C5 D8
+S5 H9 C8 DA
+S6 C2 ST S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "15"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:63.AJ4.QT983.AT4 972.K82.7652.862 A854.Q963.AKJ.J9 KQJT.T75.4.KQ753"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS 600"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "S"]
+Pass Pass 1D X
+XX Pass Pass 1S
+2S Pass 3NT Pass
+Pass Pass
+[Play "E"]
+SK S3 S2 S5
+ST S6 S9 SA
+H5 HJ HK H3
+SJ C4 S7 S4
+SQ - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "15"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:63.AJ4.QT983.AT4 972.K82.7652.862 A854.Q963.AKJ.J9 KQJT.T75.4.KQ753"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 660"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1D Pass 1H X
+Pass 1S 3NT Pass
+Pass Pass
+[Play "E"]
+C5 C4 C2 C9
+H5 HJ HK H3
+ST S3 S9 S5
+SK S6 S7 SA
+D4 D3 D2 DA
+C3 D8 D5 DK
+C7 DQ D6 DJ
+SJ D9 D7 S4
+H7 DT S2 CJ
+CQ CA C6 S8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "16"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KJT983.98.AT2.83 A.532.KQJ76.QT42 Q742.KQ74.94.KJ9 65.AJT6.853.A765"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS 100"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "W"]
+2S Pass 2NT Pass
+3H Pass 3S Pass
+Pass Pass
+[Play "N"]
+DK D4 D3 DA
+SA S2 S6 SJ
+DQ D9 D8 D2
+C4 CK CA C3
+CQ C9 C5 C8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "16"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KJT983.98.AT2.83 A.532.KQJ76.QT42 Q742.KQ74.94.KJ9 65.AJT6.853.A765"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -140"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+2S Pass 3S Pass
+Pass Pass
+[Play "N"]
+DK D4 D8 D2
+H2 HK HA H8
+H5 HQ HJ H9
+H3 H4 H6 SJ
+D6 D9 D3 DA
+DJ S7 D5 DT
+SA H7 HT ST
+C2 CJ CA C3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "17"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J87.Q98642.A3.J8 T.A.JT942.AKQT32 K96432.53.Q86.64 AQ5.KJT7.K75.975"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "12"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS -990"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 3C Pass 4C
+Pass 4H Pass 4S
+Pass 5C Pass 6NT
+Pass Pass Pass
+[Play "N"]
+S7 ST SK SA
+C8 CA C4 C5
+H2 HA H3 H7
+DA DJ D6 D5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "17"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J87.Q98642.A3.J8 T.A.JT942.AKQT32 K96432.53.Q86.64 AQ5.KJT7.K75.975"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -490"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+2D 3C Pass 3NT
+Pass Pass Pass
+[Play "N"]
+H2 HA H5 H7
+C8 CA C4 C5
+DA DJ D6 D5
+H4 D2 H3 HJ
+CJ CK C6 C9
+D3 DT D8 D7
+- D4 DQ -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "18"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQ6.KQ842.A8.T75 KJ8.9753.54.9862 93.AJT6.KJ32.AJ4 T7542..QT976.KQ3"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS 100"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "E"]
+1NT Pass 2C Pass
+2H Pass 2S Pass
+3H Pass 4C Pass
+4D Pass 6H Pass
+Pass Pass
+[Play "S"]
+H3 HJ S4 H2
+SK S3 S2 SQ
+H5 H6 D7 H8
+S8 S9 S5 SA
+SJ HA S7 S6
+H7 HT C3 HK
+H9 C4 D6 HQ
+C2 CA CQ C5
+D4 D2 D9 DA
+D5 - - D8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "18"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQ6.KQ842.A8.T75 KJ8.9753.54.9862 93.AJT6.KJ32.AJ4 T7542..QT976.KQ3"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1H Pass 2D Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "S"]
+C9 CA C3 C5
+H5 H6 S2 HK
+H3 HT D7 H2
+SK S3 S5 SQ
+C2 C4 CQ C7
+C6 CJ CK CT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "19"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J5.A9832.98.9542 KQ96.K5.QJ73.AT3 8743.J.A2.KQJ876 AT2.QT764.KT654."]
+[Declarer "E"]
+[Contract "5D"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS 100"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "S"]
+Pass 1NT 2C 3D
+4C Pass Pass 4D
+Pass 5C Pass 5D
+Pass Pass Pass
+[Play "S"]
+SJ SK S4 S2
+D8 DQ DA D4
+HA H5 HJ H4
+H2 HK D2 H6
+- - CK -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "19"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J5.A9832.98.9542 KQ96.K5.QJ73.AT3 8743.J.A2.KQJ876 AT2.QT764.KT654."]
+[Declarer "E"]
+[Contract "5D"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1NT 3C 3H
+4C Pass Pass 4D
+Pass 5D Pass Pass
+Pass
+[Play "S"]
+HA H5 HJ H4
+H2 HK D2 H6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.15"]
+[Board "20"]
+[West "Greenberg N"]
+[North "Bompis M"]
+[East "Tur Z"]
+[South "De S.Marie T"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:4.KJT95.KQJ6.KQ3 J92.Q86.T8543.AJ AQ876.4.972.9542 KT53.A732.A.T876"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[HomeTeam "France"]
+[Room "Open"]
+[Round "6"]
+[Score "NS -90"]
+[Table "9"]
+[VisitTeam "Israel"]
+[Auction "W"]
+1H Pass 1S Pass
+2D Pass Pass Pass
+[Play "N"]
+D4 D7 DA D6
+CA C2 C8 CK
+D3 D2 S5 DQ
+H6 H4 HA HK
+CJ C4 C6 CQ
+HQ D9 H2 HJ
+S2 SA S3 S4
+SJ S6 SK DJ
+H8 S7 H3 H9
+D8 S8 H7 HT
+DT C5 ST DK
+D5 C9 C7 H5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "20"]
+[West "Multon F"]
+[North "Kalish A"]
+[East "Mari C"]
+[South "Podgor L"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:4.KJT95.KQJ6.KQ3 J92.Q86.T8543.AJ AQ876.4.972.9542 KT53.A732.A.T876"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 200"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1H Pass 1S Pass
+2D Pass Pass Pass
+[Play "N"]
+D3 D2 DA D6
+CA C2 C8 CK
+D5 D7 S5 DJ
+HQ H4 H2 H9
+D4 D9 C6 DQ
+D8 S6 S3 DK
+H6 S7 HA HT
+CJ C4 C7 CQ
+H8 S8 H3 HK
+DT C5 H7 HJ
+S2 SQ SK S4
+*
+

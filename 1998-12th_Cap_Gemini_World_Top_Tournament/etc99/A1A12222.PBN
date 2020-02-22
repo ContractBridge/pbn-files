@@ -1,0 +1,1393 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "European Team Championships '99"]
+[Site "Malta, MLT"]
+[Date "1999.06.21"]
+[Board "1"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q92.A9.A875.A983 K3.K854.QJT94.Q7 A8765.QJ.K2.KJ65 JT4.T7632.63.T42"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS 420"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "N"]
+1D Pass 1S Pass
+1NT Pass 2C Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+D3 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "1"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q92.A9.A875.A983 K3.K854.QJT94.Q7 A8765.QJ.K2.KJ65 JT4.T7632.63.T42"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 480"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1D 1H 1S 3H
+X Pass 4S Pass
+Pass Pass
+[Play "W"]
+C4 C3 CQ CK
+S4 S2 S3 SA
+ST S9 SK S5
+D3 D5 DQ DK
+SJ SQ H4 S6
+C2 CA C7 C5
+CT C8 D4 CJ
+H7 C9 H5 S8
+H2 H9 H8 C6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "2"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:8654.73.AJ432.75 AQ3.A95.Q9.AKJ84 T9.KQJ42.T8.9632 KJ72.T86.K765.QT"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS 660"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "E"]
+Pass 2NT Pass 3C
+Pass 3NT Pass Pass
+Pass
+[Play "W"]
+HK - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "2"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:8654.73.AJ432.75 AQ3.A95.Q9.AKJ84 T9.KQJ42.T8.9632 KJ72.T86.K765.QT"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 660"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 2NT Pass 3C
+Pass 3NT Pass Pass
+Pass
+[Play "W"]
+HK H6 H3 H5
+HJ H8 H7 HA
+C2 CQ C7 C4
+C6 CT C5 C8
+S9 S2 S4 SA
+C3 D5 D2 CA
+C9 D6 D3 CK
+H4 HT S5 CJ
+ST S7 S6 SQ
+H2 SJ S8 S3
+D8 SK D4 D9
+DT D7 DA DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "3"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J872.AT765.A83.2 K9.KQJ8.Q965.QJ6 A643.43.T4.AKT84 QT5.92.KJ72.9753"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS -50"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "S"]
+Pass 1C Pass 1D
+1H Pass 2C Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+D5 DT DK DA
+C6 CA C3 C2
+CJ CK C5 D3
+CQ C4 C7 S7
+S9 SA S5 S2
+SK CT C9 D8
+DQ D4 D2 S8
+D6 S3 SQ SJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "3"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J872.AT765.A83.2 K9.KQJ8.Q965.QJ6 A643.43.T4.AKT84 QT5.92.KJ72.9753"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 110"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1D 2C 2D
+2H Pass Pass Pass
+[Play "W"]
+D5 D4 DJ D3
+H8 H3 H2 H5
+HK H4 H9 HA
+HJ C4 D2 H6
+SK SA S5 S7
+S9 S3 SQ S2
+D6 DT D7 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "4"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J32.AQT8.AK3.Q83 T64.J9542.QT.A54 AQ9.76.J652.J962 K875.K3.9874.KT7"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS 100"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "W"]
+1NT Pass 2S Pass
+3C Pass 3NT Pass
+Pass Pass
+[Play "N"]
+H4 H6 HK HA
+S4 SQ SK S2
+HJ H7 H3 HT
+S6 SA S5 S3
+CA C2 C7 C8
+ST S9 S7 SJ
+C4 C6 CT CQ
+H2 D2 D4 HQ
+DT D5 D7 DA
+C5 C9 CK C3
+H5 CJ S8 H8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "4"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J32.AQT8.AK3.Q83 T64.J9542.QT.A54 AQ9.76.J652.J962 K875.K3.9874.KT7"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 200"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1NT Pass 2C Pass
+2H Pass 2NT Pass
+Pass Pass
+[Play "N"]
+S6 S9 SK S2
+- - S5 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "5"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J98.T4.K72.KJ763 A762.AJ83.AT.Q98 KT4.Q975.Q94.A42 Q53.K62.J8653.T5"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS -120"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "N"]
+Pass 1NT Pass Pass
+Pass
+[Play "S"]
+H5 H2 HT HJ
+S4 SQ S8 S2
+ST S3 S9 SA
+SK S5 SJ S6
+HQ HK H4 H3
+H7 H6 C7 HA
+C2 D3 D2 S7
+H9 D5 C3 H8
+D4 D6 DK DA
+DQ D8 D7 DT
+CA C5 C6 C8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "5"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J98.T4.K72.KJ763 A762.AJ83.AT.Q98 KT4.Q975.Q94.A42 Q53.K62.J8653.T5"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1D Pass 1NT
+Pass Pass Pass
+[Play "N"]
+C6 C8 CA C5
+CJ CQ C4 CT
+S9 S2 S4 SQ
+H4 HA H5 H6
+HT H3 H7 HK
+D7 H8 H9 H2
+S8 HJ HQ D3
+CK C9 C2 D5
+C7 S6 D9 S3
+C3 S7 D4 D6
+SJ SA ST S5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "6"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K9.642.AKQT7.Q96 JT852.73.832.KT3 7643.AT985.J4.A8 AQ.KQJ.965.J7542"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "10"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS -170"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "E"]
+1D Pass 1H Pass
+1NT Pass 2H Pass
+Pass Pass
+[Play "N"]
+HK H2 H3 H5
+HJ H4 H7 HA
+D5 D7 D2 DJ
+D6 DT D3 D4
+D9 DQ D8 C8
+C2 DK S2 S3
+SQ DA S5 S4
+C4 C6 C3 CA
+SA S9 S8 S6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "6"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K9.642.AKQT7.Q96 JT852.73.832.KT3 7643.AT985.J4.A8 AQ.KQJ.965.J7542"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1NT Pass 2C Pass
+2D Pass 3S Pass
+4H Pass Pass Pass
+[Play "S"]
+D8 DJ D9 D7
+H3 HA HK H6
+H7 HT HJ H2
+CK CA C2 CQ
+D2 D4 D5 DA
+D3 C8 D6 DK
+S2 S3 C5 DQ
+S5 S4 C4 DT
+C3 H5 C7 C6
+S8 S6 SA S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "7"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:9.AJ7.AQ98652.32 Q876.KT.T4.Q9876 KJ52.Q864.J.KJT4 AT43.9532.K73.A5"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "10"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS 130"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "S"]
+1D Pass 1H Pass
+2D Pass Pass Pass
+[Play "W"]
+C7 CT CA C2
+C6 CJ C5 C3
+D4 DJ D3 D2
+C8 CK DK S9
+HK H4 H2 H7
+HT H6 H3 HJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "7"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:9.AJ7.AQ98652.32 Q876.KT.T4.Q9876 KJ52.Q864.J.KJT4 AT43.9532.K73.A5"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 130"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1D Pass 1H Pass
+2D Pass 2NT Pass
+3D Pass Pass Pass
+[Play "W"]
+C9 CT C5 C2
+D4 DJ D3 D2
+HT H4 H2 HA
+DT S2 D7 DA
+C6 CJ CA C3
+HK H6 H3 H7
+S6 SK SA S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "8"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K9.AQT9.Q84.AJ94 JT743.74.952.QT6 865.K3.AKJ763.73 AQ2.J8652.T.K852"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS -460"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "W"]
+1NT Pass 3NT Pass
+Pass Pass
+[Play "N"]
+H7 H3 HJ HQ
+H4 HK H2 HA
+S7 S5 H5 HT
+D2 DA DT D8
+CT C3 C2 C9
+S3 S6 SA S9
+- - S2 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "8"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K9.AQT9.Q84.AJ94 JT743.74.952.QT6 865.K3.AKJ763.73 AQ2.J8652.T.K852"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -400"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1D Pass
+1H Pass 3D Pass
+4D Pass 5D Pass
+Pass Pass
+[Play "S"]
+SA S9 S4 S6
+C2 CA C6 C3
+DT D4 D2 DK
+C5 DQ D5 D3
+C8 D8 D9 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "9"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:54.764.AQ86.AQ73 KJ.AQ98.T943.JT8 T3.KJT52.K72.K95 AQ98762.3.J5.642"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS 100"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "N"]
+1NT Pass 2D 2S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+H6 HQ HK H3
+DQ D3 D2 D5
+DA D4 D7 DJ
+H4 HA H5 C6
+D6 D9 DK S9
+S4 SJ S3 S2
+S5 SK ST S6
+D8 DT H2 C2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "9"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:54.764.AQ86.AQ73 KJ.AQ98.T943.JT8 T3.KJT52.K72.K95 AQ98762.3.J5.642"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1D Pass 1H 2S
+Pass 2NT Pass 3S
+Pass Pass Pass
+[Play "N"]
+H4 HQ HK H3
+S4 SJ S3 S2
+H6 H8 HT S8
+S5 SK ST S6
+H7 HA H2 C4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "10"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KQ43.87.976.J974 AT2.AKQ32.83.T52 987.T54.J2.AKQ83 J65.J96.AKQT54.6"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS 680"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "E"]
+Pass 1H Pass 2D
+Pass 2NT Pass 3H
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "W"]
+CK C6 C9 C2
+S8 S5 SQ SA
+C8 H6 C4 C5
+H4 HJ H7 H2
+H5 H9 H8 HA
+- - - HK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "10"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KQ43.87.976.J974 AT2.AKQ32.83.T52 987.T54.J2.AKQ83 J65.J96.AKQT54.6"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 680"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1H Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "W"]
+CK C6 C4 C5
+S8 S5 SQ SA
+C3 H6 C7 C2
+H4 HJ H7 H2
+H5 H9 H8 HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "11"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:QJ9.KT2.AKJT.T87 KT4.AJ743.86.QJ9 A87.Q6.Q52.AK653 6532.985.9743.42"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS 460"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "S"]
+1D 1H X Pass
+1NT Pass 2H Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "W"]
+H4 H6 H8 HT
+SK SA S2 SQ
+CJ CA C2 C7
+CQ C3 C4 CT
+HA - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "11"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:QJ9.KT2.AKJT.T87 KT4.AJ743.86.QJ9 A87.Q6.Q52.AK653 6532.985.9743.42"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 460"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C 1H 2H Pass
+2NT Pass 3H X
+3NT Pass Pass Pass
+[Play "W"]
+H4 H6 H8 HT
+CJ CA C2 C7
+CQ C3 C4 CT
+HA HQ H5 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "12"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J54.KJ65.65.A875 K832.AQ4.J8.K963 AT.8732.AKQT72.J Q976.T9.943.QT42"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS -110"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 2S 3D Pass
+Pass Pass
+[Play "S"]
+HT HJ HQ H2
+H9 H5 HA H3
+D3 H6 H4 H7
+S6 S4 SK SA
+D4 D5 D8 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "12"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J54.KJ65.65.A875 K832.AQ4.J8.K963 AT.8732.AKQT72.J Q976.T9.943.QT42"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1C 1D Pass
+1H Pass 4H Pass
+Pass Pass
+[Play "N"]
+S3 SA S6 S5
+HQ H2 H9 HJ
+SK ST S7 SJ
+C3 CJ CQ CA
+D8 DA D4 D6
+HA H7 HT HK
+S8 H3 S9 S4
+DJ DK D3 D5
+- H8 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "13"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q2.KQ743.983.982 AKT53.85.KQT2.T3 976.T2.J7654.AK5 J84.AJ96.A.QJ764"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS -620"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2D Pass 2NT
+Pass 3NT Pass 4S
+Pass Pass Pass
+[Play "S"]
+CK C4 C9 C3
+H2 H6 HQ H5
+D4 DA D8 D2
+S6 S4 S2 SA
+D5 SJ D3 DT
+S7 S8 SQ SK
+S9 C6 H3 ST
+C5 H9 H4 S3
+D6 C7 D9 DK
+D7 CJ C2 DQ
+DJ CQ C8 S5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "13"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q2.KQ743.983.982 AKT53.85.KQT2.T3 976.T2.J7654.AK5 J84.AJ96.A.QJ764"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2D Pass 4S
+Pass Pass Pass
+[Play "S"]
+HT HA H3 H5
+D4 DA D3 D2
+S7 S4 S2 SK
+D5 SJ D8 DT
+S6 S8 SQ SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "14"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J.AJ83.QJ8643.63 Q.Q652.AK72.QT75 T97543.7.5.KJ984 AK862.KT94.T9.A2"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS 400"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "E"]
+Pass 1D 3S 3NT
+Pass Pass Pass
+[Play "E"]
+SJ SQ S3 S2
+HA H2 H7 HK
+DQ DA D5 D9
+H3 HQ S4 H4
+HJ H5 C9 H9
+DJ DK C4 DT
+H8 H6 CJ HT
+C3 C5 C8 CA
+C6 C7 CK C2
+- - ST -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "14"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J.AJ83.QJ8643.63 Q.Q652.AK72.QT75 T97543.7.5.KJ984 AK862.KT94.T9.A2"]
+[Declarer "W"]
+[Contract "2SX"]
+[Result "5"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 500"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1D 2D X
+Pass Pass 2S X
+Pass Pass Pass
+[Play "N"]
+DT DJ DK D5
+S2 SJ SQ S3
+HK HA H2 H7
+CA C3 C5 CJ
+HT HJ HQ S4
+C2 C6 C7 CK
+H4 D3 CT C8
+D9 D4 DA ST
+S6 - - C4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "15"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K5.Q743.T763.QT7 J84.A65.8542.952 AT932.KJ2.AKQ9.J Q76.T98.J.AK8643"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS -100"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "S"]
+Pass Pass 1C 3C
+3NT Pass Pass Pass
+[Play "W"]
+C5 CJ C3 C7
+D2 DA DJ D3
+D4 DK HT D6
+D5 DQ C4 D7
+D8 D9 H8 DT
+S4 S2 S6 SK
+HA H2 H9 H3
+C2 S3 CK CT
+C9 S9 CA CQ
+H5 ST C6 H4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "15"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K5.Q743.T763.QT7 J84.A65.8542.952 AT932.KJ2.AKQ9.J Q76.T98.J.AK8643"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -200"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1S 2C
+Pass Pass X Pass
+2H Pass 3H Pass
+3NT Pass Pass Pass
+[Play "W"]
+C5 CJ C6 C7
+HA H2 HT HQ
+C2 S2 CK CT
+C9 S3 CA CQ
+- - C8 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "16"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q54.J2.QJ7.97632 AKJT92.Q8.62.AQJ 73.K76.AT853.T54 86.AT9543.K94.K8"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS 450"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1S Pass 2H
+Pass 2S Pass 2NT
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "W"]
+DQ D2 DA D4
+D7 D6 D5 DK
+H2 H8 HK H3
+HJ HQ H6 H4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "16"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q54.J2.QJ7.97632 AKJT92.Q8.62.AQJ 73.K76.AT853.T54 86.AT9543.K94.K8"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 450"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1S Pass 1NT
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+DA D4 DQ D2
+D8 DK D7 D6
+S3 S8 S5 S2
+S7 S6 SQ SA
+D3 H3 S4 SK
+D5 H4 C7 SJ
+H7 H5 C2 ST
+DT H9 C3 S9
+C4 C8 C6 CQ
+C5 CK C9 CA
+CT D9 H2 CJ
+H6 HA HJ H8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "17"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A.AT642.842.T643 QJT97.K.QT93.KJ7 K832.QJ75.J76.Q8 654.983.AK5.A952"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS -140"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "N"]
+Pass 1S Pass 2NT
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+CQ CA C3 C7
+S2 S4 SA S7
+C8 C2 C6 CK
+S3 S5 H6 S9
+SK S6 H2 SQ
+HQ H3 HA HK
+S8 C5 C4 CJ
+H5 H8 HT ST
+H7 H9 H4 SJ
+D6 DA D2 DT
+D7 DK D4 D3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "17"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A.AT642.842.T643 QJT97.K.QT93.KJ7 K832.QJ75.J76.Q8 654.983.AK5.A952"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1S Pass 3C
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+HJ H3 HA HK
+H5 H8 H4 S7
+S2 S4 SA SQ
+HQ H9 H2 C7
+CQ C2 C3 CK
+S3 S5 D4 SJ
+C8 C5 C4 CJ
+D6 DA D2 D3
+S8 CA C6 D9
+SK S6 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "18"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:43.A32.KQJ4.T983 KQ976.8764.62.J7 8.KQJ.AT9875.K65 AJT52.T95.3.AQ42"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS 50"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "E"]
+Pass Pass 1D 1S
+2S 3S 5D Pass
+Pass Pass
+[Play "N"]
+SA S3 SK S8
+S2 S4 SQ DT
+D3 DK D2 D9
+S5 D4 D6 DA
+H5 H2 H4 HK
+H9 H3 H6 HQ
+HT HA H7 HJ
+CQ CT C7 C5
+CA C3 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "18"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:43.A32.KQJ4.T983 KQ976.8764.62.J7 8.KQJ.AT9875.K65 AJT52.T95.3.AQ42"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1NT Pass 3C Pass
+3H Pass 4H Pass
+5C Pass 5D Pass
+Pass Pass
+[Play "N"]
+SA S3 S6 S8
+S5 S4 SQ D7
+D3 DK D2 D9
+S2 DQ D6 DT
+CA CT C7 CK
+CQ C3 CJ C5
+C2 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "19"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KQ2.J85.K93.KJT6 T7.AT.A754.Q8753 8.Q96432.QT82.92 AJ96543.K7.J6.A4"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS -620"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "S"]
+1D Pass 2H 2S
+Pass 2NT Pass 4S
+Pass Pass Pass
+[Play "S"]
+H5 HT HQ HK
+CK C3 C2 C4
+H8 HA H2 H7
+S2 S7 S8 SA
+C6 C5 C9 CA
+SQ ST - S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "19"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KQ2.J85.K93.KJT6 T7.AT.A754.Q8753 8.Q96432.QT82.92 AJ96543.K7.J6.A4"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C Pass 2D 2S
+3H 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+H5 HT HQ HK
+S2 S7 S8 SA
+C6 C3 C2 CA
+CK C5 C9 C4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "20"]
+[West "Wasik A"]
+[North "Mihov V"]
+[East "Knap A"]
+[South "Nanev I"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ43.A75.QJ9.KJ5 86.Q83.A752.AT42 KT52.K42.T8.Q863 A97.JT96.K643.97"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "22"]
+[Score "NS -110"]
+[Table "6"]
+[VisitTeam "Spain"]
+[Auction "W"]
+1C Pass 1S Pass
+2S Pass Pass Pass
+[Play "S"]
+HJ H5 H8 HK
+S7 SQ S6 S2
+SA S3 S8 ST
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "20"]
+[West "Karaivanov K"]
+[North "Goded F"]
+[East "Trendafilov R"]
+[South "Lantaron L"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ43.A75.QJ9.KJ5 86.Q83.A752.AT42 KT52.K42.T8.Q863 A97.JT96.K643.97"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -110"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1S Pass
+2S Pass Pass Pass
+[Play "S"]
+HT H5 H3 HK
+S7 SJ S6 S2
+D3 D9 DA D8
+H6 HA HQ H2
+SA S3 S8 ST
+HJ H7 H8 H4
+C9 CJ CA C3
+C7 C5 C2 C8
+- - - S5
+*
+

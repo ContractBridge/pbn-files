@@ -1,0 +1,548 @@
+% PBN 1.0
+% Bridge Plaza source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "2001 Junior Test"]
+[Site "Brasserie Boudewijn - Den Bosch, Netherlands, NLD"]
+[Date "2001.04.25"]
+[Round "R7"]
+[Board "1"]
+[Room "Open"]
+[West "Schollaardt"]
+[North "Shillitoe"]
+[East "Lagas"]
+[South "Philp"]
+[Dealer "N"]
+[Deal "S:K763.KJ3.AJ82.42 T952.T965..AKJ96 J4.Q74.K6543.Q75 AQ8.A82.QT97.T83"]
+[Vulnerable "None"]
+[Contract "3C"]
+[Declarer "E"]
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 1NT Pass 2NT 
+Pass 3C Pass Pass 
+Pass    
+[Play "S"]
+C4 CA C5 C3 
+H3 HT HQ HA 
+HJ H5 H7 H8 
+C2 CK C7 C8 
+SK S2 S4 S8 
+D2 C6 D3 D7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "1"]
+[Room "Closed"]
+[West "Birdsall"]
+[North "Drijver"]
+[East "Probst"]
+[South "Brink S"]
+[Dealer "N"]
+[Deal "S:K763.KJ3.AJ82.42 T952.T965..AKJ96 J4.Q74.K6543.Q75 AQ8.A82.QT97.T83"]
+[Vulnerable "None"]
+[Contract "1NT"]
+[Declarer "E"]
+[Auction "N"]
+Pass 1NT Pass Pass 
+Pass    
+[Play "S"]
+S6 S2 SJ SQ 
+C2 C6 C5 CT 
+C4 CJ CQ C8 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "2"]
+[Room "Open"]
+[West "Schollaardt"]
+[North "Shillitoe"]
+[East "Lagas"]
+[South "Philp"]
+[Dealer "E"]
+[Deal "S:T986.A.J9.AJ8652 K74.KQ9432.AQT4. J53.87.K86.KQT93 AQ2.JT65.7532.74"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 1H Pass 
+2H X 4H Pass 
+Pass Pass   
+[Play "N"]
+CQ C4 CA H2 
+H7 HJ HA H3 
+C3 C7 C8 HQ 
+H8 HT C2 H9 
+D6 D2 D9 DA 
+S3 SQ S6 S4 
+DK D3 DJ DQ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "2"]
+[Room "Closed"]
+[West "Birdsall"]
+[North "Drijver"]
+[East "Probst"]
+[South "Brink S"]
+[Dealer "E"]
+[Deal "S:T986.A.J9.AJ8652 K74.KQ9432.AQT4. J53.87.K86.KQT93 AQ2.JT65.7532.74"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 1H Pass 
+2H X 4H Pass 
+Pass Pass   
+[Play "N"]
+C3 C4 CA H2 
+H7 H5 HA HK 
+C9 C7 C2 H3 
+H8 HJ C5 H4 
+DK D2 D9 DT 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "3"]
+[Room "Open"]
+[West "Schollaardt"]
+[North "Shillitoe"]
+[East "Lagas"]
+[South "Philp"]
+[Dealer "S"]
+[Deal "S:T8.T6.Q8.AK95432 QJ6.AJ974.KT2.QJ A53.K853.J9654.T K9742.Q2.A73.876"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "E"]
+[Auction "S"]
+3C X Pass 4S 
+Pass Pass Pass  
+[Play "S"]
+CK CJ CT C6 
+CA CQ D4 C7 
+C9 SQ H5 C8 
+S8 SJ SA S2 
+ST S6 S5 S9 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "3"]
+[Room "Closed"]
+[West "Birdsall"]
+[North "Drijver"]
+[East "Probst"]
+[South "Brink S"]
+[Dealer "S"]
+[Deal "S:T8.T6.Q8.AK95432 QJ6.AJ974.KT2.QJ A53.K853.J9654.T K9742.Q2.A73.876"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "E"]
+[Auction "S"]
+3C X Pass 4S 
+Pass Pass Pass  
+[Play "S"]
+CA CJ CT C6 
+CK CQ H3 C7 
+C9 SQ D4 C8 
+ST S6 S3 S9 
+HT - - - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "4"]
+[Room "Open"]
+[West "Schollaardt"]
+[North "Shillitoe"]
+[East "Lagas"]
+[South "Philp"]
+[Dealer "W"]
+[Deal "S:AT4.AK732.Q753.7 K832.QT9.T64.A83 J765.4.2.KQJ9542 Q9.J865.AKJ98.T6"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "W"]
+Pass 3C Pass 3D 
+Pass 3S Pass 3NT 
+Pass Pass Pass  
+[Play "W"]
+S2 S5 S9 ST 
+C3 CK C6 C7 
+H9 H4 H5 H2 
+S3 S6 SQ SA 
+HT C2 H6 HA 
+HQ C4 H8 HK 
+SK S7 D8 S4 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "4"]
+[Room "Closed"]
+[West "Birdsall"]
+[North "Drijver"]
+[East "Probst"]
+[South "Brink S"]
+[Dealer "W"]
+[Deal "S:AT4.AK732.Q753.7 K832.QT9.T64.A83 J765.4.2.KQJ9542 Q9.J865.AKJ98.T6"]
+[Vulnerable "Both"]
+[Contract "4C"]
+[Declarer "N"]
+[Auction "W"]
+Pass Pass 1NT 2H 
+Pass 3C Pass 3D 
+Pass 4C Pass Pass 
+Pass    
+[Play "E"]
+DA D3 D4 D2 
+SQ SA S2 S5 
+C6 C7 C3 CK 
+CT H2 CA CQ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "5"]
+[Room "Open"]
+[West "Schollaardt"]
+[North "Shillitoe"]
+[East "Lagas"]
+[South "Philp"]
+[Dealer "N"]
+[Deal "S:93.JT87.AQ432.73 J764.K963.65.QJ4 AQT85.A2.7.AK862 K2.Q54.KJT98.T95"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "N"]
+1S Pass 1NT Pass 
+3C Pass 3NT Pass 
+Pass Pass   
+[Play "W"]
+H3 H2 HQ H7 
+D5 D7 DJ DQ 
+C4 C2 C9 C7 
+D6 S5 DT DA 
+S4 SQ SK S3 
+- - DK - 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "5"]
+[Room "Closed"]
+[West "Birdsall"]
+[North "Drijver"]
+[East "Probst"]
+[South "Brink S"]
+[Dealer "N"]
+[Deal "S:93.JT87.AQ432.73 J764.K963.65.QJ4 AQT85.A2.7.AK862 K2.Q54.KJT98.T95"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "N"]
+1S 2D Pass Pass 
+3C Pass 3NT Pass 
+Pass Pass   
+[Play "W"]
+D6 D7 D8 DQ 
+S6 S5 SK S9 
+D5 C2 DK DA 
+S4 ST S2 S3 
+- SA - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "6"]
+[Room "Open"]
+[West "Schollaardt"]
+[North "Shillitoe"]
+[East "Lagas"]
+[South "Philp"]
+[Dealer "E"]
+[Deal "S:AKQ2.984.9.KQ765 865.KQ72.8.A8432 T743.J.AKQ753.JT J9.AT653.JT642.9"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "E"]
+Pass 1C Pass 1D 
+Pass 1S Pass 4S 
+Pass Pass Pass  
+[Play "W"]
+D8 DA D6 D9 
+S6 S3 S9 SA 
+S5 S4 SJ SK 
+S8 ST H6 S2 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "6"]
+[Room "Closed"]
+[West "Birdsall"]
+[North "Drijver"]
+[East "Probst"]
+[South "Brink S"]
+[Dealer "E"]
+[Deal "S:AKQ2.984.9.KQ765 865.KQ72.8.A8432 T743.J.AKQ753.JT J9.AT653.JT642.9"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "E"]
+2H 2S 4H 4S 
+Pass Pass Pass  
+[Play "W"]
+D8 DA D2 D9 
+S5 S3 S9 SA 
+S6 S4 SJ SK 
+S8 S7 H3 SQ 
+CA CT C9 C5 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "7"]
+[Room "Open"]
+[West "Schollaardt"]
+[North "Shillitoe"]
+[East "Lagas"]
+[South "Philp"]
+[Dealer "S"]
+[Deal "S:K53.Q98753.A9.82 T4.KJ2.KQJT3.Q96 A96.64.876.KT753 QJ872.AT.542.AJ4"]
+[Vulnerable "Both"]
+[Contract "3C"]
+[Declarer "E"]
+[Auction "S"]
+2D Pass 2H Pass 
+Pass 2NT Pass 3C 
+Pass Pass Pass  
+[Play "S"]
+H5 H2 H6 HT 
+SK S4 S6 S2 
+H3 HJ H4 HA 
+S3 ST SA S7 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "7"]
+[Room "Closed"]
+[West "Birdsall"]
+[North "Drijver"]
+[East "Probst"]
+[South "Brink S"]
+[Dealer "S"]
+[Deal "S:K53.Q98753.A9.82 T4.KJ2.KQJT3.Q96 A96.64.876.KT753 QJ872.AT.542.AJ4"]
+[Vulnerable "Both"]
+[Contract "2S"]
+[Declarer "E"]
+[Auction "S"]
+Pass 1NT Pass 2H 
+X Pass Pass 2S 
+Pass Pass Pass  
+[Play "S"]
+C8 C6 C3 CJ 
+S3 ST SA S2 
+- - H6 - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "8"]
+[Room "Open"]
+[West "Schollaardt"]
+[North "Shillitoe"]
+[East "Lagas"]
+[South "Philp"]
+[Dealer "W"]
+[Deal "S:K8.KQ8.AT64.KQT5 AJT9.A2.J952.874 Q32.543.73.J9632 7654.JT976.KQ8.A"]
+[Vulnerable "None"]
+[Contract "2NT"]
+[Declarer "S"]
+[Auction "W"]
+Pass Pass 2H 2NT 
+Pass Pass Pass  
+[Play "W"]
+ST S2 S7 SK 
+C8 C2 CA CK 
+HA H3 HJ HK 
+S9 SQ S4 S8 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "8"]
+[Room "Closed"]
+[West "Birdsall"]
+[North "Drijver"]
+[East "Probst"]
+[South "Brink S"]
+[Dealer "W"]
+[Deal "S:K8.KQ8.AT64.KQT5 AJT9.A2.J952.874 Q32.543.73.J9632 7654.JT976.KQ8.A"]
+[Vulnerable "None"]
+[Contract "2C"]
+[Declarer "N"]
+[Auction "W"]
+Pass Pass 1H 1NT 
+Pass 2C Pass Pass 
+Pass    
+[Play "E"]
+DK - - - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "9"]
+[Room "Open"]
+[West "Schollaardt"]
+[North "Shillitoe"]
+[East "Lagas"]
+[South "Philp"]
+[Dealer "N"]
+[Deal "S:J764.AJ62.K82.K5 983.K953.AT765.Q K52.T87.943.A762 AQT.Q4.QJ.JT9843"]
+[Vulnerable "EW"]
+[Contract "2C"]
+[Declarer "E"]
+[Auction "N"]
+Pass 1C X XX 
+1NT 2C Pass Pass 
+Pass    
+[Play "S"]
+S4 S3 SK SA 
+CK CQ C2 C3 
+S6 S8 S5 ST 
+C5 H3 CA CJ 
+S7 S9 S2 SQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "9"]
+[Room "Closed"]
+[West "Birdsall"]
+[North "Drijver"]
+[East "Probst"]
+[South "Brink S"]
+[Dealer "N"]
+[Deal "S:J764.AJ62.K82.K5 983.K953.AT765.Q K52.T87.943.A762 AQT.Q4.QJ.JT9843"]
+[Vulnerable "EW"]
+[Contract "1NT"]
+[Declarer "E"]
+[Auction "N"]
+Pass 1NT Pass Pass 
+Pass    
+[Play "S"]
+S6 S3 SK SA 
+DK DA D3 DQ 
+D2 D5 D4 DJ 
+CK CQ C2 C3 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "10"]
+[Room "Open"]
+[West "Schollaardt"]
+[North "Shillitoe"]
+[East "Lagas"]
+[South "Philp"]
+[Dealer "E"]
+[Deal "S:86.AKJ7.Q82.QT95 K52.Q2.AKT54.K32 AQ743.8654.973.8 JT9.T93.J6.AJ764"]
+[Vulnerable "Both"]
+[Contract "1NT"]
+[Declarer "W"]
+[Auction "E"]
+Pass 1C 1NT Pass 
+Pass Pass   
+[Play "N"]
+S4 S9 S8 S5 
+D3 DJ DQ DK 
+D7 D6 D2 DA 
+D9 ST D8 DT 
+- - - D5 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R7"]
+[Board "10"]
+[Room "Closed"]
+[West "Birdsall"]
+[North "Drijver"]
+[East "Probst"]
+[South "Brink S"]
+[Dealer "E"]
+[Deal "S:86.AKJ7.Q82.QT95 K52.Q2.AKT54.K32 AQ743.8654.973.8 JT9.T93.J6.AJ764"]
+[Vulnerable "Both"]
+[Contract "1NT"]
+[Declarer "W"]
+[Auction "E"]
+Pass 1C 1NT Pass 
+Pass Pass   
+[Play "N"]
+S3 S9 S6 S2 
+D3 DJ DQ DK 
+- - - DA 
+*
+[Result "8"]
+

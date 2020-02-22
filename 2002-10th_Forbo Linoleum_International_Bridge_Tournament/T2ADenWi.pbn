@@ -1,0 +1,516 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "2002 Forbo Teams"]
+[Site "Steigenberger Kurhaus Hotel - Scheveningen, The Netherlands, NLD"]
+[Date "2002.02.24"]
+[Round "2"]
+[Board "9"]
+[West "Brulleman"]
+[North "Norgaard"]
+[East "Wijma"]
+[South "Caspersen"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:A9842.JT72.K5.T2 KJ73.4.T643.Q973 65.AQ9653.J9.A64 QT.K8.AQ872.KJ85"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "N"]
+1H 2D 2NT 3D 
+Pass Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "E"]
+DA D5 DT D9 
+D8 DK D6 DJ 
+HK HJ H4 H3 
+H8 H2 D4 HQ 
+ST S2 S3 S6 
+SQ SA S7 S5 
+C5 S9 SK H5 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "9"]
+[West "Raulund"]
+[North "De Vrind"]
+[East "Nicolaisen"]
+[South "Ten Brink"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:A9842.JT72.K5.T2 KJ73.4.T643.Q973 65.AQ9653.J9.A64 QT.K8.AQ872.KJ85"]
+[Vulnerable "EW"]
+[Contract "4C"]
+[Declarer "W"]
+[Auction "N"]
+1H 1NT 3H X 
+Pass 3NT X 4C 
+Pass Pass Pass  
+[Play "N"]
+S5 ST SA S7 
+S6 SQ S4 S3 
+C6 CJ C2 C3 
+CA C5 CT CQ 
+HA H8 H2 H4 
+H6 HK H7 D3 
+C4 C8 S2 C9 
+H3 D2 S8 SK 
+D9 DQ DK D4 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "10"]
+[West "Brulleman"]
+[North "Norgaard"]
+[East "Wijma"]
+[South "Caspersen"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:AJ983.A5.AK.K765 T754.864.QJT2.43 K6.93.98654.AT98 Q2.KQJT72.73.QJ2"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "E"]
+1H X Pass 2D 
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Play "W"]
+S5 S6 SQ SA 
+S4 SK S2 S3 
+D2 D4 D3 DA 
+S7 D5 H2 SJ 
+DT D6 D7 DK 
+C3 C8 C2 CK 
+C4 C9 CQ C5 
+H4 H3 HK HA 
+- - - C7 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "10"]
+[West "Raulund"]
+[North "De Vrind"]
+[East "Nicolaisen"]
+[South "Ten Brink"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:AJ983.A5.AK.K765 T754.864.QJT2.43 K6.93.98654.AT98 Q2.KQJT72.73.QJ2"]
+[Vulnerable "Both"]
+[Contract "6C"]
+[Declarer "S"]
+[Auction "E"]
+1H 1S Pass Pass 
+2H 3C Pass 3H 
+Pass 3NT Pass 4C 
+Pass 4D Pass 4S 
+Pass 4NT Pass 5D 
+Pass 6C Pass Pass 
+Pass    
+[Play "W"]
+H4 H3 HJ HA 
+D2 D4 D3 DA 
+DT D5 D7 DK 
+C4 C8 C2 CK 
+C3 CA CJ C5 
+DJ D9 H2 C6 
+S4 SK S2 S3 
+S5 S6 SQ SA 
+S7 H9 H7 SJ 
+ST C9 HT S8 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "11"]
+[West "Brulleman"]
+[North "Norgaard"]
+[East "Wijma"]
+[South "Caspersen"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:A.J2.KJ42.AJT942 KJ764.8765.987.Q Q532.AQ943.63.76 T98.KT.AQT5.K853"]
+[Vulnerable "None"]
+[Contract "2C"]
+[Declarer "S"]
+[Auction "S"]
+1C Pass 1H Pass 
+2C Pass Pass Pass 
+[Play "W"]
+D9 D3 DQ DK 
+H5 HQ HK H2 
+CQ C6 C3 CJ 
+H6 HA HT HJ 
+H7 H9 C5 CT 
+D7 D6 DT D2 
+S4 C7 C8 CA 
+S6 H3 CK C4 
+S7 S2 ST SA 
+SJ S3 S8 C9 
+SK S5 S9 C2 
+D8 SQ D5 D4 
+H8 H4 DA DJ 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "11"]
+[West "Raulund"]
+[North "De Vrind"]
+[East "Nicolaisen"]
+[South "Ten Brink"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:A.J2.KJ42.AJT942 KJ764.8765.987.Q Q532.AQ943.63.76 T98.KT.AQT5.K853"]
+[Vulnerable "None"]
+[Contract "2C"]
+[Declarer "S"]
+[Auction "S"]
+1C Pass 1H Pass 
+2C Pass Pass Pass 
+[Play "W"]
+D9 D3 D5 DJ 
+H5 H3 HK HJ 
+CQ C6 C3 CJ 
+H6 HA HT H2 
+H8 HQ C5 C9 
+D7 D6 DT D2 
+S7 C7 C8 CA 
+H7 S2 CK C2 
+S4 S3 S9 SA 
+S6 - - CT 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "12"]
+[West "Brulleman"]
+[North "Norgaard"]
+[East "Wijma"]
+[South "Caspersen"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:Q43.AKT2.J64.AKT A8762.96.Q875.86 KT9.Q543.KT32.Q4 J5.J87.A9.J97532"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "W"]
+Pass Pass 3C 3NT 
+Pass Pass Pass  
+[Play "W"]
+C8 C4 C2 CT 
+D5 DT DA D6 
+H6 H3 H7 HA 
+S2 SK S5 S3 
+C6 CQ C3 CK 
+D8 DK D9 D4 
+DQ D2 C5 DJ 
+D7 D3 C7 H2 
+H9 H4 HJ HK 
+S6 S9 C9 CA 
+- - - HT 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "12"]
+[West "Raulund"]
+[North "De Vrind"]
+[East "Nicolaisen"]
+[South "Ten Brink"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:Q43.AKT2.J64.AKT A8762.96.Q875.86 KT9.Q543.KT32.Q4 J5.J87.A9.J97532"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "W"]
+Pass Pass Pass 1NT 
+Pass 2C Pass 2H 
+Pass 4H Pass Pass 
+Pass    
+[Play "W"]
+D7 D2 D9 DJ 
+H6 H3 H7 HA 
+H9 HQ H8 H2 
+S2 H4 HJ HK 
+D5 DT DA D4 
+C6 C4 C5 CT 
+S6 SK S5 S3 
+D8 DK C2 D6 
+- CQ - - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "13"]
+[West "Brulleman"]
+[North "Norgaard"]
+[East "Wijma"]
+[South "Caspersen"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:AQ8.AT752.J9.976 T73.964.K3.QT843 KJ964.J8.T74.AJ5 52.KQ3.AQ8652.K2"]
+[Vulnerable "Both"]
+[Contract "1NT"]
+[Declarer "E"]
+[Auction "N"]
+Pass 1NT Pass Pass 
+Pass    
+[Play "S"]
+H2 H4 HJ HQ 
+D9 DK D4 D2 
+DJ D3 D7 DA 
+C9 C3 DT DQ 
+C7 S3 S6 D8 
+S8 C4 S4 D6 
+H5 S7 S9 D5 
+C6 C8 CA CK 
+HA H6 H8 HK 
+HT - - - 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "13"]
+[West "Raulund"]
+[North "De Vrind"]
+[East "Nicolaisen"]
+[South "Ten Brink"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:AQ8.AT752.J9.976 T73.964.K3.QT843 KJ964.J8.T74.AJ5 52.KQ3.AQ8652.K2"]
+[Vulnerable "Both"]
+[Contract "2S"]
+[Declarer "N"]
+[Auction "N"]
+Pass 2D Pass Pass 
+2S Pass Pass Pass 
+[Play "E"]
+HK HA H9 H8 
+HQ H2 H6 HJ 
+CK C6 C3 CA 
+S2 S8 S3 SK 
+S5 SA S7 S4 
+D2 SQ ST S6 
+- HT - - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "14"]
+[West "Brulleman"]
+[North "Norgaard"]
+[East "Wijma"]
+[South "Caspersen"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:JT75.A5.A94.QJ73 Q863.T732.K5.K84 K92.KQJ8.JT632.A A4.964.Q87.T9652"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "E"]
+Pass 1NT Pass 2D 
+Pass 2S Pass 3D 
+Pass 3NT Pass Pass 
+Pass    
+[Play "W"]
+C8 CA C6 C3 
+S3 S2 SA S5 
+CK D2 CT CQ 
+C4 D3 C9 CJ 
+S6 S9 S4 S7 
+S8 SK H6 ST 
+H2 H8 H4 HA 
+H3 D6 C2 C7 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "14"]
+[West "Raulund"]
+[North "De Vrind"]
+[East "Nicolaisen"]
+[South "Ten Brink"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:JT75.A5.A94.QJ73 Q863.T732.K5.K84 K92.KQJ8.JT632.A A4.964.Q87.T9652"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "E"]
+Pass 1C Pass 1D 
+Pass 1S Pass 2H 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Play "W"]
+H3 H8 H9 HA 
+H2 HJ H6 H5 
+DK D2 D8 D9 
+C4 CA C6 C3 
+D5 DJ D7 D4 
+S3 D3 DQ DA 
+S6 S9 SA S5 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "15"]
+[West "Brulleman"]
+[North "Norgaard"]
+[East "Wijma"]
+[South "Caspersen"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:AT84.AJ52.8.QJT3 6.Q84.AKQ63.AK87 QJ75.KT763.97.65 K932.9.JT542.942"]
+[Vulnerable "NS"]
+[Contract "5DX"]
+[Declarer "W"]
+[Auction "S"]
+1C 1D X 4D 
+4H 5D Pass Pass 
+X Pass Pass Pass 
+[Play "N"]
+C6 C2 CT CA 
+D7 D2 D8 DA 
+D9 D4 H2 DK 
+C5 C9 CJ C8 
+H6 H9 HA H4 
+H3 C4 C3 C7 
+SJ SK SA S6 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "15"]
+[West "Raulund"]
+[North "De Vrind"]
+[East "Nicolaisen"]
+[South "Ten Brink"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:AT84.AJ52.8.QJT3 6.Q84.AKQ63.AK87 QJ75.KT763.97.65 K932.9.JT542.942"]
+[Vulnerable "NS"]
+[Contract "5DX"]
+[Declarer "W"]
+[Auction "S"]
+1C 1D 1H 4D 
+4H 5D X Pass 
+Pass Pass   
+[Play "N"]
+C5 C2 CJ CK 
+D7 D2 D8 DA 
+D9 DJ H2 DQ 
+SQ SK SA S6 
+S5 S2 S4 D6 
+HT H9 H5 H4 
+S7 S3 S8 D3 
+H6 D4 HJ H8 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "16"]
+[West "Brulleman"]
+[North "Norgaard"]
+[East "Wijma"]
+[South "Caspersen"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:QT53.7652.963.J6 62.T84.AK8752.AT KJ984.Q9.QJ.Q932 A7.AKJ3.T4.K8754"]
+[Vulnerable "EW"]
+[Contract "5D"]
+[Declarer "W"]
+[Auction "W"]
+1D 1S X 3S 
+Pass Pass X Pass 
+4D Pass 5D Pass 
+Pass Pass   
+[Play "N"]
+S4 SA S3 S2 
+DJ D4 D3 DA 
+DQ DT D6 DK 
+C2 C4 C6 CA 
+C3 CK CJ CT 
+C9 C5 S5 D2 
+H9 HA H2 H4 
+CQ C7 ST D5 
+- - - D8 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2"]
+[Board "16"]
+[West "Raulund"]
+[North "De Vrind"]
+[East "Nicolaisen"]
+[South "Ten Brink"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:QT53.7652.963.J6 62.T84.AK8752.AT KJ984.Q9.QJ.Q932 A7.AKJ3.T4.K8754"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "W"]
+2D Pass 2H Pass 
+2NT Pass 3C Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+S8 S7 SQ S2 
+S4 SA S3 S6 
+DJ DT D6 DA 
+H9 HJ H2 H4 
+HQ HA H5 H8 
+C2 H3 H6 HT 
+C3 C4 C6 CA 
+C9 CK CJ CT 
+*
+[Result "9"]
+

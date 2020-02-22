@@ -1,0 +1,504 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "11th European Open Pairs Championship 2001"]
+[Site "Sorrento, Italy, ITA"]
+[Date "2001.03.23"]
+[Round "F2"]
+[Board "16"]
+[Room "Open"]
+[West "K. Jassem"]
+[North "M. Lesniewski"]
+[East "P. Tuszynski"]
+[South "K. Martens"]
+[Dealer "W"]
+[Deal "S:K98.A9742.876.74 5.KT85.AQJ52.KQ6 QT7432.6.T43.832 AJ6.QJ3.K9.AJT95"]
+[Vulnerable "EW"]
+[Contract "6C"]
+[Declarer "E"]
+{
+A splendid auction! A 2-over-1 response with extras, a reverse
+by opener followed by club support showing the 1=4=5=3 pattern,
+bidding of controls slowly, culminating in a Roman Key-Card ask
+to confirm that one key is missing but the queen of clubs is
+present.
+}
+[Auction "W"]
+1D Pass 2C Pass 
+2H Pass 2NT Pass 
+3C Pass 3D Pass 
+3NT Pass 4C Pass 
+4D Pass 4NT Pass 
+5S Pass 6C Pass 
+Pass Pass   
+[Play "S"]
+HA H5 H6 H3 
+H2 H8 - - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F2"]
+[Board "17"]
+[Room "Open"]
+[West "Tony Clark"]
+[North "M. Lesniewski"]
+[East "A. Thompson"]
+[South "K. Martens"]
+[Dealer "N"]
+[Deal "S:J3.52.AKT763.KJ5 AT962.A94.J84.32 KQ854.QJ86.9.A96 7.KT73.Q52.QT874"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "S"]
+{
+Another good auction with opener "patterning out" to show his
+minimum 5=4=1=3 hand. However, the eventual three notrump wasn't
+a great contract. West found the most effective lead, the H4.
+East topped dummy's HJ with the HK and returned the H3 to West's
+HA. West played the H9 to drive out dummy's HQ, and now declarer
+needed some luck.
+}
+[Auction "N"]
+1S Pass 2D Pass 
+2H Pass 2NT Pass 
+3C Pass 3NT Pass 
+Pass Pass   
+[Play "W"]
+H4 HJ HK H5 
+HA H6 H3 H2 
+H9 HQ H7 D3 
+SA S4 S7 SJ 
+S2 SK C4 S3 
+DJ D9 D2 D6 
+ST SQ D5 C5 
+C2 C6 C8 CK 
+D4 H8 DQ DA 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F2"]
+[Board "18"]
+[Room "Open"]
+[West "Tony Clark"]
+[North "M. Lesniewski"]
+[East "A. Thompson"]
+[South "K. Martens"]
+[Dealer "E"]
+[Deal "S:AQT64.QJ4.KQ7.93 J5.KT96.2.AQT642 98732.52.86543.J K.A873.AJT9.K875"]
+[Vulnerable "NS"]
+[Contract "5C"]
+[Declarer "W"]
+{
+East opened an Acolish one heart on a thin four-card suit, and
+over South's one-spade overcall West bid two clubs in the classic
+Acol "Delayed Game Raise" style. North's weak jump raise drew
+a sound four-club raise from East. With the bidding already at
+the four-level, West could not complete his plan of jumping to
+four hearts; East, expecting only three-card support, "corrected"
+four hearts to five clubs; West made a matchpoint error by not
+correcting to hearts.
+}
+[Auction "E"]
+1H 1S 2C 3S 
+4C Pass 4H Pass 
+5C Pass Pass Pass 
+[Play "N"]
+S8 SK SA S5 
+H2 H3 H4 H9 
+CJ C5 C3 CA 
+S3 C7 S4 SJ 
+S2 CK C9 C2 
+D6 DA D7 D2 
+D8 D9 DQ C6 
+H5 HA HJ H6 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F2"]
+[Board "19"]
+[Room "Open"]
+[West "G. Narkiewicz"]
+[North "M. Lesniewski"]
+[East "P. Lutostanski"]
+[South "K. Martens"]
+[Dealer "S"]
+[Deal "S:K764.6.AQT964.J7 A8.A542.K.AK8652 QJT53.KQT93.J.T3 92.J87.87532.Q94"]
+[Vulnerable "EW"]
+[Contract "4SX"]
+[Declarer "N"]
+{
+After opening a light, shapely one diamond and receiving a two-spade
+response from North over West's two-club overcall, South jumped
+to four spades. That was an overbid, yet it might have worked
+very well if South had the right (club, not heart) singleton.
+West, with aces and kings coming out of his ears, expressed his
+disbelief by doubling.
+}
+[Auction "S"]
+1D 2C 2S Pass 
+4S X Pass Pass 
+Pass    
+[Play "E"]
+D2 D4 DK DJ 
+C9 C7 CA C3 
+H8 H6 HA H3 
+C4 CJ CK CT 
+HJ S4 H2 H9 
+S2 S6 S8 SQ 
+S9 SK SA S3 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F2"]
+[Board "20"]
+[Room "Open"]
+[West "G. Narkiewicz"]
+[North "M. Lesniewski"]
+[East "P. Lutostanski"]
+[South "K. Martens"]
+[Dealer "W"]
+[Deal "S:Q542.QT73.A54.T3 A76.AJ2.KJ9.J542 KT3.54.QT.AKQ976 J98.K986.87632.8"]
+[Vulnerable "Both"]
+[Contract "3C"]
+[Declarer "N"]
+{
+West opened a weakish notrump. Doubling a weak notrump with a
+one-suiter seldom pays when the weak notrumpers have a decent
+runout system; it's usually better to show your suit. South took
+his opponents off the hook when he bid a four-card suit before
+they found their best spot. North, who had not shown his suit,
+had to correct to three clubs.
+}
+[Auction "W"]
+1NT X 2C 2H 
+Pass 3C Pass Pass 
+Pass    
+[Play "E"]
+D7 D4 DK DT 
+D2 D5 DJ DQ 
+C8 C3 C2 CA 
+D3 CT C4 CK 
+HK H3 H2 H5 
+SJ S2 S7 SK 
+H6 HQ HA H4 
+- - HJ - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F2"]
+[Board "21"]
+[Room "Open"]
+[West "Ian Pagan"]
+[North "M. Lesniewski"]
+[East "Lizzie Godfrey"]
+[South "K. Martens"]
+[Dealer "N"]
+[Deal "S:KJ.A84.QT64.AT82 Q873.JT93.83.KQ4 T9654.Q72.J75.65 A2.K65.AK92.J973"]
+[Vulnerable "NS"]
+[Contract "2NT"]
+[Declarer "E"]
+{
+South wisely kept silent with his balanced hand. East, a weak
+notrumper, showed 15 to 17 HCP with her one-notrump rebid; West
+raised to two notrump overoptimistically, a game try that East
+of course rejected. South's least-of-evils C2 lead let East score
+the C9. Quite properly, South let East's HK hold Trick Two.
+}
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 1NT Pass 2NT 
+Pass Pass Pass  
+[Play "S"]
+C2 C4 C5 C9 
+H4 H3 H7 HK 
+H8 H9 HQ H5 
+D4 D3 D7 DA 
+HA HT H2 H6 
+CA CQ C6 C3 
+C8 CK S6 C7 
+CT HJ S5 D2 
+SJ S3 S4 SA 
+D6 S7 S9 CJ 
+DT D8 D5 DK 
+DQ S8 DJ D9 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F2"]
+[Board "22"]
+[Room "Open"]
+[West "Ian Pagan"]
+[North "M. Lesniewski"]
+[East "Lizzie Godfrey"]
+[South "K. Martens"]
+[Dealer "E"]
+[Deal "S:K.KJ65.AJ7.A8432 AQJ953.874.Q3.T9 T8742.QT32.94.75 6.A9.KT8652.KQJ6"]
+[Vulnerable "EW"]
+[Contract "3S"]
+[Declarer "W"]
+{
+South must be a disciple of Marshall Miles, who preaches and
+practices one-heart overcalls with four mediocre hearts and longer
+clubs. North may have been surprised to find his weak jump raise
+pushing his opponents to three of his five-card suit.
+}
+[Auction "E"]
+1D 1H 1S 3H 
+Pass Pass 3S Pass 
+Pass Pass   
+[Play "N"]
+HQ H9 H5 H8 
+H2 HA HK H7 
+C5 C6 CA CT 
+S4 S6 SK SA 
+S2 D2 C4 SQ 
+C7 CJ C2 C9 
+S7 CQ C3 H4 
+D4 DK DA D3 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F2"]
+[Board "23"]
+[Room "Open"]
+[West "Marek Tutka"]
+[North "M. Lesniewski"]
+[East "Janusz Gawecki"]
+[South "K. Martens"]
+[Dealer "S"]
+[Deal "S:KT7.QT7.AQT2.T74 A93.KJ42.J954.J5 Q8652.6.K863.KQ2 J4.A9853.7.A9863"]
+[Vulnerable "Both"]
+[Contract "2S"]
+[Declarer "N"]
+{
+After a shaded third-seat opening, a "Reverse Drury" two-club
+response let North-South stop safely in two spades. East, with
+thin, almost twin, ace-fifth suits, dared not enter vulnerable.
+}
+[Auction "S"]
+Pass Pass 1S Pass 
+2C Pass 2S Pass 
+Pass Pass   
+[Play "E"]
+D7 D2 D9 DK 
+S4 ST S3 S2 
+CA C4 C5 CK 
+C9 CT CJ CQ 
+SJ SK SA S5 
+H5 S7 S9 SQ 
+C3 DA D4 D3 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F2"]
+[Board "24"]
+[Room "Open"]
+[West "Marek Tutka"]
+[North "M. Lesniewski"]
+[East "Janusz Gawecki"]
+[South "K. Martens"]
+[Dealer "W"]
+[Deal "S:K92.AT.853.T9874 J8654.J9.942.632 QT.K76432.AJ76.5 A73.Q85.KQT.AKQJ"]
+[Vulnerable "None"]
+[Contract "3S"]
+[Declarer "W"]
+{
+North opened a light but shapely one heart. In reply to East's
+takeout double, West made a weak two-spade jump, a very uncommon
+treatment of that bid. With his powerful balanced hand, East
+still had visions of game. He rebid two notrump to describe his
+values, but subsided after West signed off in three spades.
+}
+[Auction "W"]
+Pass 1H X Pass 
+2S Pass 2NT Pass 
+3S Pass Pass Pass 
+[Play "N"]
+C5 CJ CT C3 
+ST S3 S2 S8 
+H2 H5 HA H9 
+SQ CQ C8 C6 
+HK H8 HT HJ 
+DA DT D3 D2 
+H4 HQ SK D4 
+H3 - C7 C2 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F2"]
+[Board "25"]
+[Room "Open"]
+[West "Bas Drijver"]
+[North "M. Lesniewski"]
+[East "Simon De Wijs"]
+[South "K. Martens"]
+[Dealer "N"]
+[Deal "S:AT952.932.754.AK J.AJT54.QT.J9432 Q643.Q86.J32.876 K87.K7.AK986.QT5"]
+[Vulnerable "EW"]
+[Contract "4HX"]
+[Declarer "E"]
+{
+South's initial pass let West show hearts via a Jacoby Transfer.
+South's belated two spades in a live auction put him in jeopardy
+of a cooperative double; luckily, it was West who was short in
+spades, North who had four. West's three clubs took South off
+the hook but North's three spades on trash put him back on. When
+East failed to double, West bid four clubs. West being unlimited,
+East gave false preference to four hearts. With three likely
+winners, South doubled.
+}
+[Auction "N"]
+Pass 1NT Pass 2D 
+Pass 2H 2S 3C 
+3S Pass Pass 4C 
+Pass 4H X Pass 
+Pass Pass   
+[Play "S"]
+CK C2 C7 CT 
+CA C3 C6 CQ 
+S2 SJ SQ SK 
+H2 H4 H6 HK 
+H3 HJ HQ H7 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F2"]
+[Board "26"]
+[Room "Open"]
+[West "Bas Drijver"]
+[North "M. Lesniewski"]
+[East "Simon De Wijs"]
+[South "K. Martens"]
+[Dealer "E"]
+[Deal "S:Q983.65.QT6432.7 AT62.AQT32.KJ.Q9 KJ754.84.A97.654 .KJ97.85.AKJT832"]
+[Vulnerable "Both"]
+[Contract "6H"]
+[Declarer "W"]
+{
+North's wafer-thin sandwich one spade with a balanced hand escaped
+the punishment I think it deserved when East, not South, had
+the spade void. East's playing-strength raise to four hearts
+inspired South, with a weak distributional hand, to bid four
+spades. That too escaped punishment when West used Roman Key-Card
+Blackwood to drive to six hearts. East's five-notrump reply,
+in the usual RKCB methods, showed two keys and a void, but of
+course West didn't care about the spade void.
+}
+[Auction "E"]
+1C Pass 1H 1S 
+4H 4S 4NT Pass 
+5NT Pass 6H Pass 
+Pass Pass   
+[Play "N"]
+DA D5 D2 DJ 
+D7 D8 D3 DK 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F2"]
+[Board "27"]
+[Room "Open"]
+[West "W. Starkowski"]
+[North "M. Lesniewski"]
+[East "S. Golebiowski"]
+[South "K. Martens"]
+[Dealer "S"]
+[Deal "S:72.AT6543.JT7.96 AK9.J72.A65.KJ53 J86543.K.432.AQ2 QT.Q98.KQ98.T874"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+South's "Multi" two diamonds (usually a weak two-bid type hand
+in a major) didn't deter West from bidding two notrump without
+a heart stopper; I wonder if an ordinary weak two-heart bid would.
+East had the stopper, and enough to raise to three notrump.
+}
+[Auction "S"]
+2D 2NT Pass 3NT 
+Pass Pass Pass  
+[Play "N"]
+S5 SQ S2 S9 
+CQ C4 C6 CJ 
+S6 ST S7 SK 
+CA C7 C9 CK 
+S4 H8 H3 SA 
+C2 C8 H4 C3 
+S8 CT H5 C5 
+D2 DK D7 D5 
+D3 D8 DT DA 
+D4 DQ DJ D6 
+S3 D9 H6 H2 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F2"]
+[Board "28"]
+[Room "Open"]
+[West "W. Starkowski"]
+[North "M. Lesniewski"]
+[East "S. Golebiowski"]
+[South "K. Martens"]
+[Dealer "W"]
+[Deal "S:A98.JT2.AT86.Q98 JT75.976.72.K752 Q62.K43.Q3.JT643 K43.AQ85.KJ954.A"]
+[Vulnerable "NS"]
+[Contract "2H"]
+[Declarer "E"]
+{
+The modern style is to play opener's reverses as forcing, but
+some pairs still adhere to the old-fashioned strong-but-not-forcing
+treatment. West, whose one-spade response was already a stretch,
+surely had the hand to pass East's two hearts.
+}
+[Auction "W"]
+Pass Pass 1D Pass 
+1S Pass 2H Pass 
+Pass Pass   
+[Play "S"]
+HJ H6 H3 HQ 
+DA D2 D3 DK 
+H2 H7 HK HA 
+D6 D7 DQ D4 
+HT H9 H4 H5 
+SA S5 S6 S3 
+S9 S7 S2 SK 
+C8 C2 C3 CA 
+S8 ST SQ S4 
+- - CJ - 
+*
+[Result "8"]
+

@@ -1,0 +1,126 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.11"]
+[Round "06"]
+[Board "16"]
+[Room "Open"]
+[West "Marty Fleisher"]
+[North "Kit Woolsey"]
+[East "Eric Rodwell"]
+[South "Fred Stewart"]
+[Dealer "W"]
+[Deal "S:K5.AQT.973.K8542 A32.J53.K65.AQ96 QT764.8762.A42.T J98.K94.QJT8.J73"]
+[Vulnerable "EW"]
+[Contract "1NT"]
+[Declarer "W"]
+{
+ For this round the 2000 Cavendish winners, Marty Fleisher/Eric
+Rodwell, face Kit Woolsey/Fred Stewart, playing a form of Precision.
+The round starts with a comfortable partscore for E/W. A heart
+lead would have been best for the defense, but Woolsey leads
+a spade, of course, and now Fleisher has a late spade entry to
+dummy. And when he establishes his diamonds, he at the same time
+knocks out Woolsey's entry to the spades. Nine easy tricks, for
+plus 150. 11 IMPs to Fleisher/Rodwell.
+}
+[Auction "W"]
+1NT Pass Pass Pass 
+[Play "N"]
+S4 S8 SK SA 
+D4 D8 D3 DK 
+D2 DT D7 D6 
+DA DJ D9 D5 
+H8 H9 HQ H3 
+CT CJ C2 C6 
+H2 DQ C5 H5 
+H7 C3 C4 CQ 
+SQ S9 S5 S2 
+H6 H4 HA HJ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "17"]
+[Room "Open"]
+[West "Marty Fleisher"]
+[North "Kit Woolsey"]
+[East "Eric Rodwell"]
+[South "Fred Stewart"]
+[Dealer "N"]
+[Deal "S:96.872.AKJT743.4 J4.AJT95.9.Q9863 QT853.6.Q52.AJ75 AK72.KQ43.86.KT2"]
+[Vulnerable "None"]
+[Contract "5H"]
+[Declarer "W"]
+{
+East/West are cold for 4H, but North/South have a cheap save
+in 5D, and when Woolsey shows his support for Stewart's long
+suit, the par contract is reached. However, when Fleisher doesn't
+double, Rodwell knows that 5D won't be expensive and takes the
+push. If there weren't a club ruff out or if the defenders were
+not up to finding it, 5H would normally be made (North's 2S opening
+shows at least five spades, at least four cards in a minor, and
+once South shows up with three hearts, it's easy to play North
+for club length).
+}
+[Auction "N"]
+2S 2NT 3D 3H 
+4D 4H 5D Pass 
+Pass 5H Pass Pass 
+Pass    
+[Play "N"]
+DQ D6 DK D9 
+CA C2 C4 C9 
+C7 CT H8 C3 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "18"]
+[Room "Open"]
+[West "Marty Fleisher"]
+[North "Kit Woolsey"]
+[East "Eric Rodwell"]
+[South "Fred Stewart"]
+[Dealer "E"]
+[Deal "S:976.963.QJ4.AT52 AK.A74.T986.KJ96 Q832.Q82.AK7.Q74 JT54.KJT5.532.83"]
+[Vulnerable "NS"]
+[Contract "1NT"]
+[Declarer "W"]
+{
+ Woolsey's dangerous-looking takeout double, vulnerable opposite
+a passed partner, could easily have cost 800 or more on a bad
+day, and even here, where Stewart has some bits and pieces, they
+are destined to lose at least 200 in 1NT their way if left to
+themselves. However, Rodwell sticks in a lead-directing 1H, and
+North/South are off the hook. Stewart plays the DQ to the first
+trick, to show the jack, reasonably enough, but when Woolsey
+continues with the DK, Stewart unblocks the jack, playing Woolsey
+for AK10 fourth or fifth.
+}
+[Auction "E"]
+Pass Pass 1C X 
+1H Pass 1NT Pass 
+Pass Pass   
+[Play "N"]
+DA D2 DQ D6 
+DK D3 DJ D9 
+D7 D5 D4 D8 
+S2 S4 S9 SA 
+S3 S5 S6 SK 
+H2 HJ H3 H4 
+SQ SJ S7 C6 
+H8 H5 H6 HA 
+C7 C3 C2 DT 
+HQ - - H7 
+*
+[Result "9"]
+

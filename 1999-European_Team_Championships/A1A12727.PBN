@@ -1,0 +1,1443 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "European Team Championships '99"]
+[Site "Malta, MLT"]
+[Date "1999.06.22"]
+[Board "1"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K.KQJ86.5.Q87632 AQJ86.3.AQ963.94 9543.T52.K742.K5 T72.A974.JT8.AJT"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS -420"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+1H 1S 2H 3H
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+H2 HA H6 H3
+S3 ST SK SA
+S4 S2 C6 SQ
+S5 S7 C7 SJ
+C5 CA C2 C9
+- D8 D5 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "1"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K.KQJ86.5.Q87632 AQJ86.3.AQ963.94 9543.T52.K742.K5 T72.A974.JT8.AJT"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1H 3C Pass 3H
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "N"]
+C3 C4 CK CA
+SK SA S3 S2
+C8 SQ S4 S7
+H6 S6 S5 ST
+D5 D3 DK DJ
+CQ C9 C5 CJ
+C7 D6 S9 CT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "2"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:K943.65.AKJ94.T4 7.T872.QT752.873 QT8652.AJ9.86.K6 AJ.KQ43.3.AQJ952"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "10"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS -590"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1S Pass 4S X
+Pass Pass Pass
+[Play "S"]
+D2 D6 D3 D4
+S7 S2 SJ SK
+D5 D8 SA DA
+C3 C6 CA C4
+C7 CK C5 CT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "2"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:K943.65.AKJ94.T4 7.T872.QT752.873 QT8652.AJ9.86.K6 AJ.KQ43.3.AQJ952"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1D Pass 1S X
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+CA C4 C8 C6
+HK H5 H8 HA
+SA S3 S7 S5
+HQ H6 H7 H9
+CQ CT C3 CK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "3"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J9.Q95.AQ874.Q52 53.AT643.62.A763 T82.8.JT53.JT984 AKQ764.KJ72.K9.K"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result "13"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS -1470"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass 1H Pass 2NT
+Pass 3C Pass 3D
+Pass 3H Pass 3S
+Pass 3NT Pass 4C
+Pass 5C Pass 6NT
+Pass Pass Pass
+[Play "S"]
+SJ S3 S2 SA
+S9 S5 S8 SK
+D4 D2 ST SQ
+D7 C3 CJ S7
+D8 D6 D5 S6
+C2 C6 C4 S4
+C5 C7 C8 CK
+H5 H3 H8 HK
+H9 H4 C9 HJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "3"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J9.Q95.AQ874.Q52 53.AT643.62.A763 T82.8.JT53.JT984 AKQ764.KJ72.K9.K"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -650"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1D Pass 1S Pass
+1NT Pass Pass X
+Pass 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+CJ CK C5 C3
+H8 HK H5 H3
+C4 H2 H9 HA
+C8 D9 C2 CA
+S2 SA S9 S5
+S8 SK SJ S3
+- SQ HQ -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "4"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T62.QJ52.A983.92 AK5.AK874.Q7.KJ7 J83.3.KT4.AQT865 Q974.T96.J652.43"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS -200"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+Pass 2NT Pass 3C
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+H3 H9 HQ HA
+S8 SQ S6 S5
+CQ C3 C2 CJ
+S3 S4 S2 SA
+CA C4 C9 CK
+C5 H6 HJ C7
+C6 HT H2 H4
+SJ S7 ST SK
+C8 D2 H5 HK
+DK D5 D3 DQ
+DT DJ DA D7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "4"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T62.QJ52.A983.92 AK5.AK874.Q7.KJ7 J83.3.KT4.AQT865 Q974.T96.J652.43"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1C 2C Pass
+2D 2H Pass Pass
+Pass
+[Play "E"]
+S3 S4 ST SA
+H3 H6 H5 HK
+C5 H9 H2 HA
+S8 S7 S2 SK
+SJ SQ S6 S5
+C8 S9 HJ D7
+C6 HT HQ H8
+CQ C3 C9 CJ
+DK D2 D3 DQ
+DT D5 D8 H4
+CT C4 C2 C7
+CA D6 D9 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "5"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:64.8.AJ732.T8754 AJT7.KT6.Q86.KJ2 KQ9832.QJ9.K5.93 5.A75432.T94.AQ6"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS -420"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass 1NT 2D 3C
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+SK S5 S4 SA
+H9 HA H8 H6
+HJ H2 C4 HK
+SQ H3 S6 ST
+C3 C6 C5 CJ
+S2 D4 D2 SJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "5"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:64.8.AJ732.T8754 AJT7.KT6.Q86.KJ2 KQ9832.QJ9.K5.93 5.A75432.T94.AQ6"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -400"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1NT Pass 2D
+Pass 2H 2S 3S
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+SK S5 S4 SA
+H9 HA H8 H6
+HJ H2 C8 HK
+HQ H3 D2 HT
+DK D4 D3 D6
+SQ C6 S6 S7
+D5 D9 DA D8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "6"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AQJT3.K75.T6.AJ8 86.93.AK2.KT9652 K52.QT42.9875.74 974.AJ86.QJ43.Q3"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "8"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS -50"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1C 2C Pass Pass
+2S Pass Pass 3C
+Pass Pass Pass
+[Play "W"]
+S2 S4 SA S6
+SK S7 SQ S8
+S5 S9 SJ C2
+C4 C3 CJ CT
+H2 HA HK H3
+C7 CQ CA C5
+HQ H6 H5 H9
+H4 H8 H7 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "6"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AQJT3.K75.T6.AJ8 86.93.AK2.KT9652 K52.QT42.9875.74 974.AJ86.QJ43.Q3"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1S 2C 2S X
+Pass 3C Pass Pass
+Pass
+[Play "W"]
+S2 S4 SA S8
+SK S7 SQ S6
+HT HJ HK H3
+D9 D3 DT DA
+C4 C3 CJ CT
+D7 DQ D6 D2
+C7 CQ C8 C2
+- S9 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "7"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K53.AK6.T96.A543 9742.QJ2.AJ853.9 AQT86.7.KQ74.QT7 J.T98543.2.KJ862"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS 620"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+1C Pass 1S Pass
+1NT Pass 2C Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+D2 D9 DA D4
+SJ D6 D5 DK
+C2 CA C9 C7
+C6 S3 S2 SA
+HT DT D3 DQ
+H3 SK D8 D7
+H4 S5 S7 S8
+C8 C3 S4 SQ
+H5 C4 S9 ST
+CJ C5 DJ S6
+H8 HA - H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "7"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K53.AK6.T96.A543 9742.QJ2.AJ853.9 AQT86.7.KQ74.QT7 J.T98543.2.KJ862"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 650"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1NT Pass 2H Pass
+2S Pass 3C X
+Pass Pass 3D Pass
+4S Pass Pass Pass
+[Play "W"]
+S2 S6 SJ SK
+S4 SA H4 S3
+S7 SQ H3 S5
+S9 ST C2 C3
+H2 H7 H5 HA
+D3 D4 D2 DT
+C9 CQ C6 C4
+DA DK C8 D9
+DJ DQ H8 D6
+D5 S8 H9 C5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "8"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QT76.AJ975.K.QJ2 K2.KQ642.J643.65 A9.T.AT9752.KT93 J8543.83.Q8.A874"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS -400"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1C 1H X Pass
+1S Pass 2D Pass
+2NT Pass 3C Pass
+3NT Pass Pass Pass
+[Play "N"]
+H2 HT H3 H5
+C5 C3 CA CQ
+HQ D2 H8 HJ
+C6 C9 C4 C2
+D3 D5 DQ DK
+H4 S9 C7 HA
+D4 CK C8 CJ
+- DA - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "8"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QT76.AJ975.K.QJ2 K2.KQ642.J643.65 A9.T.AT9752.KT93 J8543.83.Q8.A874"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -400"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1H Pass 2D Pass
+2H Pass 3C Pass
+3NT Pass Pass Pass
+[Play "N"]
+C6 C9 CA C2
+HQ HT H8 H5
+C5 C3 C7 CJ
+HK D2 H3 H7
+D4 D5 DQ DK
+H2 D7 S5 HA
+H4 D9 C4 HJ
+H6 S9 S3 H9
+S2 SA - S6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "9"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT8.AQ9.K874.J43 KQ432.JT7542..K5 76.3.A653.T98762 J95.K86.QJT92.AQ"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "7"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS -800"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+1D 2D 5D X
+Pass Pass Pass
+[Play "E"]
+SK S6 S9 SA
+CK C2 CQ C4
+SQ S7 S5 S8
+H2 H3 HK HA
+C5 C6 CA CJ
+H4 D3 DQ DK
+H5 CT D2 C3
+H7 C7 H8 HQ
+S2 DA D9 D4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "9"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT8.AQ9.K874.J43 KQ432.JT7542..K5 76.3.A653.T98762 J95.K86.QJT92.AQ"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1NT 2D 2NT 3H
+3NT 4H Pass Pass
+Pass
+[Play "N"]
+C3 CK C2 CQ
+HQ HJ H3 H8
+C4 C5 C6 CA
+H9 HT C7 H6
+SA SK S6 S5
+HA H2 D3 HK
+CJ H4 C8 D2
+D4 H5 C9 DJ
+- H7 D5 D9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "10"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T43.T54.5.865432 AK82.QJ8.QT8.K97 Q7.A732.KJ62.AJT J965.K96.A9743.Q"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS -200"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass 1NT Pass 3C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+S7 S5 ST SK
+DK DA D5 DQ
+SQ SJ S3 S2
+CA CQ C8 C7
+HA H6 H4 H8
+DJ D3 C2 D8
+D2 D4 S4 DT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "10"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T43.T54.5.865432 AK82.QJ8.QT8.K97 Q7.A732.KJ62.AJT J965.K96.A9743.Q"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+SQ S5 S3 SA
+CA CQ C2 C7
+S7 S9 S4 S2
+H2 S6 ST SK
+DK DA D5 DQ
+DJ D3 C4 DT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "11"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ643.K9.K854.K5 Q872.J843.AJ2.Q9 T95.AQ5.T9.A8642 K.T762.Q763.JT73"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS -50"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+1S Pass 1NT Pass
+2D Pass 3S Pass
+4S Pass Pass Pass
+[Play "W"]
+H4 HQ H2 H9
+DA DT D3 DK
+C9 C2 C3 CK
+DJ D9 D6 D4
+CQ CA C7 C5
+H3 H5 H6 HK
+D2 S5 D7 D5
+H8 HA H7 D8
+S2 ST SK SA
+SQ S9 HT S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "11"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ643.K9.K854.K5 Q872.J843.AJ2.Q9 T95.AQ5.T9.A8642 K.T762.Q763.JT73"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1S Pass 3C Pass
+4S Pass Pass Pass
+[Play "W"]
+H4 HA H7 H9
+DA D9 D3 DK
+HJ H5 H2 HK
+DJ DT D6 D4
+H3 HQ H6 D5
+S2 ST SK SA
+D2 S5 D7 D8
+- S9 HT S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "12"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J62.92.Q.KJT9862 AKQ3.AQT8.T932.5 754.J7653.K74.74 T98.K4.AJ865.AQ3"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS 690"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+3C X Pass 3NT
+Pass Pass Pass
+[Play "W"]
+CT C5 C7 CQ
+DQ D2 D4 DA
+H2 DT DK D5
+CK D3 C4 CA
+S2 SA S4 S8
+S6 SK S5 S9
+SJ SQ S7 ST
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "12"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J62.92.Q.KJT9862 AKQ3.AQT8.T932.5 754.J7653.K74.74 T98.K4.AJ865.AQ3"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 690"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+3C X Pass 3NT
+Pass Pass Pass
+[Play "W"]
+H9 HA H3 H4
+DQ DT D4 D5
+H2 H8 H5 HK
+S6 SA S5 ST
+C9 D2 D7 D8
+S2 SK S4 S8
+C2 HQ H6 C3
+C6 D3 DK DA
+C8 D9 H7 DJ
+CT HT C4 D6
+CJ C5 C7 CA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "13"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT94.QT32.QT.KQ9 QJ863.A.7652.T74 52.876.AKJ94.865 A7.KJ954.83.AJ32"]
+[Declarer "W"]
+[Contract "1H"]
+[Result "7"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS -80"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+1C Pass 1D 1H
+Pass Pass Pass
+[Play "N"]
+DQ D2 DK D3
+CQ C4 C5 C2
+H2 HA H6 H4
+DT D5 DJ D8
+HT D6 DA H9
+CK C7 C6 CA
+H3 S3 H7 HK
+HQ S6 H8 H5
+C9 CT C8 CJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "13"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT94.QT32.QT.KQ9 QJ863.A.7652.T74 52.876.AKJ94.865 A7.KJ954.83.AJ32"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 90"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1D Pass 1NT Pass
+Pass Pass
+[Play "W"]
+H4 HT HA H6
+D8 DT D5 D4
+CA CK C7 C6
+HJ HQ S3 H7
+D3 DQ D2 DK
+S7 H2 D6 DA
+C2 H3 D7 DJ
+H5 S4 S6 D9
+C3 CQ C4 C5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "14"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J74.J43.J9.AK743 KQT.AT7.AK6532.9 A95.Q82.T7.QJ862 8632.K965.Q84.T5"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "11"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS 150"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 3D Pass Pass
+Pass
+[Play "W"]
+CQ C5 CK C9
+C8 CT CA D2
+D7 D4 D9 DA
+DT DQ DJ D3
+SA S2 S4 SK
+H2 H5 HJ HA
+H8 H6 H3 HT
+HQ HK H4 H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "14"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J74.J43.J9.AK743 KQT.AT7.AK6532.9 A95.Q82.T7.QJ862 8632.K965.Q84.T5"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 130"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 1NT Pass 2C
+X 2D Pass 2NT
+Pass 3D Pass Pass
+Pass
+[Play "E"]
+CA C9 C8 C5
+H3 HA H2 H5
+D9 DA D7 D4
+DJ D2 DT DQ
+C7 D3 C2 CT
+H4 H7 HQ HK
+HJ HT H8 H6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "15"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:J86.T86.A973.AT8 QT93.AJ43.QJ6.32 75.KQ52.K852.KQ9 AK42.97.T4.J7654"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS 90"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass Pass 1D Pass
+1NT Pass Pass Pass
+[Play "W"]
+S9 S5 SK S6
+ST S7 S2 S8
+SQ D2 S4 SJ
+S3 H2 SA H6
+HA H5 H7 H8
+DQ DK D4 D3
+D6 D5 DT DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "15"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:J86.T86.A973.AT8 QT93.AJ43.QJ6.32 75.KQ52.K852.KQ9 AK42.97.T4.J7654"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -110"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1D Pass
+1NT X Pass 2S
+Pass Pass Pass
+[Play "S"]
+S6 S9 S5 S2
+C8 C2 CK C6
+S8 ST S7 S4
+CT C3 C9 C4
+SJ S3 H2 SA
+CA SQ CQ C5
+DA DJ D2 D4
+HT HA H5 H7
+- D6 DK -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "16"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:8632.84.K5.AKQT4 KQJ5.KJ65.8.8653 A74.QT92.Q76.J97 T9.A73.AJT9432.2"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "8"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS 90"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1C Pass 1NT 2D
+Pass Pass Pass
+[Play "W"]
+CA C3 CJ C2
+H8 HK H2 H3
+DK D8 D6 D2
+H4 H5 H9 HA
+S2 S5 S4 ST
+S3 SJ SA S9
+CK H6 HQ H7
+S6 HJ HT DJ
+D5 C5 D7 DA
+S8 - - DT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "16"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:8632.84.K5.AKQT4 KQJ5.KJ65.8.8653 A74.QT92.Q76.J97 T9.A73.AJT9432.2"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 110"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1H 3D
+Pass Pass Pass
+[Play "W"]
+CA C3 C9 C2
+H8 H5 H2 HA
+S2 S5 S4 ST
+S3 SK SA S9
+C4 C5 C7 D2
+H4 HK H9 H3
+S6 SQ S7 H7
+DK D8 D6 D3
+CK C6 CJ D4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "17"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQ2.K8.KQT3.A962 43.AT7.AJ974.J74 KJ96.J9543.65.T5 T875.Q62.82.KQ83"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS -50"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+1D Pass 1H Pass
+2NT Pass 3C Pass
+3NT Pass Pass Pass
+[Play "E"]
+D4 D5 D8 DT
+H7 H3 H2 HK
+HT HJ HQ H8
+DA D6 D2 DQ
+D9 C5 C3 DK
+S3 S6 S5 SA
+S4 S9 S7 SQ
+C4 SJ S8 S2
+C7 SK ST D3
+CJ CT C8 CA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "17"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQ2.K8.KQT3.A962 43.AT7.AJ974.J74 KJ96.J9543.65.T5 T875.Q62.82.KQ83"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 110"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+1NT Pass 2C Pass
+2D Pass 2H Pass
+2S Pass Pass Pass
+[Play "W"]
+CK CA C4 C5
+D2 DK DA D5
+C3 C2 CJ CT
+C8 C6 C7 S6
+H6 HK HA H3
+ST SQ S3 S9
+HQ H8 H7 H9
+CQ C9 HT SJ
+S5 S2 S4 SK
+H2 D3 D4 HJ
+D8 DQ - D6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "18"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AK9.QT54.Q92.AT7 QJ52.A82.AT5.K94 T83.J96.8643.J85 764.K73.KJ7.Q632"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS 120"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1C X Pass 1NT
+Pass Pass Pass
+[Play "E"]
+H5 H2 HJ H3
+H4 H8 H9 HK
+S9 SJ S8 S6
+CA C4 C8 CQ
+HQ HA H6 H7
+C7 CK C5 C2
+CT C9 CJ C3
+DQ DA D6 DJ
+D2 DT D3 D7
+D9 D5 D4 DK
+- - - C6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "18"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AK9.QT54.Q92.AT7 QJ52.A82.AT5.K94 T83.J96.8643.J85 764.K73.KJ7.Q632"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "5"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 150"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1NT Pass 2C Pass
+2H Pass Pass Pass
+[Play "S"]
+H2 H9 H3 H5
+DT D3 D7 D9
+HA H6 H7 H4
+H8 HJ HK HT
+S2 S3 S7 SA
+D5 D4 DK DQ
+S5 S8 S6 SK
+SJ ST S4 S9
+DA D6 DJ D2
+SQ C5 C2 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "19"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J83.KT2.9542.A52 AK965.7.AK87.Q94 Q4.AJ6.JT6.KJ763 T72.Q98543.Q3.T8"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "10"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS -170"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1S Pass Pass
+Pass
+[Play "N"]
+DJ D3 D4 DK
+H6 H3 HT H7
+D6 DQ D2 D7
+CJ C8 C2 C4
+SQ S2 S3 SA
+DT CT D5 DA
+C3 S7 C5 C9
+HJ H4 H2 S5
+CK ST CA CQ
+HA H5 HK D8
+S4 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "19"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J83.KT2.9542.A52 AK965.7.AK87.Q94 Q4.AJ6.JT6.KJ763 T72.Q98543.Q3.T8"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -140"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1S X Pass
+2D Pass Pass 2S
+Pass 3D Pass 3S
+Pass Pass Pass
+[Play "N"]
+DJ DQ D2 D7
+D6 D3 D4 DA
+DT C8 D5 DK
+C3 S2 D9 D8
+C6 CT CA C4
+S4 S7 S3 SK
+CJ ST C2 C9
+HJ H3 HT H7
+CK H4 C5 CQ
+HA H5 H2 S5
+SQ H8 S8 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "20"]
+[West "Andersson L"]
+[North "Monteiro J"]
+[East "Gullberg T"]
+[South "Santos S"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QT6.KJ8.A97.QT43 A432.Q6543.J2.82 J985.2.T8543.976 K7.AT97.KQ6.AKJ5"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Portugal"]
+[Room "Open"]
+[Round "27"]
+[Score "NS 650"]
+[Table "9"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1NT Pass Pass X
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "E"]
+D3 D6 DA D2
+D4 DQ D9 DJ
+H2 HA H8 H3
+D8 H7 HK H4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "20"]
+[West "Diegues V"]
+[North "Nilsland M"]
+[East "Castanheira C"]
+[South "Fallenius B"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QT6.KJ8.A97.QT43 A432.Q6543.J2.82 J985.2.T8543.976 K7.AT97.KQ6.AKJ5"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 650"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass Pass 2NT
+Pass 3D Pass 3H
+Pass 3NT Pass 4H
+Pass Pass Pass
+[Play "W"]
+C4 C2 C7 CJ
+H8 H3 H2 HA
+HK H4 D3 H9
+S6 S2 SJ SK
+DA D2 D4 D6
+*
+

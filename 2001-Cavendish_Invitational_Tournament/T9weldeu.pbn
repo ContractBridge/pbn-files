@@ -1,0 +1,755 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Teams"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.10"]
+[Round "R9"]
+[Board "19"]
+[Room "Open"]
+[West "Paul Chemla"]
+[North "Fred Gitelman"]
+[East "Alain Levy"]
+[South "Brad Moss"]
+[Dealer "S"]
+[Deal "S:A3.A5.AQJ54.AT76 T6.KQ8763.T7.QJ9 J754.JT42.83.K32 KQ982.9.K962.854"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+Onstott, leading with 163, drew Mike Moss's team. Welland, 5
+VP behind, drew Deutsch. Onstott did well, winning 21-9 in VP.
+For Welland to triumph, a win by at least 24 IMPs was required.
+Different players will give you different opinions about how
+much North needs to bid 1NT in Fred Gitelman's position but most
+of them would raise to game with Brad Moss's hand, unwilling
+to cut it too fine. A passive lead would have left Gitelman with
+an uphill struggle but Alain Levy led a low spade. That gave
+a trick and an entry for a second diamond finesse. Two spades,
+four diamonds and ace-king-ace: plus 400. [Your host: Eric Kokish]
+}
+[Auction "S"]
+1D 1H Pass 1S 
+X Pass 1NT Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+S2 S3 ST SJ 
+D2 DQ D7 D8 
+C4 C6 C9 CK 
+D6 DJ DT D3 
+D9 DA H8 S4 
+DK D4 H3 S5 
+H9 - - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "19"]
+[Room "Closed"]
+[West "H. weinstein"]
+[North "Billy Cohen"]
+[East "Steve Garner"]
+[South "Ron Smith"]
+[Dealer "S"]
+[Deal "S:A3.A5.AQJ54.AT76 T6.KQ8763.T7.QJ9 J754.JT42.83.K32 KQ982.9.K962.854"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+Billy Cohen/Ron Smith evaluated their cards in the same fashion
+as their counterparts, but here Steve Garner found a more effective
+lead than his seatmate in the SQ, showing the king but a moderate
+holding. Howard Weinstein unblocked the ten under dummy's ace
+so the suit remained fluid for the defense. When Cohen played
+diamonds from the top, he was not going to be able to find enough
+tricks on this layout and careful defense held him to seven winners
+even though he was able to set up a long club. Two down; minus
+100. 11 IMPs to Welland.
+}
+[Auction "S"]
+1D 1H Pass 1S 
+X Pass 1NT Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+SQ SA ST S5 
+D6 DA D7 D3 
+DK DQ DT D8 
+H9 H5 HQ H2 
+S8 S3 S6 S7 
+C4 C6 C9 C3 
+C5 C7 CQ CK 
+C8 CA CJ C2 
+S2 CT H3 H4 
+- DJ - - 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "20"]
+[Room "Open"]
+[West "Paul Chemla"]
+[North "Fred Gitelman"]
+[East "Alain Levy"]
+[South "Brad Moss"]
+[Dealer "W"]
+[Deal "S:AQ973.T85.T542.5 KJT6.Q9.K87.AQ76 8542.2.AJ6.JT842 .AKJ7643.Q93.K93"]
+[Vulnerable "Both"]
+[Contract "6H"]
+[Declarer "W"]
+{
+Levy's sequence showed, I believe, a slam try with a one-suiter
+in hearts. Paul Chemla didn't have much of a notrump to start
+with and it didn't improve as the auction progressed, but the
+contract was normal enough, if not particularly good. Levy must
+have revealed spade shortness en route to 6H for Gitelman's lead
+of the S8 would otherwise be strange. Chemla needed a twelfth
+trick and didn't get it when he led the first diamond to the
+king and ace and Moss was able to guard diamonds in the endgame:
+minus 100.
+}
+[Auction "W"]
+1NT Pass 3D Pass 
+3H Pass 4C Pass 
+4D Pass 4S Pass 
+4NT Pass 5NT Pass 
+6H Pass Pass Pass 
+[Play "N"]
+S8 H3 S3 S6 
+H2 H4 H5 HQ 
+S2 HA HT H9 
+S4 HK H8 SJ 
+DA D3 D2 DK 
+S5 H6 S7 ST 
+C2 C3 C5 CA 
+C4 CK S9 C6 
+D6 H7 D4 SK 
+C8 C9 SA CQ 
+- - - D8 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "20"]
+[Room "Closed"]
+[West "H. weinstein"]
+[North "Billy Cohen"]
+[East "Steve Garner"]
+[South "Ron Smith"]
+[Dealer "W"]
+[Deal "S:AQ973.T85.T542.5 KJT6.Q9.K87.AQ76 8542.2.AJ6.JT842 .AKJ7643.Q93.K93"]
+[Vulnerable "Both"]
+[Contract "6H"]
+[Declarer "W"]
+{
+Garner used a Texas transfer, then showed his spade void. With
+spades on his right and hating his hand, Weinstein tried to retreat
+to 4NT but Garner thought he had too much to honor that opinion.
+Weinstein tested clubs before committing himself in diamonds
+lest the jack-ten were doubleton with the DA in South, and although
+he led the first diamond to the queen, Cohen could discard behind
+declarer's minor-suit holding and there was no twelfth trick.
+The record suggests that he played North for the doubleton DA;
+down one: minus 100. No swing. Welland, 11-0.
+}
+[Auction "W"]
+1NT Pass 4D Pass 
+4H Pass 4S X 
+4NT Pass 6H Pass 
+Pass Pass   
+[Play "N"]
+S5 H3 S7 S6 
+H2 H4 H5 HQ 
+S2 HK H8 H9 
+S4 HA HT ST 
+C2 CK C5 C6 
+C8 C3 SQ CA 
+D6 DQ D2 D7 
+DJ D3 D5 D8 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "21"]
+[Room "Open"]
+[West "Paul Chemla"]
+[North "Fred Gitelman"]
+[East "Alain Levy"]
+[South "Brad Moss"]
+[Dealer "N"]
+[Deal "S:KJ653.A43.A2.962 Q972.98.QJ.AT873 AT84.JT2.K985.Q5 .KQ765.T7643.KJ4"]
+[Vulnerable "NS"]
+[Contract "2S"]
+[Declarer "S"]
+{
+N/S don't have the cards to justify bidding 4S, but single dummy
+it would not be the worst vulnerable game ever attempted. Gitelman/Moss
+stopped in 2S after a reverse Drury sequence, Levy's passed hand
+2H failing to stimulate any interest from Chemla. With trumps
+four-zero, Moss was unable to build a third diamond trick in
+time to enjoy it and so lost a heart, a trump, and two clubs
+for plus 140.
+}
+[Auction "N"]
+Pass Pass 1S Pass 
+2C 2H 2S Pass 
+Pass Pass   
+[Play "W"]
+H9 HJ HQ H4 
+DJ DK D3 D2 
+C3 CQ CK C6 
+DQ D5 D4 DA 
+CT C5 C4 C9 
+H8 HT HK HA 
+C7 S8 CJ C2 
+SQ D8 DT SJ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "21"]
+[Room "Closed"]
+[West "H. weinstein"]
+[North "Billy Cohen"]
+[East "Steve Garner"]
+[South "Ron Smith"]
+[Dealer "N"]
+[Deal "S:KJ653.A43.A2.962 Q972.98.QJ.AT873 AT84.JT2.K985.Q5 .KQ765.T7643.KJ4"]
+[Vulnerable "NS"]
+[Contract "3C"]
+[Declarer "W"]
+{
+Cohen used a different version of Drury, 2D suggesting four-card
+spade support. The bidding would have ended at 2S here too but
+Weinstein, expecting to find no spades and probably only five
+hearts opposite (no weak two-bid) bravely competed with 3C. With
+N/S having described their spade length there was no obvious
+need to push on to 3S and Weinstein was left to scramble at 3C.
+The defense was as gentle as could be, setting up declarer's
+SQ and allowing him to draw trumps and enjoy two ruffs and the
+D10. Ten winners: plus 130. 7 IMPs to Welland, ahead 18-0.
+}
+[Auction "N"]
+Pass Pass 1S Pass 
+2D 2H 2S 3C 
+Pass Pass Pass  
+[Play "N"]
+SA C4 S5 S2 
+DK D3 D2 DQ 
+C5 CJ C6 C3 
+D5 D4 DA DJ 
+S4 CK SK S7 
+D8 D6 C9 CT 
+CQ H5 C2 CA 
+H2 HK HA H9 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "22"]
+[Room "Open"]
+[West "Paul Chemla"]
+[North "Fred Gitelman"]
+[East "Alain Levy"]
+[South "Brad Moss"]
+[Dealer "E"]
+[Deal "S:Q.QT983.952.Q974 T72.72.JT876.AJ8 AK86.K54.AQ4.K63 J9543.AJ6.K3.T52"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "S"]
+{
+Moss's 3C was a puppet to 3D and his 3H showed 5H and genuine
+club support. The hands did not fit well, however, and even though
+it was natural to play hearts for one loser, the diamond lead
+did bad things to declarer's communications. Moss was more or
+less forced to take the diamond finesse and could not avoid losing
+a diamond, two clubs, and a trump for one down: minus 50. 4H
+is quite a bit better from the North side, which highlights the
+benefits of transfer responses to 1C, favored by two of the Italian
+systems, among others.
+}
+[Auction "E"]
+Pass Pass Pass 1C 
+Pass 1H Pass 2NT 
+Pass 3C Pass 3D 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Play "W"]
+DJ DQ DK D5 
+DT DA D3 D9 
+S2 SA S3 SQ 
+S7 SK S4 D2 
+H2 H4 H6 HT 
+C8 CK C2 C4 
+CJ C3 C5 C9 
+CA C6 CT C7 
+ST S6 S5 H3 
+H7 HK HA H8 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "22"]
+[Room "Closed"]
+[West "H. weinstein"]
+[North "Billy Cohen"]
+[East "Steve Garner"]
+[South "Ron Smith"]
+[Dealer "E"]
+[Deal "S:Q.QT983.952.Q974 T72.72.JT876.AJ8 AK86.K54.AQ4.K63 J9543.AJ6.K3.T52"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "S"]
+{
+Smith/Cohen also reached 4H, but on a checkback sequence, and
+here too the diamond lead effectively precluded declarer from
+enjoying his third spade trick. Smith got the trumps wrong, however,
+and seems to have lost an extra trick in the wash, finishing
+with only seven tricks. Three down: minus 150. 3 IMPs to Welland,
+ahead 21-0.
+}
+[Auction "E"]
+Pass Pass Pass 1C 
+Pass 1H Pass 2NT 
+Pass 3C Pass 3H 
+Pass 4H Pass Pass 
+Pass    
+[Play "W"]
+D6 DQ DK D2 
+DT DA D3 D9 
+S2 SA S3 SQ 
+S7 SK S5 D5 
+D7 D4 S4 H3 
+C8 CK C2 C4 
+CJ C3 C5 C7 
+CA C6 CT C9 
+ST S6 SJ H8 
+H2 H4 HJ H9 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "23"]
+[Room "Open"]
+[West "Paul Chemla"]
+[North "Fred Gitelman"]
+[East "Alain Levy"]
+[South "Brad Moss"]
+[Dealer "S"]
+[Deal "S:AT9642..T97.AT76 KQJ875.AJ82.J6.J .T953.A2.K985432 3.KQ764.KQ8543.Q"]
+[Vulnerable "Both"]
+[Contract "5HX"]
+[Declarer "E"]
+{
+With the E/W clubs 1-1, N/S are stone cold for 6C. It's not easy
+to figure out to bid it, however, unless someone takes the push
+as a two-way shot. When Moss was unwilling to open 1S or 2S,
+his decision made it easier for his side to get together in clubs
+but Gitelman could not be sure how well the hands fit and doubled
+5H to suggest a spade lead. Moss cashed the SA (C9 to suggest
+a high diamond) and the CA before switching to a diamond. One
+down: minus 200. An uncertain result for both sides, given N/S's
+potential, but E/W were not jumping for joy.
+}
+[Auction "S"]
+Pass 1S 3C 3H 
+5C 5H X Pass 
+Pass Pass   
+[Play "S"]
+SA S5 C9 S3 
+CA CJ C5 CQ 
+DT D6 DA D3 
+D7 DJ D2 D4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "23"]
+[Room "Closed"]
+[West "H. weinstein"]
+[North "Billy Cohen"]
+[East "Steve Garner"]
+[South "Ron Smith"]
+[Dealer "S"]
+[Deal "S:AT9642..T97.AT76 KQJ875.AJ82.J6.J .T953.A2.K985432 3.KQ764.KQ8543.Q"]
+[Vulnerable "Both"]
+[Contract "5H"]
+[Declarer "W"]
+{
+Smith/Cohen are sound opening bidders and Smith wanted to take
+some action, so he settled for an atypical 2S. That buried the
+N/S club fit temporarily and Garner's 4D, showing a sound red
+two-suiter, finished the job. Weinstein, expecting more, tried
+for slam with 5H, not realizing he was taking an advance save!
+Cohen could not double but led the C9 to try to suggest a spade
+switch. Indeed, not leading a spade suggested that he was void.
+Smith took the black aces, then led a diamond. One down: minus
+100. 3 IMPs to Welland, ahead 24-0 after five deals.
+}
+[Auction "S"]
+2S Pass Pass 4D 
+Pass 5H Pass Pass 
+Pass    
+[Play "N"]
+C9 CQ CA CJ 
+C5 S3 SA S5 
+DA D3 D7 D6 
+C4 - - - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "24"]
+[Room "Open"]
+[West "Paul Chemla"]
+[North "Fred Gitelman"]
+[East "Alain Levy"]
+[South "Brad Moss"]
+[Dealer "W"]
+[Deal "S:832.QJ3.Q7532.65 AJ7.KT5.AJ96.AQ3 KQT65.A982.4.742 94.764.KT8.KJT98"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+East has an awkward bid over 1S and here Levy was not willing
+to risk 2D or a flawed negative double. Chemla's 1NT showed about
+18-20, so the rest was straightforward. When the SK (asking for
+count or unblock of the jack) held, Gitelman knew the spade position
+and switched to a heart. That gave Chemla his ninth trick but
+in effect saved at least one overtrick (else Chemla would pick
+up the DQ). Chemla cashed out to safeguard the conract: plus
+400.
+}
+[Auction "W"]
+1D 1S Pass Pass 
+1NT Pass 3NT Pass 
+Pass Pass   
+[Play "N"]
+SK S4 S8 S7 
+H2 H4 HJ HK 
+C2 C8 C5 CA 
+C4 C9 C6 C3 
+C7 CK S3 CQ 
+S6 CT D2 H5 
+S5 CJ D3 HT 
+D4 DK D5 D6 
+H8 D8 D7 DA 
+ST S9 S2 SA 
+- - - DJ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "24"]
+[Room "Closed"]
+[West "H. weinstein"]
+[North "Billy Cohen"]
+[East "Steve Garner"]
+[South "Ron Smith"]
+[Dealer "W"]
+[Deal "S:832.QJ3.Q7532.65 AJ7.KT5.AJ96.AQ3 KQT65.A982.4.742 94.764.KT8.KJT98"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+Although Weinstein might have been 4432, Garner was willing to
+risk a three-card raise to 2D, an action that Zia would heartily
+endorse. That got his side to 3NT with one less bid than their
+counterparts. Here too the SK held and Cohen switched to hearts.
+Weinstein also played safely for nine tricks. No swing at plus
+400. Welland, 24-0.
+}
+[Auction "W"]
+1D 1S 2D Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+SK S4 S2 S7 
+H2 H4 HJ HK 
+C2 C8 C5 CA 
+C4 CK C6 CQ 
+C7 CJ S8 C3 
+S5 CT D2 H5 
+S6 C9 D7 HT 
+ST S9 S3 SA 
+D4 DK D3 D6 
+H8 DT D5 DA 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "25"]
+[Room "Open"]
+[West "Paul Chemla"]
+[North "Fred Gitelman"]
+[East "Alain Levy"]
+[South "Brad Moss"]
+[Dealer "N"]
+[Deal "S:543.K7.AK9.AT652 QJT92.QJ6.JT86.4 AK.A532.Q52.J973 876.T984.743.KQ8"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+It's easy to understand the N/S auction, Moss starting with an
+inverted raise and Gitelman rebidding 2NT to show a weak notrump.
+It's difficult to see why Moss would do anything other than raise
+to 3NT, but the remarkable mesh in the majors and the complete
+absenvce of wasted values make 6C a superb contract. 3NT can
+often withstand an unfortunate club lie while 6C cannot, but
+you'd want to be in slam. Gitelman passed the CJ in 3NT after
+a heart lead and so took 11 tricks: plus 460.
+}
+[Auction "N"]
+1C Pass 2C Pass 
+2NT Pass 3NT Pass 
+Pass Pass   
+[Play "E"]
+HT HK HQ H2 
+D3 D9 DT DQ 
+C8 C2 C4 CJ 
+CQ CA SQ C7 
+- C5 - - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "25"]
+[Room "Closed"]
+[West "H. weinstein"]
+[North "Billy Cohen"]
+[East "Steve Garner"]
+[South "Ron Smith"]
+[Dealer "N"]
+[Deal "S:543.K7.AK9.AT652 QJT92.QJ6.JT86.4 AK.A532.Q52.J973 876.T984.743.KQ8"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+Smith's 2D was his partnership's version of a forcing club raise
+and the bidding again died at 3NT, predictably.  Here too a heart
+was led and Cohen also passed the CJ, so there were 11 easy tricks:
+plus 460. No swing. If the match ended now, Welland would win
+24-0, or 77-3 in VP, and would win the 2001 Cavendish teams.
+There were still two boards to play, however.
+}
+[Auction "N"]
+1C Pass 2D Pass 
+2NT Pass 3NT Pass 
+Pass Pass   
+[Play "E"]
+HT HK HQ H2 
+D4 D9 DT DQ 
+C8 C2 C4 CJ 
+CQ CA S9 C3 
+- C5 S2 C9 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "26"]
+[Room "Open"]
+[West "Paul Chemla"]
+[North "Fred Gitelman"]
+[East "Alain Levy"]
+[South "Brad Moss"]
+[Dealer "E"]
+[Deal "S:Q754.AQ93..AQJ86 K.T82.AK8532.973 JT863.K75.T74.K5 A92.J64.QJ96.T42"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "N"]
+{
+Were it not for the missing ace-king of trumps 6S would be an
+excellent slam, and in my opinion Gitelman showed admirable restraint
+by giving up at the four-level after Moss's very strong auction
+(although the distinction between 3D/4D and a direct 4D may be
+significant for the partnership). Although the defense did best
+by forcing dummy twice, Gitelman was able to ruff his last diamond
+safely and could not go wrong in returning to hand to draw the
+outstanding trump: plus 650.
+}
+[Auction "E"]
+Pass 1C 1D 1S 
+2D 3D Pass 3H 
+Pass 4D Pass 4S 
+Pass Pass Pass  
+[Play "E"]
+DQ S4 D8 D4 
+S2 S5 SK S3 
+D6 S7 DK D7 
+C2 C6 C3 CK 
+D9 SQ D2 DT 
+H4 H3 H2 HK 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "26"]
+[Room "Closed"]
+[West "H. weinstein"]
+[North "Billy Cohen"]
+[East "Steve Garner"]
+[South "Ron Smith"]
+[Dealer "E"]
+[Deal "S:Q754.AQ93..AQJ86 K.T82.AK8532.973 JT863.K75.T74.K5 A92.J64.QJ96.T42"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "N"]
+{
+Smith's 4D splinter is the action most experts would choose and
+there is no denying that South has a good hand for spades. I
+consider this mildly dangerous because South might have an extra
+ace and some bits kicking. North might move toward slam on that
+basis when the 5-level might be too high. I am surprised that
+Cohen offered no slam try, but had he done so with 4H, Smith
+would have retreated to 4S. Here too the defenders played on
+diamonds, but Cohen ruffed the third club to get back to his
+hand to extract the S9: plus 650. No Swing. 24-0, Welland.
+}
+[Auction "E"]
+Pass 1C 1D 1S 
+2D 4D Pass 4S 
+Pass Pass Pass  
+[Play "E"]
+DQ S4 D8 D7 
+S2 S5 SK S3 
+D6 S7 DK D4 
+H4 H3 H2 HK 
+DJ SQ D2 DT 
+C2 C6 C3 CK 
+SA C8 C7 SJ 
+CT CJ C9 C5 
+HJ HA H8 H5 
+C4 CQ HT S6 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "27"]
+[Room "Open"]
+[West "Paul Chemla"]
+[North "Fred Gitelman"]
+[East "Alain Levy"]
+[South "Brad Moss"]
+[Dealer "S"]
+[Deal "S:A6.KQ972.J832.QT KQJ.JT4.A954.KJ9 T9843.8.T76.8753 752.A653.KQ.A642"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+The West hand looks better for defense than offense but a takeout
+double is a necessary evil and Chemla is not squeamish about
+minor flaws. I am sure that Levy did not relish jumping to 3NT
+with his empty heart holding, but that too was a necessary evil.
+The dummy was very suitable for notrump, especially when the
+HJ held at trick one. Although Moss put up the CQ on the first
+round, Levy continued with the jack and was able to untangle
+his seven minor-suit winners without incident: plus 460.
+}
+[Auction "S"]
+1H X Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+H2 HJ H8 H3 
+S6 SK ST S5 
+D2 D4 D7 DQ 
+CQ CK C3 C2 
+CT CJ C5 C4 
+H7 C9 C7 C6 
+D3 D5 D6 DK 
+H9 H4 C8 CA 
+SA SJ S3 S2 
+HQ HT S4 HA 
+- - - S7 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R9"]
+[Board "27"]
+[Room "Closed"]
+[West "H. weinstein"]
+[North "Billy Cohen"]
+[East "Steve Garner"]
+[South "Ron Smith"]
+[Dealer "S"]
+[Deal "S:A6.KQ972.J832.QT KQJ.JT4.A954.KJ9 T9843.8.T76.8753 752.A653.KQ.A642"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+Garner preferred to stall with a 2H cue-bid, but nothing good
+was forthcoming and he too had to shoot out 3NT. Smith led the
+HK, catering to some different heart layouts, but it didn't matter
+here. Although Garner did not attack clubs while his diamond
+communication was flexible, Cohen had discarded a club early,
+so Garner too took four club tricks and eleven in all. Plus 460,
+a fourth successive flat board. The match came to a close with
+Welland winning it 24-0, 27-3 in VP, to nose Onstott at the wire.
+Welland's squad is the new holder of the Jack Dreyfus Cup.
+}
+[Auction "S"]
+1H X Pass 2H 
+Pass 3D Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+HK H4 H8 HA 
+SA SJ S3 S5 
+HQ HT C3 H3 
+H2 HJ S4 H5 
+D2 D4 D6 DK 
+D3 D5 D7 DQ 
+CT CJ C5 C2 
+CQ CK C7 C4 
+S6 SK S8 S2 
+H7 SQ S9 S7 
+*
+[Result "11"]
+

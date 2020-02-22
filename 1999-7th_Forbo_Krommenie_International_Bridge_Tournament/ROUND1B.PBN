@@ -1,0 +1,503 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "7th International Forbo Krommenie Bridge Tournament 1999"]
+[Site "Kurhaus Hotel - Scheveningen, The Netherlands, NLD"]
+[Date "1999.02.28"]
+[Round "1"]
+[Board "1"]
+[West "Leijnse"]
+[North "Van Prooijen"]
+[East "Zwerver"]
+[South "De Wijs"]
+[Vulnerable "None"]
+[Deal "S:83.T53.QJ6.AKJ32 AJ5.K876.KT7.T97 K642.AQJ4.932.Q6 QT97.92.A854.854"]
+[Dealer "N"]
+[Auction "N"]
+1C Pass 2C Pass 
+2NT Pass 3NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+S9 S3 SA S2 
+S7 S8 SJ SK 
+C4 C2 C7 CQ 
+C5 CA C9 C6 
+C8 CJ CT D3 
+D5 CK D7 D2 
+D4 C3 H7 D9 
+H2 HT H6 H4 
+H9 H3 H8 HJ 
+D8 H5 HK HA 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "1"]
+[West "Vis"]
+[North "Sprinkhuizen"]
+[East "Versluis"]
+[South "Heemskerk"]
+[Vulnerable "None"]
+[Deal "S:83.T53.QJ6.AKJ32 AJ5.K876.KT7.T97 K642.AQJ4.932.Q6 QT97.92.A854.854"]
+[Dealer "N"]
+[Auction "N"]
+1NT Pass 3NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+ST S3 SA S2 
+S7 S8 SJ SK 
+C4 C2 C7 CQ 
+C5 CA C9 C6 
+C8 CK CT D2 
+D5 CJ H8 D3 
+D4 C3 S5 D9 
+H2 HT H6 H4 
+H9 H3 H7 HJ 
+D8 H5 HK HA 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "2"]
+[West "Leijnse"]
+[North "Van Prooijen"]
+[East "Zwerver"]
+[South "De Wijs"]
+[Vulnerable "NS"]
+[Deal "S:87.Q965.Q95.T764 AJ5.AKT.87.AJ932 942.J8743.AJ4.KQ KQT63.2.KT632.85"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1NT Pass 
+2H Pass 2S Pass 
+3D Pass 3NT Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+H3 H2 HQ HA 
+D4 DK D5 D8 
+S2 S3 S7 SA 
+S4 S6 S8 SJ 
+S9 SK C4 S5 
+H4 ST H6 C2 
+H7 SQ H5 C3 
+DJ D2 D9 D7 
+DA D3 DQ C9 
+CK C5 C6 CA 
+H8 C8 H9 HK 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "2"]
+[West "Vis"]
+[North "Sprinkhuizen"]
+[East "Versluis"]
+[South "Heemskerk"]
+[Vulnerable "NS"]
+[Deal "S:87.Q965.Q95.T764 AJ5.AKT.87.AJ932 942.J8743.AJ4.KQ KQT63.2.KT632.85"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1C Pass 
+2S Pass 4S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+H5 HA H4 H2 
+D5 D8 DA D3 
+D9 D7 D4 DK 
+DQ SJ DJ D2 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+480"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "3"]
+[West "Leijnse"]
+[North "Van Prooijen"]
+[East "Zwerver"]
+[South "De Wijs"]
+[Vulnerable "EW"]
+[Deal "S:965.T752.K4.AK53 K83.864.A.QJT984 A4.AJ3.J8653.762 QJT72.KQ9.QT972."]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C 1D 1S 
+X 2C Pass 2S 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+DK DA D6 D2 
+H2 H4 H3 HK 
+D4 S3 D3 D7 
+C3 C4 C7 S2 
+H5 S8 D5 D9 
+H7 H6 HA H9 
+S6 SK SA S7 
+HT H8 HJ HQ 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "3"]
+[West "Vis"]
+[North "Sprinkhuizen"]
+[East "Versluis"]
+[South "Heemskerk"]
+[Vulnerable "EW"]
+[Deal "S:965.T752.K4.AK53 K83.864.A.QJT984 A4.AJ3.J8653.762 QJT72.KQ9.QT972."]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 1S 
+Pass 2C Pass 2D 
+Pass 2S Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+DK DA D8 D2 
+H2 H4 HA H9 
+D4 C4 D5 DT 
+H5 H6 D3 DQ 
+H7 H8 H3 HK 
+HT C8 HJ HQ 
+C3 S3 D6 D9 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "4"]
+[West "Leijnse"]
+[North "Van Prooijen"]
+[East "Zwerver"]
+[South "De Wijs"]
+[Vulnerable "Both"]
+[Deal "S:K954.KJ762.A63.T Q6.AQ8.J8754.AQJ AT832.T9.9.96432 J7.543.KQT2.K875"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 3NT Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+S3 SJ SK S6 
+SA S7 S4 SQ 
+S8 H3 S5 H8 
+ST H4 S9 D5 
+S2 H5 D3 D4 
+D9 DK DA D7 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "4"]
+[West "Vis"]
+[North "Sprinkhuizen"]
+[East "Versluis"]
+[South "Heemskerk"]
+[Vulnerable "Both"]
+[Deal "S:K954.KJ762.A63.T Q6.AQ8.J8754.AQJ AT832.T9.9.96432 J7.543.KQT2.K875"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 2S Pass 
+3NT Pass Pass Pass 
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+S3 S7 SK S6 
+SA SJ S4 SQ 
+ST H3 S9 D4 
+S8 H4 - - 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "5"]
+[West "Leijnse"]
+[North "Van Prooijen"]
+[East "Zwerver"]
+[South "De Wijs"]
+[Vulnerable "NS"]
+[Deal "S:AQJ4.K863.K3.J42 K732.AQJ54.94.T8 6.72.Q852.AQ9653 T985.T9.AJT76.K7"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1C 1H 
+2H Pass 3NT Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+S3 S6 S8 SQ 
+C8 CQ CK C4 
+S7 D2 ST SA 
+D4 DQ DA D3 
+S2 H2 S5 S4 
+H4 H7 HT H3 
+HJ D5 H9 H6 
+HA D8 D6 H8 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-300"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "5"]
+[West "Vis"]
+[North "Sprinkhuizen"]
+[East "Versluis"]
+[South "Heemskerk"]
+[Vulnerable "NS"]
+[Deal "S:AQJ4.K863.K3.J42 K732.AQJ54.94.T8 6.72.Q852.AQ9653 T985.T9.AJT76.K7"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1NT 2C 
+2NT 3S X Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "3SX"]
+[Play "S"]
+SA S2 S6 S5 
+SQ SK C3 S8 
+DK D9 D2 D6 
+SJ S3 C5 S9 
+C4 C8 CA C7 
+D3 D4 D5 DJ 
+H3 H4 H2 H9 
+C2 S7 D8 D7 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+530"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "6"]
+[West "Leijnse"]
+[North "Van Prooijen"]
+[East "Zwerver"]
+[South "De Wijs"]
+[Vulnerable "EW"]
+[Deal "S:A54.Q953.JT3.KJ4 JT.764.AKQ42.AQT Q9863.AK.75.8765 K72.JT82.986.932"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1NT Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+S6 S2 SA ST 
+SQ SK S5 SJ 
+D5 D6 D3 DA 
+D7 D8 DT DK 
+C6 D9 DJ DQ 
+C8 C2 H3 D4 
+C5 C3 S4 D2 
+C7 C9 C4 CA 
+*
+[Room "Open"]
+[Result "7"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "6"]
+[West "Vis"]
+[North "Sprinkhuizen"]
+[East "Versluis"]
+[South "Heemskerk"]
+[Vulnerable "EW"]
+[Deal "S:A54.Q953.JT3.KJ4 JT.764.AKQ42.AQT Q9863.AK.75.8765 K72.JT82.986.932"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1NT Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+S6 S2 SA ST 
+SQ SK S5 SJ 
+D5 D6 D3 DA 
+D7 D8 DT DK 
+C5 D9 DJ DQ 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "7"]
+[West "Leijnse"]
+[North "Van Prooijen"]
+[East "Zwerver"]
+[South "De Wijs"]
+[Vulnerable "Both"]
+[Deal "S:KQT94.KT..T97642 8.AJ9843.852.QJ5 A765.Q5.AQ973.A3 J32.762.KJT64.K8"]
+[Dealer "S"]
+[Auction "S"]
+Pass 2H X Pass 
+4S Pass Pass Pass 
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+CQ CA C8 C4 
+C5 C3 CK C6 
+HA H5 H2 HT 
+H3 HQ H6 HK 
+S8 S5 S2 SK 
+H4 SA S3 S4 
+H8 S6 SJ SQ 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "7"]
+[West "Vis"]
+[North "Sprinkhuizen"]
+[East "Versluis"]
+[South "Heemskerk"]
+[Vulnerable "Both"]
+[Deal "S:KQT94.KT..T97642 8.AJ9843.852.QJ5 A765.Q5.AQ973.A3 J32.762.KJT64.K8"]
+[Dealer "S"]
+[Auction "S"]
+Pass 2C 2D 2H 
+2S Pass 4S Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+CQ CA C8 C2 
+S8 S5 S2 SK 
+H3 SA S3 S4 
+C5 C3 CK C4 
+HA H5 H2 HT 
+H4 - - - 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "8"]
+[West "Leijnse"]
+[North "Van Prooijen"]
+[East "Zwerver"]
+[South "De Wijs"]
+[Vulnerable "None"]
+[Deal "S:J9.AT753.AJ.QJ94 AT.4.KT954.AK865 8732.862.Q8763.T KQ654.KQJ9.2.732"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1S X 
+Pass 2H Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "2H"]
+[Play "E"]
+HK HA H4 H2 
+C7 C4 CA CT 
+SQ S9 ST S2 
+D2 DJ DK D3 
+S4 SJ SA S3 
+H9 DA D5 D6 
+S5 H7 C6 S7 
+C2 CQ C5 H6 
+S6 H5 D4 S8 
+C3 C9 C8 H8 
+HJ CJ D9 DQ 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "8"]
+[West "Vis"]
+[North "Sprinkhuizen"]
+[East "Versluis"]
+[South "Heemskerk"]
+[Vulnerable "None"]
+[Deal "S:J9.AT753.AJ.QJ94 AT.4.KT954.AK865 8732.862.Q8763.T KQ654.KQJ9.2.732"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1S 1NT 
+Pass 2H Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "2H"]
+[Play "E"]
+SK S9 ST S3 
+D2 DA D4 D6 
+C2 C4 CK CT 
+S6 SJ SA S2 
+C3 DJ DK D7 
+H9 HA DT DQ 
+- CQ - - 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-100"]
+

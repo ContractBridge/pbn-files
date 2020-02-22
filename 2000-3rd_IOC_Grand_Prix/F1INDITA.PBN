@@ -1,0 +1,964 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "3rd IOC Grand Prix"]
+[Site "Lausanne, Switzerland, CHE"]
+[Date "2000.10.30"]
+[Round "F1"]
+[Board "13"]
+[Room "Open"]
+[West "Guido Ferraro"]
+[North "Eddy Manoppo"]
+[East "Dano DeFalco"]
+[South "Henky Lasut"]
+[Dealer "N"]
+[Deal "S:Q52.87632.QJ73.2 A863.JT9.K82.A65 KT74.A.AT.KQT983 J9.KQ54.9654.J74"]
+[Vulnerable "Both"]
+[Contract "3C"]
+[Declarer "N"]
+{
+OR - 2C showed 11-15 and either 5 clubs and a 4-card major, or
+6+ clubs. A take-out double should deliver strength or distribution,
+or both, but Ferraro had neither. The Italians were heading for
+minus 200 or more, until Manoppo came to their rescue with a
+strange 3C rebid, taking them off the hook. It looks like declarer
+has five losers, but when Manoppo played Ferraro for four spades
+and the DK, he could execute an endplay, for a well played nine
+tricks. Plus 110. [AW]
+}
+[Auction "N"]
+2C Pass Pass X 
+3C Pass Pass Pass 
+[Play "E"]
+HQ H2 HJ HA 
+C4 C2 C5 CK 
+C7 H3 CA CQ 
+H4 H6 HT C3 
+CJ S2 C6 C9 
+SJ S5 S3 SK 
+S9 SQ SA S4 
+H5 H7 H9 C8 
+D4 D3 D2 DA 
+D5 D7 DK DT 
+D6 H8 S6 S7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "13"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Lorenzo Lauria"]
+[East "Denny Sacul"]
+[South "A. Versace"]
+[Dealer "N"]
+[Deal "S:Q52.87632.QJ73.2 A863.JT9.K82.A65 KT74.A.AT.KQT983 J9.KQ54.9654.J74"]
+[Vulnerable "Both"]
+[Contract "3C"]
+[Declarer "N"]
+{
+CR - Versace had a 2C relay available after 1S, so 2D was natural
+and weak, but Lauria had good enough clubs to go to the three-level.
+Sacul led a diamond, giving declarer his second diamond trick
+immediately. When Lauria later played to the SQ, Karwur could
+have given declarer a problem by ducking. And if Lauria falls
+for it and leads to the S10, down he goes. Now he had his nine
+tricks: plus 110, and no swing. Indonesia carried forward a 1-IMP
+advantage, which we'll include in the scores the rest of the
+way.
+}
+[Auction "N"]
+1C Pass 1H Pass 
+1S Pass 2D Pass 
+3C Pass Pass Pass 
+[Play "E"]
+D5 DQ D2 DT 
+CJ C2 C5 CT 
+D4 D3 D8 DA 
+C4 H2 CA CQ 
+H5 H3 HJ HA 
+C7 H6 C6 CK 
+S9 SQ SA S4 
+H4 H7 HT C3 
+SJ S2 S3 SK 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "14"]
+[Room "Open"]
+[West "Guido Ferraro"]
+[North "Eddy Manoppo"]
+[East "Dano DeFalco"]
+[South "Henky Lasut"]
+[Dealer "E"]
+[Deal "S:642.9842.JT2.976 QJ3.QJ.9873.AQ32 AT7.AK653.Q5.T54 K985.T7.AK64.KJ8"]
+[Vulnerable "None"]
+[Contract "Pass"]
+{
+This board was thrown out by the director. The score is 0.
+}
+[Auction "E"]
+Pass Pass Pass Pass 
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "14"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Lorenzo Lauria"]
+[East "Denny Sacul"]
+[South "A. Versace"]
+[Dealer "E"]
+[Deal "S:A97.Q982.9.QJ865 QJ432.K743.64.T3 T65.T6.KQT853.92 K8.AJ5.AJ72.AK74"]
+[Vulnerable "None"]
+[Contract "Pass"]
+{
+This board was thrown out by the director. The score is 0.
+}
+[Auction "E"]
+Pass Pass Pass Pass 
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "15"]
+[Room "Open"]
+[West "Guido Ferraro"]
+[North "Eddy Manoppo"]
+[East "Dano DeFalco"]
+[South "Henky Lasut"]
+[Dealer "S"]
+[Deal "S:876.J942.5.J9543 QT93.AT753.K.K86 J54.KQ6.AT76.Q72 AK2.8.QJ98432.AT"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+OR - The game-forcing 2D wound its way inexorably toward 3NT,
+when 5D (even six) would be a better contract. The foul diamond
+break scuttles 6D, though declarer is only one entry short of
+nice trump coup. Manoppo found the best opening lead - the C2
+- ten, jack, king. The DK held, and Ferraro crossed to the SA
+to lead the DQ. South pitched a spade on this trick, so declarer
+had nine tricks without having to guess spades (four spades,
+one heart, two diamonds and two clubs). Plus 400.
+}
+[Auction "S"]
+Pass 1H Pass 2D 
+Pass 2H Pass 3D 
+Pass 3NT Pass Pass 
+Pass    
+[Play "N"]
+C2 CT CJ CK 
+D7 D2 D5 DK 
+S5 SA S8 S3 
+DA DQ S7 H3 
+CQ CA C3 C6 
+S4 SK S6 S9 
+D6 DJ H2 H5 
+- D3 H4 - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "15"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Lorenzo Lauria"]
+[East "Denny Sacul"]
+[South "A. Versace"]
+[Dealer "S"]
+[Deal "S:876.J942.5.J9543 QT93.AT753.K.K86 J54.KQ6.AT76.Q72 AK2.8.QJ98432.AT"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+CR - The identical auction was perpetrated in this room. Lauria
+also found the lead of the C2. Here, however, Versace clung to
+his three small spades. When the moment of truth came, declarer
+backed his judgment that the spades were likely four-two from
+the discarding (South had thrown 2-9 of hearts and followed 6-8-7
+of spades). Karwur finished two down two when the defenders took
+one spade, two diamonds and three clubs (Lauria, like Manoppo,
+had continued with the CQ when he won the DA): plus 100. 11 IMPs
+to to Italy, ahead 11-1.
+}
+[Auction "S"]
+Pass 1H Pass 2D 
+Pass 2H Pass 3D 
+Pass 3NT Pass Pass 
+Pass    
+[Play "N"]
+C2 CT CJ CK 
+D6 D2 D5 DK 
+S4 SA S6 ST 
+DA DQ H2 H3 
+CQ CA C5 C6 
+D7 DJ H9 H5 
+S5 SK S8 S3 
+SJ S2 S7 S9 
+DT D3 H4 H7 
+C7 D4 C9 C8 
+H6 D8 C4 HT 
+HQ D9 C3 SQ 
+HK H8 HJ HA 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "16"]
+[Room "Open"]
+[West "Guido Ferraro"]
+[North "Eddy Manoppo"]
+[East "Dano DeFalco"]
+[South "Henky Lasut"]
+[Dealer "W"]
+[Deal "S:932.6.Q96432.QT8 JT865.T432.T.A72 A74.AJ9.AJ87.954 KQ.KQ875.K5.KJ63"]
+[Vulnerable "EW"]
+[Contract "5DX"]
+[Declarer "N"]
+{
+OR - Manoppo's 1D opening was a catchall bid with 11-15 HCP,
+and Lasut's 3D was preemptive. When the Italians sailed into
+4H, Lasut looked at the vulnerability and saved in 5D. Manoppo
+cleverly ducked de Falco's HK opening lead, hoping for another
+heart, but Italians use odd-even signals, so Ferraro's H2 was
+discouraging (as it was even) and suggested a club shift (as
+it was low). DeFalco played back a low club, but Ferraro didn't
+have the CA doubleton, so Manoppo only lost the obvious five
+tricks. Three down: minus 500.
+}
+[Auction "W"]
+Pass 1D 1H 3D 
+3H 4D 4H 5D 
+Pass Pass X Pass 
+Pass Pass   
+[Play "E"]
+HK H6 H2 H9 
+C3 CT CA C5 
+SK S2 SJ SA 
+H5 S3 H3 HA 
+HQ D2 H4 HJ 
+D5 D3 DT DA 
+CK C8 C2 C4 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "16"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Lorenzo Lauria"]
+[East "Denny Sacul"]
+[South "A. Versace"]
+[Dealer "W"]
+[Deal "S:932.6.Q96432.QT8 JT865.T432.T.A72 A74.AJ9.AJ87.954 KQ.KQ875.K5.KJ63"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "E"]
+{
+CR - Here, 1D showed real diamonds, so Lauria had no reason to
+bid 4D over 3H, and E/W were left to play 4H. Versace led a diamond,
+and Lauria returned a club: jack, queen, ace. A trump to the
+king, SK to the ace, a second club to the king, and the DK for
+a club pitch. Then Sacul had to guess whether Versace had one
+heart and no clubs or the opposite. In the former case, he must
+lead a trump, but in the latter he has to ruff a club and lead
+a heart down. Sacul got it right: plus 620. 3 IMPs to Indonesia,
+4-11.
+}
+[Auction "W"]
+Pass 1D 1H 3D 
+3H Pass 4H Pass 
+Pass Pass   
+[Play "S"]
+D4 DT DA D5 
+CQ CA C5 CJ 
+H6 H2 H9 HQ 
+S9 S5 SA SQ 
+C8 C2 C9 CK 
+D2 C7 D7 DK 
+S2 S6 S4 SK 
+CT H3 C4 C3 
+D3 H4 HA H5 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "17"]
+[Room "Open"]
+[West "Guido Ferraro"]
+[North "Eddy Manoppo"]
+[East "Dano DeFalco"]
+[South "Henky Lasut"]
+[Dealer "N"]
+[Deal "S:JT92.K95.K87.AK4 84.A73.QT6.QJT95 5.JT842.A9543.82 AKQ763.Q6.J2.763"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+OR - After a normal start of the auction West took an extremely
+agressive view to rebid 2NT. East's raise to 3NT was based on
+his "solid" spade suit. After the  lead of the HJ, covered all
+around, Ferraro was prepared to cash out for two down. The bad
+spade break made things a lot worse, and he finished minus 250.
+On a positive note, E/W were not vulnerable.
+}
+[Auction "N"]
+Pass 1S Pass 1NT 
+Pass 2S Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Play "N"]
+HJ HQ HK HA 
+S5 SA S2 S4 
+D4 SK S9 S8 
+C2 C3 CK C5 
+D3 SQ SJ H3 
+C8 C6 CA CQ 
+D5 S3 ST H7 
+H4 H6 H9 CJ 
+H8 S6 H5 CT 
+HT S7 C4 D6 
+H2 C7 D7 C9 
+*
+[Result "4"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "17"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Lorenzo Lauria"]
+[East "Denny Sacul"]
+[South "A. Versace"]
+[Dealer "N"]
+[Deal "S:JT92.K95.K87.AK4 84.A73.QT6.QJT95 5.JT842.A9543.82 AKQ763.Q6.J2.763"]
+[Vulnerable "None"]
+[Contract "4HX"]
+[Declarer "S"]
+{
+CR - Here West made a normal pass on 2S. North backed in with
+a balancing 2NT, showing an unspecified two-suiter. After 3D,
+it was clear that he held diamonds and hearts. With four very
+valuable cards (HK, DK and CAK) South did his hand justice by
+jumping to 4H. West doubled, only to find out he couldn't beat
+the contract. Declarer fooled around for a while, but took the
+trump finesse for his contract in the end. His luck was in and
+he scored plus 590 for an unusual 8 IMP swing. Italy, 19-4.
+}
+[Auction "N"]
+Pass 1S Pass 1NT 
+Pass 2S Pass Pass 
+2NT Pass 3C Pass 
+3D Pass 4H X 
+Pass Pass Pass  
+[Play "W"]
+CQ C2 C3 CA 
+D6 D3 D2 DK 
+DT DA DJ D8 
+DQ D4 C6 D7 
+C9 C8 C7 CK 
+CJ S5 S3 C4 
+S8 H2 S6 S2 
+HA HJ H6 H5 
+S4 H4 S7 S9 
+H3 H8 HQ HK 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "18"]
+[Room "Open"]
+[West "Guido Ferraro"]
+[North "Eddy Manoppo"]
+[East "Dano DeFalco"]
+[South "Henky Lasut"]
+[Dealer "E"]
+[Deal "S:K7.AJT2.842.T632 A54.K875.QT96.74 QJ63.63.AJ75.J98 T982.Q94.K3.AKQ5"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+OR - DeFalco opened a 14-16 HCP notrump and found that thereafter
+he wasn't invited to the party. Ferraro decided to bid game without
+inviting on his nine-count. This seems a tad aggressive, not
+vulnerable [DC]. The poor 23-point game had little chance of
+success without any source of tricks. Lasut led the C2 to  the
+jack and ace. The DK held, but the D9 lost to the jack. When
+the smoke had cleared, declarer had only seven tricks (one spade,
+one heart, two diamonds and three clubs). Down two: minus 100.
+}
+[Auction "E"]
+1NT Pass 2C Pass 
+2S Pass 3NT Pass 
+Pass Pass   
+[Play "S"]
+C2 C4 CJ CA 
+D4 D6 D5 DK 
+D2 D9 DJ D3 
+C3 C7 C9 CK 
+HT HK H3 H9 
+D8 DQ DA C5 
+C6 S4 C8 CQ 
+HA H5 H6 HQ 
+CT S5 D7 H4 
+S7 SA S6 S2 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "18"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Lorenzo Lauria"]
+[East "Denny Sacul"]
+[South "A. Versace"]
+[Dealer "E"]
+[Deal "S:K7.AJT2.842.T632 A54.K875.QT96.74 QJ63.63.AJ75.J98 T982.Q94.K3.AKQ5"]
+[Vulnerable "NS"]
+[Contract "1NT"]
+[Declarer "W"]
+{
+CR - East's 1D could be short, but the remainder of the auction
+was natural, and well within itself. The Indonesians stopped
+at a comfortable level in this room. The D5 ran around to declarer's
+nine, and the H5 went to the queen, and ace. The diamond return
+was ducked to dummy's blank king, and Versace covered the H9,
+and Karwur's heart spots were good enough to build a second winner.
+Karwur took eight tricks: plus 120. 6 IMPs to Indonesia, 10-19.
+}
+[Auction "E"]
+1D Pass 1H Pass 
+1S Pass 1NT Pass 
+Pass Pass   
+[Play "N"]
+D5 D3 D8 D9 
+H3 HQ HA H5 
+D7 DK D4 D6 
+H6 H9 HJ HK 
+C8 H4 HT H8 
+DJ S2 D2 DT 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "19"]
+[Room "Open"]
+[West "Guido Ferraro"]
+[North "Eddy Manoppo"]
+[East "Dano DeFalco"]
+[South "Henky Lasut"]
+[Dealer "S"]
+[Deal "S:A32.AT.9.A986532 KQ6.86.AQJ43.QJ7 T74.QJ7542.752.T J985.K93.KT86.K4"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+OR - 2C was natural and limited, but was quickly brushed aside
+by E/W. DeFalco had only had 10 HCP for his jump to 3NT, but
+on a club lead, Ferraro would need only six diamonds to the ace
+and an outside ace for 3NT to succeed. Here he had only five
+diamonds and no outside ace, but he had a second club stopper
+and extra strength, so after knocking out the SA, there were
+ten tricks for the taking: plus 630.
+}
+[Auction "S"]
+2C 2D Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+C2 C7 CT CK 
+S2 SK S7 S5 
+D9 D3 D5 DT 
+SA S6 S4 S8 
+CA CJ H4 - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "19"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Lorenzo Lauria"]
+[East "Denny Sacul"]
+[South "A. Versace"]
+[Dealer "S"]
+[Deal "S:A32.AT.9.A986532 KQ6.86.AQJ43.QJ7 T74.QJ7542.752.T J985.K93.KT86.K4"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+CR - Karwur overcalled 1NT, and Lauria's 2D was a transfer to
+hearts. Vulnerable against not, Sacul wasn't interested in playing
+for penalties, so he simply jumped to 3NT. Lauria led the H2,
+attitude, and dummy played low, but Versace didn't think he could
+win the trick with the ten, so he went up ace and led back a
+low club, hoping Karwur had bid 1NT on a partial club stopper.
+He hadn't. Plus 630, a push.
+}
+[Auction "S"]
+1C 1NT 2D 3NT 
+Pass Pass Pass  
+[Play "N"]
+H2 H3 HA H6 
+CT CK C2 C7 
+S4 S5 S3 SQ 
+S7 S8 SA SK 
+H4 C4 CA CJ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "20"]
+[Room "Open"]
+[West "Guido Ferraro"]
+[North "Eddy Manoppo"]
+[East "Dano DeFalco"]
+[South "Henky Lasut"]
+[Dealer "W"]
+[Deal "S:J2.T9853.984.K97 Q98.J6.AJ3.QJ642 AKT6543.Q.KQ7.AT 7.AK742.T652.853"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "N"]
+{
+OR - The defense was the thing on this board. East started with
+the HA, then continued low. North ruffed and played three rounds
+of trumps, East discarding deuce-four of hearts. On lead with
+the SQ, Ferraro faced a tough problem. On the actual layout any
+club shift beats 4S as declarer can lead towards his diamond
+honors only once. However, give North one diamond less and one
+club more and Ferraro's ace of diamonds would have been a winner.
+A count discard in clubs from De Falco would have been very helpful.
+Plus 620. Very tough indeed.
+}
+[Auction "W"]
+Pass 1C 1H Pass 
+Pass 4S Pass Pass 
+Pass    
+[Play "E"]
+HK H3 H6 HQ 
+H7 HT HJ S3 
+S7 S2 S8 SA 
+H2 SJ S9 SK 
+H4 H5 SQ ST 
+D5 D4 DA D7 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "20"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Lorenzo Lauria"]
+[East "Denny Sacul"]
+[South "A. Versace"]
+[Dealer "W"]
+[Deal "S:J2.T9853.984.K97 Q98.J6.AJ3.QJ642 AKT6543.Q.KQ7.AT 7.AK742.T652.853"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "N"]
+{
+CR - Sacul-Karwur let through 4S even faster than their Italian
+counterparts. West's HJ (count signal) at trick one made it impossible
+to continue hearts. East guessed to return the wrong minor -
+a diamond to West's ace. Declarer soon claimed ten tricks for
+plus 620 and a push.
+}
+[Auction "W"]
+Pass 1S Pass 1NT 
+Pass 4S Pass Pass 
+Pass    
+[Play "E"]
+HA H3 HJ HQ 
+D6 D4 DA D7 
+D2 D8 D3 DK 
+S7 S2 S9 SA 
+H2 SJ S8 SK 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "21"]
+[Room "Open"]
+[West "Guido Ferraro"]
+[North "Eddy Manoppo"]
+[East "Dano DeFalco"]
+[South "Henky Lasut"]
+[Dealer "N"]
+[Deal "S:QJ6.QJ754.J9.T84 .AT86.AKT84.K753 KT732.K3.Q53.A96 A9854.92.762.QJ2"]
+[Vulnerable "NS"]
+[Contract "2SX"]
+[Declarer "N"]
+{
+OR - DeFalco passed for penalty when Ferraro doubled 1NT for
+takeout, and Lasut ran to the known eight-card fit although he
+"knew" the suit would not break well. When Ferraro doubled again,
+DeFalco converted again. The lead of the S4 lost to dummy's six,
+and DeFalco allowed the queen and jack of spades to hold. Manoppo
+eventually had to score either a second heart or the DQ for his
+seventh trick (West had discarded clubs) for a seventh winner.
+One down: minus 200.
+}
+[Auction "N"]
+1S Pass 1NT X 
+Pass Pass 2S X 
+Pass Pass Pass  
+[Play "E"]
+S4 S6 C7 S3 
+S5 SQ D8 S2 
+S8 SJ C3 S7 
+H2 H4 H6 HK 
+SA H5 H8 SK 
+CQ C4 C5 CA 
+S9 C8 D4 ST 
+H9 HQ HA H3 
+C2 CT CK C6 
+D2 D9 DK D3 
+D6 DJ DA D5 
+D7 H7 DT DQ 
+CJ HJ HT C9 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "21"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Lorenzo Lauria"]
+[East "Denny Sacul"]
+[South "A. Versace"]
+[Dealer "N"]
+[Deal "S:QJ6.QJ754.J9.T84 .AT86.AKT84.K753 KT732.K3.Q53.A96 A9854.92.762.QJ2"]
+[Vulnerable "NS"]
+[Contract "4C"]
+[Declarer "E"]
+{
+CR - East didn't entertain any thoughts about leaving in a possibly
+lighter takeout double of 2S. Apparently Sacul did not have a
+scramble available to him, and his 3C sparked some interest in
+Karwur, but the main hope was not notrump. Versace lead a trump
+against 4C and Sacul lost a trick in each suit (he discarded
+a heart from dummy on a spade in the middle game)to go down one:
+minus 50. 6 IMPs to Italy, ahead 26-10.
+}
+[Auction "N"]
+1S Pass 2S X 
+Pass 3C Pass 3S 
+Pass 3NT Pass 4C 
+Pass Pass Pass  
+[Play "S"]
+C4 C3 C9 CJ 
+DJ DA D3 D6 
+C8 C5 CA C2 
+SJ H6 S2 S8 
+H4 H8 HK H2 
+S6 HT S3 SA 
+CT C7 C6 CQ 
+D9 DT DQ D2 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "22"]
+[Room "Open"]
+[West "Guido Ferraro"]
+[North "Eddy Manoppo"]
+[East "Dano DeFalco"]
+[South "Henky Lasut"]
+[Dealer "E"]
+[Deal "S:QT.7652.72.K7532 5.QJT9.QJT95.A64 J9874.AK4.AK.J98 AK632.83.8643.QT"]
+[Vulnerable "EW"]
+[Contract "1SX"]
+[Declarer "E"]
+{
+OR - 1C was strong (16+ HCP) and double showed 5-7 HCP. Manoppo
+could be pretty sure his side couldn't make a game, so he passed,
+hoping to defeat 1S. On a diamond lead (why not one of those
+magnificent trumps?) and club return, DeFalco did the right thing
+by putting in the C10, but with spades five-two, he still had
+to lose seven tricks. One down: minus 200.
+}
+[Auction "E"]
+Pass Pass Pass 1C 
+1S X Pass Pass 
+Pass    
+[Play "S"]
+D7 DQ DK D6 
+CK CA C9 CT 
+D2 DJ DA D4 
+ST S5 S9 S2 
+C2 C6 CJ CQ 
+SQ H9 S4 SA 
+H5 C4 S7 SK 
+H2 DT H4 D3 
+C3 D9 S8 D8 
+H6 HT SJ S3 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "22"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Lorenzo Lauria"]
+[East "Denny Sacul"]
+[South "A. Versace"]
+[Dealer "E"]
+[Deal "S:QT.7652.72.K7532 5.QJT9.QJT95.A64 J9874.AK4.AK.J98 AK632.83.8643.QT"]
+[Vulnerable "EW"]
+[Contract "2S"]
+[Declarer "N"]
+{
+CR - Italy wanted to play spades at this table too, and here
+they took an incredible nine tricks! Lauria's 2C rebid was either
+minimum with 4+ clubs or any strong hand, and 2S showed a bad
+hand. Most lines of defense lead to one down, but on a trump
+lead combined with some less-than-memorable discarding, Lauria
+managed an endplay against Karwur that produced two club winners
+for declarer. Three made: plus 140. 2 IMPs to Indonesia, 12-26.
+}
+[Auction "E"]
+Pass Pass Pass 1S 
+Pass 1NT Pass 2C 
+Pass 2S Pass Pass 
+Pass    
+[Play "E"]
+S3 ST S5 S4 
+SK SQ DQ S7 
+D3 D2 D9 DA 
+SA C2 HQ SJ 
+D4 D7 DT DK 
+S2 C3 D5 S9 
+S6 H2 DJ S8 
+H3 H5 H9 HA 
+H8 H6 HT HK 
+CT H7 HJ H4 
+CQ CK C4 C8 
+D6 C5 C6 CJ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "23"]
+[Room "Open"]
+[West "Guido Ferraro"]
+[North "Eddy Manoppo"]
+[East "Dano DeFalco"]
+[South "Henky Lasut"]
+[Dealer "S"]
+[Deal "S:KQT.73.986.QT965 A74.KQT62.KJ432. J652.J54.T5.8742 983.A98.AQ7.AKJ3"]
+[Vulnerable "Both"]
+[Contract "7H"]
+[Declarer "W"]
+{
+OR - 7H is an excellent contract, only failing when North has
+four or five hearts to the jack. Ferraro-De Falco duly got there.
+Playing a strong club system, West felt free to jump to 3D at
+his second turn. East set trumps with 3H and E/W started cue-bidding,
+the redouble of 4C showing first-round control, obviously a void
+from East's point of view. DeFalco used RKCB and bid 7H when
+he found out that all key cards and the HQ were on board. He
+knew his partner was 3-5-5-0 and that the two spade losers would
+go on the ace-king of clubs. Plus 2210.
+}
+[Auction "S"]
+Pass 1H Pass 2C 
+Pass 3D Pass 3H 
+Pass 3NT Pass 4C 
+X XX Pass 4D 
+Pass 4H Pass 4NT 
+Pass 5S Pass 7H 
+Pass Pass Pass  
+[Play "N"]
+C2 CA C6 S4 
+H4 H8 H3 HK 
+H5 HA H7 H2 
+HJ H9 C5 HQ 
+D5 DA D6 D2 
+*
+[Result "13"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "23"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Lorenzo Lauria"]
+[East "Denny Sacul"]
+[South "A. Versace"]
+[Dealer "S"]
+[Deal "S:KQT.73.986.QT965 A74.KQT62.KJ432. J652.J54.T5.8742 983.A98.AQ7.AKJ3"]
+[Vulnerable "Both"]
+[Contract "7H"]
+[Declarer "W"]
+{
+CR - Playing two-over-one game force Sacul-Karwur were able to
+set trumps at a very low level (2H). 3C showed shortness and
+a series of cue bids followed. After 5C West knew his partner
+had the ace-king of clubs (two spade discards) and the ace of
+diamonds. With a grand slam force 5NT he asked for top honours
+in hearts. East showed his ace and the grand slam was reached
+again. The DQ was a huge bonus. Plus 2210. No swing.
+}
+[Auction "S"]
+Pass 1H Pass 2C 
+Pass 2D Pass 2H 
+Pass 3C Pass 3D 
+Pass 3S Pass 4C 
+Pass 4D Pass 5C 
+Pass 5NT Pass 6D 
+Pass 7H Pass Pass 
+Pass    
+[Play "N"]
+C4 CA C6 S4 
+H4 HA H3 H2 
+H5 H9 H7 HK 
+HJ H8 C5 HQ 
+D5 DA D6 D2 
+*
+[Result "13"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "24"]
+[Room "Open"]
+[West "Guido Ferraro"]
+[North "Eddy Manoppo"]
+[East "Dano DeFalco"]
+[South "Henky Lasut"]
+[Dealer "W"]
+[Deal "S:Q7.T53.AJ86.AQ83 95.AKQ74.Q95.765 J8432.J982.T2.J4 AKT6.6.K743.KT92"]
+[Vulnerable "None"]
+[Contract "1SX"]
+[Declarer "E"]
+{
+OR - A strange one indeed. Manoppo left in Lasut's takeout double
+with his three jacks, and DeFalco decided to sit it out with
+his opening bid. He was quite sure he could scramble seven or
+more tricks, as his S10 rated to be a big card. Lasut led the
+H5 and DeFalco won to lead a club to the ten and queen. Lasut
+persisted with hearts, holding declarer to three spades, three
+hearts and one diamond. Making one: plus 160. It's interesting
+to speculate about why DeFalco did not redouble. [DC]
+}
+[Auction "W"]
+1H Pass 1S X 
+Pass Pass Pass  
+[Play "S"]
+H5 HA H9 H6 
+CQ C5 C4 CT 
+H3 HK H2 D4 
+CA C6 CJ CK 
+HT HQ HJ D7 
+DA D5 D2 DK 
+C3 C7 S3 C2 
+D6 H4 H8 SA 
+D8 DQ DT D3 
+DJ D9 S8 ST 
+C8 S5 SJ C9 
+SQ S9 S2 S6 
+S7 H7 S4 SK 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F1"]
+[Board "24"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Lorenzo Lauria"]
+[East "Denny Sacul"]
+[South "A. Versace"]
+[Dealer "W"]
+[Deal "S:Q7.T53.AJ86.AQ83 95.AKQ74.Q95.765 J8432.J982.T2.J4 AKT6.6.K743.KT92"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+CR - OR - A strange one indeed. Manoppo left in Lasut's takeout
+double with his three jacks, and DeFalco decided to sit it out
+with his opening bid. He was quite sure he could scramble seven
+or more tricks, as his S10 rated to be a big card. Lasut led
+the H5 and DeFalco won to lead a club to the ten and queen. Lasut
+persisted with hearts, holding declarer to three spades, three
+hearts and one diamond. Making one: plus 160. It's interesting
+to speculate about why DeFalco did not redouble. [DC]
+}
+[Auction "W"]
+1H Pass 1S Pass 
+1NT Pass 3NT Pass 
+Pass Pass   
+[Play "N"]
+DT DK DA D5 
+D2 D3 D6 D9 
+C4 C9 CQ C7 
+S3 D4 D8 DQ 
+CJ CK CA C6 
+H2 D7 DJ H4 
+H8 H6 H5 HA 
+H9 S6 H3 HK 
+*
+[Result "9"]
+

@@ -1,0 +1,116 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.11"]
+[Round "02"]
+[Board "4"]
+[Room "Open"]
+[West "Paul Chemla"]
+[North "Bobby Levin"]
+[East "Alain Levy"]
+[South "S. Weinstein"]
+[Dealer "W"]
+[Deal "S:Q8763.AQT4.95.76 42.KJ86.AKJT6.T8 KJ5..872.AKJ9542 AT9.97532.Q43.Q3"]
+[Vulnerable "Both"]
+[Contract "2C"]
+[Declarer "N"]
+{
+Enter multiple French, European, and world champions Paul Chemla
+and Alain Levy. This year they have very uncharacteristically
+failed to qualify for the French team. They play very natural
+methods with strong NT and five-card majors. Levin-Weinstein
+remain N/S. Over Chemla's 1D, Levin's sound 2C ended the auction.
+There was nothing to the play. Levy led his parther´s suit. Chemla
+took the first trick and played a trump back to Levin's ace,
+and continued trumps when declarer gave up a second diamond.
+}
+[Auction "W"]
+1D 2C Pass Pass 
+Pass    
+[Play "E"]
+D3 D5 DK D7 
+C3 C6 C8 CA 
+D4 D9 DT D8 
+CQ C7 CT CK 
+SA S3 S4 SJ 
+H2 - - - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "02"]
+[Board "5"]
+[Room "Open"]
+[West "Paul Chemla"]
+[North "Bobby Levin"]
+[East "Alain Levy"]
+[South "S. Weinstein"]
+[Dealer "N"]
+[Deal "S:A98.AJ65.AK84.76 KJ72.K432.Q92.42 653.Q98.T763.K98 QT4.T7.J5.AQJT53"]
+[Vulnerable "NS"]
+[Contract "2D"]
+[Declarer "N"]
+{
+Levy's passed-hand double showed a singe-suited hand and Chemla
+may have been tempted to pass. He settled for a dutiful 2C, which
+catered to Levy's actual hand. Weinstein, rich in aces, doubled
+for takeout, hoping for a penalty pass, but Levin retreated to
+2D. A heart lead from East didn´t cause any problems for declarer,
+as a spade would have done. Here Levin simply let the H10 go
+to his queen (West ducked), drew two rounds of trumps and gave
+up a heart. A spade loser could be discarded on a heart.
+}
+[Auction "N"]
+Pass Pass 1NT Pass 
+Pass X Pass 2C 
+Pass Pass X Pass 
+2D Pass Pass Pass 
+[Play "E"]
+HT H5 H4 HQ 
+D5 DA D2 D6 
+DJ DK D9 D3 
+- H6 HK H9 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "02"]
+[Board "6"]
+[Room "Open"]
+[West "Paul Chemla"]
+[North "Bobby Levin"]
+[East "Alain Levy"]
+[South "S. Weinstein"]
+[Dealer "E"]
+[Deal "S:QJ8.J5.KQ.KQJT82 T976432.74.AT9.5 .KT32.J7654.A974 AK5.AQ986.832.63"]
+[Vulnerable "EW"]
+[Contract "5C"]
+[Declarer "S"]
+{
+N/S play Transfer Advances (a method introduced by Jeff Rubens
+in The Bridge World), so Levin´s 2S showed at least a sound raise
+to 3C. Weinstein´s 3H asked for a heart stopper but Levin's "strong"
+raise was based on distribution and he preferred to try for game
+in clubs. As he might have  expected, his HK turned out to be
+a worthless card when West led his partner´s suit. Three red
+tricks for the defense meant one down: N/S minus 50.
+}
+[Auction "E"]
+1H 2C Pass 2S 
+Pass 3H 3S 5C 
+Pass Pass Pass  
+[Play "W"]
+H7 H2 HQ HJ 
+H4 H3 HA H5 
+S3 HT H9 CK 
+C5 C4 C3 CJ 
+S2 CA C6 CQ 
+*
+[Result "10"]
+

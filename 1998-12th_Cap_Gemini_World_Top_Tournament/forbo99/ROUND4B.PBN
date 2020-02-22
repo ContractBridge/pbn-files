@@ -1,0 +1,479 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "7th International Forbo Krommenie Bridge Tournament 1999"]
+[Site "Kurhaus Hotel - Scheveningen, The Netherlands, NLD"]
+[Date "1999.02.28"]
+[Round "4"]
+[Board "1"]
+[West "Duboin"]
+[North "Paulissen"]
+[East "Bocchi"]
+[South "Ramer"]
+[Vulnerable "EW"]
+[Deal "S:65432.9.QJ32.764 QJ9.K84.T84.T953 AT8.753.K97.AQ82 K7.AQJT62.A65.KJ"]
+[Dealer "N"]
+[Auction "N"]
+1C X Pass 1D 
+Pass 1H Pass 2C 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+S5 S9 ST SK 
+H9 H4 H3 HQ 
+S4 SQ SA S7 
+D2 D4 D9 DA 
+S2 H8 H5 H2 
+C7 HK H7 H6 
+S3 SJ S8 D5 
+- C3 - - 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "1"]
+[West "Jansma"]
+[North "De Falco"]
+[East "Verhees"]
+[South "Ferraro"]
+[Vulnerable "EW"]
+[Deal "S:65432.9.QJ32.764 QJ9.K84.T84.T953 AT8.753.K97.AQ82 K7.AQJT62.A65.KJ"]
+[Dealer "N"]
+[Auction "N"]
+1D X Pass 2C 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+DQ D4 D7 DA 
+H9 H4 H5 HQ 
+S6 H8 H3 HJ 
+S2 S9 SA SK 
+D2 D8 DK D5 
+C4 C3 CA CJ 
+DJ - D9 D6 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "2"]
+[West "Duboin"]
+[North "Paulissen"]
+[East "Bocchi"]
+[South "Ramer"]
+[Vulnerable "Both"]
+[Deal "S:A94.AKQT.KQ54.85 Q753.7543.T76.KJ T8.J98.AJ83.Q764 KJ62.62.92.AT932"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C Pass 1NT 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+S2 - - - 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "2"]
+[West "Jansma"]
+[North "De Falco"]
+[East "Verhees"]
+[South "Ferraro"]
+[Vulnerable "Both"]
+[Deal "S:A94.AKQT.KQ54.85 Q753.7543.T76.KJ T8.J98.AJ83.Q764 KJ62.62.92.AT932"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C Pass 1H 
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+S5 - - - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "3"]
+[West "Duboin"]
+[North "Paulissen"]
+[East "Bocchi"]
+[South "Ramer"]
+[Vulnerable "None"]
+[Deal "S:76.AKJ9543.Q54.7 853.72.AJ2.AKT82 QJT9.QT86.KT9.J6 AK42..8763.Q9543"]
+[Dealer "S"]
+[Auction "S"]
+4H Pass Pass Pass 
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+CK C6 C3 C7 
+CA CJ C4 H3 
+H2 HQ C5 H4 
+S3 SQ SA S6 
+- - SK S7 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "3"]
+[West "Jansma"]
+[North "De Falco"]
+[East "Verhees"]
+[South "Ferraro"]
+[Vulnerable "None"]
+[Deal "S:76.AKJ9543.Q54.7 853.72.AJ2.AKT82 QJT9.QT86.KT9.J6 AK42..8763.Q9543"]
+[Dealer "S"]
+[Auction "S"]
+1H Pass 2H Pass 
+4H Pass Pass Pass 
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+CK C6 C9 C7 
+CA CJ C3 H3 
+S8 S9 SA S6 
+S3 ST SK S7 
+S5 SQ S2 D4 
+H2 H6 D3 HA 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "4"]
+[West "Duboin"]
+[North "Paulissen"]
+[East "Bocchi"]
+[South "Ramer"]
+[Vulnerable "NS"]
+[Deal "S:A742.KQ765.8.A63 J653.AJ2.KQ3.K95 KQ8.83.A9764.J82 T9.T94.JT52.QT74"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1S X 
+Pass 2D Pass 2H 
+Pass 2S Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+ST S2 S3 SQ 
+H9 HK HA H3 
+CQ C3 C5 CJ 
+C4 CA C9 C2 
+H4 HQ H2 H8 
+HT H5 HJ C8 
+C7 C6 CK S8 
+S9 S4 S5 SK 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "4"]
+[West "Jansma"]
+[North "De Falco"]
+[East "Verhees"]
+[South "Ferraro"]
+[Vulnerable "NS"]
+[Deal "S:A742.KQ765.8.A63 J653.AJ2.KQ3.K95 KQ8.83.A9764.J82 T9.T94.JT52.QT74"]
+[Dealer "W"]
+[Auction "W"]
+1C 1D Pass 1H 
+Pass 1NT Pass 2S 
+Pass 3S Pass 4S 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+DK DA D2 D8 
+HA H3 HT HK 
+DQ D4 D5 S2 
+H2 H8 H4 HQ 
+HJ S8 H9 H5 
+S3 SQ S9 S4 
+S5 SK ST S7 
+C5 C2 C4 CA 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "5"]
+[West "Duboin"]
+[North "Paulissen"]
+[East "Bocchi"]
+[South "Ramer"]
+[Vulnerable "Both"]
+[Deal "S:K643.J.Q987.QJT4 T72.T7.J6543.972 AQ9.AKQ65432..86 J85.98.AKT2.AK53"]
+[Dealer "N"]
+[Auction "N"]
+2C Pass 3D Pass 
+3H Pass 3NT Pass 
+4H Pass Pass Pass 
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+CK C4 C7 C6 
+DK D7 D3 H2 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+680"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "5"]
+[West "Jansma"]
+[North "De Falco"]
+[East "Verhees"]
+[South "Ferraro"]
+[Vulnerable "Both"]
+[Deal "S:K643.J.Q987.QJT4 T72.T7.J6543.972 AQ9.AKQ65432..86 J85.98.AKT2.AK53"]
+[Dealer "N"]
+[Auction "N"]
+1C Pass 1H Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+H7 H2 H8 HJ 
+D3 H3 D2 D7 
+HT HA H9 D8 
+C9 HK C3 D9 
+C2 HQ C5 C4 
+- H4 S8 CQ 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+680"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "6"]
+[West "Duboin"]
+[North "Paulissen"]
+[East "Bocchi"]
+[South "Ramer"]
+[Vulnerable "None"]
+[Deal "S:3.842.KJ854.KJ83 AQT92.7.T32.9652 K87654.AKQT65..7 J.J93.AQ976.AQT4"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 2C 4H 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+SJ S3 SA S4 
+H3 H2 H7 HA 
+CA C3 C2 C7 
+H9 H4 DT HT 
+D6 H8 S2 S8 
+C4 CK C5 S5 
+- C8 - - 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "6"]
+[West "Jansma"]
+[North "De Falco"]
+[East "Verhees"]
+[South "Ferraro"]
+[Vulnerable "None"]
+[Deal "S:3.842.KJ854.KJ83 AQT92.7.T32.9652 K87654.AKQT65..7 J.J93.AQ976.AQT4"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 2S 3H 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+SJ S3 SA S4 
+H3 H2 H7 HA 
+CA C3 C2 C7 
+DA D4 DT H5 
+H9 D5 SQ S5 
+C4 C8 C9 H6 
+HJ H4 C5 HK 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "7"]
+[West "Duboin"]
+[North "Paulissen"]
+[East "Bocchi"]
+[South "Ramer"]
+[Vulnerable "NS"]
+[Deal "S:AT84.KT52.JT6.Q2 QJ95.A73.Q4.KJ75 K72.Q98.K9873.T6 63.J64.A52.A9843"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 1S 
+Pass 1NT Pass 2C 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "2C"]
+[Play "N"]
+CT C3 C2 CJ 
+C6 CA CQ C5 
+SK S3 S4 SQ 
+H9 H4 H2 HA 
+D7 C9 D6 C7 
+S2 S6 SA S5 
+HQ H6 H5 H3 
+H8 HJ HK H7 
+- - DT - 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "7"]
+[West "Jansma"]
+[North "De Falco"]
+[East "Verhees"]
+[South "Ferraro"]
+[Vulnerable "NS"]
+[Deal "S:AT84.KT52.JT6.Q2 QJ95.A73.Q4.KJ75 K72.Q98.K9873.T6 63.J64.A52.A9843"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C 1D 2C 
+X 3C Pass Pass 
+3D Pass Pass Pass 
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+S6 S4 S9 SK 
+CA C2 C7 C6 
+S3 SA S5 S7 
+DA DJ D4 D3 
+C9 CQ CK CT 
+C4 S8 SJ S2 
+C3 ST SQ D7 
+H6 H2 HA HQ 
+D2 DT DQ DK 
+D5 D6 - D9 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "8"]
+[West "Duboin"]
+[North "Paulissen"]
+[East "Bocchi"]
+[South "Ramer"]
+[Vulnerable "EW"]
+[Deal "S:QJT84.QT3.JT.A93 A9.KJ764.AQ87.J4 K653.A9852.5.KQ6 72..K96432.T8752"]
+[Dealer "W"]
+[Auction "W"]
+1H Pass Pass 1S 
+Pass 4S Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+H6 H2 S2 H3 
+DQ D5 D6 DJ 
+HK HA S7 HT 
+C4 CK C7 C3 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "8"]
+[West "Jansma"]
+[North "De Falco"]
+[East "Verhees"]
+[South "Ferraro"]
+[Vulnerable "EW"]
+[Deal "S:QJT84.QT3.JT.A93 A9.KJ764.AQ87.J4 K653.A9852.5.KQ6 72..K96432.T8752"]
+[Dealer "W"]
+[Auction "W"]
+1H Pass Pass X 
+Pass 2S Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+C2 CA C4 C6 
+S2 S4 SA S3 
+S7 H3 HK HA 
+C5 C3 CJ CK 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+140"]
+

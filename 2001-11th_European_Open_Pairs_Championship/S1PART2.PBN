@@ -1,0 +1,440 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "11th European Open Pairs Championship 2001"]
+[Site "Sorrento, Italy, ITA"]
+[Date "2001.03.21"]
+[Round "S1"]
+[Board "16"]
+[Room "Open"]
+[West "John Carroll"]
+[North "Alain Levy"]
+[East "Tommy Garvey"]
+[South "Paul Chemla"]
+[Dealer "W"]
+[Deal "S:T2.9.AJ7532.JT86 KQ65.JT.QT8.A753 AJ4.A87654.94.Q9 9873.KQ32.K6.K42"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "W"]
+{
+If West's 1S opening is normal in the partnership style, then
+East's raise to game was perhaps a bit of a stretch - at matchpoints
+anyway. 4S spades requires quite a lot of luck, and today was
+not the day. Fortunately, it was over in a hurry when a diamond
+was led to the ace, heart to the ace, heart ruff. When the short
+trump hand turned out to have scored the ruff, there was no more
+trump guess. 4S went two down, plus 200 for NS.
+}
+[Auction "W"]
+1S 2H 4S Pass 
+Pass Pass   
+[Play "N"]
+D9 D6 DA D8 
+HA H2 H9 HT 
+H4 H3 S2 HJ 
+C9 CK CJ C3 
+SA S3 ST SK 
+CQ C2 C6 CA 
+D4 DK D2 DT 
+S4 S7 D3 SQ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "17"]
+[Room "Open"]
+[West "J. Rocafort"]
+[North "Alain Levy"]
+[East "N. Courtel"]
+[South "Paul Chemla"]
+[Dealer "N"]
+[Deal "S:KQ543.QT43.K6.62 AT98.8.T9.KT8743 .AK9752.A872.J95 J762.J6.QJ543.AQ"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "N"]
+{
+South's 3NT response to his partner's 1H opening bid showed a
+heart fit in a hand of limited strength, and consequently, North
+saw no reason to venture beyond game or even disclose anything
+further to the opponents
+}
+[Auction "N"]
+1H Pass 3NT Pass 
+4H Pass Pass Pass 
+[Play "E"]
+H6 H3 H8 HK 
+HJ HQ C7 H5 
+S2 SK SA H7 
+D3 DK DT D2 
+S6 SQ S8 C5 
+SJ S3 ST H2 
+D4 D6 D9 DA 
+DJ H4 C3 D7 
+S7 S4 S9 H9 
+DQ HT C4 D8 
+D5 S5 C8 C9 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "18"]
+[Room "Open"]
+[West "J. Rocafort"]
+[North "Alain Levy"]
+[East "N. Courtel"]
+[South "Paul Chemla"]
+[Dealer "E"]
+[Deal "S:T8.QT8543.5.Q986 A2.KJ962.AQ864.T QJ9765.A.KJ9.A43 K43.7.T732.KJ752"]
+[Vulnerable "NS"]
+[Contract "3D"]
+[Declarer "W"]
+{
+East-West had no trouble reaching their best spot by straightforward
+bidding. North will likely make eight tricks in spades but it's
+doubtful whether any NS pairs will bid on to 3S at this vulnerability
+and risk the kiss of death (otherwise known as down one versus
+a partial). Declarer was saved a (not too difficult) club guess,
+and the same may be said for the hearts. Thereafter he had no
+problem collecting nine tricks, losing only two trump tricks
+and the rounded suit aces. 3D made three, minus 110 to NS.
+}
+[Auction "E"]
+Pass Pass 1H 1S 
+Pass Pass 2D 2S 
+3D Pass Pass Pass 
+[Play "N"]
+SQ S3 ST SA 
+CA C2 C9 CT 
+SJ SK S8 S2 
+HA H7 H5 HJ 
+S9 S4 H3 D4 
+C3 D2 H4 H2 
+D9 D3 D5 DA 
+C4 D7 H8 H6 
+DJ CK C6 H9 
+DK - - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "19"]
+[Room "Open"]
+[West "Bas Drijver"]
+[North "Alain Levy"]
+[East "Simon De Wijs"]
+[South "Paul Chemla"]
+[Dealer "S"]
+[Deal "S:A76.Q9532.Q954.8 K9853.A4.872.J75 QJ4.T.AKJ3.QT963 T2.KJ876.T6.AK42"]
+[Vulnerable "EW"]
+[Contract "2D"]
+[Declarer "N"]
+{
+Notice Levy's choice of third seat opening bid - not Canapé.
+1D rather than 1C affords an easy rebid, unless one is prepared
+to bid 1NT over a 1H response or 2S over a 1S response. Rebidding
+2C after having opened 1C simply does not look good. Secondly,
+should the opponents buy the contract, a diamond lead would be
+preferable. Furthermore, the diamond fit was discovered immediately
+at the table. Mind you, notrump wouldn't be bad, but 1NT should
+go down after a spade lead by West (or - unlikely - by East,
+provided West ducks the first round!).
+}
+[Auction "S"]
+Pass Pass 1D 1H 
+2D Pass Pass Pass 
+[Play "E"]
+CA C8 C7 C3 
+DT D4 D7 DK 
+CK D5 C5 CQ 
+S2 S6 SK S4 
+D6 D9 D2 D3 
+ST S7 S3 SQ 
+C2 DQ CJ CT 
+H6 SA S5 SJ 
+HJ H2 H4 HT 
+C4 - - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "20"]
+[Room "Open"]
+[West "Bas Drijver"]
+[North "Alain Levy"]
+[East "Simon De Wijs"]
+[South "Paul Chemla"]
+[Dealer "W"]
+[Deal "S:A876.K863.4.AJ75 Q54.4.86.KQ98432 KJ2.J9.QJ9752.T6 T93.AQT752.AKT3."]
+[Vulnerable "Both"]
+[Contract "3SX"]
+[Declarer "N"]
+{
+West's 3C preempt gave South a serious problem. Hope springs
+eternal, however. Counting on short clubs and wishing for relatively
+short diamonds opposite, South was hopeful that a suitable major
+contract could be found. When partner was doubled in 3D, he redoubled
+for rescue, which led to the doubled 3S contract in the 4-3 spade
+fit.
+}
+[Auction "W"]
+3C Pass Pass X 
+Pass 3D X XX 
+Pass 3S X Pass 
+Pass Pass   
+[Play "E"]
+S3 S6 SQ SK 
+HA H3 H4 H9 
+ST S7 S5 SJ 
+HQ HK S4 HJ 
+DK D4 D8 DQ 
+S9 SA C2 S2 
+H2 C5 CQ C6 
+DT S8 D6 D9 
+H5 C7 CK CT 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "21"]
+[Room "Open"]
+[West "Seppo Laine"]
+[North "Alain Levy"]
+[East "K. Koistinen"]
+[South "Paul Chemla"]
+[Dealer "N"]
+[Deal "S:Q82.JT952.765.A4 J93.AK6.JT93.K75 T654.Q7.AQ.QJ862 AK7.843.K842.T93"]
+[Vulnerable "NS"]
+[Contract "Pass"]
+{
+Would anyone open the bidding on any of these hands at any table?
+West has the tough decision to make. The rule of sixteen (number
+of HCP plus number of spades held) says 'no'. Others use the
+rule of fifteen, and the answer would be 'yes'. I would (the
+good diamonds spots being a factor, and besides, I come to play),
+and it would work out nicely, too! 1NT is a lovely contract,
+with the diamonds lying favorably.
+}
+[Auction "N"]
+Pass Pass Pass Pass 
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "22"]
+[Room "Open"]
+[West "Seppo Laine"]
+[North "Alain Levy"]
+[East "K. Koistinen"]
+[South "Paul Chemla"]
+[Dealer "E"]
+[Deal "S:Q43.J4.AKQ98.J65 A9.AK863.JT75.43 K876.975.3.KQ972 JT52.QT2.642.AT8"]
+[Vulnerable "EW"]
+[Contract "2H"]
+[Declarer "W"]
+{
+Chemla and Levy apparently do not use a negative double in this
+situation to distinguish between a four-card and five-card spade
+holding. Nor did Chemla, South, use a support double when he
+had a chance. Although 3C is not a bad spot for NS (whether it
+makes or not), it certainly was hard to bid.
+}
+[Auction "E"]
+Pass 1D 1H 1S 
+2H Pass Pass Pass 
+[Play "N"]
+D3 D2 DK D5 
+C7 D4 DQ D7 
+SK S2 S3 S9 
+CK CA C5 C3 
+H7 H2 H4 HA 
+S6 S5 S4 SA 
+H5 HQ HJ H3 
+S7 ST SQ H6 
+H9 HT D8 H8 
+- SJ - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "23"]
+[Room "Open"]
+[West "Vladimir Mihov"]
+[North "Alain Levy"]
+[East "Ivan Nanev"]
+[South "Paul Chemla"]
+[Dealer "S"]
+[Deal "S:J82.Q.QJ9852.T95 AQ653.8752.AK.K7 KT94.T93.64.Q842 7.AKJ64.T73.AJ63"]
+[Vulnerable "Both"]
+[Contract "6H"]
+[Declarer "E"]
+{
+The Bulgarian East-West had a sound auction to a sound small
+slam in hearts. The only strange item was West's 5S response
+to 4NT Roman Key Card Blackwood, ostensibly showing two aces
+and the queen of trumps (as if spades were the agreed trump suit).
+However, this was of no consequence - or was it? Declarer was
+one trick away from making his contract when, at Trick eight,
+he tried to ruff the wrong minor suit card and was overruffed
+by North, who administered the 'coup de grace' by removing dummy's
+last trump.
+}
+[Auction "S"]
+Pass 1C Pass 1H 
+Pass 1S Pass 2C 
+Pass 2H Pass 3H 
+Pass 3S Pass 4C 
+Pass 4D Pass 4NT 
+Pass 5S Pass 6H 
+Pass Pass Pass  
+[Play "S"]
+DQ DK D6 D3 
+HQ H2 H9 HA 
+C5 CK C2 C3 
+C9 C7 C4 CA 
+CT H5 C8 C6 
+D2 DA D4 D7 
+S2 SA S4 S7 
+S8 S3 S9 H4 
+DJ H7 HT DT 
+D5 H8 H3 HK 
+D8 S5 ST HJ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "24"]
+[Room "Open"]
+[West "Vladimir Mihov"]
+[North "Alain Levy"]
+[East "Ivan Nanev"]
+[South "Paul Chemla"]
+[Dealer "W"]
+[Deal "S:K3.AT52.J73.AJ86 AQJ75.KJ.4.KQT52 982.Q763.AKT92.9 T64.984.Q865.743"]
+[Vulnerable "None"]
+[Contract "3S"]
+[Declarer "W"]
+{
+The EW pair had another strong club auction, but did not progress
+beyond the three-level when East had little to contribute besides
+three trumps in a flat hand.
+}
+[Auction "W"]
+1C 1D Pass 1NT 
+2S Pass Pass 2NT 
+3C Pass 3S Pass 
+Pass Pass   
+[Play "N"]
+DA D5 D3 D4 
+C9 C3 CA C5 
+S8 C4 C8 CT 
+H6 H4 HA HJ 
+S2 C7 C6 CQ 
+H3 H8 H2 HK 
+D2 S4 CJ C2 
+S9 S6 S3 SJ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "25"]
+[Room "Open"]
+[West "Marek Cyrkiel"]
+[North "Alain Levy"]
+[East "M. Pietraszek"]
+[South "Paul Chemla"]
+[Dealer "N"]
+[Deal "S:A32.QJ865.QT96.K QT984.AT3.A8.A43 J76.4.KJ74.QT965 K5.K972.532.J872"]
+[Vulnerable "EW"]
+[Contract "1S"]
+[Declarer "W"]
+{
+Although NS did not compete further after West's 1S overcall,
+it's not very likely they would have been allowed to play a low
+diamond partscore. West has enough extra values not to get frozen
+out (for example, double, if South rebids 2D, uhhh!) and East
+would bid a quiet 2S. 3D doubled could go for 300
+}
+[Auction "N"]
+Pass Pass 1H 1S 
+Pass Pass Pass  
+[Play "N"]
+H4 H2 HJ HA 
+S7 S5 SA ST 
+C5 C2 CK CA 
+S6 SK S2 S4 
+D7 D2 D6 DA 
+SJ D3 S3 SQ 
+DJ D5 D9 D8 
+CT CJ H6 C3 
+C9 C7 H5 C4 
+D4 H7 DT S8 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "26"]
+[Room "Open"]
+[West "Marek Cyrkiel"]
+[North "Alain Levy"]
+[East "M. Pietraszek"]
+[South "Paul Chemla"]
+[Dealer "E"]
+[Deal "S:.AT5.QT95.AKQT43 AKQ6432.KQ4.4.87 JT975.J732.K3.J9 8.986.AJ8762.652"]
+[Vulnerable "Both"]
+[Contract "3SX"]
+[Declarer "W"]
+{
+Bidding from outer space, one would think. Actually, it was Poland,
+but equally spaced out. West may have thought his ploy had worked
+when he was doubled in 3S after his partner had bid freely, vulnerable,
+at the two and three level.
+}
+[Auction "E"]
+Pass 1C Pass 1S 
+2D 3C Pass Pass 
+3D X 3S X 
+Pass Pass Pass  
+[Play "N"]
+CJ C2 CQ C7 
+C9 C5 CK C8 
+S5 C6 CA S4 
+SJ S8 C4 SQ 
+S7 D2 DT SA 
+DK DA D5 D4 
+H2 H6 H5 HK 
+S9 D6 D9 S2 
+D3 D8 DQ S3 
+H3 H8 HT H4 
+ST H9 C3 S6 
+H7 D7 HA HQ 
+HJ DJ CT SK 
+*
+[Result "6"]

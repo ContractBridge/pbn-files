@@ -1,0 +1,129 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.13"]
+[Round "36"]
+[Board "1"]
+[Room "Open"]
+[West "Brad Moss"]
+[North "John Mohan"]
+[East "Fred Gitelman"]
+[South "Eddie Wold"]
+[Dealer "N"]
+[Deal "S:9742.Q85.T984.43 AKJ53.KT6.AJ3.92 QT6.74.Q62.AQ865 8.AJ932.K75.KJT7"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "E"]
+{
+[Your host for Boards 1-12 is Danny Kleinman.] We will be following
+Fred Gitelman and Brad Moss for the first three boards. A "fourth
+suit artificial and forcing to game" (by agreement) sequence
+let East and West probe gently for slam without bidding beyond
+four hearts.
+}
+[Auction "N"]
+Pass 1H Pass 1S 
+Pass 2C Pass 2D 
+Pass 2H Pass 3H 
+Pass 4D Pass 4H 
+Pass Pass Pass  
+[Play "S"]
+DT DJ DQ DK 
+S4 SA S6 S8 
+C3 C9 C5 C7 
+C4 C2 CA CT 
+D8 DA D6 D7 
+S2 SK ST D5 
+S9 S3 SQ H2 
+S7 H6 C6 CJ 
+D9 D3 D2 H3 
+H5 HT C8 CK 
+- HK - - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "36"]
+[Board "2"]
+[Room "Open"]
+[West "Brad Moss"]
+[North "John Mohan"]
+[East "Fred Gitelman"]
+[South "Eddie Wold"]
+[Dealer "E"]
+[Deal "S:K75.J42.872.QJT7 T943.A9853.A65.5 J82.KQ7.93.AK986 AQ6.T6.KQJT4.432"]
+[Vulnerable "NS"]
+[Contract "3D"]
+[Declarer "E"]
+{
+Vul against not and in the dangerous sandwich position, North,
+John Mohan, stayed out of the auction initially. Then, after
+doubling West's "New Minor Forcing" two clubs for a lead, Mohan,
+the apostle of balancing, doubled two diamonds for takeout. East,
+whose two diamonds had not promised a strong suit, raised himself
+to three diamonds preemptively, so South could not find the "profitable"
+(minus 100 if not doubled) three-club save.
+}
+[Auction "E"]
+1D Pass 1H Pass 
+1NT Pass 2C X 
+2D Pass Pass X 
+3D Pass Pass Pass 
+[Play "S"]
+D2 D5 D9 DJ 
+H4 H3 HQ HT 
+CT C5 C8 C3 
+C7 D6 C9 C2 
+H2 HA H7 H6 
+HJ H5 HK D4 
+CJ DA C6 C4 
+SK ST S2 S6 
+CQ S3 CK DT 
+D7 H8 D3 DK 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "36"]
+[Board "3"]
+[Room "Open"]
+[West "Brad Moss"]
+[North "John Mohan"]
+[East "Fred Gitelman"]
+[South "Eddie Wold"]
+[Dealer "S"]
+[Deal "S:J74.63.86542.T75 K.AQ954.J3.AJ942 AQ9632.KJT.AKQ.3 T85.872.T97.KQ86"]
+[Vulnerable "EW"]
+[Contract "5CX"]
+[Declarer "W"]
+{
+Undeterred by East's weak raise to two hearts over the intervening
+double, West bid three clubs, ostensibly a game try, and when
+East raised clubs, took a vulnerable five-club save against the
+non-vulnerable four spades into which they pushed the opponents.
+}
+[Auction "S"]
+Pass 1H X 2H 
+Pass 3C 3S 4C 
+4S 5C X Pass 
+Pass Pass   
+[Play "N"]
+DQ D7 D8 D3 
+DA D9 D5 DJ 
+DK DT D4 C2 
+SA S5 S4 SK 
+SQ S8 S7 C9 
+C3 CK C5 C4 
+HK H2 H3 HQ 
+S2 ST SJ CA 
+S3 C6 C7 CJ 
+HT H7 H6 HA 
+*
+[Result "7"]
+

@@ -1,0 +1,320 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "2nd Politiken World Pairs 1997"]
+[Site "Phoenix Copenhagen Hotel, Denmark, DNK"]
+[Date "1997.11.09"]
+[Round "3"]
+[Board "1"]
+[West "Mahmood"]
+[North "Helgemo"]
+[East "Weichsel"]
+[South "Martens"]
+[Vulnerable "NS"]
+[Deal "S:J3.75.JT942.J753 Q2.KQJ.A76.KT842 AK976.T9843.3.AQ T854.A62.KQ85.96"]
+[Dealer "N"]
+[Auction "N"]
+1S Pass Pass X 
+Pass 2D Pass Pass 
+2H Pass 2S 2NT 
+Pass 3D X Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "3DX"]
+[Play "S"]
+SJ SQ SK S4 
+H7 HJ H3 H2 
+D2 D6 D3 DK 
+C3 C2 CQ C9 
+H5 HQ HT HA 
+C5 C8 CA C6 
+S3 S2 SA S5 
+D4 HK H9 H6 
+*
+[Result "7"]
+[Score "-300"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "2"]
+[West "Mahmood"]
+[North "Helgemo"]
+[East "Weichsel"]
+[South "Martens"]
+[Vulnerable "EW"]
+[Deal "S:J82.T5.KQ84.8642 53.9764.6532.K73 T74.J32.AJ9.AQJ5 AKQ96.AKQ8.T7.T9"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass Pass 1NT 
+X 2C X Pass 
+Pass 2D X Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "2DX"]
+[Play "W"]
+S5 S4 SQ S8 
+H6 H2 HQ H5 
+S3 S7 SK S2 
+C3 ST SA SJ 
+H4 H3 HA HT 
+H7 HJ HK D4 
+C7 CQ CT C4 
+D3 DA D7 D8 
+D2 D9 DT DQ 
+CK CA C9 C6 
+D5 CJ S6 C2 
+*
+[Result "7"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "3"]
+[West "Mahmood"]
+[North "Helgemo"]
+[East "Weichsel"]
+[South "Martens"]
+[Vulnerable "Both"]
+[Deal "S:K5.Q2.AT9632.874 74.A873.KJ85.AT5 JT83.K65.4.QJ963 AQ962.JT94.Q7.K2"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 2D 
+Pass 2H Pass 4H 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+D4 D7 DA D5 
+H5 DQ DT D8 
+CQ CK C8 C5 
+HK HJ H2 H3 
+S8 SQ SK S4 
+C3 C2 C4 CA 
+S3 SA S5 S7 
+H6 H4 HQ HA 
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "4"]
+[West "Mahmood"]
+[North "Helgemo"]
+[East "Weichsel"]
+[South "Martens"]
+[Vulnerable "None"]
+[Deal "S:QT84.J5.932.KJ85 AKJ7.A63.AQ7.A72 2.KQ942.KT5.QT94 9653.T87.J864.63"]
+[Dealer "W"]
+[Auction "W"]
+2C Pass 2D Pass 
+2NT Pass Pass Pass 
+[Declarer "W"]
+[Contract "2NT"]
+[Play "N"]
+HK H7 H5 H6 
+H2 H8 HJ HA 
+D5 D4 D9 DQ 
+S2 S3 S4 SA 
+C4 S6 S8 SK 
+HQ HT D2 H3 
+H4 C3 D3 C2 
+H9 S5 C5 D7 
+DT D6 CJ DA 
+C9 C6 CK CA 
+*
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "5"]
+[West "Mahmood"]
+[North "Helgemo"]
+[East "Weichsel"]
+[South "Martens"]
+[Vulnerable "EW"]
+[Deal "S:KJT85.J4.KJ76.72 7.KQT9752.T.AT53 A9632..9852.J864 Q4.A863.AQ43.KQ9"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT 2S 4D 
+4S Pass Pass 4NT 
+5S X Pass 6H 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "6H"]
+[Play "N"]
+SA S4 S8 S7 
+C4 - - - 
+*
+[Result "12"]
+[Score "+1430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "6"]
+[West "Mahmood"]
+[North "Helgemo"]
+[East "Weichsel"]
+[South "Martens"]
+[Vulnerable "Both"]
+[Deal "S:32.K9.Q762.AQT82 KQJT87.Q86.T85.J 954.T54.AK43.975 A6.AJ732.J9.K643"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 1S Pass 
+2C Pass 3S Pass 
+4S Pass Pass Pass 
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+DA D9 D2 D5 
+DK DJ D6 DT 
+C5 C3 CQ CJ 
+S5 SA S2 S7 
+C7 C4 CT S8 
+D3 S6 D7 D8 
+C9 C6 C8 ST 
+S4 H2 S3 SK 
+S9 H3 C2 SQ 
+H5 HJ HK H8 
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "7"]
+[West "Mahmood"]
+[North "Helgemo"]
+[East "Weichsel"]
+[South "Martens"]
+[Vulnerable "None"]
+[Deal "S:A84.AK53.9873.T7 KT952.842.QT62.Q Q7.QT97.54.AK632 J63.J6.AKJ.J9854"]
+[Dealer "S"]
+[Auction "S"]
+1D 1S X XX 
+2H Pass 3H Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "3H"]
+[Play "W"]
+CQ CK C4 C7 
+H2 CA C5 CT 
+D6 D4 DK D3 
+S2 C2 C9 HA 
+H4 HQ H6 H3 
+H8 H7 HJ HK 
+D2 D5 DJ D9 
+S5 C3 CJ H5 
+DT - - D8 
+*
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "8"]
+[West "Mahmood"]
+[North "Helgemo"]
+[East "Weichsel"]
+[South "Martens"]
+[Vulnerable "NS"]
+[Deal "S:Q932.AQ75.75.762 AJ7.6432.AJT43.8 K64.KJ.Q9.AKQ543 T85.T98.K862.JT9"]
+[Dealer "W"]
+[Auction "W"]
+Pass 2NT Pass 3C 
+Pass 3D Pass 3NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+HT H5 H2 HJ 
+C9 C2 C8 CA 
+CT C6 H4 CK 
+CJ C7 H3 CQ 
+D2 D5 D3 C3 
+S5 D7 H6 C5 
+- - - C4 
+*
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "9"]
+[West "Mahmood"]
+[North "Helgemo"]
+[East "Weichsel"]
+[South "Martens"]
+[Vulnerable "Both"]
+[Deal "S:.AT972.QJ.AJ9765 AKQT63.8.KT8.KT3 9852.KQJ65.932.4 J74.43.A7654.Q82"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1H 1S 
+4H Pass Pass X 
+Pass 4S 5H Pass 
+Pass X Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "5HX"]
+[Play "W"]
+SQ S2 S4 H2 
+C3 C4 C2 CA 
+CT HK C8 C5 
+H8 H5 H4 HT 
+CK HQ CQ C6 
+S6 H6 H3 H9 
+S3 D2 D4 C7 
+*
+[Result "12"]
+[Score "+1050"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "10"]
+[West "Mahmood"]
+[North "Helgemo"]
+[East "Weichsel"]
+[South "Martens"]
+[Vulnerable "None"]
+[Deal "S:32.J62.T9.KQJ963 A984.AT53.K8.AT4 KJT7.K87.A7652.5 Q65.Q94.QJ43.872"]
+[Dealer "E"]
+[Auction "E"]
+Pass 3C X Pass 
+3D Pass Pass Pass 
+[Declarer "E"]
+[Contract "3D"]
+[Play "S"]
+CK CA C5 C7 
+D9 DK D2 D3 
+DT D8 D7 DQ 
+H6 HT HK H4 
+HJ H3 H8 HQ 
+H2 HA H7 H9 
+C3 H5 D5 DJ 
+C6 C4 D6 D4 
+S2 SA SK S5 
+S3 S4 S7 SQ 
+*
+[Result "8"]
+[Score "-50"]
+

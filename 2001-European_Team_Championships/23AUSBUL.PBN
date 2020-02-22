@@ -1,0 +1,1223 @@
+% PBN 1.0
+% bridgeplaza source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "45th Generali European Team Championships 2001"]
+[Site "Tenerife, Canary Islands, ESP"]
+[Date "2001.06.25"]
+[Round "23"]
+[Board "1"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "N"]
+[Deal "S:QJ.AQJ843.K5.Q98 A9754.T65.Q9.KJ4 T63.2.AT742.T752 K82.K97.J863.A63"]
+[Vulnerable "None"]
+[Contract "2S"]
+[Declarer "W"]
+[Auction "N"]
+Pass 1D 1H 1S 
+Pass Pass 2H Pass 
+Pass 2S Pass Pass 
+Pass    
+[Play "N"]
+H2 H7 HJ H6 
+D2 D3 DK D9 
+DA D6 D5 DQ 
+C5 C3 CQ CK 
+S3 S2 SJ SA 
+C2 C6 C8 CJ 
+S6 SK SQ S4 
+C7 CA C9 C4 
+D4 DJ H3 H5 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "1"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "N"]
+[Deal "S:QJ.AQJ843.K5.Q98 A9754.T65.Q9.KJ4 T63.2.AT742.T752 K82.K97.J863.A63"]
+[Vulnerable "None"]
+[Contract "2S"]
+[Declarer "W"]
+[Auction "N"]
+Pass 1D 1H 1S 
+Pass 1NT 2H 2S 
+Pass Pass Pass  
+[Play "N"]
+H2 H7 HJ H6 
+DT D3 DK D9 
+DA D6 D5 DQ 
+D7 D8 SQ SA 
+S6 S8 SJ S4 
+C2 H9 HA H5 
+S3 HK H3 HT 
+D2 DJ H4 C4 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "2"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "E"]
+[Deal "S:KT98.852.KQJ.J94 632.AJ6.864.Q753 Q5.KQ73.T975.T62 AJ74.T94.A32.AK8"]
+[Vulnerable "NS"]
+[Contract "2NT"]
+[Declarer "E"]
+[Auction "E"]
+1C Pass 1D Pass 
+1NT Pass 2S Pass 
+2NT Pass Pass Pass 
+[Play "S"]
+ST S2 SQ S4 
+S8 S3 S5 S7 
+DK D4 D7 D2 
+DQ D6 D5 D3 
+DJ D8 DT DA 
+H2 H6 HQ HT 
+SK S6 D9 SJ 
+C4 C3 C6 CK 
+CJ CQ C2 C8 
+C9 C5 CT CA 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "2"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "E"]
+[Deal "S:KT98.852.KQJ.J94 632.AJ6.864.Q753 Q5.KQ73.T975.T62 AJ74.T94.A32.AK8"]
+[Vulnerable "NS"]
+[Contract "1NT"]
+[Declarer "E"]
+[Auction "E"]
+1NT Pass Pass Pass 
+[Play "S"]
+DK D4 D5 D3 
+H5 H6 HQ H9 
+DQ D6 DT D2 
+H2 HJ HK H4 
+DJ D8 D7 DA 
+C4 C3 C6 CK 
+S8 S2 SQ S4 
+H8 S3 D9 HT 
+S9 S6 S5 SA 
+C9 C5 C2 CA 
+- - - C8 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "3"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "S"]
+[Deal "S:KQ83.K3.K862.T92 A72.AJ762.T73.K4 T964.84.A94.J873 J5.QT95.QJ5.AQ65"]
+[Vulnerable "EW"]
+[Contract "1NT"]
+[Declarer "S"]
+[Auction "S"]
+1NT Pass Pass Pass 
+[Play "W"]
+H6 H4 HQ HK 
+SA S4 S5 SK 
+D7 DA D5 D2 
+S2 ST SJ SQ 
+S7 S9 C5 S3 
+D3 S6 H5 S8 
+DT D4 DJ DK 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "3"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "S"]
+[Deal "S:KQ83.K3.K862.T92 A72.AJ762.T73.K4 T964.84.A94.J873 J5.QT95.QJ5.AQ65"]
+[Vulnerable "EW"]
+[Contract "2S"]
+[Declarer "S"]
+[Auction "S"]
+1NT Pass 2C Pass 
+2S Pass Pass Pass 
+[Play "W"]
+HA H4 HT H3 
+H6 H8 HQ HK 
+D3 DA D5 D2 
+SA S4 S5 SK 
+CK C3 C6 C2 
+C4 C7 CQ CT 
+H2 C8 CA C9 
+D7 CJ C5 S8 
+DT D4 DJ DK 
+S2 D9 DQ D6 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "4"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "W"]
+[Deal "S:Q532.T84.984.963 98.KQ6.AJ653.KJ5 T74.A3.KQT72.A82 AKJ6.J9752..QT74"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "W"]
+1NT Pass 2C Pass 
+2D X 3D Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+DK H2 D9 D6 
+S4 SA S5 S8 
+CA C4 C3 CK 
+S7 SK S2 S9 
+HA H5 H4 HK 
+H3 H7 H8 HQ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "4"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "W"]
+[Deal "S:Q532.T84.984.963 98.KQ6.AJ653.KJ5 T74.A3.KQT72.A82 AKJ6.J9752..QT74"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "W"]
+[Auction "W"]
+1NT Pass 2D Pass 
+2H Pass 2S Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Play "N"]
+DK S6 D9 DA 
+HA H2 H8 HK 
+D7 SJ D8 DJ 
+H3 H5 H4 HQ 
+D2 HJ HT H6 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "5"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "N"]
+[Deal "S:AK2.842.J52.QJ65 T87.AK75.984.T72 QJ965.Q.T73.AK93 43.JT963.AKQ6.84"]
+[Vulnerable "NS"]
+[Contract "3S"]
+[Declarer "N"]
+[Auction "N"]
+1S 2H X 3H 
+Pass Pass 3S Pass 
+Pass Pass   
+[Play "E"]
+DK D2 D8 D3 
+DQ D5 D4 D7 
+HJ H2 H5 HQ 
+DA DJ D9 DT 
+HT H4 H7 S5 
+S3 SA S7 S6 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "5"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "N"]
+[Deal "S:AK2.842.J52.QJ65 T87.AK75.984.T72 QJ965.Q.T73.AK93 43.JT963.AKQ6.84"]
+[Vulnerable "NS"]
+[Contract "3S"]
+[Declarer "N"]
+[Auction "N"]
+1S Pass 2NT Pass 
+3S Pass Pass Pass 
+[Play "E"]
+DA D2 D4 D7 
+DK D5 D8 D3 
+DQ DJ D9 DT 
+HJ H2 HK HQ 
+H3 H4 HA S5 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "6"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "E"]
+[Deal "S:KQ65.AT976.Q8.63 84.J52.T942.JT95 J7.KQ3.AJ63.KQ84 AT932.84.K75.A72"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "E"]
+1S Pass Pass X 
+Pass 3H Pass 3S 
+Pass 3NT Pass Pass 
+Pass    
+[Play "W"]
+S4 S7 S9 SQ 
+H5 HK H4 H7 
+D2 D3 DK D8 
+D4 D6 D7 DQ 
+S8 SJ SA S6 
+D9 DJ D5 C3 
+C5 CK CA C6 
+C9 CQ C2 H6 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "6"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "E"]
+[Deal "S:KQ65.AT976.Q8.63 84.J52.T942.JT95 J7.KQ3.AJ63.KQ84 AT932.84.K75.A72"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "E"]
+1S Pass Pass X 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Play "W"]
+S8 S7 S2 SQ 
+C5 CK CA C6 
+S4 SJ SA S6 
+H5 HQ ST S5 
+C9 CQ C2 C3 
+CT C4 C7 H6 
+H2 H3 H4 HA 
+HJ HK H8 H7 
+- C8 - - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "7"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "S"]
+[Deal "S:QJT876.A7.A.9742 A32.Q3.762.AQJT5 K95.KJT54.K8543. 4.9862.QJT9.K863"]
+[Vulnerable "Both"]
+[Contract "6S"]
+[Declarer "S"]
+[Auction "S"]
+1S 2C 2H 3C 
+3S Pass 5C Pass 
+5NT Pass 6S Pass 
+Pass Pass   
+[Play "W"]
+S3 S9 S4 S6 
+H3 H4 H2 HA 
+HQ HK H6 H7 
+D2 D3 DQ DA 
+SA S5 C3 S7 
+CT SK C6 C2 
+D6 DK D9 C4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "7"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "S"]
+[Deal "S:QJT876.A7.A.9742 A32.Q3.762.AQJT5 K95.KJT54.K8543. 4.9862.QJT9.K863"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "S"]
+1S 2C 3H 4C 
+4S Pass Pass Pass 
+[Play "W"]
+CA S5 C6 C2 
+D2 D3 DT DA 
+C5 S9 C3 C4 
+D6 DK D9 C7 
+H3 H4 H2 HA 
+CT SK C8 C9 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "8"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "W"]
+[Deal "S:KJ4.T42.AK.A7432 Q853.J7.JT32.J98 AT72.K65.Q974.QT 96.AQ983.865.K65"]
+[Vulnerable "None"]
+[Contract "2S"]
+[Declarer "N"]
+[Auction "W"]
+Pass Pass 2D Pass 
+2H Pass Pass X 
+Pass 2S Pass Pass 
+Pass    
+[Play "E"]
+D6 DA D2 D4 
+CK C2 C9 CT 
+D5 DK D3 D7 
+C5 C3 CJ CQ 
+D8 H2 DT DQ 
+S6 SJ DJ D9 
+S9 S4 S3 SA 
+H8 SK S5 S2 
+C6 CA C8 H5 
+H3 C7 S8 ST 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "8"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "W"]
+[Deal "S:KJ4.T42.AK.A7432 Q853.J7.JT32.J98 AT72.K65.Q974.QT 96.AQ983.865.K65"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "N"]
+[Auction "W"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Play "E"]
+H3 H2 HJ HK 
+D5 DA D3 D4 
+D6 DK D2 D7 
+H9 H4 H7 H6 
+HA HT S8 H5 
+HQ C2 C8 CT 
+H8 C3 C9 CQ 
+C6 CA CJ D9 
+S6 SK S5 S2 
+S9 SJ S3 S7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "9"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "N"]
+[Deal "S:AT.942.73.KJT964 975.AQJT8.KT6.AQ QJ842.6.J954.753 K63.K753.AQ82.82"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "W"]
+[Auction "N"]
+Pass 1D 3C 3H 
+3S 4H Pass Pass 
+Pass    
+[Play "N"]
+C3 C2 C9 CQ 
+H6 H3 H2 HA 
+S2 H5 H4 HQ 
+C5 H7 H9 HJ 
+D4 DA D3 D6 
+D5 D2 D7 DK 
+S4 SK SA S5 
+C7 C8 C4 CA 
+DJ DQ - DT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "9"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "N"]
+[Deal "S:AT.942.73.KJT964 975.AQJT8.KT6.AQ QJ842.6.J954.753 K63.K753.AQ82.82"]
+[Vulnerable "EW"]
+[Contract "3H"]
+[Declarer "W"]
+[Auction "N"]
+2S X Pass 3H 
+Pass Pass Pass  
+[Play "N"]
+SQ S3 ST S5 
+S2 S6 SA S7 
+C5 C2 C4 CA 
+H6 H3 H2 HA 
+C3 H5 H4 HQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "10"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "E"]
+[Deal "S:Q532.Q2.KJ.A8532 AKT74.A9.AQ73.JT 986.KJ7654.954.4 J.T83.T862.KQ976"]
+[Vulnerable "Both"]
+[Contract "3H"]
+[Declarer "N"]
+[Auction "E"]
+Pass 1NT X 2H 
+Pass Pass 2S 3H 
+Pass Pass Pass  
+[Play "E"]
+SJ S2 S7 S8 
+D2 DJ DQ D4 
+C7 S3 SA S6 
+C6 S5 SK S9 
+H8 SQ ST D5 
+D6 DK DA D9 
+C9 CA CJ C4 
+H3 H2 H9 HJ 
+HT HQ HA H4 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "10"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "E"]
+[Deal "S:Q532.Q2.KJ.A8532 AKT74.A9.AQ73.JT 986.KJ7654.954.4 J.T83.T862.KQ976"]
+[Vulnerable "Both"]
+[Contract "2S"]
+[Declarer "W"]
+[Auction "E"]
+Pass 1C X 2D 
+Pass 2H 2S Pass 
+Pass Pass   
+[Play "N"]
+C4 C6 CA CJ 
+S8 C7 C8 CT 
+H6 H3 HQ HA 
+S6 SJ SQ S4 
+HJ H8 H2 H9 
+HK HT C3 S7 
+S9 C9 S2 SA 
+D5 D2 S3 SK 
+H4 D6 S5 ST 
+D4 D8 DJ DA 
+- - - D3 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "11"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "S"]
+[Deal "S:643.T52.T93.9865 QJ2.KQJ874.K8.T3 T8.A96.7542.AQJ7 AK975.3.AQJ6.K42"]
+[Vulnerable "None"]
+[Contract "5S"]
+[Declarer "E"]
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 2H Pass 3D 
+Pass 3S Pass 4C 
+Pass 4D Pass 4NT 
+Pass 5C X 5S 
+Pass Pass Pass  
+[Play "S"]
+C6 C3 CA C2 
+C5 CT CQ CK 
+C9 S2 C7 C4 
+S3 SJ S8 S5 
+S4 SQ ST S7 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "11"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "S"]
+[Deal "S:643.T52.T93.9865 QJ2.KQJ874.K8.T3 T8.A96.7542.AQJ7 AK975.3.AQJ6.K42"]
+[Vulnerable "None"]
+[Contract "5S"]
+[Declarer "E"]
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 2H Pass 2NT 
+Pass 3S Pass 4C 
+Pass 4D Pass 4NT 
+Pass 5C X 5S 
+Pass Pass Pass  
+[Play "S"]
+C5 C3 CA C4 
+DT D8 D2 DA 
+S4 SQ S8 S5 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "12"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "W"]
+[Deal "S:AQ752..AQT5.KT87 J86.AKQJ98653.9. K3.74.K86432.954 T94.T2.J7.AQJ632"]
+[Vulnerable "NS"]
+[Contract "4HX"]
+[Declarer "W"]
+[Auction "W"]
+4H Pass Pass X 
+Pass Pass Pass  
+[Play "N"]
+SK S4 S7 S8 
+S3 S9 SQ SJ 
+D2 ST SA S6 
+D3 D7 DA D9 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "12"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "W"]
+[Deal "S:AQ752..AQT5.KT87 J86.AKQJ98653.9. K3.74.K86432.954 T94.T2.J7.AQJ632"]
+[Vulnerable "NS"]
+[Contract "4HX"]
+[Declarer "W"]
+[Auction "W"]
+4H Pass Pass X 
+Pass Pass Pass  
+[Play "N"]
+SK S4 S5 SJ 
+S3 S9 SQ S6 
+- - SA S8 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "13"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "N"]
+[Deal "S:973.T84.T76.QT53 6.KQ9753.A93.987 JT42.J62.K542.A4 AKQ85.A.QJ8.KJ62"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "E"]
+[Auction "N"]
+Pass 1C Pass 1H 
+Pass 1S Pass 2H 
+Pass 2NT Pass 3S 
+Pass 3NT Pass Pass 
+Pass    
+[Play "S"]
+C5 C7 CA C2 
+CT C8 C4 C6 
+H4 H3 HJ HA 
+D6 D3 DK DQ 
+S3 S6 S4 SA 
+S7 H5 S2 SK 
+S9 H7 ST SQ 
+D7 D9 D2 DJ 
+DT DA D4 D8 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "13"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "N"]
+[Deal "S:973.T84.T76.QT53 6.KQ9753.A93.987 JT42.J62.K542.A4 AKQ85.A.QJ8.KJ62"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "E"]
+[Auction "N"]
+Pass 1C Pass 1S 
+Pass 2H Pass 2NT 
+Pass 3NT Pass 4H 
+Pass Pass Pass  
+[Play "S"]
+C3 C7 CA C2 
+C5 C8 C4 CK 
+H8 H3 H2 HA 
+S3 S6 S2 SA 
+S7 - - SK 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "14"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "E"]
+[Deal "S:T6542.Q72.J9632. ..KJT63AKQ875.32 AKQJ9.54.4.KQJ97 873.A98.T.AT8654"]
+[Vulnerable "None"]
+[Contract "4SX"]
+[Declarer "S"]
+[Auction "E"]
+Pass Pass 1D X 
+2C 2S 3H 4S 
+X Pass Pass Pass 
+[Play "W"]
+DK D4 DT D2 
+H6 H4 HA H2 
+HK H5 H8 HQ 
+HJ SA H9 H7 
+C2 C7 C4 S2 
+D5 SK S3 S4 
+C3 CK CA S5 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "14"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "E"]
+[Deal "S:T6542.Q72.J9632. ..KJT63AKQ875.32 AKQJ9.54.4.KQJ97 873.A98.T.AT8654"]
+[Vulnerable "None"]
+[Contract "5DX"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 1D 2D 
+3C 4S 4NT X 
+5C Pass 5D Pass 
+Pass X Pass Pass 
+Pass    
+[Play "N"]
+SK S3 S6 D5 
+D4 DT D3 DA 
+SJ S7 D2 DK 
+H4 HA H2 H3 
+H5 H8 H7 H6 
+S9 H9 HQ HK 
+CK C4 D6 HJ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "15"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "S"]
+[Deal "S:K43.763.QT2.KJT9 Q9865.J9852..AQ8 T2.KT4.J9865.643 AJ7.AQ.AK743.752"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "W"]
+[Auction "S"]
+Pass 1S Pass 2D 
+Pass 2H Pass 3C 
+X 3H Pass 3S 
+Pass 3NT Pass 4D 
+Pass 4S Pass Pass 
+Pass    
+[Play "N"]
+C3 C2 CK CA 
+S2 SJ SK S5 
+C4 C5 CJ CQ 
+ST SA S3 S6 
+D5 DA DQ C8 
+D6 DK D2 H2 
+D8 D3 DT S8 
+H4 HQ H3 H5 
+HT HA H6 H8 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "15"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "S"]
+[Deal "S:K43.763.QT2.KJT9 Q9865.J9852..AQ8 T2.KT4.J9865.643 AJ7.AQ.AK743.752"]
+[Vulnerable "NS"]
+[Contract "6S"]
+[Declarer "W"]
+[Auction "S"]
+Pass 1S Pass 2D 
+Pass 2H Pass 3S 
+Pass 4S Pass 5D 
+Pass 6S Pass Pass 
+Pass    
+[Play "N"]
+C4 C2 C9 CQ 
+S2 SJ SK S5 
+H4 HQ H6 H2 
+HT HA H7 H5 
+D8 DA DT C8 
+DJ D3 DQ S6 
+HK S7 H3 H8 
+ST SA S3 S8 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "16"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "W"]
+[Deal "S:A4.J.QJ52.T75432 Q2.98652.63.KQ98 KJT763.AQT3.4.J6 985.K74.AKT987.A"]
+[Vulnerable "EW"]
+[Contract "4C"]
+[Declarer "S"]
+[Auction "W"]
+Pass 1S 3D Pass 
+Pass X Pass 4C 
+Pass Pass Pass  
+[Play "W"]
+D3 D4 DK D2 
+C8 C6 CA C2 
+S2 S3 S8 SA 
+CQ CJ S5 C3 
+H2 HA H4 HJ 
+H5 HQ HK C4 
+C9 S6 H7 C5 
+CK S7 S9 C7 
+D6 ST DA D5 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "16"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "W"]
+[Deal "S:A4.J.QJ52.T75432 Q2.98652.63.KQ98 KJT763.AQT3.4.J6 985.K74.AKT987.A"]
+[Vulnerable "EW"]
+[Contract "2S"]
+[Declarer "N"]
+[Auction "W"]
+Pass 1S 2D Pass 
+Pass 2H Pass 2S 
+Pass Pass Pass  
+[Play "E"]
+DA D2 D6 D4 
+S8 S4 SQ SK 
+H4 HJ H2 H3 
+- D5 D3 - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "17"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "N"]
+[Deal "S:QJ.Q8.KJT762.AQ9 9752.T542..JT542 T83.K763.Q9843.3 AK64.AJ9.A5.K876"]
+[Vulnerable "None"]
+[Contract "3H"]
+[Declarer "N"]
+[Auction "N"]
+Pass 1C 2D Pass 
+3H Pass Pass Pass 
+[Play "E"]
+DA D2 C5 D3 
+SK SJ S2 S3 
+SA SQ S5 S8 
+S4 D6 S7 ST 
+D5 DT H2 D4 
+H9 HQ H4 H3 
+HJ H8 H5 H6 
+CK CA C2 C3 
+C6 CQ C4 D8 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "17"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "N"]
+[Deal "S:QJ.Q8.KJT762.AQ9 9752.T542..JT542 T83.K763.Q9843.3 AK64.AJ9.A5.K876"]
+[Vulnerable "None"]
+[Contract "2NT"]
+[Declarer "E"]
+[Auction "N"]
+Pass 2NT Pass Pass 
+Pass    
+[Play "S"]
+DK C2 D4 DA 
+SQ S2 S8 SA 
+SJ S5 S3 SK 
+C9 S7 ST S4 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "18"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "E"]
+[Deal "S:T4.T53.AK4.AK982 KJ9753.64.Q97.Q3 AQ86.KQJ98.T2.54 2.A72.J8653.JT76"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "E"]
+Pass 1D 2S 3H 
+Pass 4H Pass Pass 
+Pass    
+[Play "E"]
+S2 S4 S9 SQ 
+HA H3 H4 HK 
+D5 DA D9 D2 
+H2 H5 H6 HQ 
+H7 HT C3 HJ 
+C6 CA CQ C4 
+- CK - - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "18"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "E"]
+[Deal "S:T4.T53.AK4.AK982 KJ9753.64.Q97.Q3 AQ86.KQJ98.T2.54 2.A72.J8653.JT76"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "E"]
+Pass 1C 2S 3D 
+Pass 4H Pass Pass 
+Pass    
+[Play "W"]
+S5 SQ S2 S4 
+H4 HK HA H5 
+C3 C4 CT CA 
+H6 HQ H2 H3 
+- C5 C6 CK 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "19"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "S"]
+[Deal "S:AK54.J63.AJ732.5 T986.QT7.T8.AKT8 Q72.K94.54.Q9743 J3.A852.KQ96.J62"]
+[Vulnerable "EW"]
+[Contract "2D"]
+[Declarer "S"]
+[Auction "S"]
+1D Pass 1NT Pass 
+2D Pass Pass Pass 
+[Play "W"]
+S9 SQ S3 S5 
+D8 D4 DK DA 
+CK C3 C2 C5 
+S6 S2 SJ SA 
+DT D5 D6 D2 
+ST S7 D9 S4 
+C8 C4 DQ D3 
+CA C7 C6 H3 
+S8 C9 CJ SK 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "19"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "S"]
+[Deal "S:AK54.J63.AJ732.5 T986.QT7.T8.AKT8 Q72.K94.54.Q9743 J3.A852.KQ96.J62"]
+[Vulnerable "EW"]
+[Contract "2D"]
+[Declarer "S"]
+[Auction "S"]
+1D Pass 1NT Pass 
+2D Pass Pass Pass 
+[Play "W"]
+CA C3 C2 C5 
+ST S2 S3 SA 
+H7 H9 HA H6 
+HT HK H2 H3 
+S6 SQ SJ S4 
+S8 S7 D6 S5 
+HQ H4 H8 HJ 
+S9 D4 D9 SK 
+D8 - H5 D2 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "20"]
+[Room "Open"]
+[West "Stamatov J"]
+[North "Gloyer A"]
+[East "Karaivanov I"]
+[South "Schifko M"]
+[Dealer "W"]
+[Deal "S:AT.KQ97.Q98.J863 Q85.T53.J765.A95 KJ7642.A6.3.T742 93.J842.AKT42.KQ"]
+[Vulnerable "Both"]
+[Contract "3S"]
+[Declarer "N"]
+[Auction "W"]
+Pass 3S Pass Pass 
+Pass    
+[Play "E"]
+DK D8 D5 D3 
+CK C3 C5 C2 
+CQ C6 C9 C4 
+H2 H7 HT HA 
+S9 SA S5 S2 
+S3 ST S8 S4 
+D2 D9 D6 S6 
+D4 DQ SQ SK 
+H4 HK H3 H6 
+H8 HQ H5 C7 
+DT C8 CA CT 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "20"]
+[Room "Closed"]
+[West "Saurer B"]
+[North "Karaivanov K"]
+[East "Lindermann A"]
+[South "Trendafilov R"]
+[Dealer "W"]
+[Deal "S:AT.KQ97.Q98.J863 Q85.T53.J765.A95 KJ7642.A6.3.T742 93.J842.AKT42.KQ"]
+[Vulnerable "Both"]
+[Contract "2S"]
+[Declarer "N"]
+[Auction "W"]
+Pass 2D X 2H 
+Pass 2S Pass Pass 
+Pass    
+[Play "E"]
+DA D8 D6 D3 
+CK C3 C5 C4 
+CQ C6 C9 C2 
+H4 H7 H3 HA 
+S3 SA S5 S2 
+S9 ST S8 S4 
+D2 D9 D5 S6 
+*
+[Result "10"]
+

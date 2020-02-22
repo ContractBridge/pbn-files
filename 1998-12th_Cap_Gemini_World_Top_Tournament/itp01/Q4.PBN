@@ -1,0 +1,381 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "2001 Italian Pairs"]
+[Site "Salsomaggiore, Italy, ITL"]
+[Date "2001.04.06"]
+[Round "Q4"]
+[Board "3"]
+[Room "Open"]
+[West "Lanzarotti"]
+[North "Vailati"]
+[East "Buratti"]
+[South "Caldiani"]
+[Dealer "S"]
+[Deal "S:5.JT9643.QJ92.KT AK94.872.AT3.J86 Q3.KQ.7654.Q9532 JT8762.A5.K8.A74"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "E"]
+[Auction "S"]
+2D Pass 2S Pass 
+3H Pass Pass 3S 
+Pass 4D Pass 4H 
+Pass 4S Pass Pass 
+Pass    
+[Play "S"]
+HJ H2 HQ H5 
+H6 H7 HK HA 
+S5 SA S3 S2 
+CT C6 C2 CA 
+H3 SK SQ S6 
+H4 H8 C3 ST 
+D2 D3 D4 DK 
+DJ DA D5 D8 
+D9 DT D6 S7 
+CK C8 C5 C4 
+HT CJ C9 S8 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q4"]
+[Board "4"]
+[Room "Open"]
+[West "Lanzarotti"]
+[North "Vailati"]
+[East "Buratti"]
+[South "Caldiani"]
+[Dealer "W"]
+[Deal "S:J76.AQ.7654.KJ52 AT532.JT943.T3.7 Q.875.AQ98.QT983 K984.K62.KJ2.A64"]
+[Vulnerable "Both"]
+[Contract "2S"]
+[Declarer "E"]
+[Auction "W"]
+Pass Pass 1NT Pass 
+2C X 2S Pass 
+Pass Pass   
+[Play "S"]
+C2 C7 CQ CA 
+S7 S2 SQ SK 
+S6 ST C3 S4 
+SJ SA D9 S8 
+HQ HJ H5 H2 
+D4 D3 DA D2 
+D5 DT D8 DK 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q4"]
+[Board "5"]
+[Room "Open"]
+[West "Lanzarotti"]
+[North "Uglietti"]
+[East "Buratti"]
+[South "Giuliano"]
+[Dealer "N"]
+[Deal "S:Q7.AK7643.T83.74 A9842.52.KQ2.QJ2 6.JT9.9654.AKT86 KJT53.Q8.AJ7.953"]
+[Vulnerable "NS"]
+[Contract "3S"]
+[Declarer "E"]
+[Auction "N"]
+Pass Pass 2D Pass 
+2H 2S Pass 3H 
+Pass 3S Pass Pass 
+Pass    
+[Play "S"]
+HK H2 H9 H8 
+HA H5 HT HQ 
+D8 DK D4 D7 
+S7 SA S6 S3 
+SQ S2 C6 SK 
+D3 DQ D5 DA 
+DT D2 D6 DJ 
+C4 CQ CK C3 
+H3 S4 D9 C5 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q4"]
+[Board "6"]
+[Room "Open"]
+[West "Lanzarotti"]
+[North "Uglietti"]
+[East "Buratti"]
+[South "Giuliano"]
+[Dealer "E"]
+[Deal "S:87654.A9.62.A952 KQ.64.QJT84.T876 A932.K875.A.KQ43 JT.QJT32.K9753.J"]
+[Vulnerable "EW"]
+[Contract "5S"]
+[Declarer "S"]
+[Auction "E"]
+Pass Pass Pass 1C 
+1D 1S 3D 4S 
+5D 5S Pass Pass 
+Pass    
+[Play "W"]
+H4 H5 HT HA 
+SQ SA SJ S4 
+SK S2 ST S5 
+H6 HK H2 H9 
+C6 C3 CJ CA 
+C7 CK D3 C2 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q4"]
+[Board "7"]
+[Room "Open"]
+[West "Lanzarotti"]
+[North "Bianchi"]
+[East "Buratti"]
+[South "Prampolini"]
+[Dealer "S"]
+[Deal "S:AKJ3.K92.85.A853 T.JT86.J32.KQ762 Q864.A54.KT64.94 9752.Q73.AQ97.JT"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "S"]
+1NT Pass 2C Pass 
+2S Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "W"]
+ST S4 S2 SA 
+C6 C9 CT C3 
+C2 S6 S5 SJ 
+C7 C4 CJ CA 
+D3 DK DA D5 
+H6 S8 S7 S3 
+H8 H4 H3 HK 
+D2 D4 D9 D8 
+CK SQ S9 SK 
+CQ H5 H7 C5 
+DJ D6 D7 H2 
+HJ HA HQ H9 
+HT DT DQ C8 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q4"]
+[Board "8"]
+[Room "Open"]
+[West "Lanzarotti"]
+[North "Bianchi"]
+[East "Buratti"]
+[South "Prampolini"]
+[Dealer "W"]
+[Deal "S:J653.9532.765.A4 92.T4.QJT83.KJ83 AQT87.AKJ6.A92.9 K4.Q87.K4.QT7652"]
+[Vulnerable "None"]
+[Contract "5S"]
+[Declarer "N"]
+[Auction "W"]
+Pass 1S 2C 3S 
+4C 5C Pass 5S 
+Pass Pass Pass  
+[Play "E"]
+C2 CA C3 C9 
+SK S3 S2 SQ 
+S4 S5 S9 SA 
+C5 SJ D3 S7 
+C6 C4 CK S8 
+H7 H2 H4 HA 
+H8 H3 HT HK 
+DK D5 D8 DA 
+HQ H5 C8 H6 
+D4 D6 DQ D2 
+C7 D7 DJ D9 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q4"]
+[Board "9"]
+[Room "Open"]
+[West "Lanzarotti"]
+[North "Brunetti"]
+[East "Buratti"]
+[South "Pollano"]
+[Dealer "N"]
+[Deal "S:AKT86.QT3.KQ6.76 Q.K96.J854.AQT93 5.AJ8754.972.K52 J97432.2.AT3.J84"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "N"]
+2D Pass 2NT Pass 
+3H Pass 3S Pass 
+3NT Pass 4H Pass 
+Pass Pass   
+[Play "E"]
+C8 C6 CQ CK 
+CJ C7 C3 C5 
+H2 HQ H6 H4 
+S4 H3 H9 HJ 
+C4 HT C9 C2 
+S2 SA SQ S5 
+S3 SK HK HA 
+D3 DK D4 D2 
+S7 S6 CT H5 
+DA D6 D5 D7 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q4"]
+[Board "10"]
+[Room "Open"]
+[West "Lanzarotti"]
+[North "North"]
+[East "Buratti"]
+[South "South"]
+[Dealer "E"]
+[Deal "S:5.A8532.842.K753 Q943.KJ6.AKQ5.Q6 872.T974.J9763.8 AKJT6.Q.T.AJT942"]
+[Vulnerable "Both"]
+[Contract "2S"]
+[Declarer "E"]
+[Auction "E"]
+1C 1H X 1S 
+X 2C 2H Pass 
+2S    
+[Play "S"]
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q4"]
+[Board "11"]
+[Room "Open"]
+[West "Lanzarotti"]
+[North "Guerriero"]
+[East "Buratti"]
+[South "Sabbadini"]
+[Dealer "S"]
+[Deal "S:AT74.KJT.K9843.5 K6.Q632.JT65.K82 J952.A754.7.AQ93 Q83.98.AQ2.JT764"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "S"]
+1D Pass 1H Pass 
+1S Pass 4S Pass 
+Pass Pass   
+[Play "W"]
+C8 CA C6 C5 
+D5 D7 DA D3 
+CK C3 C4 HT 
+C2 CQ CJ D4 
+SK SJ S3 S4 
+DJ C9 D2 DK 
+D6 S2 DQ D8 
+S6 S5 S8 ST 
+DT S9 SQ D9 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q4"]
+[Board "12"]
+[Room "Open"]
+[West "Lanzarotti"]
+[North "Guerriero"]
+[East "Buratti"]
+[South "Sabbadini"]
+[Dealer "W"]
+[Deal "S:J.AJT2.Q863.8432 AQ876.6.KJ.AJ765 T95.974.AT742.QT K432.KQ853.95.K9"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "W"]
+[Auction "W"]
+1S Pass 4S Pass 
+Pass Pass   
+[Play "N"]
+S5 S2 SJ SQ 
+H4 HK HA H6 
+DA D5 D3 DJ 
+D2 D9 DQ DK 
+S9 SK D6 S6 
+ST S3 C2 SA 
+CT CK C3 C5 
+CQ C9 C4 CA 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q4"]
+[Board "13"]
+[Room "Open"]
+[West "Lanzarotti"]
+[North "Onnis"]
+[East "Buratti"]
+[South "Puddu"]
+[Dealer "N"]
+[Deal "S:J972.K8.98.QJ872 KT6.JT3.KJ654.A4 AQ.Q9752.A732.53 8543.A64.QT.KT96"]
+[Vulnerable "Both"]
+[Contract "2H"]
+[Declarer "N"]
+[Auction "N"]
+1H Pass 1S Pass 
+2D Pass 2H Pass 
+Pass Pass   
+[Play "E"]
+H4 HK H3 H2 
+DT D8 D5 D3 
+CT CQ CA C3 
+HA H8 HJ HQ 
+DQ D9 D4 D2 
+CK C2 C4 C5 
+H6 C7 HT H5 
+S3 S2 DK DA 
+C6 C8 DJ D7 
+C9 S7 D6 H7 
+S4 S9 S6 SA 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q4"]
+[Board "14"]
+[Room "Open"]
+[West "Lanzarotti"]
+[North "Onnis"]
+[East "Buratti"]
+[South "Puddu"]
+[Dealer "E"]
+[Deal "S:K54.AK62.A98.Q96 QT98.T94.KQ652.T AJ72.QJ85.3.KJ82 63.73.JT74.A7543"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2H Pass 4H 
+Pass Pass Pass  
+[Play "W"]
+CT C2 CA CQ 
+H4 C8 C7 C9 
+D2 D3 DT DA 
+*
+[Result "11"]
+

@@ -1,0 +1,876 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "10th World Bridge Team Olympiad 1996"]
+[Site "Rodos Palace Hotel - Rhodos, Greece, GRC"]
+[Date "1996.11.02"]
+[Round "09"]
+[Board "1"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "EW"]
+[Deal "S:95.AJ85.K7643.A4 763.T943.2.QT832 QJ42.KQ72.AJT.75 AKT8.6.Q985.KJ96"]
+[Dealer "N"]
+[Auction "N"]
+1H X 2NT Pass 
+3D Pass 4C Pass 
+4H Pass Pass Pass 
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+SA S5 S3 S2 
+C6 CA C2 C5 
+H6 HA H3 H2 
+C9 H5 H4 HK 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "1"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "EW"]
+[Deal "S:95.AJ85.K7643.A4 763.T943.2.QT832 QJ42.KQ72.AJT.75 AKT8.6.Q985.KJ96"]
+[Dealer "N"]
+[Auction "N"]
+1NT 2D X 2S 
+X Pass Pass Pass 
+[Declarer "W"]
+[Contract "2SX"]
+[Play "N"]
+HQ H6 H5 H3 
+H2 S8 H8 H4 
+DT D9 D3 D2 
+S2 SA S5 S3 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "2"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "None"]
+[Deal "S:Q76.AK63.42.QJT2 9843.JT2.A95.963 KJ52.54.J873.AK5 AT.Q987.KQT6.874"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1S Pass 2C 
+Pass 3C Pass 3H 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+DK D2 D5 D3 
+DQ D4 D9 D7 
+HQ HK HJ H4 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "2"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "None"]
+[Deal "S:Q76.AK63.42.QJT2 9843.JT2.A95.963 KJ52.54.J873.AK5 AT.Q987.KQT6.874"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1NT Pass 2C 
+Pass 2S Pass 2NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "2NT"]
+[Play "E"]
+DQ D2 D9 D3 
+D6 D4 DA D7 
+DK H3 D5 DJ 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "3"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "Both"]
+[Deal "S:.AK874.54.A97542 AKT3.96.AQ8.KT83 J87642.J53.J973. Q95.QT2.KT62.QJ6"]
+[Dealer "S"]
+[Auction "S"]
+1H X Pass 1NT 
+2C Pass 2H 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+C5 C3 S2 C6 
+D4 SA S4 S5 
+D5 S3 S6 S9 
+C2 ST S7 SQ 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "3"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "Both"]
+[Deal "S:.AK874.54.A97542 AKT3.96.AQ8.KT83 J87642.J53.J973. Q95.QT2.KT62.QJ6"]
+[Dealer "S"]
+[Auction "S"]
+1H X 2H X 
+4C X 4H Pass 
+Pass X Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "4HX"]
+[Play "W"]
+H6 H3 HT HK 
+C3 S2 C6 CA 
+C8 H5 CJ C2 
+S3 S4 S5 H4 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "4"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "EW"]
+[Deal "S:JT.72.K954.K9763 K864.T9853.863.2 7532.KQJ6.T2.QT4 AQ9.A4.AQJ7.AJ85"]
+[Dealer "E"]
+[Auction "E"]
+2C Pass 2H Pass 
+2NT Pass 3D Pass 
+3H Pass 3S Pass 
+3NT Pass Pass Pass 
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+SJ S4 S2 SQ 
+DK D3 D2 DQ 
+H2 H3 HJ H4 
+ST S6 S3 SA 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "4"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "EW"]
+[Deal "S:JT.72.K954.K9763 K864.T9853.863.2 7532.KQJ6.T2.QT4 AQ9.A4.AQJ7.AJ85"]
+[Dealer "E"]
+[Auction "E"]
+2C Pass 2D Pass 
+2H Pass 2S Pass 
+2NT Pass 3D Pass 
+3H Pass 3S Pass 
+3NT Pass Pass Pass 
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+SJ S4 S5 SA 
+ST S6 S7 SQ 
+C3 SK S2 S9 
+H2 S8 S3 C5 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "5"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "NS"]
+[Deal "S:976.AT964.QT9.K2 8.87.K76542.8763 KJ42.QJ52.8.AJ94 AQT53.K3.AJ3.QT5"]
+[Dealer "N"]
+[Auction "N"]
+1H 1S 2NT Pass 
+3H Pass Pass Pass 
+[Declarer "N"]
+[Contract "3H"]
+[Play "E"]
+S5 S6 S8 SJ 
+HK HA H8 HQ 
+C5 CK C3 C4 
+H3 H4 H7 HJ 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "5"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "NS"]
+[Deal "S:976.AT964.QT9.K2 8.87.K76542.8763 KJ42.QJ52.8.AJ94 AQT53.K3.AJ3.QT5"]
+[Dealer "N"]
+[Auction "N"]
+2H X 4H 5D 
+X Pass Pass Pass 
+[Declarer "W"]
+[Contract "5DX"]
+[Play "N"]
+HQ HK HA H7 
+C4 C5 CK C3 
+CA CT C2 C6 
+C9 CQ D9 C7 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-800"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "6"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "Both"]
+[Deal "S:KT764.Q2.8.Q7654 83.K8765.JT96.93 Q.AT943.AK5432.A AJ952.J.Q7.KJT82"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D 1S Pass 
+Pass X 2C X 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+CJ C4 C3 CA 
+SA S4 S3 SQ 
+HJ HQ HK HA 
+D7 D8 D6 DA 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "6"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "Both"]
+[Deal "S:KT764.Q2.8.Q7654 83.K8765.JT96.93 Q.AT943.AK5432.A AJ952.J.Q7.KJT82"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1C 1NT X 
+Pass 2H Pass 2NT 
+Pass 3D Pass 3NT 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+DJ DA D7 D8 
+D9 DK DQ C4 
+D6 D2 S2 S4 
+C9 CA C8 C5 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "7"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "EW"]
+[Deal "S:AQ3.974.KT82.T72 K74.AT8.97543.85 652.K6.AJ.AKQJ93 JT98.QJ532.Q6.64"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 3NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+H3 H4 HA H6 
+H2 H7 HT HK 
+C4 C2 C5 CA 
+C6 C7 C8 CK 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+490"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "7"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "EW"]
+[Deal "S:AQ3.974.KT82.T72 K74.AT8.97543.85 652.K6.AJ.AKQJ93 JT98.QJ532.Q6.64"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C Pass 
+2D Pass 3C Pass 
+3D Pass 3NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+SJ SA S4 S2 
+C4 C2 C5 CA 
+C6 C7 C8 CK 
+H2 CT D3 CQ 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "8"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "NS"]
+[Deal "S:KQ7.732.732.KT82 98642.QJ.KQ84.97 AT5.AT64.J9.AQJ5 J3.K985.AT65.643"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass 1NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+D5 D2 DQ D9 
+DA D3 D4 DJ 
+D6 D7 DK H4 
+DT H2 D8 H6 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "8"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "NS"]
+[Deal "S:KQ7.732.732.KT82 98642.QJ.KQ84.97 AT5.AT64.J9.AQJ5 J3.K985.AT65.643"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass 1NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+C3 C2 C7 CA 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "9"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "None"]
+[Deal "S:Q5.KJ97.9653.J93 6.QT64.AKJ4.Q765 AT8732.52.872.KT KJ94.A83.QT.A842"]
+[Dealer "N"]
+[Auction "N"]
+2H X 2S 3S 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+SQ S6 S2 SK 
+HK H4 H2 H3 
+S5 C5 SA S4 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "9"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "None"]
+[Deal "S:Q5.KJ97.9653.J93 6.QT64.AKJ4.Q765 AT8732.52.872.KT KJ94.A83.QT.A842"]
+[Dealer "N"]
+[Auction "N"]
+2S Pass Pass X 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "2SX"]
+[Play "E"]
+DQ D3 D4 D2 
+DT D5 DK D7 
+H3 D6 DA D8 
+S9 D9 DJ S8 
+*
+[Room "Closed"]
+[Result "5"]
+[Score "-500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "10"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "EW"]
+[Deal "S:T9.T98.J873.AK54 K876.KJ.Q62.T986 QJ543.Q2.AT.QJ72 A2.A76543.K954.3"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1S 2H Pass 
+Pass X Pass 2S 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+C3 CA C6 C2 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "10"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "EW"]
+[Deal "S:T9.T98.J873.AK54 K876.KJ.Q62.T986 QJ543.Q2.AT.QJ72 A2.A76543.K954.3"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1S 2H X 
+Pass 3C Pass Pass 
+3H Pass Pass Pass 
+[Declarer "E"]
+[Contract "3H"]
+[Play "S"]
+ST S6 S3 SA 
+H8 HK H2 H3 
+D3 D2 DT DK 
+H9 HJ HQ HA 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "11"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "NS"]
+[Deal "S:.A98.J872.AJT943 AKJ82.KJ7.AQT3.8 Q9.QT52.964.KQ72 T76543.643.K5.65"]
+[Dealer "S"]
+[Auction "S"]
+1C X 1NT 2S 
+3C 4S Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+D2 DT D4 D5 
+C3 SA S9 S3 
+C4 SK SQ S4 
+D7 D3 D6 DK 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "11"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "NS"]
+[Deal "S:.A98.J872.AJT943 AKJ82.KJ7.AQT3.8 Q9.QT52.964.KQ72 T76543.643.K5.65"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1S Pass 3S 
+4C 4S Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+CK C5 C9 C8 
+H5 H3 HA H7 
+C2 C6 CA SJ 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "12"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "None"]
+[Deal "S:QJ4.Q95.KJ75.A65 K76.A42.T9843.93 T982.KJ7.A62.KQ8 A53.T863.Q.JT742"]
+[Dealer "E"]
+[Auction "E"]
+Pass 2D Pass 3NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+C4 CA C3 C8 
+S3 SQ S6 S2 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "12"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "None"]
+[Deal "S:QJ4.Q95.KJ75.A65 K76.A42.T9843.93 T982.KJ7.A62.KQ8 A53.T863.Q.JT742"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 3NT 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+DT D2 DQ DK 
+S6 S2 SA SJ 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "13"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "Both"]
+[Deal "S:953.AQ9832.63.K3 AJT62.K6.J.QJ972 4.JT4.AQT852.AT6 KQ87.75.K974.854"]
+[Dealer "N"]
+[Auction "N"]
+2D Pass Pass 2S 
+Pass 3S Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "3S"]
+[Play "N"]
+HJ H5 H2 HK 
+CA C4 C3 CQ 
+C6 C5 CK C2 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "13"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "Both"]
+[Deal "S:953.AQ9832.63.K3 AJT62.K6.J.QJ972 4.JT4.AQT852.AT6 KQ87.75.K974.854"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 1H 1S 
+2D 2H X 3C 
+3H 3S Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "3S"]
+[Play "N"]
+HJ H5 HA H6 
+C6 C4 CK C2 
+CA C5 C3 C7 
+CT C8 S3 C9 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "14"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "NS"]
+[Deal "S:T94.Q87.KQ74.K87 AKQ.T65.AJ95.JT9 J76.K43.T83.A543 8532.AJ92.62.Q62"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass Pass Pass 
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+C3 C2 CK C9 
+*
+[Room "Open"]
+[Result "7"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "14"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "NS"]
+[Deal "S:T94.Q87.KQ74.K87 AKQ.T65.AJ95.JT9 J76.K43.T83.A543 8532.AJ92.62.Q62"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass Pass Pass 
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+C3 C2 C7 C9 
+HK HA H7 HT 
+S6 S2 S4 SQ 
+H3 HJ HQ H5 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "15"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "None"]
+[Deal "S:85.T8632.J93.K74 AT96.K95.8764.QJ 72.J7.KT52.AT863 KQJ43.AQ4.AQ.952"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 2S X 
+3C 3NT Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+C6 C2 CK CJ 
+CA C5 C4 CQ 
+CT C9 C7 D4 
+C8 DQ H2 D6 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "15"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "None"]
+[Deal "S:85.T8632.J93.K74 AT96.K95.8764.QJ 72.J7.KT52.AT863 KQJ43.AQ4.AQ.952"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 1S 
+Pass 2NT Pass 4S 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+S8 ST S2 S3 
+S5 S6 S7 SK 
+C7 CJ CA C5 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "16"]
+[West "Venkatarama"]
+[North "Forrester"]
+[East "Shah"]
+[South "Robson"]
+[Vulnerable "Both"]
+[Deal "S:QJ96.43.K7543.T3 T87.AKQ87.9.K964 K2.J62.AJT.AJ752 A543.T95.Q862.Q8"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1H Pass 
+2H Pass Pass Pass 
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+H2 H5 H3 H7 
+C2 CQ C3 C6 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "16"]
+[West "Ju. Hackett"]
+[North "Dalal"]
+[East "Ja. Hackett"]
+[South "Shivdasani"]
+[Vulnerable "Both"]
+[Deal "S:QJ96.43.K7543.T3 T87.AKQ87.9.K964 K2.J62.AJT.AJ752 A543.T95.Q862.Q8"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1H Pass 
+1S Pass Pass 2C 
+X Pass 2H Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+H2 H5 H3 H8 
+S2 S3 S9 S8 
+H6 H9 H4 HA 
+DT DQ DK D9 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+110"]
+

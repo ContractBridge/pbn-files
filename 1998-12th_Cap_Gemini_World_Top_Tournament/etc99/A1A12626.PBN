@@ -1,0 +1,1406 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "European Team Championships '99"]
+[Site "Malta, MLT"]
+[Date "1999.06.22"]
+[Board "1"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:42.Q985.KQ92.AJ2 63.43.AT873.KT94 QJT9875.A72.J.76 AK.KJT6.654.Q853"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS -50"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "N"]
+1D Pass 1S X
+Pass 2C 3S Pass
+Pass Pass
+[Play "W"]
+C5 CA CT C6
+SA S2 S3 SQ
+C3 C2 CK C7
+C8 CJ C4 S5
+SK S4 S6 S7
+D4 D2 DA DJ
+HK H5 H4 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "1"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:42.Q985.KQ92.AJ2 63.43.AT873.KT94 QJT9875.A72.J.76 AK.KJT6.654.Q853"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1D Pass 1S Pass
+1NT Pass 3S Pass
+Pass Pass
+[Play "W"]
+SK S2 S3 S8
+C3 C2 C9 C7
+CQ CA C4 C6
+D4 D2 DA DJ
+HK H5 H4 H7
+HJ H8 H3 HA
+- - - SQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "2"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:9742.QJ5.J3.K875 AJ.A32.Q8652.962 Q8.KT9864.T4.JT4 KT653.7.AK97.AQ3"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS 650"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "E"]
+Pass Pass 2H X
+4H X Pass 4S
+Pass Pass Pass
+[Play "E"]
+HQ HA HT H7
+S2 SA S8 S3
+S4 SJ SQ SK
+S7 H2 H4 ST
+D3 D2 D4 DA
+S9 C2 H9 S5
+HJ H3 HK S6
+DJ D5 DT DK
+C5 D6 H6 D9
+C7 DQ - D7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "2"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:9742.QJ5.J3.K875 AJ.A32.Q8652.962 Q8.KT9864.T4.JT4 KT653.7.AK97.AQ3"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 630"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 2D X
+3H 3NT Pass Pass
+Pass
+[Play "W"]
+H9 H7 HJ H2
+HK S3 HQ H3
+H6 C3 H5 HA
+D4 D9 D3 DQ
+DT DK DJ D2
+H4 DA C5 D5
+C4 D7 C7 D8
+CT CQ C8 D6
+S8 S5 S2 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "3"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:Q4.J953.T9875.AT KJ62.A62.K642.98 T83.Q8.AQJ.KQ654 A975.KT74.3.J732"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS 90"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "S"]
+Pass Pass 1NT Pass
+Pass Pass
+[Play "E"]
+H4 H3 HA H8
+HK H5 H6 HQ
+C2 CT C9 C4
+C3 CA C8 C5
+H7 HJ H2 S3
+D3 DT D2 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "3"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:Q4.J953.T9875.AT KJ62.A62.K642.98 T83.Q8.AQJ.KQ654 A975.KT74.3.J732"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1S Pass 3S
+Pass Pass Pass
+[Play "N"]
+S3 S5 SQ SK
+DJ D3 D5 D2
+S8 S9 S4 S2
+ST S7 D8 SJ
+DQ C2 DT D4
+H8 H4 HJ HA
+DA SA D7 D6
+- H7 H3 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "4"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T963.QT83.A4.742 754.AJ2.T72.JT65 J2.9754.J853.AK8 AKQ8.K6.KQ96.Q93"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS 600"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "E"]
+H4 H6 HQ HA
+D8 DK DA D2
+H5 HK H3 H2
+CK C3 C2 CJ
+S2 SA S6 S7
+C8 CQ C4 C5
+DJ D9 D4 DT
+CA C9 C7 C6
+SJ SQ S3 S4
+- D6 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "4"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T963.QT83.A4.742 754.AJ2.T72.JT65 J2.9754.J853.AK8 AKQ8.K6.KQ96.Q93"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 600"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "E"]
+H7 H6 H3 HJ
+D3 DK D4 D7
+CA CQ C2 C5
+H5 HK HT H2
+C8 C9 C7 C6
+S2 SA S3 S4
+SJ SK S6 S5
+CK C3 C4 CT
+D5 D6 DA D2
+H4 SQ ST S7
+- S8 S9 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "5"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT72.J94.952.543 AQ963.T.AQ63.AKQ 854.AQ52.J87.T62 K.K8763.KT4.J987"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS -460"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "N"]
+Pass 2C Pass 2D
+Pass 2S Pass 2NT
+Pass 3D Pass 3H
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+C4 CQ C6 C7
+C3 CK C2 C8
+C5 CA CT C9
+D2 D3 D7 DK
+H4 HT S5 CJ
+D5 DA D8 D4
+S2 S3 S4 SK
+D9 DQ DJ DT
+H9 D6 H2 H3
+- SA - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "5"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT72.J94.952.543 AQ963.T.AQ63.AKQ 854.AQ52.J87.T62 K.K8763.KT4.J987"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -460"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1S Pass 1NT
+Pass 3D Pass 3H
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+C5 CA C2 C7
+S2 S3 S4 SK
+C3 CQ C6 C8
+S7 SA S8 H3
+C4 CK CT C9
+- D3 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "6"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K952.AJ4.Q85.Q95 J64.T97.AK2.T742 Q8.632.JT943.A63 AT73.KQ85.76.KJ8"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "5"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS -100"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "E"]
+1C Pass 1D X
+Pass 1NT Pass Pass
+Pass
+[Play "W"]
+DJ D6 D5 D2
+D3 D7 DQ DK
+H2 H5 HJ H9
+D4 S3 D8 DA
+C3 CJ CQ C2
+CA CK C9 C4
+DT H8 C5 S4
+D9 HQ S5 S6
+S8 S7 SK SJ
+H3 HK HA H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "6"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K952.AJ4.Q85.Q95 J64.T97.AK2.T742 Q8.632.JT943.A63 AT73.KQ85.76.KJ8"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1NT Pass Pass
+Pass
+[Play "W"]
+DJ D6 D5 DK
+H6 H5 HJ H9
+D3 D7 DQ D2
+D4 S3 D8 DA
+H2 HK H4 H7
+H3 H8 HA HT
+CA C8 C5 C2
+DT S7 S2 C4
+D9 ST S5 C7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "7"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:97.T.AK75.AK9532 AQ652.K.T92.JT87 T3.QJ9843.Q4.Q64 KJ84.A7652.J863."]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS 200"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "S"]
+1C 1S X 3C
+3D Pass 3H 4S
+X Pass Pass Pass
+[Play "N"]
+DQ D3 D5 D2
+D4 D6 DK D9
+C6 D8 DA DT
+H3 DJ D7 SA
+H4 H2 HT HK
+S3 SJ S7 S2
+H8 H5 C2 S5
+ST SK S9 S6
+- H6 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "7"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:97.T.AK75.AK9532 AQ652.K.T92.JT87 T3.QJ9843.Q4.Q64 KJ84.A7652.J863."]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -500"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C 1S X 4C
+X 4S Pass Pass
+4NT X Pass Pass
+5C X Pass Pass
+Pass
+[Play "W"]
+SA S3 S4 S9
+SQ ST S8 S7
+CJ C4 SJ CK
+HK H3 H6 HT
+DT DQ D3 D5
+C7 HQ H5 D7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "8"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KT86.765.T5.8532 A75.94.A8432.K94 J942.K3.KJ96.Q76 Q3.AQJT82.Q7.AJT"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS 420"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1NT Pass 2C
+Pass 2D Pass 4H
+Pass Pass Pass
+[Play "W"]
+C5 C4 CQ CA
+H5 H4 H3 HA
+H6 H9 HK HQ
+C2 C9 C7 CJ
+H7 D2 C6 HJ
+C8 CK S2 HT
+C3 D3 D9 H8
+D5 D4 D6 H2
+S6 S5 S4 CT
+DT DA DJ D7
+S8 D8 DK DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "8"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KT86.765.T5.8532 A75.94.A8432.K94 J942.K3.KJ96.Q76 Q3.AQJT82.Q7.AJT"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 1NT Pass 3H
+Pass 3S Pass 3NT
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+H5 H9 HK HA
+H6 H4 H3 HQ
+H7 C4 C7 HJ
+D5 D2 DK DQ
+SK SA S2 SQ
+DT DA D6 D7
+C2 D3 DJ H8
+S6 S5 S4 HT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "9"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T63.JT83.AJ6.J83 J842.5.K972.AK74 97.K97642.Q5.Q92 AKQ5.AQ.T843.T65"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS -620"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2S Pass 2NT
+Pass 3C Pass 4S
+Pass Pass Pass
+[Play "N"]
+S3 SJ S7 S5
+S6 S2 S9 SA
+ST S4 H6 SK
+D6 D2 DQ DT
+H3 H5 H2 HA
+DA D7 D5 D3
+HJ S8 H4 HQ
+- DK H7 D4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "9"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T63.JT83.AJ6.J83 J842.5.K972.AK74 97.K97642.Q5.Q92 AKQ5.AQ.T843.T65"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -600"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 2D 2H 3NT
+Pass Pass Pass
+[Play "N"]
+HJ H5 H6 HQ
+C3 C4 C9 C6
+H3 D2 H2 HA
+C8 CA C2 C5
+CJ CK CQ CT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "10"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J52.3.QT84.K7653 AK.QJ654.KJ5.A92 QT986.AT987.762. 743.K2.A93.QJT84"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS 630"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "E"]
+Pass 1H Pass 1NT
+Pass 2NT Pass 3C
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+C5 C9 D2 C4
+H3 H4 H7 HK
+C3 CA S6 C8
+CK C2 H8 CT
+S5 SK ST S3
+D4 D5 D7 DA
+C6 DJ D6 CQ
+C7 H5 S8 CJ
+D8 HJ HA H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "10"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J52.3.QT84.K7653 AK.QJ654.KJ5.A92 QT986.AT987.762. 743.K2.A93.QJT84"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 600"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1H 1S X
+2S 3NT Pass Pass
+Pass
+[Play "W"]
+S9 S3 S5 SK
+HA H2 H3 H5
+S8 S4 S2 SA
+H7 HK C7 H4
+SQ S7 SJ H6
+ST C4 C3 C2
+S6 C8 C5 C9
+H8 CT D4 HJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "11"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:4.K764.AQJ32.654 QJ5.AQ932.T8.QJT A9732.JT5.95.983 KT86.8.K764.AK72"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS -400"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "N"]
+C8 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "11"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:4.K764.AQJ32.654 QJ5.AQ932.T8.QJT A9732.JT5.95.983 KT86.8.K764.AK72"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -400"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "N"]
+C9 C2 C6 CT
+S2 S6 S4 SJ
+SA S8 C4 SQ
+D9 D4 DJ D8
+HJ H8 H7 HQ
+D5 D6 DQ DT
+H5 - H4 HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "12"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AJ6.J3.KT3.AQ542 Q54.AK87.72.KJ93 K972.T62.QJ964.7 T83.Q954.A85.T86"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "9"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS -110"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "W"]
+1NT Pass 2C Pass
+2D Pass Pass Pass
+[Play "N"]
+D2 D4 DA D3
+H7 H2 HQ H3
+HK H6 H4 HJ
+HA HT H5 DK
+D7 DQ D5 DT
+H8 DJ D8 C2
+SQ S2 S3 SJ
+S4 S7 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "12"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AJ6.J3.KT3.AQ542 Q54.AK87.72.KJ93 K972.T62.QJ964.7 T83.Q954.A85.T86"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -90"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1NT Pass 2C Pass
+2D Pass Pass Pass
+[Play "N"]
+D2 D4 D8 DK
+S4 SK S3 S6
+CK C7 C6 CQ
+D7 D6 DA D3
+H7 DQ D5 DT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "13"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT732.Q4.T87.KQ3 A6.AJ96.6542.754 J98.T3.AQ9.AT982 Q54.K8752.KJ3.J6"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "8"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS 110"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "N"]
+Pass Pass 1C Pass
+1S Pass Pass Pass
+[Play "E"]
+D5 DQ DK D8
+HA H3 H2 HQ
+HJ HT H8 H4
+D2 DA D3 DT
+SA SJ SQ SK
+D6 D9 DJ D7
+- - S5 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "13"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT732.Q4.T87.KQ3 A6.AJ96.6542.754 J98.T3.AQ9.AT982 Q54.K8752.KJ3.J6"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 140"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1C Pass
+1S Pass Pass 2H
+2S 3H 3S Pass
+Pass Pass
+[Play "E"]
+C5 CA C6 C3
+SA S8 S4 SK
+S6 SJ SQ S2
+D6 S9 S5 S3
+C4 CT CJ CQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "14"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T9.K86.AJ76.8632 A74.A9754.T4.QJ4 KJ32.JT32.Q85.A5 Q865.Q.K932.KT97"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS 90"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 1NT Pass Pass
+Pass
+[Play "W"]
+D5 D2 DJ D4
+H3 HQ HK HA
+CA C7 C6 CQ
+C5 C9 C2 CJ
+DQ DK DA DT
+HT S5 H8 H9
+D8 D9 D6 C4
+S3 CT C3 S4
+S2 CK C8 H5
+SJ S6 S9 S7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "14"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T9.K86.AJ76.8632 A74.A9754.T4.QJ4 KJ32.JT32.Q85.A5 Q865.Q.K932.KT97"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H Pass Pass 1S
+2D 2S 3H Pass
+Pass Pass
+[Play "S"]
+DT DQ DK DA
+S7 S2 SQ S9
+D4 D5 D2 D6
+SA S3 S5 ST
+CQ CA C7 C2
+H4 H2 HQ HK
+HA H3 S6 H6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "15"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:A976532.2.AQ5.T8 KJT84.K75.K84.J5 Q.AJT93.JT6.A732 .Q864.9732.KQ964"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "8"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS -500"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "S"]
+1S Pass 2H Pass
+2S Pass 3C X
+3S Pass 4S Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+CJ C2 CQ C8
+DK D6 D3 DQ
+C5 CA C6 CT
+H5 HA H4 H2
+H7 H3 H6 S2
+D4 DT D2 DA
+D8 DJ D7 D5
+HK H9 H8 S5
+SK SQ C4 S3
+SJ C3 D9 S6
+S4 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "15"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:A976532.2.AQ5.T8 KJT84.K75.K84.J5 Q.AJT93.JT6.A732 .Q864.9732.KQ964"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -200"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1S Pass 2H Pass
+2S Pass 3C Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+D4 DJ D2 D5
+SK SQ C4 S2
+H5 HA H4 H2
+H7 H3 H6 S3
+C5 CA C6 C8
+HK H9 H8 S5
+CJ C2 CQ CT
+- - CK S6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "16"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K753.A864.QJ.Q82 9.K73.AT53.AT954 JT842.QJ9.842.K3 AQ6.T52.K976.J76"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS 100"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "W"]
+1C Pass 1S Pass
+2S Pass Pass Pass
+[Play "S"]
+H5 H4 HK H9
+HT H6 H7 HQ
+C7 CQ CA C3
+C6 C2 C5 CK
+S6 SK S9 S2
+SQ S3 D5 ST
+SA S5 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "16"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K753.A864.QJ.Q82 9.K73.AT53.AT954 JT842.QJ9.842.K3 AQ6.T52.K976.J76"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -110"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1S Pass
+2S Pass Pass Pass
+[Play "S"]
+H2 H4 HK H9
+CJ CQ C4 C3
+DK DQ D5 D4
+C7 C2 CA CK
+C6 C8 C9 S2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "17"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J6543.AJ6.Q9.QT7 K.KQT3.JT76.AKJ8 Q982.98542.4.632 AT7.7.AK8532.954"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS -460"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "N"]
+Pass 1D Pass 2C
+Pass 3C Pass 3D
+Pass 3H Pass 3S
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+S2 S7 S6 SK
+D4 DA D9 D7
+H8 H7 HA H3
+SQ SA S4 DJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "17"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J6543.AJ6.Q9.QT7 K.KQT3.JT76.AKJ8 Q982.98542.4.632 AT7.7.AK8532.954"]
+[Declarer "W"]
+[Contract "6D"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -920"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 3D Pass 4NT
+Pass 5C Pass 6D
+Pass Pass Pass
+[Play "N"]
+HA H3 H2 H7
+S5 SK S2 S7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "18"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AK9.97.T95.K9852 J6.AKJT53.742.63 QT53.Q8.AKQJ.QJT 8742.642.863.A74"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS -480"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "E"]
+Pass 2D Pass 2H
+Pass Pass X Pass
+3H X Pass Pass
+4C Pass 4S Pass
+Pass Pass
+[Play "N"]
+H4 H7 HK H8
+D3 D5 D4 DA
+C4 C2 C3 CQ
+S2 SA S6 S3
+S4 SK SJ S5
+C7 C5 C6 CJ
+S7 S9 H3 SQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "18"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AK9.97.T95.K9852 J6.AKJT53.742.63 QT53.Q8.AKQJ.QJT 8742.642.863.A74"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -170"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 2H X Pass
+3C Pass 3H Pass
+3S Pass Pass Pass
+[Play "S"]
+HK H8 H2 H7
+HA HQ H4 H9
+C6 CT CA C5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "19"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AJ983.T4.AJ92.73 Q4.K5.KQ865.K985 KT752.8762.T4.T6 6.AQJ93.73.AQJ42"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "11"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS 100"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "S"]
+Pass 1D Pass 1H
+1S 2C 3S X
+Pass 4H Pass 4NT
+Pass 5D Pass 6C
+Pass Pass Pass
+[Play "N"]
+S5 S6 SA S4
+D4 D3 DA D5
+- - D2 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "19"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AJ983.T4.AJ92.73 Q4.K5.KQ865.K985 KT752.8762.T4.T6 6.AQJ93.73.AQJ42"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1D Pass 1H
+1S Pass 4S 5C
+Pass Pass Pass
+[Play "S"]
+C7 C8 C6 CQ
+- - - C2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.22"]
+[Board "20"]
+[West "Mari C"]
+[North "Kapayannides"]
+[East "Multon F"]
+[South "Liarakos"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K.AJ9.8732.A8654 AT62.Q62.96.QJT9 QJ854.KT54.AKT5. 973.873.QJ4.K732"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "26"]
+[Score "NS -650"]
+[Table "8"]
+[VisitTeam "France"]
+[Auction "W"]
+1C Pass 1S Pass
+1NT Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+DQ D2 D6 DA
+S3 SK SA S4
+D4 D3 D9 DK
+S7 D7 S2 SQ
+S9 D8 S6 SJ
+C2 H9 ST S5
+CK CA C9 D5
+C3 C4 CJ H4
+DJ HA CT DT
+C7 C5 CQ H5
+- - - S8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "20"]
+[West "Filios"]
+[North "Bompis M"]
+[East "Papakiriacopo"]
+[South "De S.Marie T"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K.AJ9.8732.A8654 AT62.Q62.96.QJT9 QJ854.KT54.AKT5. 973.873.QJ4.K732"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1S Pass
+1NT Pass 2C Pass
+2D Pass 3NT Pass
+Pass Pass
+[Play "N"]
+CQ D5 C3 C4
+CJ S4 C2 CA
+SA S5 S3 SK
+D6 DT DJ D2
+C9 H4 C7 C5
+CT - - -
+*
+

@@ -1,0 +1,115 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.13"]
+[Round "38"]
+[Board "7"]
+[Room "Open"]
+[West "B. Fallenius"]
+[North "Fred Gitelman"]
+[East "Roy Welland"]
+[South "Brad Moss"]
+[Dealer "S"]
+[Deal "S:AK652.85.K3.AK95 JT3.AKJ96.JT96.6 87.7432.Q52.QT32 Q94.QT.A874.J874"]
+[Vulnerable "Both"]
+[Contract "1S"]
+[Declarer "S"]
+{
+For the next six boards, we again follow Gitelman and Moss
+}
+[Auction "S"]
+1S Pass Pass Pass 
+[Play "W"]
+HA H2 HT H8 
+HK H3 HQ H5 
+HJ H4 D8 S2 
+DJ D2 D4 DK 
+C6 C2 C8 CK 
+S3 C3 CJ C5 
+DT D5 D7 D3 
+H9 H7 C7 S5 
+ST S7 S4 SA 
+SJ S8 S9 SK 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "38"]
+[Board "8"]
+[Room "Open"]
+[West "B. Fallenius"]
+[North "Fred Gitelman"]
+[East "Roy Welland"]
+[South "Brad Moss"]
+[Dealer "W"]
+[Deal "S:T8.AKQT62.A85.A6 Q4.J974.KT96.JT7 AKJ953.3.74.KQ43 762.85.QJ32.9852"]
+[Vulnerable "None"]
+[Contract "6S"]
+[Declarer "N"]
+{
+A Two-Over-One Game Force auction led, after some probing for
+the right strain, to a small slam in the best fit.  There was
+little to the play. Declarer took the opening lead with dummy's
+DA and led the S10, no doubt intending to play SA and SK regardless.
+When West covered, no doubt hoping that East had some spade strength,
+declarer claimed an overtrick. Plus 1010, for a modest gain of
+36 IMPs.
+}
+[Auction "W"]
+Pass 1S Pass 2H 
+Pass 2S Pass 3H 
+Pass 3S Pass 4C 
+Pass 4D Pass 5NT 
+Pass 6C Pass 6H 
+Pass 6S Pass Pass 
+Pass    
+[Play "E"]
+DQ DA DT D7 
+S2 ST SQ SA 
+*
+[Result "13"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "38"]
+[Board "9"]
+[Room "Open"]
+[West "B. Fallenius"]
+[North "Fred Gitelman"]
+[East "Roy Welland"]
+[South "Brad Moss"]
+[Dealer "N"]
+[Deal "S:875.J962.864.JT9 QJ64.AQ43.AQ.Q42 KT2.T75.KT75.A53 A93.K8.J932.K876"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+East's very-light one-diamond opening and one notrump rebid did
+not tempt West to move beyond game, and West settled for a raise
+to three notrump. South made the obvious CJ lead from his "God-given
+sequence" (the late great analyst Edgar Kaplan's phrase). East
+called for dummy's CQ and surrendered two club tricks and one
+diamond trick early to retain control.
+}
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+CJ CQ CA C7 
+CT C2 C5 C8 
+HJ HA H5 H8 
+D8 DQ DK D3 
+C9 C4 C3 CK 
+H2 H3 H7 HK 
+D4 DA D5 D2 
+S5 SQ S2 S3 
+- HQ HT - 
+*
+[Result "9"]
+

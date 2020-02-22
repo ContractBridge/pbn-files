@@ -1,0 +1,665 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "7th Hero 1999 Youth festival"]
+[Site "Hogeschool Den Bosch The Netherlands, NLD"]
+[Date "1999.08.01"]
+[Round "3"]
+[Board "1"]
+[West "Makikangas"]
+[North "Woodbridge"]
+[East "Heikkinen"]
+[South "Hurd"]
+[Vulnerable "NS"]
+[Deal "S:QJ8.Q53.AT82.763 7532.J7.J763.K84 AKT4.8.Q94.AT952 96.AKT9642.K5.QJ"]
+[Dealer "N"]
+[Auction "N"]
+1C 4H X Pass 
+4S Pass Pass Pass 
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+HA H3 H7 H8 
+CJ C3 C4 CA 
+S6 S8 S2 SK 
+S9 SJ S3 S4 
+H9 SQ S5 SA 
+H2 D2 S7 ST 
+CQ C6 C8 CT 
+HK H5 HJ D4 
+H4 HQ D3 C2 
+H6 C7 CK C5 
+DK DA D6 D9 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "1"]
+[West "Kitces"]
+[North "Tamminen"]
+[East "Greenberg"]
+[South "Jafs"]
+[Vulnerable "NS"]
+[Deal "S:QJ8.Q53.AT82.763 7532.J7.J763.K84 AKT4.8.Q94.AT952 96.AKT9642.K5.QJ"]
+[Dealer "N"]
+[Auction "N"]
+1C 4H Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+SQ S2 SK S6 
+S8 S3 SA S9 
+SJ S5 S4 H2 
+H3 H7 H8 HA 
+H5 HJ C5 HK 
+C3 C4 CA CQ 
+D2 S7 ST H4 
+C6 C8 C2 CJ 
+HQ D3 C9 HT 
+DA D6 D4 D5 
+D8 D7 D9 DK 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "2"]
+[West "Makikangas"]
+[North "Woodbridge"]
+[East "Heikkinen"]
+[South "Hurd"]
+[Vulnerable "Both"]
+[Deal "S:3.T6542.987.AKT6 QT965.AQ8.KQ.Q84 AK2.KJ973.532.95 J874..AJT64.J732"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 2C 
+X 2S Pass 4S 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+C9 C2 CK CQ 
+C5 C3 CA C4 
+S2 C7 C6 C8 
+D2 D4 D7 DK 
+SK S4 S3 SQ 
+D5 - - - 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "2"]
+[West "Kitces"]
+[North "Tamminen"]
+[East "Greenberg"]
+[South "Jafs"]
+[Vulnerable "Both"]
+[Deal "S:3.T6542.987.AKT6 QT965.AQ8.KQ.Q84 AK2.KJ973.532.95 J874..AJT64.J732"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 2C 
+X 2S Pass 4S 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+C9 C2 CK CQ 
+C5 C3 CA C8 
+S2 C7 C6 C4 
+SA S4 S3 S5 
+SK S7 H2 S6 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "3"]
+[West "Makikangas"]
+[North "Woodbridge"]
+[East "Heikkinen"]
+[South "Hurd"]
+[Vulnerable "EW"]
+[Deal "S:J.AQ853.T543.K43 K762.T64.A82.AJ5 AQT95.K7.K7.Q962 843.J92.QJ96.T87"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1S Pass 
+Pass X Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "1SX"]
+[Play "N"]
+C6 C7 CK CA 
+C2 CT C4 C5 
+DK DQ D3 D2 
+CQ C8 C3 CJ 
+D7 D6 D4 DA 
+S5 D9 D5 D8 
+HK H2 H3 H4 
+H7 H9 HQ HT 
+S9 DJ DT H6 
+C9 HJ SJ SK 
+*
+[Room "Open"]
+[Result "4"]
+[Score "-800"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "3"]
+[West "Kitces"]
+[North "Tamminen"]
+[East "Greenberg"]
+[South "Jafs"]
+[Vulnerable "EW"]
+[Deal "S:J.AQ853.T543.K43 K762.T64.A82.AJ5 AQT95.K7.K7.Q962 843.J92.QJ96.T87"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1C 1S 
+Pass 2H Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "2H"]
+[Play "W"]
+D2 DK D6 D3 
+SK S5 S4 SJ 
+DA D7 D9 D4 
+S2 SA S8 D5 
+H4 H7 H2 HA 
+C5 CQ C7 C3 
+S6 SQ S3 DT 
+S7 S9 HJ C4 
+CA C2 C8 CK 
+D8 C6 DJ H3 
+H6 HK H9 H5 
+CJ C9 CT H8 
+HT ST DQ HQ 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "4"]
+[West "Makikangas"]
+[North "Woodbridge"]
+[East "Heikkinen"]
+[South "Hurd"]
+[Vulnerable "None"]
+[Deal "S:974.AKJ874.A62.8 T.6.K84.KJT76432 J62.QT32.QJ7.AQ9 AKQ853.95.T953.5"]
+[Dealer "W"]
+[Auction "W"]
+3NT Pass 4C 4H 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+ST S2 SQ S4 
+C2 S6 SA S7 
+C3 SJ SK S9 
+DK D7 D5 D2 
+CJ CA C5 C8 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "4"]
+[West "Kitces"]
+[North "Tamminen"]
+[East "Greenberg"]
+[South "Jafs"]
+[Vulnerable "None"]
+[Deal "S:974.AKJ874.A62.8 T.6.K84.KJT76432 J62.QT32.QJ7.AQ9 AKQ853.95.T953.5"]
+[Dealer "W"]
+[Auction "W"]
+4C Pass Pass 4H 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+ST SJ SQ S4 
+D4 S2 SA S7 
+CT S6 SK S9 
+D8 D7 DT DA 
+H6 H2 H5 HA 
+C2 HQ H9 H4 
+C3 HT S3 HK 
+C4 H3 S5 HJ 
+C6 DJ S8 H8 
+C7 DQ D3 H7 
+CJ CQ C5 C8 
+CK CA D5 D2 
+DK C9 D9 D6 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "5"]
+[West "Makikangas"]
+[North "Woodbridge"]
+[East "Heikkinen"]
+[South "Hurd"]
+[Vulnerable "EW"]
+[Deal "S:AT5.AQ74.AT5.874 QJ92.9832.963.62 6.T.KJ8742.QJT53 K8743.KJ65.Q.AK9"]
+[Dealer "N"]
+[Auction "N"]
+2D X 3NT Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+SQ S6 S3 SA 
+D3 D2 DQ DA 
+D6 D4 H6 DT 
+D9 DK C9 D5 
+H8 DJ S8 H7 
+C2 D8 S7 C4 
+C6 D7 SK C7 
+H2 HT HJ HQ 
+- - - HA 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "5"]
+[West "Kitces"]
+[North "Tamminen"]
+[East "Greenberg"]
+[South "Jafs"]
+[Vulnerable "EW"]
+[Deal "S:AT5.AQ74.AT5.874 QJ92.9832.963.62 6.T.KJ8742.QJT53 K8743.KJ65.Q.AK9"]
+[Dealer "N"]
+[Auction "N"]
+3D X Pass 3S 
+Pass 4S X Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "4SX"]
+[Play "N"]
+HT HJ HQ H3 
+D2 H5 HA H8 
+S6 H6 H7 H2 
+CQ CA C4 C2 
+D4 S3 SA S2 
+D7 DQ DA D3 
+C3 HK H4 H9 
+D8 S4 S5 S9 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "6"]
+[West "Makikangas"]
+[North "Woodbridge"]
+[East "Heikkinen"]
+[South "Hurd"]
+[Vulnerable "Both"]
+[Deal "S:43.94.JT83.AKJ32 JT92.T3.KQ6542.4 A86.AKJ752.A.965 KQ75.Q86.97.QT87"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass 1H 
+Pass 1NT Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+D4 DA D9 D3 
+H3 HA H6 H4 
+C4 C5 C7 CA 
+HT HJ HQ H9 
+DQ S6 D7 DT 
+DK S8 S5 D8 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "6"]
+[West "Kitces"]
+[North "Tamminen"]
+[East "Greenberg"]
+[South "Jafs"]
+[Vulnerable "Both"]
+[Deal "S:43.94.JT83.AKJ32 JT92.T3.KQ6542.4 A86.AKJ752.A.965 KQ75.Q86.97.QT87"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 2D 2H 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "2H"]
+[Play "E"]
+D9 D3 D2 DA 
+S5 S3 S2 SA 
+S7 S4 S9 S6 
+H6 H4 H3 HA 
+SK H9 SJ S8 
+D7 D8 DQ H2 
+H8 C2 HT HK 
+C7 CA C4 C5 
+HQ DT D4 H5 
+SQ C3 ST H7 
+C8 CJ D5 C6 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "7"]
+[West "Makikangas"]
+[North "Woodbridge"]
+[East "Heikkinen"]
+[South "Hurd"]
+[Vulnerable "NS"]
+[Deal "S:KQJT965.QJ4.4.J2 A32.K75.872.KQ85 8.T62.AQJT965.T7 74.A983.K3.A9643"]
+[Dealer "W"]
+[Auction "W"]
+1C 2D X 2S 
+Pass 3D 5C Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "5C"]
+[Play "N"]
+S8 S4 S5 SA 
+C7 CA C2 C5 
+CT C3 CJ CK 
+DA D3 D4 D2 
+H6 HA H4 H5 
+D5 DK SK D7 
+H2 H3 HJ HK 
+D6 C4 S6 D8 
+HT H8 HQ H7 
+*
+[Room "Open"]
+[Result "10"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "7"]
+[West "Kitces"]
+[North "Tamminen"]
+[East "Greenberg"]
+[South "Jafs"]
+[Vulnerable "NS"]
+[Deal "S:KQJT965.QJ4.4.J2 A32.K75.872.KQ85 8.T62.AQJT965.T7 74.A983.K3.A9643"]
+[Dealer "W"]
+[Auction "W"]
+1C 3D X 3S 
+X Pass Pass Pass 
+[Declarer "S"]
+[Contract "3SX"]
+[Play "W"]
+H5 H2 HA H4 
+HK H6 H3 HJ 
+H7 HT H8 HQ 
+SA S8 S4 SK 
+CK C7 C3 C2 
+C5 CT CA CJ 
+D2 D5 H9 S9 
+S2 D6 S7 SQ 
+S3 D9 C4 SJ 
+D7 DT C6 ST 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "8"]
+[West "Makikangas"]
+[North "Woodbridge"]
+[East "Heikkinen"]
+[South "Hurd"]
+[Vulnerable "None"]
+[Deal "S:8732.A.Q872.T864 KJT954.KJ84.3.97 AQ.T5.AKT96.QJ52 6.Q97632.J54.AK3"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1NT Pass 
+Pass 2S Pass 3C 
+X Pass Pass 3H 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "3H"]
+[Play "S"]
+D7 D3 DK D4 
+DQ H4 DT DJ 
+C4 C7 C2 CA 
+S2 SJ SQ S6 
+C6 C9 C5 CK 
+HA H8 H5 H2 
+C8 HJ CQ C3 
+S3 SK SA H3 
+D2 HK HT H6 
+- ST - - 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "8"]
+[West "Kitces"]
+[North "Tamminen"]
+[East "Greenberg"]
+[South "Jafs"]
+[Vulnerable "None"]
+[Deal "S:8732.A.Q872.T864 KJT954.KJ84.3.97 AQ.T5.AKT96.QJ52 6.Q97632.J54.AK3"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1NT X 
+Pass 2S Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+DK D4 D2 D3 
+DA D5 D7 S4 
+C2 CA C4 C9 
+SQ S6 S2 S9 
+D6 DJ DQ S5 
+SA H2 S3 ST 
+CQ CK C6 C7 
+H5 H3 HA H4 
+D9 C3 D8 SJ 
+HT H6 S7 SK 
+C5 H7 S8 HJ 
+CJ H9 C8 H8 
+DT HQ CT HK 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "9"]
+[West "Makikangas"]
+[North "Woodbridge"]
+[East "Heikkinen"]
+[South "Hurd"]
+[Vulnerable "Both"]
+[Deal "S:KT752.KT.86.AT94 AQ943.J64.A742.5 .532.KQ5.KQJ8762 J86.AQ987.JT93.3"]
+[Dealer "N"]
+[Auction "N"]
+1C 1H 1S 4H 
+5C Pass Pass X 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "5CX"]
+[Play "E"]
+DJ D6 DA D5 
+HA HT H4 H2 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+750"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "9"]
+[West "Kitces"]
+[North "Tamminen"]
+[East "Greenberg"]
+[South "Jafs"]
+[Vulnerable "Both"]
+[Deal "S:KT752.KT.86.AT94 AQ943.J64.A742.5 .532.KQ5.KQJ8762 J86.AQ987.JT93.3"]
+[Dealer "N"]
+[Auction "N"]
+1C 1H 1S X 
+2C Pass Pass 2H 
+3C Pass 3NT X 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3NTX"]
+[Play "W"]
+H4 H2 HA HT 
+HJ H3 H8 HK 
+C5 C2 C3 CA 
+S3 CK S8 CT 
+D2 CQ S6 C9 
+S4 CJ SJ C4 
+D4 C8 D3 S2 
+D7 C7 DJ S5 
+S9 C6 D9 S7 
+DA DK DT D6 
+SA D5 H7 ST 
+H6 H5 HQ D8 
+SQ DQ H9 SK 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "10"]
+[West "Makikangas"]
+[North "Woodbridge"]
+[East "Heikkinen"]
+[South "Hurd"]
+[Vulnerable "None"]
+[Deal "S:82.AK.AKQT6.K843 AT7.QT9.J84.AJT2 6543.J87643.7.97 KQJ9.52.9532.Q65"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D Pass 1H 
+Pass 3C Pass 3H 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+SK S2 ST S4 
+D9 DA D4 D7 
+H2 HA H9 H3 
+H5 HK HT H4 
+D2 DK D8 S3 
+D3 DQ DJ S5 
+D5 DT HQ S6 
+S9 S8 SA H6 
+C5 CK CA C7 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "10"]
+[West "Kitces"]
+[North "Tamminen"]
+[East "Greenberg"]
+[South "Jafs"]
+[Vulnerable "None"]
+[Deal "S:82.AK.AKQT6.K843 AT7.QT9.J84.AJT2 6543.J87643.7.97 KQJ9.52.9532.Q65"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D X Pass 
+1S 2C Pass Pass 
+2S Pass Pass Pass 
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+DK D4 D7 D2 
+DQ D8 C7 D3 
+DA DJ C9 D5 
+HA H9 H8 H2 
+HK HT H3 H5 
+DT SA H4 D9 
+S2 S7 S3 SK 
+S8 ST S4 SQ 
+D6 C2 S5 SJ 
+C3 CT S6 S9 
+C4 CJ H6 C5 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+110"]
+

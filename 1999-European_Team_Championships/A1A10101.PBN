@@ -1,0 +1,1429 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "European Team Championships '99"]
+[Site "Malta, MLT"]
+[Date "1999.06.13"]
+[Board "1"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T7.QT6.AQ985.T87 98.542.KT643.K54 AQ32.AK97.72.Q62 KJ654.J83.J.AJ93"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -100"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "N"]
+Pass Pass 1NT Pass
+3NT Pass Pass Pass
+[Play "W"]
+S4 ST S8 S3
+DJ D5 D4 D7
+C3 C7 CK C6
+CA C8 C5 CQ
+CJ CT C4 C2
+C9 D8 H2 S2
+H3 H6 H4 H9
+H8 HQ H5 H7
+- HT - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "1"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T7.QT6.AQ985.T87 98.542.KT643.K54 AQ32.AK97.72.Q62 KJ654.J83.J.AJ93"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 90"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1NT Pass
+Pass Pass
+[Play "W"]
+S4 ST S8 S2
+H8 HT H5 HA
+DJ DQ DK D2
+S5 S7 S9 SA
+S6 DA D3 D7
+H3 HQ H2 H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "2"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A9.KJ642.AJT7.54 T75432.A9..AQ863 Q6.QT873.Q83.KJ2 KJ8.5.K96542.T97"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "10"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS 790"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "E"]
+1H 2H 4H Pass
+Pass X Pass 4S
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+H4 HA H3 H5
+H2 H9 H7 S8
+C4 CQ CK C9
+D7 S2 D3 D6
+SA S3 S6 SJ
+C5 CA C2 CT
+S9 S4 SQ SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "2"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A9.KJ642.AJT7.54 T75432.A9..AQ863 Q6.QT873.Q83.KJ2 KJ8.5.K96542.T97"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1H 2H 4H 4S
+Pass Pass Pass
+[Play "E"]
+H2 HA H8 H5
+H6 H9 HT S8
+C4 CQ CK C9
+SA S2 S6 SJ
+C5 CA C2 C7
+S9 S3 SQ SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "3"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T53.AJ8532.92.64 Q4.KQ9.J764.AJ97 A876.7.AQT.KQ853 KJ92.T64.K853.T2"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "7"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -100"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "S"]
+Pass 1NT X XX
+3H Pass Pass Pass
+[Play "W"]
+D4 DQ DK D2
+CA C3 CT C4
+SQ SA S2 S3
+C7 CK C2 C6
+C9 CQ HT HJ
+H9 H7 H4 HA
+HQ S6 H6 H3
+S4 S7 SK S5
+D6 S8 SJ ST
+- - S9 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "3"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T53.AJ8532.92.64 Q4.KQ9.J764.AJ97 A876.7.AQT.KQ853 KJ92.T64.K853.T2"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+2H Pass Pass Pass
+[Play "W"]
+SQ SA S2 S3
+S4 S6 SK S5
+D4 S7 SJ ST
+H9 S8 S9 H5
+D6 DQ DK D2
+CA C3 CT C4
+D7 DA D3 D9
+HQ H7 H4 HA
+HK CK H6 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "4"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:5.K9.AKJT9.K9762 QT432.QJ543.872. K9.762.Q643.QJ83 AJ876.AT8.5.AT54"]
+[Declarer "W"]
+[Contract "5DX"]
+[Result "8"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS 800"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "W"]
+1D Pass 1H 1S
+2C 3S 4D 4S
+5D Pass Pass X
+Pass Pass Pass
+[Play "N"]
+S2 SK SA S5
+H5 C3 CA C2
+D7 C8 C4 C6
+HQ H2 HA H9
+D2 CJ C5 C7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "4"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:5.K9.AKJT9.K9762 QT432.QJ543.872. K9.762.Q643.QJ83 AJ876.AT8.5.AT54"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 650"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1D Pass 1NT 2S
+3C 4S Pass Pass
+Pass
+[Play "W"]
+DA D2 D3 D5
+DK D7 D4 S6
+C2 S2 C3 C4
+S5 SQ S9 S7
+D9 S3 SK SA
+C6 S4 C8 C5
+HK HQ H2 H8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "5"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT.QJ642.AK9.KT2 K874.3.QJ742.AQ8 AJ963.AKT.65.643 52.9875.T83.J975"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS 660"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "N"]
+1NT 2D X Pass
+2H Pass 3D Pass
+3NT Pass Pass Pass
+[Play "E"]
+D2 D5 DT DK
+S4 S3 S2 SQ
+S7 S6 S5 ST
+H3 HA H5 H2
+S8 SA D8 C2
+SK S9 D3 D9
+DQ D6 C5 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "5"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT.QJ642.AK9.KT2 K874.3.QJ742.AQ8 AJ963.AKT.65.643 52.9875.T83.J975"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 660"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1H X XX Pass
+Pass 1S Pass Pass
+X Pass Pass 1NT
+X 2D X Pass
+3NT Pass Pass Pass
+[Play "E"]
+D2 D5 DT DA
+S4 S3 S2 SQ
+S7 S6 S5 ST
+H3 HA H5 H2
+SK SJ D3 C2
+DQ D6 D8 DK
+C8 HK H7 H4
+- SA C5 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "6"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AT872.QJ.T432.87 J.K98.KJ87.QT962 K9654.63.Q965.43 Q3.AT7542.A.AKJ5"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "11"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -50"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1H Pass 2H
+Pass 3S Pass 6H
+Pass Pass Pass
+[Play "W"]
+H3 H2 HQ HK
+H6 H4 HJ H8
+- - SA -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "6"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AT872.QJ.T432.87 J.K98.KJ87.QT962 K9654.63.Q965.43 Q3.AT7542.A.AKJ5"]
+[Declarer "^N"]
+[Contract "6H"]
+[Result "13"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 1010"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1H Pass 2H
+Pass 3H Pass 3S
+Pass 3NT Pass 4C
+Pass 4D Pass 4H
+Pass 4S Pass 4NT
+Pass 5H Pass 6H
+Pass Pass Pass
+[Play "E"]
+D2 D7 D6 DA
+HJ H8 H3 HA
+HQ HK H6 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "7"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KT7.J87.QT86.Q73 AJ92.A96.J4.J862 643.QT432.532.T9 Q85.K5.AK97.AK54"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -600"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H Pass 1NT
+Pass 2H Pass 2NT
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+H8 H6 HQ H5
+H7 H9 H2 HK
+C7 C2 C9 CA
+C3 C6 CT CK
+CQ C8 D3 C4
+HJ HA H3 D7
+D6 CJ S3 C5
+D8 DJ D2 DA
+S7 SJ S4 S5
+ST SA S6 S8
+- D4 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "7"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KT7.J87.QT86.Q73 AJ92.A96.J4.J862 643.QT432.532.T9 Q85.K5.AK97.AK54"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -660"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1NT Pass 2C
+Pass 2D Pass 2NT
+Pass 3C Pass 3D
+Pass 3S Pass 3NT
+Pass Pass Pass
+[Play "N"]
+H2 H5 HJ H6
+D2 DK DQ D4
+S6 SQ SK SA
+D3 D7 D6 DJ
+C9 CA C3 C2
+S4 S8 S7 S2
+H3 HK H7 H9
+S3 S5 ST SJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "8"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A75.JT84.T5.7532 KQ93.9732.AK97.4 J864.Q5.J43.AKT9 T2.AK6.Q862.QJ86"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -50"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "E"]
+S6 S2 SA S3
+S4 ST S7 SK
+H5 H6 H8 H3
+S8 C6 S5 SQ
+HQ HK H4 H2
+C9 HA HT H7
+D4 D2 D5 DA
+D3 DQ DT D7
+DJ D6 C2 DK
+- - - D9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "8"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A75.JT84.T5.7532 KQ93.9732.AK97.4 J864.Q5.J43.AKT9 T2.AK6.Q862.QJ86"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 400"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2D Pass 2H
+Pass 2S Pass 2NT
+Pass 3H Pass 3NT
+Pass Pass Pass
+[Play "W"]
+S5 S3 S8 ST
+SA S9 S4 S2
+H4 H2 HQ H6
+H8 H3 H5 HK
+HT H7 S6 HA
+D5 DA D3 D2
+S7 SQ SJ C6
+C2 SK C9 C8
+DT DK D4 D6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "9"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:984.A7.T42.QJT72 AQT5.KT92.A873.8 K6.Q4.KQJ96.K643 J732.J8653.5.A95"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -620"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "N"]
+Pass 1D Pass 2D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+DK D5 D4 DA
+C3 CA C2 C8
+HQ H3 H7 HT
+CK C5 C7 H2
+D6 H5 D2 D3
+C4 C9 CT H9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "9"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:984.A7.T42.QJT72 AQT5.KT92.A873.8 K6.Q4.KQJ96.K643 J732.J8653.5.A95"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1D 1NT Pass
+2C Pass 2D Pass
+2NT Pass Pass Pass
+[Play "W"]
+H3 H7 HK H4
+H5 HA H2 HQ
+C9 CQ C8 C3
+D5 D2 D3 DK
+C5 CJ S5 C4
+S2 D4 DA D6
+H6 C2 HT CK
+HJ S4 H9 C6
+H8 S8 D7 D9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "10"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AJT76.76.A98.AJ6 Q84.843.T2.KT942 9.K952.QJ65.Q875 K532.AQJT.K743.3"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "6"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -200"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "E"]
+1S Pass 1NT X
+Pass 2C Pass Pass
+Pass
+[Play "W"]
+S9 S2 S7 SQ
+H2 HT H6 H4
+C5 C3 C6 CK
+C7 S3 CJ C2
+H5 HJ H7 H3
+H9 HA CA H8
+D6 S5 SA S4
+C8 SK SJ S8
+DQ - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "10"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AJT76.76.A98.AJ6 Q84.843.T2.KT942 9.K952.QJ65.Q875 K532.AQJT.K743.3"]
+[Declarer "E"]
+[Contract "2CX"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 500"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1S Pass 1NT Pass
+2C Pass Pass X
+Pass Pass Pass
+[Play "S"]
+DT DQ D4 D8
+D2 D5 D3 D9
+H8 HK HA H6
+CK C5 C3 C6
+C2 C7 S2 CJ
+H4 H2 HT H7
+C4 D6 D7 DA
+C9 C8 S3 CA
+S4 S9 S5 SA
+S8 CQ SK S6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "11"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K963.43.8754.J74 AT8.JT85.KJ2.K85 J7542.A6.AQ3.AQ9 Q.KQ972.T96.T632"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -50"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "S"]
+Pass 1NT X 2H
+Pass Pass 2S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+HK H3 H5 HA
+SQ SK SA S5
+H2 H4 HJ H6
+D6 D4 D2 DQ
+D9 D5 DJ DA
+H7 S3 S8 SJ
+- - - S4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "11"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K963.43.8754.J74 AT8.JT85.KJ2.K85 J7542.A6.AQ3.AQ9 Q.KQ972.T96.T632"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 140"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1NT X 2H
+Pass Pass X Pass
+2S Pass Pass Pass
+[Play "W"]
+HJ HA H7 H3
+SA S2 SQ SK
+HT H6 H2 H4
+C5 C9 CT CJ
+C8 CQ C2 C4
+CK CA C3 C7
+S8 SJ C6 S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "12"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AKT9765.74.AJ.T8 8.KJT92.Q65.AQJ2 QJ432..T9843.K94 .AQ8653.K72.7653"]
+[Declarer "W"]
+[Contract "6SX"]
+[Result "11"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS 100"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "W"]
+1S X 4S 5H
+5S Pass Pass 6H
+Pass Pass 6S X
+Pass Pass Pass
+[Play "N"]
+HJ S2 H8 H4
+S8 S3 H3 SK
+H9 S4 H5 H7
+H2 SJ C3 S5
+D5 SQ H6 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "12"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AKT9765.74.AJ.T8 8.KJT92.Q65.AQJ2 QJ432..T9843.K94 .AQ8653.K72.7653"]
+[Declarer "W"]
+[Contract "6SX"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1S 2H 4S 4NT
+5S X Pass 6H
+Pass Pass 6S Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+H2 S2 HQ H4
+S8 S3 C6 S9
+H9 S4 H3 H7
+HT SJ H5 SK
+CA C4 C3 C8
+CQ CK C5 CT
+HJ SQ H6 SA
+HK D3 C7 ST
+- - - S7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "13"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:764.JT953.Q7642. 98.Q87.AK.QT8732 AKJT32.64.JT953. Q5.AK2.8.AKJ9654"]
+[Declarer "S"]
+[Contract "6SX"]
+[Result "9"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -800"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "N"]
+Pass Pass 4S 5C
+5S 6C 6S X
+Pass Pass Pass
+[Play "W"]
+HK H3 H8 H6
+D8 D2 DK DJ
+C4 D4 DA D5
+HA H5 H7 H4
+H2 H9 HQ S2
+S5 S4 S8 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "13"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:764.JT953.Q7642. 98.Q87.AK.QT8732 AKJT32.64.JT953. Q5.AK2.8.AKJ9654"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -600"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1NT 2D 2NT
+Pass 3C 3S 5C
+Pass Pass Pass
+[Play "S"]
+SA S5 S6 S8
+SK SQ S4 S9
+DJ D8 D2 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "14"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AJ9.Q7.KQ8765.K7 642.AKJT84..A642 Q873.96.AJT32.J8 KT5.532.94.QT953"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "10"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS 590"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "E"]
+1D 4H X Pass
+Pass Pass
+[Play "W"]
+DA D4 D8 H4
+H6 H2 H7 HA
+H9 H3 HQ HK
+C8 C3 C7 CA
+CJ C5 CK C2
+D2 D9 DK H8
+S3 - - C4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "14"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AJ9.Q7.KQ8765.K7 642.AKJT84..A642 Q873.96.AJT32.J8 KT5.532.94.QT953"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1D 1H 1S 2H
+2S 3S Pass 3NT
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+S7 S5 S9 S2
+D2 D4 DK HJ
+H6 H2 H7 HK
+H9 H3 HQ HA
+C8 C3 C7 CA
+CJ CQ CK C2
+S3 ST SA S4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "15"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:JT982.862.J42.92 3.T9543.QT865.KT Q5.AKQ7.97.AJ863 AK764.J.AK3.Q754"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "6"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -300"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "S"]
+Pass Pass 2C 2S
+Pass Pass X Pass
+3C Pass Pass Pass
+[Play "E"]
+SK S2 S3 SQ
+DK D2 D5 D7
+DA D4 DT D9
+SA S8 D6 S5
+D3 DJ DQ C3
+HJ H2 H3 HA
+C4 H6 H4 HK
+C5 C2 CK CA
+C7 H8 H5 HQ
+S4 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "15"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:JT982.862.J42.92 3.T9543.QT865.KT Q5.AKQ7.97.AJ863 AK764.J.AK3.Q754"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1H X
+Pass 2D Pass 2S
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "N"]
+HQ HJ H8 H5
+D7 DA D4 D5
+CJ C4 C2 CT
+D9 DK D2 D6
+CA C5 C9 CK
+HA S4 H2 H3
+SQ SA S2 S3
+S5 SK S8 H4
+C3 CQ DJ HT
+H7 D3 SJ DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "16"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:95.J43.KJ86.AQ87 AQT832.97.97.K54 KJ64.AQ65.Q4.T62 7.KT82.AT532.J93"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "6"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -100"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "W"]
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+DQ D2 D6 D7
+D4 DA D8 D9
+SK S7 S5 SQ
+HA H2 H4 H7
+H5 HK H3 H9
+C6 C3 CA C5
+C2 D3 DK S8
+S4 H8 S9 SA
+S6 HT C8 S3
+SJ D5 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "16"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:95.J43.KJ86.AQ87 AQT832.97.97.K54 KJ64.AQ65.Q4.T62 7.KT82.AT532.J93"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+DQ DA D6 D7
+SJ S7 S5 ST
+D4 D2 DJ D9
+C2 D3 DK S8
+S4 H2 S9 SA
+S6 D5 H3 S2
+HA H8 H4 H7
+C6 C3 CA C4
+CT C9 C7 CK
+- - - H9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "17"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQT974.Q94.8764. AJ5.JT53.AQ9.KT2 83.K72.K3.QJ8543 62.A86.JT52.A976"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -430"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "N"]
+2S 2NT Pass 3NT
+Pass Pass Pass
+[Play "S"]
+C4 C6 S4 C2
+DK DJ D4 D9
+S8 S2 SQ S5
+S3 S6 ST SJ
+H2 H6 HQ HT
+C3 H8 S9 SA
+D3 D2 D6 DA
+- - - DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "17"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQT974.Q94.8764. AJ5.JT53.AQ9.KT2 83.K72.K3.QJ8543 62.A86.JT52.A976"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -430"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+2S 2NT Pass 3NT
+Pass Pass Pass
+[Play "S"]
+S8 S2 SQ S5
+HK HA H4 H3
+- D2 D4 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "18"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KT876.865.K7.J62 9.AQT743.JT4.A87 Q42.KJ92.A982.T9 AJ53..Q653.KQ543"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "7"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -200"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2H Pass 2NT
+Pass 3H Pass Pass
+Pass
+[Play "W"]
+CT CK C2 C8
+D2 DQ DK D4
+DA D3 D7 DT
+D9 D5 H6 DJ
+C9 C3 C6 CA
+H2 S3 H5 HA
+H9 C4 H8 H3
+S2 SA S7 S9
+S4 S5 SK H4
+HJ - - H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "18"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KT876.865.K7.J62 9.AQT743.JT4.A87 Q42.KJ92.A982.T9 AJ53..Q653.KQ543"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -200"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2H Pass 2S
+Pass 3H Pass 3NT
+Pass Pass Pass
+[Play "E"]
+S6 S9 SQ S3
+S7 D4 S4 S5
+D7 DT DA D3
+ST H3 S2 SA
+DK DJ D2 D5
+SK H4 H2 SJ
+S8 H7 CT C3
+H5 HA H9 D6
+C2 CA C9 C4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "19"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KJ65.T42.T9.T876 Q742.Q9753.8742. AT8.AJ86.KQJ3.QJ 93.K.A65.AK95432"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -100"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "S"]
+Pass Pass 1C 2C
+Pass Pass X XX
+2S Pass Pass 3C
+3S Pass Pass Pass
+[Play "W"]
+D2 D3 DA DT
+D4 CJ CK C7
+D7 CQ CA C6
+H5 HA HK H4
+HQ H6 D6 HT
+H3 H8 S9 H2
+D8 DJ D5 D9
+S2 SA S3 S5
+SQ S8 C2 S6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "19"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KJ65.T42.T9.T876 Q742.Q9753.8742. AT8.AJ86.KQJ3.QJ 93.K.A65.AK95432"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1C 3C
+Pass Pass X Pass
+3S Pass Pass Pass
+[Play "W"]
+D8 D3 DA D9
+D2 CJ CA C6
+D4 CQ CK C7
+D7 DJ D6 DT
+S2 S8 S3 SK
+S4 ST S9 S5
+S7 SA C5 S6
+H3 DQ D5 H2
+H5 DK C2 H4
+H7 HA HK HT
+- H6 C3 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.13"]
+[Board "20"]
+[West "Duboin G"]
+[North "Feichtinger K"]
+[East "Bocchi N"]
+[South "Terraneo F"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KJT4.AT9.Q8.KQ73 63.KJ6.AJT532.54 AQ872.Q8.K9.T962 95.75432.764.AJ8"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Austria"]
+[Room "Open"]
+[Round "1"]
+[Score "NS -620"]
+[Table "17"]
+[VisitTeam "Italy"]
+[Auction "W"]
+1NT Pass 2H Pass
+3D X 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+C4 C2 CA C3
+H6 H8 H4 HA
+S3 S2 S5 SK
+S6 SA S9 S4
+C5 C6 C8 CK
+- - - SJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "20"]
+[West "Umshaus P"]
+[North "De Falco S"]
+[East "Babsch A"]
+[South "Ferraro G"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KJT4.AT9.Q8.KQ73 63.KJ6.AJT532.54 AQ872.Q8.K9.T962 95.75432.764.AJ8"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1D Pass 1S Pass
+1NT 2D X Pass
+2S Pass 3D Pass
+3NT Pass Pass Pass
+[Play "N"]
+DT DK D7 D8
+S3 S2 S5 SK
+S6 S7 S9 SJ
+H6 S8 H2 ST
+C4 SQ H3 S4
+D3 SA H4 C3
+C5 C2 CA C7
+DA D9 D6 DQ
+DJ C6 D4 H9
+D5 C9 H5 HT
+*
+

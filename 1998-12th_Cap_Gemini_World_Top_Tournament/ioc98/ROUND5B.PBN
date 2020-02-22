@@ -1,0 +1,730 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1998 IOC Grand Prix"]
+[Site "IOC Olympic Museum - Lausanne, Switzerland, CHE"]
+[Date "1998.09.11"]
+[Round "5"]
+[Board "1"]
+[West "Multon"]
+[North "Meckstroth"]
+[East "Mouiel"]
+[South "Rodwell"]
+[Vulnerable "None"]
+[Deal "S:3.873.J.QJ987653 KQ75.A54.AQ763.2 9862.Q962.92.AK4 AJT4.KJT.KT854.T"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D 3C X 
+4C 4S Pass 4NT 
+Pass 5D Pass 6D 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "6D"]
+[Play "S"]
+CJ C2 CK CT 
+S3 S5 S2 SJ 
+DJ DA D2 D4 
+C3 D3 D9 DK 
+C6 SK S9 S4 
+C7 SQ S6 ST 
+C8 S7 S8 SA 
+C5 DQ H9 D5 
+CQ D6 C4 DT 
+C9 D7 CA D8 
+H7 HA H2 HT 
+H3 H4 H6 HJ 
+H8 H5 HQ HK 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+920"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "1"]
+[West "Soloway"]
+[North "Perron"]
+[East "Hamman"]
+[South "Chemla"]
+[Vulnerable "None"]
+[Deal "S:3.873.J.QJ987653 KQ75.A54.AQ763.2 9862.Q962.92.AK4 AJT4.KJT.KT854.T"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D Pass 1S 
+Pass 3S Pass 3NT 
+Pass 4S Pass 4NT 
+Pass 5D Pass 6S 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "6S"]
+[Play "N"]
+CK CT C9 C2 
+C4 HT C7 S5 
+S2 S4 S3 SK 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+980"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "2"]
+[West "Multon"]
+[North "Meckstroth"]
+[East "Mouiel"]
+[South "Rodwell"]
+[Vulnerable "NS"]
+[Deal "S:AT82.K972.K4.A62 QJ964.8.QT82.KQ4 53.Q54.J97653.73 K7.AJT63.A.JT985"]
+[Dealer "E"]
+[Auction "E"]
+1H X XX 2D 
+3C Pass 3NT Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+D6 DA D4 D2 
+C3 C5 C6 CK 
+C7 C8 C2 CQ 
+S3 SK S2 S4 
+S5 S7 SA S6 
+HQ HA H2 H8 
+D5 C9 CA C4 
+H5 HJ H9 D8 
+DJ CT S8 S9 
+H4 H3 H7 SJ 
+D3 H6 HK DT 
+D7 CJ DK DQ 
+D9 HT ST SQ 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "2"]
+[West "Soloway"]
+[North "Perron"]
+[East "Hamman"]
+[South "Chemla"]
+[Vulnerable "NS"]
+[Deal "S:AT82.K972.K4.A62 QJ964.8.QT82.KQ4 53.Q54.J97653.73 K7.AJT63.A.JT985"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 1S Pass 
+2C Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+H5 HJ HK H8 
+D6 DA D4 D2 
+S5 SK SA S4 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "3"]
+[West "Multon"]
+[North "Meckstroth"]
+[East "Mouiel"]
+[South "Rodwell"]
+[Vulnerable "Both"]
+[Deal "S:KT84.Q4.QJ4.KQ75 9.T9532.K8652.AT A53.AK.T73.J9632 QJ762.J876.A9.84"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+H6 H4 H2 HA 
+C4 CK CA C6 
+H7 HQ H5 HK 
+C8 CQ CT C3 
+S2 C5 D2 C9 
+S6 C7 D5 CJ 
+HJ DJ S9 C2 
+SJ SK D6 S3 
+S7 S4 H3 SA 
+DA D4 D8 D3 
+SQ S8 H9 S5 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "3"]
+[West "Soloway"]
+[North "Perron"]
+[East "Hamman"]
+[South "Chemla"]
+[Vulnerable "Both"]
+[Deal "S:KT84.Q4.QJ4.KQ75 9.T9532.K8652.AT A53.AK.T73.J9632 QJ762.J876.A9.84"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1C Pass 1S 
+1NT Pass 2H X 
+Pass 2S 3H 3NT 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+HT HK H6 H4 
+CA CJ C4 C5 
+H3 HA H7 HQ 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "4"]
+[West "Multon"]
+[North "Meckstroth"]
+[East "Mouiel"]
+[South "Rodwell"]
+[Vulnerable "EW"]
+[Deal "S:63.KJ2.Q832.AT53 .Q976.AJ54.QJ742 QT9874.AT4.KT7.8 AKJ52.853.96.K96"]
+[Dealer "S"]
+[Auction "S"]
+1NT Pass 2S X 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "2SX"]
+[Play "E"]
+D9 D2 D5 DT 
+SK S3 C2 SQ 
+CK CA C4 C8 
+D6 D3 DA D7 
+S2 D8 D4 DK 
+C9 C3 CJ S4 
+SJ S6 DJ S9 
+C6 CT CQ S7 
+SA C5 H7 ST 
+H3 H2 HQ HA 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+470"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "4"]
+[West "Soloway"]
+[North "Perron"]
+[East "Hamman"]
+[South "Chemla"]
+[Vulnerable "EW"]
+[Deal "S:63.KJ2.Q832.AT53 .Q976.AJ54.QJ742 QT9874.AT4.KT7.8 AKJ52.853.96.K96"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1S Pass 
+1NT X 2D Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "2D"]
+[Play "E"]
+C6 CA C7 C8 
+H3 H2 H6 HT 
+H5 HJ H7 HA 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "5"]
+[West "Multon"]
+[North "Meckstroth"]
+[East "Mouiel"]
+[South "Rodwell"]
+[Vulnerable "NS"]
+[Deal "S:K.K6.AJ954.KT874 QT862.QJ.732.932 974.T7543.KT86.6 AJ53.A982.Q.AQJ5"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C 1D 1S 
+3D 4D X 4S 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+C6 CQ CK C3 
+S4 C5 CT C2 
+DK DQ DA D3 
+S7 CJ C4 C9 
+H4 HA H6 HJ 
+S9 SA SK S2 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "5"]
+[West "Soloway"]
+[North "Perron"]
+[East "Hamman"]
+[South "Chemla"]
+[Vulnerable "NS"]
+[Deal "S:K.K6.AJ954.KT874 QT862.QJ.732.932 974.T7543.KT86.6 AJ53.A982.Q.AQJ5"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C 1D Pass 
+4D X Pass 5S 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "5S"]
+[Play "N"]
+C6 CQ CK C2 
+S4 C5 C4 C9 
+D8 DQ DA D2 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "6"]
+[West "Multon"]
+[North "Meckstroth"]
+[East "Mouiel"]
+[South "Rodwell"]
+[Vulnerable "EW"]
+[Deal "S:T984.QJ7.Q932.K7 K765.K64.J76.AT4 Q32.T9.AKT8.QJ86 AJ.A8532.54.9532"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass 1D 
+1H X XX 2C 
+Pass 2D 2H 2S 
+Pass 3D Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+D4 D2 D7 D8 
+D5 D3 D6 DA 
+H2 D9 DJ DK 
+C3 CK CA C6 
+SA S4 S7 S2 
+SJ S8 SK S3 
+HA H7 H4 HT 
+H3 HJ HK H9 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "6"]
+[West "Soloway"]
+[North "Perron"]
+[East "Hamman"]
+[South "Chemla"]
+[Vulnerable "EW"]
+[Deal "S:T984.QJ7.Q932.K7 K765.K64.J76.AT4 Q32.T9.AKT8.QJ86 AJ.A8532.54.9532"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass 1D 
+1H 1S 2D Pass 
+2H 3D Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+C5 C7 CT CQ 
+D4 D3 D7 DK 
+D5 D2 D6 DA 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "7"]
+[West "Multon"]
+[North "Meckstroth"]
+[East "Mouiel"]
+[South "Rodwell"]
+[Vulnerable "Both"]
+[Deal "S:QT4.QT854.K.T862 2.A93.Q975432.95 A765.KJ2.AJ.AQ73 KJ983.76.T86.KJ4"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 2NT Pass 
+3D Pass 3H Pass 
+3NT Pass 4H Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+H6 H4 HA HK 
+SK S4 S2 S6 
+S3 ST H3 S5 
+CK C2 C9 CQ 
+S8 SQ H9 S7 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "7"]
+[West "Soloway"]
+[North "Perron"]
+[East "Hamman"]
+[South "Chemla"]
+[Vulnerable "Both"]
+[Deal "S:QT4.QT854.K.T862 2.A93.Q975432.95 A765.KJ2.AJ.AQ73 KJ983.76.T86.KJ4"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C 1S 
+X 2D 2S Pass 
+3C Pass 3D Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+S2 SA S9 ST 
+HA HJ H6 H4 
+C5 CA C4 C2 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "8"]
+[West "Multon"]
+[North "Meckstroth"]
+[East "Mouiel"]
+[South "Rodwell"]
+[Vulnerable "None"]
+[Deal "S:A64.KT952.QJT.93 JT72.A74.AK.K654 K985.Q63.842.JT8 Q3.J8.97653.AQ72"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 3NT Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+S5 S3 SA S7 
+SK SQ S6 S2 
+CJ C2 C3 CK 
+D4 D3 DQ DA 
+D2 D5 DJ DK 
+S8 D6 S4 SJ 
+C8 CA C9 C4 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "8"]
+[West "Soloway"]
+[North "Perron"]
+[East "Hamman"]
+[South "Chemla"]
+[Vulnerable "None"]
+[Deal "S:A64.KT952.QJT.93 JT72.A74.AK.K654 K985.Q63.842.JT8 Q3.J8.97653.AQ72"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 2S Pass 
+3C Pass 3NT Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+S5 S3 SA S7 
+SK SQ S6 S2 
+S9 C2 S4 SJ 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "9"]
+[West "Multon"]
+[North "Meckstroth"]
+[East "Mouiel"]
+[South "Rodwell"]
+[Vulnerable "EW"]
+[Deal "S:AKJ742.T76.974.3 53.QJ54.K6.KQJ62 Q9.8.QJ853.A8754 T86.AK932.AT2.T9"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1H 2S 4C 
+4S Pass Pass X 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4SX"]
+[Play "W"]
+CK CA CT C3 
+HQ H8 HK H7 
+S3 S9 S6 SA 
+H4 SQ H3 H6 
+C2 C4 C9 S2 
+S5 D3 S8 SK 
+C6 C5 ST SJ 
+DK D5 D2 D7 
+HJ C7 H2 HT 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "9"]
+[West "Soloway"]
+[North "Perron"]
+[East "Hamman"]
+[South "Chemla"]
+[Vulnerable "EW"]
+[Deal "S:AKJ742.T76.974.3 53.QJ54.K6.KQJ62 Q9.8.QJ853.A8754 T86.AK932.AT2.T9"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1H 2S 4H 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+SA S3 S9 S8 
+C3 C2 CA CT 
+H6 C6 C8 C9 
+SK S5 SQ S6 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "10"]
+[West "Multon"]
+[North "Meckstroth"]
+[East "Mouiel"]
+[South "Rodwell"]
+[Vulnerable "Both"]
+[Deal "S:QT872.Q93.Q3.863 A.8542.J754.K972 KJ653.KJ76.T962. 94.AT.AK8.AQJT54"]
+[Dealer "E"]
+[Auction "E"]
+2NT Pass 3C Pass 
+3D Pass 3NT Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+S7 SA S6 S4 
+C3 CK H7 C4 
+C6 C2 D9 CQ 
+C8 C7 D2 CA 
+S2 C9 D6 CJ 
+S8 H2 DT CT 
+H3 H4 S3 C5 
+D3 D4 S5 DA 
+DQ D5 H6 DK 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+690"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "10"]
+[West "Soloway"]
+[North "Perron"]
+[East "Hamman"]
+[South "Chemla"]
+[Vulnerable "Both"]
+[Deal "S:QT872.Q93.Q3.863 A.8542.J754.K972 KJ653.KJ76.T962. 94.AT.AK8.AQJT54"]
+[Dealer "E"]
+[Auction "E"]
+1C Pass 1H Pass 
+2C Pass 3S Pass 
+4D Pass 4NT Pass 
+6C Pass Pass Pass 
+[Declarer "E"]
+[Contract "6C"]
+[Play "S"]
+S2 SA S3 S4 
+C6 C2 S5 CQ 
+C3 C7 S6 CJ 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+1370"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "11"]
+[West "Multon"]
+[North "Meckstroth"]
+[East "Mouiel"]
+[South "Rodwell"]
+[Vulnerable "None"]
+[Deal "S:9543.JT8752.J6.6 A76.AK6.A87.KQT7 KQ8.Q943.Q94.854 JT2..KT532.AJ932"]
+[Dealer "S"]
+[Auction "S"]
+Pass 2NT Pass 3S 
+Pass 4C Pass 4D 
+Pass 4NT Pass 6C 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "6C"]
+[Play "N"]
+SK S2 S3 SA 
+C4 C2 C6 CQ 
+C5 C3 S5 CK 
+C8 C9 H2 CT 
+H3 ST H5 HA 
+H4 SJ H8 HK 
+D4 D2 D6 DA 
+D9 DT DJ D7 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+920"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "11"]
+[West "Soloway"]
+[North "Perron"]
+[East "Hamman"]
+[South "Chemla"]
+[Vulnerable "None"]
+[Deal "S:9543.JT8752.J6.6 A76.AK6.A87.KQT7 KQ8.Q943.Q94.854 JT2..KT532.AJ932"]
+[Dealer "S"]
+[Auction "S"]
+Pass 2NT Pass 3S 
+Pass 4H Pass 6C 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "6C"]
+[Play "S"]
+S4 SA S8 S2 
+H2 HA H3 ST 
+H5 HK H4 SJ 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+920"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "12"]
+[West "Multon"]
+[North "Meckstroth"]
+[East "Mouiel"]
+[South "Rodwell"]
+[Vulnerable "NS"]
+[Deal "S:732.T86.QT3.QJ52 KJT.KQ92.KJ6.K87 A86.A753.A98.A93 Q954.J4.7542.T64"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass Pass Pass 
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+H3 H4 HT HK 
+S8 S4 S2 SK 
+S6 S5 S3 ST 
+SA S9 S7 SJ 
+C3 C4 CJ CK 
+HA HJ H6 H2 
+CA C6 C2 C7 
+C9 CT CQ C8 
+H5 D2 C5 D6 
+DA D4 D3 DJ 
+*
+[Room "Open"]
+[Result "7"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "12"]
+[West "Soloway"]
+[North "Perron"]
+[East "Hamman"]
+[South "Chemla"]
+[Vulnerable "NS"]
+[Deal "S:732.T86.QT3.QJ52 KJT.KQ92.KJ6.K87 A86.A753.A98.A93 Q954.J4.7542.T64"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass Pass Pass 
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+H3 H4 HT HK 
+S6 S4 S2 SK 
+H5 HJ H6 H2 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-50"]
+

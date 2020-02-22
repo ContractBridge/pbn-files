@@ -1,0 +1,899 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "10th World Bridge Team Olympiad 1996"]
+[Site "Rodos Palace Hotel - Rhodos, Greece, GRC"]
+[Date "1996.11.02"]
+[Round "22"]
+[Board "1"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "EW"]
+[Deal "S:K53.K3.AKJ9.K852 AQJ862.Q642.6.Q7 T94.AJ7.T872.J43 7.T985.Q543.AT96"]
+[Dealer "W"]
+[Auction "W"]
+1S Pass 1NT Pass 
+2S Pass Pass 2NT 
+Pass 3D Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+S7 S3 SJ S9 
+D5 D9 D6 DT 
+D3 DA S6 D2 
+H5 HK H2 H7 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "1"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "EW"]
+[Deal "S:K53.K3.AKJ9.K852 AQJ862.Q642.6.Q7 T94.AJ7.T872.J43 7.T985.Q543.AT96"]
+[Dealer "W"]
+[Auction "W"]
+1S Pass 1NT Pass 
+2H Pass Pass Pass 
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+D8 D3 DJ D6 
+H7 H5 HK H2 
+HJ H8 H3 H4 
+HA H9 C5 H6 
+*
+[Room "Closed"]
+[Result "5"]
+[Score "-300"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "2"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "NS"]
+[Deal "S:J65.Q7.A764.A762 AKQ4.K8.J983.K94 T87.T52.KQT.QJT5 932.AJ9643.52.83"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 2D 
+Pass 2H Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+CQ C3 CA C4 
+S7 S2 S5 SA 
+H2 H3 H7 HK 
+H5 HJ HQ H8 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "2"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "NS"]
+[Deal "S:J65.Q7.A764.A762 AKQ4.K8.J983.K94 T87.T52.KQT.QJT5 932.AJ9643.52.83"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 2D 
+Pass 2H Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+CQ C3 CA C4 
+S7 S2 S5 SK 
+H5 H3 H7 HK 
+HT HA HQ H8 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "3"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "None"]
+[Deal "S:K3.KT98.AK96.JT8 92.AJ42.QT84.963 AT754.Q76.J5.KQ2 QJ86.53.732.A754"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+D4 D5 D7 D9 
+H2 HQ H3 HT 
+HJ H6 H5 H9 
+C6 CK C4 C8 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "3"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "None"]
+[Deal "S:K3.KT98.AK96.JT8 92.AJ42.QT84.963 AT754.Q76.J5.KQ2 QJ86.53.732.A754"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 2C 
+Pass 2H Pass 3NT 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+S9 ST SJ SK 
+H2 H6 H3 HT 
+H4 H7 H5 H9 
+HA HQ C5 H8 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "4"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "Both"]
+[Deal "S:54.J643.T2.A9763 KJT72.KT72.4.JT4 Q983.98.AKQ.KQ52 A6.AQ5.J987653.8"]
+[Dealer "N"]
+[Auction "N"]
+1NT Pass Pass 2D 
+Pass 3H Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3H"]
+[Play "S"]
+DT D4 DQ D3 
+H3 H2 H8 HA 
+D2 C4 DK DJ 
+C3 CT CK C8 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "4"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "Both"]
+[Deal "S:54.J643.T2.A9763 KJT72.KT72.4.JT4 Q983.98.AKQ.KQ52 A6.AQ5.J987653.8"]
+[Dealer "N"]
+[Auction "N"]
+1NT 3D Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3D"]
+[Play "S"]
+S5 SJ S3 S6 
+D2 D4 DQ D3 
+S4 S2 S8 SA 
+H6 HK H9 H5 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "5"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "NS"]
+[Deal "S:7.AJ6543.K65.A92 K984.T97.AQ973.8 AT62.Q82.T84.JT7 QJ53.K.J2.KQ6543"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1C 1H 
+X 2H 2S 4H 
+4S X Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4SX"]
+[Play "S"]
+HA H7 H2 HK 
+H3 H9 HQ S3 
+DK DA D4 DJ 
+CA C8 C7 CQ 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "5"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "NS"]
+[Deal "S:7.AJ6543.K65.A92 K984.T97.AQ973.8 AT62.Q82.T84.JT7 QJ53.K.J2.KQ6543"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 3C 3H 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+C8 CJ CQ CA 
+S4 SA S3 S7 
+H9 H2 HK HA 
+H7 H8 C3 H3 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "6"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "None"]
+[Deal "S:AKQ87.T42.J852.5 .AQ983.T64.KT982 JT54.K6.AQ93.A76 9632.J75.K7.QJ43"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1D Pass 
+2S X 4S Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+CT CA C3 C5 
+H9 S4 S2 SK 
+D6 DQ DK D5 
+C9 C6 CQ S8 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "6"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "None"]
+[Deal "S:AKQ87.T42.J852.5 .AQ983.T64.KT982 JT54.K6.AQ93.A76 9632.J75.K7.QJ43"]
+[Dealer "S"]
+[Auction "S"]
+Pass 2H X Pass 
+3H Pass 3S Pass 
+4S Pass Pass Pass 
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+H5 H2 HA H6 
+H7 H4 H3 HK 
+S2 SK H8 S5 
+HJ HT H9 SJ 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "7"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "Both"]
+[Deal "S:KT5.9765.Q64.Q96 97.842.KT92.KT43 J86.KT3.AJ8.AJ85 AQ432.AQJ.753.72"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 1NT Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+C5 C2 CQ CK 
+H3 HJ H5 H2 
+DJ D3 D4 DT 
+CJ C7 C9 C4 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "7"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "Both"]
+[Deal "S:KT5.9765.Q64.Q96 97.842.KT92.KT43 J86.KT3.AJ8.AJ85 AQ432.AQJ.753.72"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 1NT Pass 
+2D Pass 2S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+H7 H2 HK HA 
+C6 CK CA C7 
+H5 H4 HT HQ 
+D4 DK DA D5 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "8"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "EW"]
+[Deal "S:KQ6.T642.762.642 7532.Q873.Q4.AT3 8.A5.KT9853.K987 AJT94.KJ9.AJ.QJ5"]
+[Dealer "N"]
+[Auction "N"]
+1D 1S Pass 2S 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+H2 H3 HA H9 
+H4 H7 H5 HK 
+S6 S2 S8 SA 
+SQ S3 D3 SJ 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "8"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "EW"]
+[Deal "S:KQ6.T642.762.642 7532.Q873.Q4.AT3 8.A5.KT9853.K987 AJT94.KJ9.AJ.QJ5"]
+[Dealer "N"]
+[Auction "N"]
+1D 1S Pass 2S 
+Pass 3C Pass 3H 
+Pass 3NT Pass 4S 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+D2 D4 DT DJ 
+D6 DQ D3 DA 
+C2 C3 CK CQ 
+C4 CT C9 C5 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "9"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "None"]
+[Deal "S:Q86.QT95.A3.Q874 52.83.Q8752.AKT9 AK73.642.JT4.652 JT94.AKJ7.K96.J3"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1H Pass 
+1NT Pass Pass Pass 
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+S3 SJ S6 S5 
+D4 D9 D3 DQ 
+DT D6 DA D5 
+SK S4 S8 S2 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+210"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "9"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "None"]
+[Deal "S:Q86.QT95.A3.Q874 52.83.Q8752.AKT9 AK73.642.JT4.652 JT94.AKJ7.K96.J3"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1D Pass 
+3D Pass Pass Pass 
+[Declarer "E"]
+[Contract "3D"]
+[Play "S"]
+HT H3 H2 HJ 
+H5 H8 H4 HK 
+H9 S2 H6 HA 
+HQ S5 S7 H7 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+130"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "10"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "Both"]
+[Deal "S:987642.AJ7.43.64 KQJT3.984.J2.KJT 5.KQ3.KT865.Q532 A.T652.AQ97.A987"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 1D 
+Pass 1S Pass 2C 
+Pass 3S Pass 3NT 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+HJ H4 HQ H2 
+HA H8 HK H6 
+H7 H9 H3 H5 
+S2 S3 S5 SA 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+660"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "10"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "Both"]
+[Deal "S:987642.AJ7.43.64 KQJT3.984.J2.KJT 5.KQ3.KT865.Q532 A.T652.AQ97.A987"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 1D 
+Pass 1S Pass 1NT 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+C6 CT CQ CA 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "11"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "EW"]
+[Deal "S:J42.A54.K8543.52 KT873.96.AQT6.K4 Q96.KJT7.J.AQJ73 A5.Q832.972.T986"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1S 2C 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "2C"]
+[Play "E"]
+D2 D3 DQ DJ 
+SA S2 S3 S9 
+S5 S4 SK SQ 
+C6 SJ S7 S6 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "11"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "EW"]
+[Deal "S:J42.A54.K8543.52 KT873.96.AQT6.K4 Q96.KJT7.J.AQJ73 A5.Q832.972.T986"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1S 2C 
+X Pass 2D Pass 
+2S Pass Pass Pass 
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+HJ HQ HA H6 
+CJ C6 C5 C4 
+HK H2 H5 H9 
+CA C8 C2 CK 
+*
+[Room "Closed"]
+[Result "4"]
+[Score "-400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "12"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "NS"]
+[Deal "S:AQJ.AT654.T42.Q2 832.J92.Q98.8753 KT954.83.A763.K9 76.KQ7.KJ5.AJT64"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C 1H Pass 
+1S Pass 2S Pass 
+4S Pass Pass Pass 
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+S6 SQ S3 S5 
+H7 H4 H9 H3 
+C6 C2 C8 CK 
+HK HA H2 H8 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "12"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "NS"]
+[Deal "S:AQJ.AT654.T42.Q2 832.J92.Q98.8753 KT954.83.A763.K9 76.KQ7.KJ5.AJT64"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+H4 HJ H8 H7 
+C2 C3 C9 CA 
+CQ C7 CK CT 
+HA H2 H3 HQ 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "13"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "Both"]
+[Deal "S:K9753.AQ5.9.K985 AQ62.84.AKJ86.62 J8.J92.Q52.AQT43 T4.KT763.T743.J7"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1H 1S 
+Pass 1NT Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+D3 D9 DK D5 
+D4 S3 D6 DQ 
+HK HA H4 HJ 
+C7 C5 C2 CA 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "13"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "Both"]
+[Deal "S:K9753.AQ5.9.K985 AQ62.84.AKJ86.62 J8.J92.Q52.AQT43 T4.KT763.T743.J7"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1H 1S 
+1NT Pass 2D Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "2D"]
+[Play "N"]
+SJ S4 S3 SQ 
+D2 D3 D9 DK 
+S8 ST S5 SA 
+C3 D4 S7 S2 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "14"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "EW"]
+[Deal "S:Q9.KQJ72.974.Q94 JT862.T83.KQT5.2 K53.964.J8.AT865 A74.A5.A632.KJ73"]
+[Dealer "S"]
+[Auction "S"]
+1NT Pass Pass X 
+2H 2S Pass 3S 
+Pass 4S Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+H4 H5 HJ H3 
+D8 D2 D4 DK 
+CA C3 C4 C2 
+DJ DA D7 D5 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "14"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "EW"]
+[Deal "S:Q9.KQJ72.974.Q94 JT862.T83.KQT5.2 K53.964.J8.AT865 A74.A5.A632.KJ73"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 1NT 
+Pass 2H Pass 2S 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+HK H3 H4 H5 
+HJ H8 H6 HA 
+D4 DK DJ D3 
+HQ HT H9 S7 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "15"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "NS"]
+[Deal "S:9865.98762.85.K8 KQT.5.K9643.A954 732.AQ4.AJ2.T732 AJ4.KJT3.QT7.QJ6"]
+[Dealer "E"]
+[Auction "E"]
+1C Pass 1D Pass 
+1NT Pass 2D Pass 
+2NT Pass 3C Pass 
+3D Pass 3S Pass 
+3NT Pass Pass Pass 
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+H9 H5 HA H3 
+H6 D3 HQ HK 
+D5 DK DA D7 
+H2 ST H4 HJ 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "15"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "NS"]
+[Deal "S:9865.98762.85.K8 KQT.5.K9643.A954 732.AQ4.AJ2.T732 AJ4.KJT3.QT7.QJ6"]
+[Dealer "E"]
+[Auction "E"]
+1C Pass 1D Pass 
+1NT Pass 2C Pass 
+2H Pass 3C Pass 
+3NT Pass Pass Pass 
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+S9 SK S7 S4 
+D8 D3 D2 DQ 
+D5 DK DA DT 
+H9 H5 HQ HK 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "16"]
+[West "Scanavino"]
+[North "Ino"]
+[East "Lucena"]
+[South "Imakura"]
+[Vulnerable "None"]
+[Deal "S:K972.QJ.QT4.T976 Q643.K7.K985.Q83 AT5.AT8652..AKJ5 J8.943.AJ7632.42"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 1NT Pass 
+2C Pass 2H Pass 
+4H Pass Pass Pass 
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+DA D4 D5 H2 
+S8 SK S3 S5 
+H3 HJ HK HA 
+H4 HQ H7 H6 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+480"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "22"]
+[Board "16"]
+[West "Hanayama"]
+[North "Fornasari"]
+[East "Hirata"]
+[South "Palazzo"]
+[Vulnerable "None"]
+[Deal "S:K972.QJ.QT4.T976 Q643.K7.K985.Q83 AT5.AT8652..AKJ5 J8.943.AJ7632.42"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 1NT Pass 
+3C Pass 3NT Pass 
+4H Pass Pass Pass 
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+SJ S2 S3 SA 
+H4 HJ HK H2 
+C4 C6 C3 CA 
+H3 HQ H7 H5 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+420"]
+

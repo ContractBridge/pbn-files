@@ -1,0 +1,903 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "10th World Bridge Team Olympiad 1996"]
+[Site "Rodos Palace Hotel - Rhodos, Greece, GRC"]
+[Date "1996.11.02"]
+[Round "28"]
+[Board "1"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "EW"]
+[Deal "S:8.AKJ9873.K64.T2 JT6542.5.AJ9.Q83 A97.Q62.T32.J964 KQ3.T4.Q875.AK75"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1NT Pass 
+2H Pass 2S Pass 
+3D Pass 4S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+HA H5 H2 H4 
+D6 D9 DT DQ 
+S8 SJ SA S3 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "1"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "EW"]
+[Deal "S:8.AKJ9873.K64.T2 JT6542.5.AJ9.Q83 A97.Q62.T32.J964 KQ3.T4.Q875.AK75"]
+[Dealer "W"]
+[Auction "W"]
+2D Pass 2H 3H 
+Pass 4C Pass 4H 
+Pass 6C X 6H 
+Pass Pass X Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "6HX"]
+[Play "W"]
+DA D2 D5 D4 
+C3 C4 CK C2 
+C8 C6 CA CT 
+D9 D3 D7 DK 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "2"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "NS"]
+[Deal "S:K987.Q853.82.A42 AQ642.J.76.KJ765 J5.K42.K953.QT98 T3.AT976.AQJT4.3"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1S Pass 2D 
+Pass 2H Pass 3D 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+CT C3 CA C5 
+C8 H6 C4 CK 
+D3 DQ D2 D7 
+S5 S3 S7 SQ 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "2"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "NS"]
+[Deal "S:K987.Q853.82.A42 AQ642.J.76.KJ765 J5.K42.K953.QT98 T3.AT976.AQJT4.3"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1S Pass 2H 
+Pass 2S Pass 3D 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+C9 C3 CA C5 
+CQ H6 C4 CJ 
+C8 H7 C2 C7 
+CT - - - 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "3"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "None"]
+[Deal "S:T63.J.KQJ86432.3 AQ874.A85.95.KQT J95.QT96432..J64 K2.K7.AT7.A98752"]
+[Dealer "E"]
+[Auction "E"]
+1NT 3D 3S Pass 
+3NT Pass Pass Pass 
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+DK D5 H6 DA 
+C3 CK C4 C2 
+D2 CQ C6 C5 
+D3 CT CJ CA 
+*
+[Room "Open"]
+[Result "13"]
+[Score "+520"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "3"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "None"]
+[Deal "S:T63.J.KQJ86432.3 AQ874.A85.95.KQT J95.QT96432..J64 K2.K7.AT7.A98752"]
+[Dealer "E"]
+[Auction "E"]
+1C Pass 1S Pass 
+2C 3D 4C Pass 
+4D Pass 4H Pass 
+4S Pass 4NT Pass 
+5NT Pass 7C Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "7C"]
+[Play "S"]
+DQ D5 C6 D7 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "4"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "Both"]
+[Deal "S:5.AT54.AQ96.J765 KQ632.J73.K53.A8 874.Q986.T8.KQT2 AJT9.K2.J742.943"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1D 1S 
+X 3S Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "3S"]
+[Play "N"]
+S4 S9 S5 S2 
+S7 ST H4 SQ 
+S8 SA H5 S3 
+DT D2 D6 D3 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "4"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "Both"]
+[Deal "S:5.AT54.AQ96.J765 KQ632.J73.K53.A8 874.Q986.T8.KQT2 AJT9.K2.J742.943"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1D 1S 
+X 3S Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "3S"]
+[Play "N"]
+S4 S9 S5 S2 
+S7 ST H5 S3 
+S8 SA H4 S6 
+D8 D2 DA D3 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "5"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "NS"]
+[Deal "S:85.JT7.T83.AQJ63 4.AQ65.KQ9742.92 QJT73.K984.A6.85 AK962.32.J5.KT74"]
+[Dealer "W"]
+[Auction "W"]
+2C Pass 2S Pass 
+3D Pass 3NT Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+HJ HQ HK H2 
+HT HA H4 H3 
+D3 D2 D6 DJ 
+D8 DK DA D5 
+*
+[Room "Open"]
+[Result "5"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "5"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "NS"]
+[Deal "S:85.JT7.T83.AQJ63 4.AQ65.KQ9742.92 QJT73.K984.A6.85 AK962.32.J5.KT74"]
+[Dealer "W"]
+[Auction "W"]
+1D 1S Pass Pass 
+X Pass Pass Pass 
+[Declarer "N"]
+[Contract "1SX"]
+[Play "E"]
+DJ D3 D2 DA 
+C4 CJ C2 C5 
+H2 HJ H5 H4 
+H3 HT HA H8 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "+160"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "6"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "None"]
+[Deal "S:T642.876542..QJ2 J9.A.AQJT7542.K6 AQ83.KQT3.K6.874 K75.J9.983.AT953"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 1H 
+Pass 2D Pass 2S 
+Pass 5D Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "5D"]
+[Play "N"]
+HK H9 H2 HA 
+D6 D3 H4 DA 
+DK D8 H5 D2 
+HQ HJ H6 DT 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "6"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "None"]
+[Deal "S:T642.876542..QJ2 J9.A.AQJT7542.K6 AQ83.KQT3.K6.874 K75.J9.983.AT953"]
+[Dealer "S"]
+[Auction "S"]
+2D X 2NT X 
+3C 5D Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "5D"]
+[Play "N"]
+HK H9 H2 HA 
+D6 D3 H4 DA 
+DK D8 H5 DQ 
+HQ HJ H6 D2 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "7"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "Both"]
+[Deal "S:AT.A32.QT964.AT4 K.T9854.7532.K98 873.KQJ7.KJ.J532 QJ96542.6.A8.Q76"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT Pass 2C 
+2S Pass Pass 3S 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+SK S3 S2 ST 
+H5 HK H6 H2 
+D2 DK DA D4 
+C8 S7 SQ SA 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "7"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "Both"]
+[Deal "S:AT.A32.QT964.AT4 K.T9854.7532.K98 873.KQJ7.KJ.J532 QJ96542.6.A8.Q76"]
+[Dealer "E"]
+[Auction "E"]
+3S 3NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+SK S3 S2 ST 
+HT HJ H6 H2 
+D2 DK DA D4 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "8"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "EW"]
+[Deal "S:2.862.765.KT8654 A975.QJT7.AK832. QJT643.K4.9.J973 K8.A953.QJT4.AQ2"]
+[Dealer "N"]
+[Auction "N"]
+2S X Pass 3S 
+Pass 3NT Pass 4D 
+Pass 4H Pass 5H 
+Pass 6H Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "6H"]
+[Play "S"]
+S2 SA S3 S8 
+H2 HQ H4 H3 
+H6 HJ HK HA 
+*
+[Room "Open"]
+[Result "13"]
+[Score "+1460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "8"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "EW"]
+[Deal "S:2.862.765.KT8654 A975.QJT7.AK832. QJT643.K4.9.J973 K8.A953.QJT4.AQ2"]
+[Dealer "N"]
+[Auction "N"]
+2S X Pass 2NT 
+Pass 3C Pass 3H 
+Pass 4H Pass 7H 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "7H"]
+[Play "N"]
+SQ S8 S2 SA 
+H4 H3 H2 HQ 
+HK HA H6 HJ 
+*
+[Room "Closed"]
+[Result "13"]
+[Score "+2210"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "9"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "None"]
+[Deal "S:QJT64.KJ98.AJ6.Q K985.Q7543.9.K32 A.T2.T732.AJ9864 732.A6.KQ854.T75"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1S 
+Pass 1NT Pass 2H 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "2H"]
+[Play "W"]
+H4 H2 HA H8 
+HQ HT H6 H9 
+S5 SA S7 S4 
+CK C4 C7 CQ 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "9"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "None"]
+[Deal "S:QJT64.KJ98.AJ6.Q K985.Q7543.9.K32 A.T2.T732.AJ9864 732.A6.KQ854.T75"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1D 1NT 
+Pass 2C Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "2C"]
+[Play "E"]
+H6 HK H7 H2 
+C5 CQ C2 C4 
+S2 S4 S5 SA 
+- - - CA 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "10"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "Both"]
+[Deal "S:76542.98.KQ2.QT7 Q3.J63.A874.A942 A.AQT.J9653.K653 KJT98.K7542.T.J8"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D Pass 1S 
+Pass 1NT Pass 2D 
+Pass 2H Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+D5 DT DQ DA 
+SA S8 S2 S3 
+DJ H2 D2 D4 
+HT SK S4 SQ 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "10"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "Both"]
+[Deal "S:76542.98.KQ2.QT7 Q3.J63.A874.A942 A.AQT.J9653.K653 KJT98.K7542.T.J8"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1D 1S 
+Pass 1NT X 2H 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "2H"]
+[Play "S"]
+DK DA D3 DT 
+H8 H3 HT HK 
+H9 H6 HQ H2 
+S2 HJ HA H4 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "11"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "EW"]
+[Deal "S:AK3.5.A9876.T652 9862.KJ642.Q4.Q3 JT.AQ983.32.AJ97 Q754.T7.KJT5.K84"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D Pass 1H 
+Pass 2C Pass 2S 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+H4 HQ H7 H5 
+DQ D2 D5 D8 
+H2 HA HT C2 
+D4 D3 DT DA 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "11"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "EW"]
+[Deal "S:AK3.5.A9876.T652 9862.KJ642.Q4.Q3 JT.AQ983.32.AJ97 Q754.T7.KJT5.K84"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D Pass 1NT 
+Pass 2D Pass 2NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "2NT"]
+[Play "E"]
+S4 S3 S2 SJ 
+S5 SK S6 ST 
+CK C2 C3 CJ 
+S7 SA S8 - 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "12"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "NS"]
+[Deal "S:K932.2.32.AKQ943 AJT86.AQT85.K4.5 Q4.K64.QT6.JT862 75.J973.AJ9875.7"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1C 1S 
+2C 2D 3C 3H 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+CJ C7 CQ C5 
+HK H3 H2 HT 
+H4 H7 C3 H5 
+SQ S5 S3 SJ 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "12"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "NS"]
+[Deal "S:K932.2.32.AKQ943 AJT86.AQT85.K4.5 Q4.K64.QT6.JT862 75.J973.AJ9875.7"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1D 2D 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "2D"]
+[Play "N"]
+D6 D7 D2 D4 
+DT D5 D3 DK 
+C6 C7 CQ C5 
+SQ S5 S3 SJ 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+130"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "13"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "Both"]
+[Deal "S:AJ965.T7654.93.7 KT82.Q2.KT8.9853 Q73.AJ8.J74.AQ64 4.K93.AQ652.KJT2"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1C 1D 1S 
+2D X Pass 2H 
+Pass 2S 3D 3S 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3S"]
+[Play "W"]
+D8 D4 DQ D9 
+DK D7 D2 D3 
+DT DJ DA S5 
+H2 H8 H3 HT 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "13"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "Both"]
+[Deal "S:AJ965.T7654.93.7 KT82.Q2.KT8.9853 Q73.AJ8.J74.AQ64 4.K93.AQ652.KJT2"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D Pass 2C 
+Pass 2S Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+CJ C7 C3 CQ 
+C2 D3 C5 CA 
+S4 SA S2 S3 
+H9 H4 H2 H8 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "14"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "EW"]
+[Deal "S:KQJ.KQJ6.AK3.632 96.A972.962.AJ98 T875432.85.QT.75 A.T43.J8754.KQT4"]
+[Dealer "S"]
+[Auction "S"]
+1NT Pass 2H Pass 
+2NT Pass 3S Pass 
+4S Pass Pass Pass 
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+CK C2 C8 C5 
+SA SJ S6 S5 
+C4 C3 CA C7 
+CT C6 C9 S2 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "14"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "EW"]
+[Deal "S:KQJ.KQJ6.AK3.632 96.A972.962.AJ98 T875432.85.QT.75 A.T43.J8754.KQT4"]
+[Dealer "S"]
+[Auction "S"]
+1C Pass 1D Pass 
+1H Pass 2S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+CK C2 C8 C5 
+C4 C3 CA C7 
+CT C6 CJ S2 
+D4 D3 D2 DQ 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "15"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "NS"]
+[Deal "S:874.A98.T93.Q975 AKQ6.T64.754.JT2 JT52.Q73.KQ862.8 93.KJ52.AJ.AK643"]
+[Dealer "E"]
+[Auction "E"]
+2C Pass 2S Pass 
+2NT Pass 3C Pass 
+3NT Pass Pass Pass 
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+S7 S6 ST S3 
+DT D4 DK DA 
+S4 SQ S2 S9 
+CQ CJ C8 C3 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "15"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "NS"]
+[Deal "S:874.A98.T93.Q975 AKQ6.T64.754.JT2 JT52.Q73.KQ862.8 93.KJ52.AJ.AK643"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 3NT Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+H8 H4 H3 HJ 
+S4 SA S2 S3 
+CQ CJ C8 C3 
+HA H6 H7 H2 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "16"]
+[West "Fallenius"]
+[North "Przybora"]
+[East "Nilsland"]
+[South "Gardynik"]
+[Vulnerable "None"]
+[Deal "S:97.AQ987.K86.843 AKJ.KT2.A9.KJT95 5432.54.QJT43.A7 QT86.J63.752.Q62"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1H X 
+Pass 1S Pass 1NT 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+DQ D2 D6 D9 
+DJ D5 DK DA 
+CA C2 C3 CJ 
+DT D7 D8 C5 
+*
+[Room "Open"]
+[Result "7"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "28"]
+[Board "16"]
+[West "Szymanowski"]
+[North "Lindberg"]
+[East "Martens"]
+[South "Lindkvist"]
+[Vulnerable "None"]
+[Deal "S:97.AQ987.K86.843 AKJ.KT2.A9.KJT95 5432.54.QJT43.A7 QT86.J63.752.Q62"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 1C 
+1D Pass 1H 1NT 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+DQ D2 D6 DA 
+CA C2 C3 CK 
+DT D5 DK D9 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "+90"]
+

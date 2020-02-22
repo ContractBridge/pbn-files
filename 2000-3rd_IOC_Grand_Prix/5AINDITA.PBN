@@ -1,0 +1,987 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "3rd IOC Grand Prix"]
+[Site "Lausanne, Switzerland, CHE"]
+[Date "2000.10.30"]
+[Round "5a"]
+[Board "1"]
+[Room "Open"]
+[West "Giorgio Duboin"]
+[North "Eddy Manoppo"]
+[East "N. Bocchi"]
+[South "Henky Lasut"]
+[Dealer "N"]
+[Deal "S:K987.KT73.K543.8 AJT65.64.8.KJT43 2.AQ985.Q76.Q975 Q43.J2.AJT92.A62"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "W"]
+{
+OR - The Italians use a 9-12 HCP 1NT opening in 1st or 2nd position
+non-vulnerable, and Duboin's 2H was a transfer, showing 5+ spades.
+When Manoppo doubled showing good hearts, Bocchi redoubled to
+show a maximum with a spade fit. Lasut competed with 3H, and
+Duboin took a shot at 4S. Manoppo made the dangerous lead of
+a low club, but luckily for him Lasut's singleton was the eight,
+so it cost nothing. With Lasut's spades worth a trick, 4S went
+one down quietly. +50 NS.
+}
+[Auction "N"]
+Pass 1NT Pass 2H 
+X XX 3H 4S 
+Pass Pass Pass  
+[Play "N"]
+C5 C2 C8 CJ 
+D7 DA D5 D8 
+S2 SQ SK SA 
+H8 S3 S7 SJ 
+H5 S4 S8 ST 
+C7 CA S9 C3 
+HQ H2 H3 H4 
+HA HJ H7 H6 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "1"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Dano DeFalco"]
+[East "Denny Sacul"]
+[South "Guido Ferraro"]
+[Dealer "N"]
+[Deal "S:K987.KT73.K543.8 AJT65.64.8.KJT43 2.AQ985.Q76.Q975 Q43.J2.AJT92.A62"]
+[Vulnerable "None"]
+[Contract "4C"]
+[Declarer "W"]
+{
+CR - 1D was natural with 12-17, or 12-14 balanced. When de Falco
+bid 2H, Sacul couldn't show a three-card spade raise (2S would
+have shown four), so he passed. 3D was a good raise to 3H, and
+though de Falco was maximum in high cards, his soft values in
+the minor suits turned him off. Had Karwur doubled in the pass-out
+seat (take-out), EW would have gone +140, but afraid of hearing
+4D, he bid 4C instead - and was left to play there. After a successful
+spade finesse Karwur played clubs from the top and finished two
+down. +100 NS; 2 Italian IMPs.
+}
+[Auction "N"]
+Pass 1D Pass 1S 
+2H Pass 3D Pass 
+3H Pass Pass 4C 
+Pass Pass Pass  
+[Play "N"]
+HA H2 H7 H4 
+HQ HJ H3 H6 
+D6 DA D4 D8 
+S2 S3 S7 SJ 
+C5 C2 C8 CK 
+C7 CA HT C3 
+C9 SQ SK SA 
+CQ C6 D3 C4 
+H9 D2 HK CJ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "2"]
+[Room "Open"]
+[West "Giorgio Duboin"]
+[North "Eddy Manoppo"]
+[East "N. Bocchi"]
+[South "Henky Lasut"]
+[Dealer "E"]
+[Deal "S:J98.AT7.T96.A653 AQ53.Q98543.J8.2 642.K62.K43.KQ97 KT7.J.AQ752.JT84"]
+[Vulnerable "NS"]
+[Contract "2H"]
+[Declarer "W"]
+{
+OR - East opened light, as most European top players nowadays
+do. The 1S response showed hearts (1H would have shown spades),
+and the rest of the auction was natural. 2H was a sensible contract.
+Declarer played in straightforward fashion, throwing a diamond
+on the third round of clubs in order to maintain trump control
+if hearts broke 4-2. Thus he held himself to eight tricks, +110
+to EW.
+}
+[Auction "E"]
+1D Pass 1S Pass 
+2C Pass 2H Pass 
+Pass Pass   
+[Play "N"]
+CK C4 C6 C2 
+C7 CT CA H3 
+H2 HJ HA H4 
+CQ C8 C3 D8 
+D4 DA D6 DJ 
+S4 S7 S8 SA 
+HK D2 H7 HQ 
+S6 ST SJ SQ 
+H6 D5 HT H9 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "2"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Dano DeFalco"]
+[East "Denny Sacul"]
+[South "Guido Ferraro"]
+[Dealer "E"]
+[Deal "S:J98.AT7.T96.A653 AQ53.Q98543.J8.2 642.K62.K43.KQ97 KT7.J.AQ752.JT84"]
+[Vulnerable "NS"]
+[Contract "2H"]
+[Declarer "W"]
+{
+CR - The bidding and play was virtually the same as in the open
+room. Note the same diamond pitch on the third round of clubs.
+Declarer's play of leading the queen of hearts out of hand was
+an attempt to pin the ten of heart, the only chance to lose two
+trump tricks only. +110 to EW; no swing.
+}
+[Auction "E"]
+1D Pass 1H Pass 
+2C Pass 2H Pass 
+Pass Pass   
+[Play "N"]
+CQ C4 C3 C2 
+C7 CJ CA H3 
+H2 HJ HA H4 
+CK C8 C6 D8 
+D3 DA D6 DJ 
+S2 S7 S8 SA 
+HK D2 H7 HQ 
+S4 ST SJ SQ 
+H6 D5 HT H9 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "3"]
+[Room "Open"]
+[West "Giorgio Duboin"]
+[North "Eddy Manoppo"]
+[East "N. Bocchi"]
+[South "Henky Lasut"]
+[Dealer "S"]
+[Deal "S:65.T98642.T4.K83 JT8.KJ.KQ973.A62 AQ972.AQ5.A865.T K43.73.J2.QJ9754"]
+[Vulnerable "EW"]
+[Contract "1S"]
+[Declarer "N"]
+{
+OR - Manoppo's 1S overcall of Duboin's 1 club bid ended the auction.
+Bocchi couldn't bid 2C, as that showed a transfer advance with
+five plus diamonds and nine plus points. Bocchi had the transfer
+advance he couldn't use, and Lasut wasn't playing transfer advances,
+so he couldn't bid 2D to show his hearts. The CJ held the first
+trick, and declarer ruffed the continuation to play ace and a
+diamond. West won and played a spade, which was taken by the
+SA. The S6 held up nicely for the diamond ruff, and declarer
+had 7 tricks. Plus 80.
+}
+[Auction "S"]
+Pass 1C 1S Pass 
+Pass Pass   
+[Play "E"]
+CJ C3 C2 CT 
+CQ C8 C6 S2 
+D2 D4 D3 DA 
+DJ DT DQ D5 
+S3 S5 S8 SA 
+H3 S6 D7 D6 
+H7 HT HK HA 
+S4 H2 HJ HQ 
+C4 CK CA S7 
+C5 H4 SJ H5 
+C7 H6 DK D8 
+SK H8 D9 S9 
+C9 H9 ST SQ 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "3"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Dano DeFalco"]
+[East "Denny Sacul"]
+[South "Guido Ferraro"]
+[Dealer "S"]
+[Deal "S:65.T98642.T4.K83 JT8.KJ.KQ973.A62 AQ972.AQ5.A865.T K43.73.J2.QJ9754"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "S"]
+{
+CR - On a similar auction, Karwur re-opened with 2D over 1S.
+An aggressive stance to be sure. DeFalco doubled this (typically
+a 6313 type), and when Ferraro bid 2H, and 3H over Sacul's 3C
+bid, DeFalco reconsidered and gave game a shot. The DK was taken
+by dummy's ace, and declarer played the C10,J,K,A. The DQ was
+cashed, and a club was ruffed on dummy. Declarer ruffed a diamond
+to hand and took the losing spade finesse. The CQ forced the
+HQ, promoting a trump trick in the West hand, and declarer was
+down one. Plus 50, and 4 IMPs to Indonesia.
+}
+[Auction "S"]
+Pass 1D 1S Pass 
+Pass 2D X Pass 
+2H Pass Pass 3C 
+3H Pass 4H Pass 
+Pass Pass   
+[Play "W"]
+DK DA D2 D4 
+CA CT CJ CK 
+DQ D5 DJ DT 
+C6 H5 C4 C3 
+D3 D6 S4 H2 
+S8 SQ SK S5 
+C2 HQ CQ C8 
+HJ HA H3 H4 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "4"]
+[Room "Open"]
+[West "Giorgio Duboin"]
+[North "Eddy Manoppo"]
+[East "N. Bocchi"]
+[South "Henky Lasut"]
+[Dealer "W"]
+[Deal "S:K5.Q5.QJT953.532 AT7.64.AK7.AKQ84 98642.A832.82.J7 QJ3.KJT97.64.T96"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "W"]
+{
+OR - Duboin's 2D was either a weak two-bid in a major, or 20-22
+balanced. 2S was to play opposite the weak spade hand, and when
+Duboin showed the strong variety, Bocchi showed his heart suit
+with a transfer bid. Over 3H, it looks normal to bid 3NT and
+let West choose between 3NT and 4H, but Bocchi bid 4H instead,
+expecting his good suit to be playable even on a 5-2 fit. On
+a bad day, it would have failed (when 3NT makes), but with the
+SK onside and hearts 4-2, 4H made with an overtrick. +650 EW.
+}
+[Auction "W"]
+2D Pass 2S Pass 
+2NT Pass 3D Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Play "N"]
+D8 D4 DQ DA 
+H3 H9 HQ H4 
+D2 D6 DJ DK 
+H2 HK H5 H6 
+HA HJ D5 S7 
+S2 SQ S5 ST 
+H8 HT D3 D7 
+C7 C6 C2 CA 
+CJ C9 C3 CK 
+- - - CQ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "4"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Dano DeFalco"]
+[East "Denny Sacul"]
+[South "Guido Ferraro"]
+[Dealer "W"]
+[Deal "S:K5.Q5.QJT953.532 AT7.64.AK7.AKQ84 98642.A832.82.J7 QJ3.KJT97.64.T96"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+CR - 1C was strong (16+ balanced or 18+ unbalanced) and 1D was
+0-7. Ferraro slipped in a 2D overcall and Karwur rebid a strong,
+natural 2NT. Sacul transferred to hearts and rebid 3NT, which
+Karwur of course passed. He ducked the opening diamond lead,
+dropped the doubleton CJ to reach dummy with a club to the 10,
+finessed in spades and led a heart to the king. +660. No problems,
+no swing.
+}
+[Auction "W"]
+1C Pass 1D 2D 
+2NT Pass 3D Pass 
+3H Pass 3NT Pass 
+Pass Pass   
+[Play "N"]
+D8 D4 D9 D7 
+D2 D6 DQ DA 
+C7 C6 C2 CA 
+CJ C9 C3 CK 
+S4 CT C5 C4 
+S2 SQ SK SA 
+H2 HK H5 H6 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "5"]
+[Room "Open"]
+[West "Giorgio Duboin"]
+[North "Eddy Manoppo"]
+[East "N. Bocchi"]
+[South "Henky Lasut"]
+[Dealer "N"]
+[Deal "S:6.QJT.QJ94.KQJ75 A532.98632.76.T8 K874.K7.AK5.9432 QJT9.A54.T832.A6"]
+[Vulnerable "NS"]
+[Contract "4C"]
+[Declarer "S"]
+{
+OR - Playing a strong club and five-card majors, North opened
+a catch-all 1D. Bocchi got active when he threw in a non-vulnerable
+overcall on his 'solid' four-card suit. This enabled Duboin to
+crowd the auction with a preemptive 3S raise. Lasut-Manoppo coped
+incredibly well with this interference. North found a remarkable
+raise, bypassing 3NT, and South judged well not to bid 5C because
+of his lack of aces. 4C was the last contract NS could make.
+An excellent +130 to NS.
+}
+[Auction "N"]
+1D 1S 2C 3S 
+4C Pass Pass Pass 
+[Play "W"]
+SA S4 ST S6 
+H8 HK HA HJ 
+H2 H7 H5 HQ 
+C8 C2 CA CK 
+CT C3 C6 CQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "5"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Dano DeFalco"]
+[East "Denny Sacul"]
+[South "Guido Ferraro"]
+[Dealer "N"]
+[Deal "S:6.QJT.QJ94.KQJ75 A532.98632.76.T8 K874.K7.AK5.9432 QJT9.A54.T832.A6"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+CR - De Falco-Ferraro play a strong club system with four-card
+majors, and North's 1S opening effectively shut out EW. Most
+of the time, an opening spade bid would inhibit a spade lead
+against 3NT. Alas, with this specific spade holding, East was
+not hard pressed to find the killing spade queen lead. The defense
+took three spades and two aces for one down. +100 to EW, 6 IMPs
+to Indonesia.
+}
+[Auction "N"]
+1S Pass 2C Pass 
+2D Pass 2H Pass 
+2NT Pass 3NT Pass 
+Pass Pass   
+[Play "E"]
+SQ S6 S5 SK 
+C6 CK CT C2 
+CA CQ C8 C3 
+S9 HT S2 S4 
+SJ HJ SA S7 
+ST HQ S3 S8 
+HA - - - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "6"]
+[Room "Open"]
+[West "Giorgio Duboin"]
+[North "Eddy Manoppo"]
+[East "N. Bocchi"]
+[South "Henky Lasut"]
+[Dealer "E"]
+[Deal "S:63.42.J954.A6542 T742.KJ65.83.JT9 KJ5.873.AKQT62.3 AQ98.AQT9.7.KQ87"]
+[Vulnerable "EW"]
+[Contract "5DX"]
+[Declarer "N"]
+{
+OR - Duboin's 1D response showed at least a four-card heart suit,
+which explains Bocchi's 4H bid. The heart game could only be
+defeated with the CA lead, club ruff, and low diamond to South
+for a second club ruff. Lasut knew he wasn't going to find that
+defence, and saved in 5D. Duboin doubled to slow the auction
+down, and Bocchi led the D7. Declarer had no way of avoiding
+the loss of two spades and two hearts. He was down two, plus
+300 to Italy.
+}
+[Auction "E"]
+1C Pass 1D 3D 
+4H 5D X Pass 
+Pass Pass   
+[Play "E"]
+D7 D4 D3 DQ 
+C7 CA CJ C3 
+C8 C2 CT DK 
+H9 DJ D8 DT 
+CK C4 C9 DA 
+HT H4 HJ H3 
+- - S7 - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "6"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Dano DeFalco"]
+[East "Denny Sacul"]
+[South "Guido Ferraro"]
+[Dealer "E"]
+[Deal "S:63.42.J954.A6542 T742.KJ65.83.JT9 KJ5.873.AKQT62.3 AQ98.AQT9.7.KQ87"]
+[Vulnerable "EW"]
+[Contract "5DX"]
+[Declarer "N"]
+{
+CR - A Precision Club auction by EW drove NS to the same precipate
+level as the Open Room. DeFalco's 3D bid goaded Ferraro into
+a pre-save 5D. Karwur applied the hammer, not willing to have
+anything to do with the five-level. The CK lead only delayed
+the inevitable loss of four tricks for declarer. He was down
+two, for the same minus 300 as his counter-part; no swing. The
+score was now Indonesia 10 - Italy 2.
+}
+[Auction "E"]
+1C Pass 1D 3D 
+Pass 5D X Pass 
+Pass Pass   
+[Play "E"]
+CK CA CJ C3 
+C7 C2 C9 D2 
+H9 H2 HJ H8 
+SQ S3 ST SJ 
+HA H4 H5 H3 
+SA S6 S2 S5 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "7"]
+[Room "Open"]
+[West "Giorgio Duboin"]
+[North "Eddy Manoppo"]
+[East "N. Bocchi"]
+[South "Henky Lasut"]
+[Dealer "S"]
+[Deal "S:854.T7.JT9853.T5 J96.A852..976432 QT7.QJ63.AK.AKJ8 AK32.K94.Q7642.Q"]
+[Vulnerable "Both"]
+[Contract "2NT"]
+[Declarer "N"]
+{
+OR - 2NT showed 20-21 HCP, and since the Indonesian system didn't
+permit NS to stop in 3D, Lasut had to give up with a pass. He
+must have been surprised to see Bocchi lead a diamond, but the
+bad split in the minors meant that even 2D would have been too
+high. On the club return at trick three, Manoppo finessed and
+went two down. +200 EW.
+}
+[Auction "S"]
+Pass Pass 2NT Pass 
+Pass Pass   
+[Play "E"]
+D6 DJ C2 DK 
+H4 HT HA H3 
+CQ C5 C6 C8 
+D7 D3 C3 DA 
+HK H7 H2 HJ 
+DQ D5 C4 H6 
+H9 - - - 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "7"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Dano DeFalco"]
+[East "Denny Sacul"]
+[South "Guido Ferraro"]
+[Dealer "S"]
+[Deal "S:854.T7.JT9853.T5 J96.A852..976432 QT7.QJ63.AK.AKJ8 AK32.K94.Q7642.Q"]
+[Vulnerable "Both"]
+[Contract "2S"]
+[Declarer "E"]
+{
+CR - de Falco opened with a strong 1C (17+ HCP), after which
+EW took over the bidding, landing in 2S on their 4-3 fit. A trump
+lead would have been best (isn't it always?), but Ferraro chose
+the C10 instead, won by the ace. At that point, de Falco can
+return anything but a low spade, and he avoided all pitfalls
+by choosing the most spectacular of them - the SQ. Sacul could
+ruff one club in hand and two diamonds in dummy, but Ferraro
+could overruff in clubs, so Sacul was one down. +100 NS and 7
+IMPs to Italy.
+}
+[Auction "S"]
+Pass Pass 1C 1S 
+Pass 2S Pass Pass 
+Pass    
+[Play "S"]
+CT C2 CK CQ 
+S4 S6 SQ SA 
+D3 S9 DK D4 
+H7 H2 H3 HK 
+D5 SJ DA D2 
+C5 C3 CA S2 
+S5 C4 S7 SK 
+HT HA H6 H4 
+S8 C6 C8 S3 
+DJ C7 ST D6 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "8"]
+[Room "Open"]
+[West "Giorgio Duboin"]
+[North "Eddy Manoppo"]
+[East "N. Bocchi"]
+[South "Henky Lasut"]
+[Dealer "W"]
+[Deal "S:AT94.32.AK876.75 8.JT654.QT932.96 KJ753.KQ.5.QJ832 Q62.A987.J4.AKT4"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "N"]
+{
+OR - The fate of 4S depended on declarers ability to find the
+queen of trumps. This was difficult, since we've all learned
+that you have to play for the drop with nine cards combined.
+However, Manoppo had a couple of clues. First of all East had
+shown up with AK of clubs and the ace of hearts. With short spades
+he might have doubled one spade. Furthermore East played another
+heart at trick four despite a discouraging signal from West.
+Why not a third round of clubs? Because he was protecting his
+queen of spades! +50 to EW.
+}
+[Auction "W"]
+Pass 1S Pass 4S 
+Pass Pass Pass  
+[Play "E"]
+CK C5 C6 C2 
+CA C7 C9 C3 
+HA H2 H4 HQ 
+H7 H3 HJ HK 
+S2 SA S8 S5 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "8"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Dano DeFalco"]
+[East "Denny Sacul"]
+[South "Guido Ferraro"]
+[Dealer "W"]
+[Deal "S:AT94.32.AK876.75 8.JT654.QT932.96 KJ753.KQ.5.QJ832 Q62.A987.J4.AKT4"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "N"]
+{
+CR - The Italians took a slightly slower route to 4S. At this
+table Lasut did lead another club after the ace of hearts, taking
+the risk that declarer would ruff with the ten of spades. De
+Falco reasonably enough decided to play West for the queen of
+trumps. He ruffed with the ace of spades and ran the ten for
+one down and a push.
+}
+[Auction "W"]
+Pass 1S Pass 2D 
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Play "E"]
+CA C5 C9 C3 
+CK C7 C6 C8 
+HA H2 H4 HQ 
+C4 SA H5 C2 
+SQ ST S8 S3 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "9"]
+[Room "Open"]
+[West "Giorgio Duboin"]
+[North "Eddy Manoppo"]
+[East "N. Bocchi"]
+[South "Henky Lasut"]
+[Dealer "N"]
+[Deal "S:A976.T632.2.Q643 Q.AKQ97.J74.AT82 JT83.85.T653.KJ7 K542.J4.AKQ98.95"]
+[Vulnerable "EW"]
+[Contract "5D"]
+[Declarer "E"]
+{
+OR - Bocchi's 1D was usually 11-23 HCP and (4)5+ diamonds, and
+Duboin's 1S announced a heart suit. The 2D bid showed 11-16 HCP,
+4+ diamonds, and exactly 4 spades. 3C was a natural force, and
+3D showed 5+ diamonds. 4D set the suit, and 4S was a cue-bid.
+Duboin's 4NT showed an even number of aces (here, two), and Bocchi
+signed off in 5D (not knowing about the excellent heart quality
+opposite). The key to the hand was the AKQ-fifth suits opposite
+the red jacks. Declarer had twelve easy tricks for a disappointing
+plus 620.
+}
+[Auction "N"]
+Pass 1D Pass 1S 
+Pass 2D Pass 3C 
+Pass 3D Pass 4D 
+Pass 4S Pass 4NT 
+Pass 5D Pass Pass 
+Pass    
+[Play "S"]
+C3 CA C7 C5 
+D2 D4 D3 DA 
+- - - D9 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "9"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Dano DeFalco"]
+[East "Denny Sacul"]
+[South "Guido Ferraro"]
+[Dealer "N"]
+[Deal "S:A976.T632.2.Q643 Q.AKQ97.J74.AT82 JT83.85.T653.KJ7 K542.J4.AKQ98.95"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "W"]
+{
+CR - A natural (Precision!) auction to the emminently safe 4H
+contract. Karwur taking a slightly pessimistic view at his last
+turn, considering that he held J74 in a suit partner bid three
+times. Note that 6H requires the hearts to come in (a good chance),
+and no club lead (not a good chance), while 6D will make even
+with a club lead (as long as the red suits aren't overly foul).
+The S10 was led, and declarer had twelve tricks. An equally disappointing
+plus 680. A fortuitous 2 IMPs for Indonesia.
+}
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 1S Pass 2C 
+Pass 2D Pass 3C 
+Pass 3D Pass 3H 
+Pass 4H Pass Pass 
+Pass    
+[Play "N"]
+ST S2 SA SQ 
+C7 C5 C3 CA 
+H5 HJ H2 H7 
+H8 H4 H3 HA 
+S3 S4 H6 HK 
+S8 S5 HT HQ 
+D3 D8 D2 DJ 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "10"]
+[Room "Open"]
+[West "Giorgio Duboin"]
+[North "Eddy Manoppo"]
+[East "N. Bocchi"]
+[South "Henky Lasut"]
+[Dealer "E"]
+[Deal "S:JT.T742.Q98.K983 Q762.85.JT64.A54 AK85.QJ63.K2.JT7 943.AK9.A753.Q62"]
+[Vulnerable "Both"]
+[Contract "1NT"]
+[Declarer "E"]
+{
+OR - At this position and vulnerability, Bocchi's 1NT showed
+12-14 HCP. When that was passed around to Manoppo, he had a penalty
+double available, but must have considered his hand too weak
+for it, since he passed. On Lasut's heart lead, the lack of entries
+to dummy made it conveniant for Bocchi to play Lasut for short
+diamonds, but when the cards failed to cooperate, he could only
+take five tricks (2H, 2D and the CA). +200 NS.
+}
+[Auction "E"]
+1NT Pass Pass Pass 
+[Play "S"]
+H2 H5 HJ HA 
+D8 DT DK D3 
+H4 H8 H3 HK 
+D9 D4 D2 DA 
+DQ D6 S5 D5 
+SJ S2 S8 S3 
+H7 C4 HQ H9 
+HT S6 H6 S4 
+ST S7 SK S9 
+C3 SQ SA C2 
+CK CA CJ CQ 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "10"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Dano DeFalco"]
+[East "Denny Sacul"]
+[South "Guido Ferraro"]
+[Dealer "E"]
+[Deal "S:JT.T742.Q98.K983 Q762.85.JT64.A54 AK85.QJ63.K2.JT7 943.AK9.A753.Q62"]
+[Vulnerable "Both"]
+[Contract "1NT"]
+[Declarer "E"]
+{
+CR - At this table, Sacul's 1NT rebid showed 12-14 HCP but didn't
+promise real diamonds, so Karwur couldn't take out to 2D (which
+plays at least one trick better than 1NT). After a heart lead
+to the ace and a low diamond to the jack and king, de Falco didn't
+return a heart but shifted to the CJ, covered all around. Two
+rounds of diamond put Ferraro on lead, and when he returned the
+SJ, the defense got the same eight tricks as at the other table,
+but in a different way. +200 NS. No swing.
+}
+[Auction "E"]
+1D Pass 1S Pass 
+1NT Pass Pass Pass 
+[Play "S"]
+H7 H5 HJ HK 
+D9 DJ DK D5 
+CK CA CJ CQ 
+D8 D4 D2 DA 
+DQ D6 S5 D3 
+SJ S2 S8 S3 
+ST S6 SK S4 
+H2 H8 H3 HA 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "11"]
+[Room "Open"]
+[West "Giorgio Duboin"]
+[North "Eddy Manoppo"]
+[East "N. Bocchi"]
+[South "Henky Lasut"]
+[Dealer "S"]
+[Deal "S:JT96.AT863.9.Q43 Q2.J4.KQT52.J762 A53.75.A63.AK985 K874.KQ92.J874.T"]
+[Vulnerable "None"]
+[Contract "2DX"]
+[Declarer "W"]
+{
+OR - Duboin didn't have the stomach to sit for his mini notrump
+when it got doubled, so he ran to his long suit. Manoppo took
+quite a position when he whacked this on a three-card suit in
+direct position, the more normal approach being to let partner
+decide. Duboin bought a wonderful dummy and couldn't be prevented
+from taking eight tricks (4D, 1H, 1S and 2 club ruffs). +180
+to Italy.
+}
+[Auction "S"]
+Pass 1NT X Pass 
+Pass 2D X Pass 
+Pass Pass   
+[Play "N"]
+CA CT C3 C6 
+H7 H2 H8 HJ 
+S3 SK S6 S2 
+H5 HK HA H4 
+D3 DJ D9 D2 
+D6 HQ H3 SQ 
+DA D4 H6 D5 
+SA S4 S9 DT 
+C5 D7 C4 C2 
+S5 S7 ST DK 
+C9 D8 CQ C7 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "11"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Dano DeFalco"]
+[East "Denny Sacul"]
+[South "Guido Ferraro"]
+[Dealer "S"]
+[Deal "S:JT96.AT863.9.Q43 Q2.J4.KQT52.J762 A53.75.A63.AK985 K874.KQ92.J874.T"]
+[Vulnerable "None"]
+[Contract "2S"]
+[Declarer "N"]
+{
+CR - At this table the Italians tried to make their opponents
+life miserable with another pet toy. 2C showed a weak hand with
+both majors. North gave preference and bought it in 2S. Usually
+the best lead against this type of sequence is a trump, but Sacul
+preferred a diamond. After some choppy play declarer emerged
+with eight tricks. +110 and a 7 imp swing to Italy.
+}
+[Auction "S"]
+2C Pass 2S Pass 
+Pass Pass   
+[Play "E"]
+D7 D9 DQ DA 
+HQ H3 H4 H5 
+S4 SJ SQ SA 
+S7 ST S2 S3 
+H2 HA HJ H7 
+CT C3 C7 CA 
+D4 CQ C2 C5 
+H9 H6 C6 S5 
+S8 C4 CJ CK 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "12"]
+[Room "Open"]
+[West "Giorgio Duboin"]
+[North "Eddy Manoppo"]
+[East "N. Bocchi"]
+[South "Henky Lasut"]
+[Dealer "W"]
+[Deal "S:K852.T872.5.K987 J97.AJ93.A9.AQT6 AQ4.KQ4.KJ7643.2 T63.65.QT82.J543"]
+[Vulnerable "NS"]
+[Contract "2H"]
+[Declarer "S"]
+{
+OR - Duboin's re-opening double caught Bocchi with a grand collection.
+He chose 2C, and when this went back to Manoppo, he bid 2D. Duboin's
+double in the passout seat showed the strong notrump type, and
+Bocchi left it in. Lasut ran to his unappetizing four-card heart
+suit. The S7 was led, and declarer won the ace to play the C2
+to West's ten. Duboin replied with HA and a heart (fearing club
+ruff). In again with the DA, West had to allow declarer to cash
+the DK and SQ. When he ruffed a diamond with the H10 - he was
+done. End-played! A fine plus 110.
+}
+[Auction "W"]
+1C 1D Pass Pass 
+X Pass 2C Pass 
+Pass 2D Pass Pass 
+X Pass Pass 2H 
+Pass Pass Pass  
+[Play "W"]
+S7 SA S3 S2 
+CT C2 C3 C7 
+HA H4 H5 H2 
+H3 HQ H6 H7 
+S9 S4 S6 SK 
+DA D3 D2 D5 
+H9 HK ST H8 
+SJ SQ C4 S5 
+D9 DK D8 C8 
+HJ D4 DT HT 
+CA D6 C5 C9 
+C6 D7 CJ CK 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5a"]
+[Board "12"]
+[Room "Closed"]
+[West "Franky Karwur"]
+[North "Dano DeFalco"]
+[East "Denny Sacul"]
+[South "Guido Ferraro"]
+[Dealer "W"]
+[Deal "S:K852.T872.5.K987 J97.AJ93.A9.AQT6 AQ4.KQ4.KJ7643.2 T63.65.QT82.J543"]
+[Vulnerable "NS"]
+[Contract "2DX"]
+[Declarer "N"]
+{
+CR - Karwur's 15-17 HCP notrump was greeted by a single-suited
+double from DeFalco. 2C was asking, 2D was showing. Karwur's
+balancing double was left in for penalties by Sacul (who really
+had nowhere to go). The C4 was led to Karwur's queen, and he
+tried the HA, followed by the H3. Declarer played to his SK,
+and led a trump to Karwur's ace. Karwur gave Sacul a heart ruff,
+but the defence only had one more trump coming. A glorious plus
+180, but only 2 IMPS to Italy who were ahead at the half; 18-12.
+}
+[Auction "W"]
+1NT X Pass 2C 
+Pass 2D Pass Pass 
+X Pass Pass Pass 
+[Play "E"]
+C4 C7 CQ C2 
+H6 H2 HA H4 
+H5 H7 H3 HK 
+S3 SK S7 S4 
+D2 D5 DA D3 
+D8 H8 H9 HQ 
+CJ CK CA D4 
+DT HT D9 DK 
+*
+[Result "8"]
+

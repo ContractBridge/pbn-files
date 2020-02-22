@@ -1,0 +1,1234 @@
+% PBN 1.0
+% e-bridge source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "45th Generali European Team Championships 2001"]
+[Site "Tenerife, Canary Islands, ESP"]
+[Date "2001.06.19"]
+[Round "07"]
+[Board "1"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "N"]
+[Deal "S:965.85.K92.K9652 Q87.7643.AQ843.4 AJ43.KJT.75.QJ83 KT2.AQ92.JT6.AT7"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "E"]
+[Auction "N"]
+1C X 2C X 
+3C Pass Pass 3D 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Play "S"]
+C2 C4 CJ CA 
+C5 H3 C3 C7 
+H5 H4 HJ HQ 
+C6 H6 C8 CT 
+H8 H7 HK HA 
+DK DA D5 DJ 
+D2 D3 D7 DT 
+D9 S7 HT H2 
+S5 S8 SA S2 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "1"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "N"]
+[Deal "S:965.85.K92.K9652 Q87.7643.AQ843.4 AJ43.KJT.75.QJ83 KT2.AQ92.JT6.AT7"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "W"]
+[Auction "N"]
+1S X Pass 2C 
+Pass 2D 2S X 
+Pass 2NT Pass 3H 
+Pass 4H Pass Pass 
+Pass    
+[Play "N"]
+CQ CA C6 C4 
+C3 C7 C2 H3 
+HK HA H5 H4 
+D5 DJ D2 D4 
+C8 CT C5 H6 
+HJ HQ H8 H7 
+D7 DT D9 D3 
+HT D6 DK DA 
+SA S2 S5 S7 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "2"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "E"]
+[Deal "S:QT3.KT86.Q952.K6 AJ95.2.JT863.A95 K862.AQJ94.K4.J7 74.753.A7.QT8432"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "E"]
+Pass Pass 1D 1H 
+Pass 2NT Pass 4H 
+Pass Pass Pass  
+[Play "E"]
+C8 C6 CA C7 
+DA D2 D6 D4 
+D7 D5 D3 DK 
+H3 H6 H2 HJ 
+H5 H8 C5 HA 
+H7 HK D8 H4 
+C2 DQ DT S2 
+C3 D9 DJ H9 
+CQ CK C9 CJ 
+S4 SQ SA S6 
+S7 ST S5 S8 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "2"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "E"]
+[Deal "S:QT3.KT86.Q952.K6 AJ95.2.JT863.A95 K862.AQJ94.K4.J7 74.753.A7.QT8432"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "E"]
+Pass Pass 1D 1H 
+Pass 2D Pass 2S 
+3C 4H Pass Pass 
+Pass    
+[Play "E"]
+C4 C6 CA C7 
+C3 CK C9 CJ 
+DA D2 D3 DK 
+D7 DQ D6 D4 
+C2 D5 DJ HA 
+H3 H8 H2 H4 
+C8 D9 DT HQ 
+H5 H6 D8 H9 
+S4 SQ SA S2 
+S7 ST S5 S6 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "3"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "S"]
+[Deal "S:AJ842.J643.KQ.Q7 7653.Q92.AJ2.964 QT.T.T9653.KJ832 K9.AK875.874.AT5"]
+[Vulnerable "EW"]
+[Contract "3H"]
+[Declarer "E"]
+[Auction "S"]
+1S Pass 1NT 2H 
+Pass 3H Pass Pass 
+Pass    
+[Play "S"]
+DK DA DT D7 
+H3 H2 HT HK 
+H4 HQ C3 H5 
+C7 C4 C2 CA 
+DQ D2 D3 D4 
+CQ C6 CK C5 
+S2 C9 CJ CT 
+HJ DJ D5 D8 
+H6 H9 D6 H7 
+SA S7 ST SK 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "3"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "S"]
+[Deal "S:AJ842.J643.KQ.Q7 7653.Q92.AJ2.964 QT.T.T9653.KJ832 K9.AK875.874.AT5"]
+[Vulnerable "EW"]
+[Contract "3H"]
+[Declarer "E"]
+[Auction "S"]
+1S Pass 1NT 2H 
+Pass 3H Pass Pass 
+Pass    
+[Play "S"]
+DK DA D3 D4 
+H3 H2 HT HA 
+H4 HQ D5 H5 
+CQ C4 C2 CT 
+DQ D2 D6 D7 
+C7 C6 CJ CA 
+H6 H9 C3 HK 
+HJ C9 C8 H7 
+SA S3 ST S9 
+S2 S5 SQ SK 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "4"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "W"]
+[Deal "S:874.K8.KT832.942 QJT53.975.J5.AJT A92.QJ43.AQ64.Q8 K6.AT62.97.K7653"]
+[Vulnerable "Both"]
+[Contract "1NT"]
+[Declarer "N"]
+[Auction "W"]
+Pass 1NT Pass Pass 
+Pass    
+[Play "E"]
+C3 C2 CA C8 
+S6 S4 SQ SA 
+D7 D2 D5 DA 
+D9 D3 DJ DQ 
+H2 DK H7 D4 
+H6 DT H5 D6 
+HT D8 H9 H3 
+HA HK S3 H4 
+CK C4 CT CQ 
+C5 C9 CJ S2 
+SK - SJ S9 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "4"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "W"]
+[Deal "S:874.K8.KT832.942 QJT53.975.J5.AJT A92.QJ43.AQ64.Q8 K6.AT62.97.K7653"]
+[Vulnerable "Both"]
+[Contract "1NT"]
+[Declarer "N"]
+[Auction "W"]
+Pass 1NT Pass Pass 
+Pass    
+[Play "E"]
+C6 C2 CA C8 
+CK C4 CJ CQ 
+C3 C9 CT D4 
+SK S4 SQ S2 
+C7 S7 H7 S9 
+C5 H8 H5 H3 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "5"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "N"]
+[Deal "S:A6.T98.Q7542.J72 J982.A42.AT3.983 Q5.QJ753.J96.Q54 KT743.K6.K8.AKT6"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "E"]
+[Auction "N"]
+Pass 1S Pass 1NT 
+Pass 2C Pass 3S 
+Pass 4S Pass Pass 
+Pass    
+[Play "S"]
+HT HA H7 H6 
+SA SJ S5 S3 
+H8 H2 HJ HK 
+D5 DA D6 D8 
+S6 S9 SQ SK 
+C2 - - CA 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "5"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "N"]
+[Deal "S:A6.T98.Q7542.J72 J982.A42.AT3.983 Q5.QJ753.J96.Q54 KT743.K6.K8.AKT6"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "E"]
+[Auction "N"]
+Pass 1S Pass 2H 
+Pass 2NT Pass 3D 
+Pass 4S Pass Pass 
+Pass    
+[Play "S"]
+D4 DA D6 D8 
+SA S8 S5 S3 
+C2 C3 CQ CA 
+H8 HA H3 H6 
+S6 S2 SQ SK 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "6"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "E"]
+[Deal "S:QJT8.T9.QJ53.653 K973.K43.742.942 54.8752.K98.KJT8 A62.AQJ6.AT6.AQ7"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "E"]
+[Auction "E"]
+1C Pass 1D Pass 
+2NT Pass 3NT Pass 
+Pass Pass   
+[Play "S"]
+SQ S3 S4 SA 
+SJ SK S5 S6 
+H9 H3 H2 HQ 
+ST S7 H5 S2 
+DQ D2 D8 D6 
+D3 D4 DK DT 
+D5 D7 D9 DA 
+HT HK H7 H6 
+S8 S9 H8 C7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "6"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "E"]
+[Deal "S:QJT8.T9.QJ53.653 K973.K43.742.942 54.8752.K98.KJT8 A62.AQJ6.AT6.AQ7"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "E"]
+[Auction "E"]
+2D Pass 2H Pass 
+2NT Pass 3NT Pass 
+Pass Pass   
+[Play "S"]
+SQ S3 S4 SA 
+H9 HK H2 H6 
+C3 C2 C8 CQ 
+SJ S7 S5 S2 
+D3 D2 DK D6 
+D5 D4 D9 DA 
+HT H3 H5 HA 
+C5 H4 H7 HJ 
+C6 C4 H8 HQ 
+DJ C9 CT CA 
+S8 SK D8 S6 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "7"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "S"]
+[Deal "S:A65.AT63.Q76.653 KT983.72.932.J98 Q.KQJ98.85.AQT42 J742.54.AKJT4.K7"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "S"]
+Pass Pass 1H X 
+2S X 3C 3S 
+Pass Pass 4H Pass 
+Pass Pass   
+[Play "E"]
+DK D6 D9 D5 
+S4 SA ST SQ 
+S2 S5 S3 HJ 
+DA D7 D3 D8 
+SJ S6 S8 HQ 
+H4 H3 H2 HK 
+H5 HA H7 H8 
+D4 DQ D2 C2 
+CK C3 C8 CT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "7"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "S"]
+[Deal "S:A65.AT63.Q76.653 KT983.72.932.J98 Q.KQJ98.85.AQT42 J742.54.AKJT4.K7"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "S"]
+Pass Pass 1H 2D 
+3D Pass 4H Pass 
+Pass Pass   
+[Play "E"]
+DK D6 D9 D5 
+S2 SA S3 SQ 
+C7 C3 C8 CT 
+DA D7 D2 D8 
+H4 HT H2 H8 
+D4 DQ D3 C2 
+S4 S6 S8 HK 
+H5 HA H7 H9 
+CK C5 C9 CQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "8"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "W"]
+[Deal "S:KT43.JT984.54.J3 865.Q2.AQJ82.T86 QJ7.63.KT963.AK2 A92.AK75.7.Q9754"]
+[Vulnerable "None"]
+[Contract "1NT"]
+[Declarer "W"]
+[Auction "W"]
+Pass 1D X Pass 
+1NT Pass Pass Pass 
+[Play "N"]
+D3 D7 D4 D8 
+C2 CQ C3 C8 
+CK C4 CJ CT 
+SQ S2 S3 S5 
+SJ S9 SK S6 
+D6 H5 D5 DA 
+CA C5 - C6 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "8"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "W"]
+[Deal "S:KT43.JT984.54.J3 865.Q2.AQJ82.T86 QJ7.63.KT963.AK2 A92.AK75.7.Q9754"]
+[Vulnerable "None"]
+[Contract "2C"]
+[Declarer "E"]
+[Auction "W"]
+Pass 1D 1H Pass 
+1S Pass 2C Pass 
+Pass Pass   
+[Play "S"]
+D5 DA D3 D7 
+D4 DQ DK C4 
+S4 S5 S7 S2 
+S3 S6 SQ SA 
+H4 HQ H3 H5 
+H8 H2 H6 HA 
+H9 S8 C2 HK 
+SK C6 SJ S9 
+C3 C8 CK C5 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "9"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "N"]
+[Deal "S:K92.T9863.QJ8.K4 AQ5.QJ4.T54.QJT8 643.A752.AK32.62 JT87.K.976.A9753"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "N"]
+1D Pass 1H Pass 
+2H Pass 4H Pass 
+Pass Pass   
+[Play "W"]
+CQ C2 CA C4 
+SA S3 SJ SK 
+SQ S4 S7 S2 
+S5 S6 ST S9 
+C8 C6 C3 CK 
+HJ HA HK HT 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "9"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "N"]
+[Deal "S:K92.T9863.QJ8.K4 AQ5.QJ4.T54.QJT8 643.A752.AK32.62 JT87.K.976.A9753"]
+[Vulnerable "EW"]
+[Contract "3H"]
+[Declarer "N"]
+[Auction "N"]
+1H Pass 3H Pass 
+Pass Pass   
+[Play "E"]
+ST S2 S5 S3 
+S7 SK SA S4 
+S8 S9 SQ S6 
+D6 DQ D5 D2 
+HK H3 H4 HA 
+C3 H6 HJ H2 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "10"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "E"]
+[Deal "S:A4.Q985.Q843.K65 KQJ865.K72.75.JT 73.AJT3.KT96.Q42 T92.64.AJ2.A9873"]
+[Vulnerable "Both"]
+[Contract "3S"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 1S Pass 
+2NT Pass 3S Pass 
+Pass Pass   
+[Play "N"]
+S3 S2 SA S6 
+HA H4 H5 HK 
+HT H6 HQ H2 
+DK DA D3 D5 
+S7 S9 S4 SK 
+D9 DJ DQ D7 
+D6 D2 D4 S8 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "10"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "E"]
+[Deal "S:A4.Q985.Q843.K65 KQJ865.K72.75.JT 73.AJT3.KT96.Q42 T92.64.AJ2.A9873"]
+[Vulnerable "Both"]
+[Contract "3S"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 2D Pass 
+2H Pass 2S Pass 
+Pass X Pass 3H 
+Pass Pass 3S Pass 
+Pass Pass   
+[Play "N"]
+S3 S9 SA S5 
+HA H4 H9 HK 
+HJ H6 H5 H2 
+DT DJ DQ D5 
+*
+[Result "8"]
+
+[Event "45th Generali European Team Championships 2001"]
+[Site "Tenerife, Canary Islands, ESP"]
+[Date "2001.06.19"]
+[Round "07"]
+[Board "11"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "S"]
+[Deal "S:K3.KQT84.AJ876.T 9854.J76.Q9.J542 AJ6.932.T53.KQ86 QT72.A5.K42.A973"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "S"]
+1H Pass 2NT Pass 
+4H Pass Pass Pass 
+[Play "W"]
+S5 S6 ST SK 
+S4 SJ SQ S3 
+C2 C6 CA CT 
+DQ D3 D2 D8 
+D9 DT DK DA 
+H6 H2 HA HK 
+H7 D5 D4 DJ 
+CJ CQ C3 D6 
+HJ H3 H5 HQ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "11"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "S"]
+[Deal "S:K3.KQT84.AJ876.T 9854.J76.Q9.J542 AJ6.932.T53.KQ86 QT72.A5.K42.A973"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "S"]
+1H Pass 1NT X 
+3D Pass 4H Pass 
+Pass Pass   
+[Play "W"]
+S8 S6 ST SK 
+H6 H2 HA HK 
+H7 H3 H5 HQ 
+C2 CK CA CT 
+DQ D3 D2 D6 
+HJ H9 C3 H4 
+C4 CQ C7 D7 
+D9 DT D4 D8 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "12"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "W"]
+[Deal "S:Q4.A9873.T74.Q94 KT93.J.A85.AJ863 AJ762.T.KJ6.KT75 85.KQ6542.Q932.2"]
+[Vulnerable "NS"]
+[Contract "3D"]
+[Declarer "S"]
+[Auction "W"]
+2C Pass 2H Pass 
+Pass X Pass 3D 
+Pass Pass Pass  
+[Play "W"]
+HJ HT H2 HA 
+S3 SJ S5 S4 
+S9 SA S8 SQ 
+ST S2 H4 D4 
+C6 D6 H5 H3 
+SK S6 H6 D7 
+C3 DJ HQ H7 
+DA S7 HK DT 
+D5 DK D2 H8 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "12"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "W"]
+[Deal "S:Q4.A9873.T74.Q94 KT93.J.A85.AJ863 AJ762.T.KJ6.KT75 85.KQ6542.Q932.2"]
+[Vulnerable "NS"]
+[Contract "3H"]
+[Declarer "E"]
+[Auction "W"]
+1C 1S 3H Pass 
+Pass Pass   
+[Play "S"]
+SQ SK SA S5 
+DT DA D6 D2 
+HA HJ HT H4 
+D7 D5 DK D3 
+S4 S3 SJ S8 
+- - S7 - 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "13"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "N"]
+[Deal "S:KQ65.Q8.KQT74.Q4 A743.752.3.KJ965 JT2.AK43.A.AT873 98.JT96.J98652.2"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "N"]
+[Auction "N"]
+1C Pass 1D Pass 
+1H Pass 1S Pass 
+2NT Pass 3NT Pass 
+Pass Pass   
+[Play "E"]
+HJ H8 H5 HA 
+D2 D4 D3 DA 
+S8 S5 SA SJ 
+H6 HQ H2 H3 
+S9 S6 S3 ST 
+H9 D7 H7 HK 
+D5 SK S4 S2 
+D6 DQ C6 H4 
+HT SQ S7 C3 
+D8 DK C5 C7 
+C2 CQ CK C8 
+- - C9 CT 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "13"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "N"]
+[Deal "S:KQ65.Q8.KQT74.Q4 A743.752.3.KJ965 JT2.AK43.A.AT873 98.JT96.J98652.2"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "N"]
+1C Pass 1D Pass 
+1H Pass 3NT Pass 
+Pass Pass   
+[Play "W"]
+C5 C7 C2 C4 
+SA SJ S8 S5 
+CK CA D2 CQ 
+D3 DA D5 D4 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "14"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "E"]
+[Deal "S:Q.Q52.KJ32.A7652 KJT63.JT643.Q8.3 85.A98.AT76.JT98 A9742.K7.954.KQ4"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "E"]
+[Auction "E"]
+1S Pass 4S Pass 
+Pass Pass   
+[Play "S"]
+SQ SK S5 S2 
+CA C3 CJ CK 
+DK D8 D7 D4 
+D2 DQ DA D5 
+C2 ST S8 S4 
+H2 HJ HA H7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "14"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "E"]
+[Deal "S:Q.Q52.KJ32.A7652 KJT63.JT643.Q8.3 85.A98.AT76.JT98 A9742.K7.954.KQ4"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "E"]
+[Auction "E"]
+1S Pass 4S Pass 
+Pass Pass   
+[Play "S"]
+D2 DQ DA D4 
+DJ D8 D6 D5 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "15"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "S"]
+[Deal "S:QT52.QJ986.2.T82 AK743.A.AQ986.A6 J.KT42.K43.KJ743 986.753.JT75.Q95"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "W"]
+[Auction "S"]
+Pass 1C Pass 1D 
+1H 1S 3H 3S 
+Pass 4S Pass Pass 
+Pass    
+[Play "N"]
+H4 H3 HJ HA 
+SJ S6 S2 SA 
+C3 S8 S5 SK 
+D3 D5 D2 DA 
+D4 DJ ST D6 
+H2 S9 SQ S3 
+HT H5 H8 S4 
+DK D7 C2 D8 
+HK H7 H6 S7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "15"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "S"]
+[Deal "S:QT52.QJ986.2.T82 AK743.A.AQ986.A6 J.KT42.K43.KJ743 986.753.JT75.Q95"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "W"]
+[Auction "S"]
+Pass 1S Pass 2S 
+Pass 3D Pass 3S 
+Pass 4C Pass 4S 
+Pass Pass Pass  
+[Play "N"]
+HK H3 H9 HA 
+SJ S6 S2 SA 
+C3 S8 S5 SK 
+D3 D5 D2 DA 
+D4 DT ST D6 
+H2 H5 HQ S3 
+DK D7 C2 D8 
+HT H7 HJ S4 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "16"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "W"]
+[Deal "S:QT85.T76.K84.J93 A3.KJ932.JT973.2 972.AQ85.AQ.K874 KJ64.4.652.AQT65"]
+[Vulnerable "EW"]
+[Contract "2D"]
+[Declarer "E"]
+[Auction "W"]
+Pass 1NT Pass Pass 
+2C Pass 2D Pass 
+Pass Pass   
+[Play "S"]
+S8 S3 S7 SJ 
+S5 SA S2 S4 
+C3 C2 C4 CQ 
+C9 H2 C7 CA 
+ST H3 S9 SK 
+H7 HJ HQ H4 
+H6 H9 HA D2 
+D4 DJ DQ D5 
+HT HK H5 D6 
+CJ D3 C8 C5 
+D8 DT DA C6 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "16"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "W"]
+[Deal "S:QT85.T76.K84.J93 A3.KJ932.JT973.2 972.AQ85.AQ.K874 KJ64.4.652.AQT65"]
+[Vulnerable "EW"]
+[Contract "2NT"]
+[Declarer "N"]
+[Auction "W"]
+2H 2NT Pass Pass 
+Pass    
+[Play "E"]
+D5 D4 D7 DA 
+SK S5 S3 S2 
+D6 D8 D3 DQ 
+S4 S8 SA S9 
+D2 DK DJ C4 
+H4 HT HJ HQ 
+S6 ST H2 S7 
+SJ SQ H3 H5 
+CQ CJ C2 C7 
+CA C3 D9 C8 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "17"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "N"]
+[Deal "S:8642.3.KJ87432.A 7.964.Q6.JT87532 AQJ95.AT2.AT9.Q9 KT3.KQJ875.5.K64"]
+[Vulnerable "None"]
+[Contract "6S"]
+[Declarer "N"]
+[Auction "N"]
+1S 2H 3H Pass 
+3NT Pass 4S Pass 
+5D Pass 5H Pass 
+5S Pass 6C Pass 
+6S Pass Pass Pass 
+[Play "E"]
+HK H3 H4 HA 
+S3 S2 S7 SA 
+SK S4 C2 SJ 
+C4 CA C3 C9 
+ST S6 C5 SQ 
+D5 DK D6 DT 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "17"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "N"]
+[Deal "S:8642.3.KJ87432.A 7.964.Q6.JT87532 AQJ95.AT2.AT9.Q9 KT3.KQJ875.5.K64"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "N"]
+[Auction "N"]
+1S 2H 4S Pass 
+Pass Pass   
+[Play "E"]
+HQ H3 H4 HA 
+C4 CA C2 C9 
+SK S2 S7 SQ 
+D5 D2 D6 DT 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "18"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "E"]
+[Deal "S:J853.T765.Q652.9 KQ2.A3.3.AKJT532 A76.KJ98.JT9.Q64 T94.Q42.AK874.87"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "E"]
+[Auction "E"]
+Pass Pass 1C Pass 
+1NT Pass 2NT Pass 
+3D Pass 3NT Pass 
+Pass Pass   
+[Play "S"]
+S3 SQ SA S4 
+SJ SK S7 S9 
+C9 CA C4 C7 
+D5 CK C6 C8 
+- CJ CQ - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "18"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "E"]
+[Deal "S:J853.T765.Q652.9 KQ2.A3.3.AKJT532 A76.KJ98.JT9.Q64 T94.Q42.AK874.87"]
+[Vulnerable "NS"]
+[Contract "5C"]
+[Declarer "E"]
+[Auction "E"]
+1NT Pass 2S Pass 
+3C Pass 3H Pass 
+3NT Pass 4C Pass 
+4D Pass 4H Pass 
+5C Pass Pass Pass 
+[Play "S"]
+S3 SK SA S4 
+D2 D3 DJ DA 
+D5 H3 D9 DK 
+SJ SQ S6 ST 
+C9 CA C4 C7 
+H5 CK C6 C8 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "19"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "S"]
+[Deal "S:QJ75.K4.Q6.Q8762 T9642.J83.AT83.T K.Q9762.9742.953 A83.AT5.KJ5.AKJ4"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "E"]
+[Auction "S"]
+Pass Pass Pass 1C 
+Pass 1D 1H 1NT 
+Pass 2H Pass 2S 
+Pass 2NT Pass 4S 
+Pass Pass Pass  
+[Play "S"]
+C2 CT C5 C4 
+S5 S2 SK SA 
+SJ S4 H6 S3 
+SQ S6 C3 S8 
+S7 ST H2 H5 
+DQ D3 D2 DJ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "19"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "S"]
+[Deal "S:QJ75.K4.Q6.Q8762 T9642.J83.AT83.T K.Q9762.9742.953 A83.AT5.KJ5.AKJ4"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "E"]
+[Auction "S"]
+Pass Pass Pass 2D 
+Pass 2H Pass 2NT 
+Pass 3H Pass 4S 
+Pass Pass Pass  
+[Play "S"]
+C6 CT C3 C4 
+S5 S2 SK SA 
+SJ S4 H6 S8 
+HK H3 H2 H5 
+H4 H8 H7 HT 
+SQ S6 - S3 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "20"]
+[Room "Open"]
+[West "Burn David"]
+[North "Lauria Lorenzo"]
+[East "Callaghan B."]
+[South "Versace A."]
+[Dealer "W"]
+[Deal "S:9.KQT74.42.AKQ86 KQT52.A.J963.942 7643.95.A8.JT753 AJ8.J8632.KQT75."]
+[Vulnerable "Both"]
+[Contract "5CX"]
+[Declarer "S"]
+[Auction "W"]
+Pass Pass 1H Pass 
+1NT Pass 3S 4C 
+4S 5C Pass Pass 
+X Pass Pass Pass 
+[Play "W"]
+HA H5 H8 H7 
+S2 S3 SA S9 
+C2 H9 H2 HK 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "07"]
+[Board "20"]
+[Room "Closed"]
+[West "Duboin Giorgio"]
+[North "Hallberg G."]
+[East "Bocchi N."]
+[South "Simpson Colin"]
+[Dealer "W"]
+[Deal "S:9.KQT74.42.AKQ86 KQT52.A.J963.942 7643.95.A8.JT753 AJ8.J8632.KQT75."]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "W"]
+[Auction "W"]
+Pass Pass 1H 2C 
+2S 4C 4S Pass 
+Pass Pass   
+[Play "N"]
+C5 S8 C6 C2 
+DA DK D2 D3 
+H9 H2 H4 HA 
+C3 SJ C8 C4 
+S3 SA S9 S2 
+*
+[Result "12"]
+
+

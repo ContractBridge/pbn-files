@@ -1,0 +1,303 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "3rd ING BANK Top Circuit 2000"]
+[Site "Netherlands, NLD"]
+[Date "2000.06.11"]
+[Round "6"]
+[Board "1"]
+[West "Oltmans"]
+[North "Verhees"]
+[East "Brink"]
+[South "Jansma"]
+[Vulnerable "None"]
+[Deal "S:AJ986.AK652.72.6 T7.J9.53.KT97432 32.T7.QJT986.QJ5 KQ54.Q843.AK4.A8"]
+[Dealer "N"]
+[Auction "N"]
+2C 2NT Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "2NT"]
+[Play "S"]
+D7 D5 D8 D4 
+SJ S7 S3 S4 
+SA ST S2 S5 
+HA H9 HT H4 
+HK HJ H7 H3 
+*
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "2"]
+[West "Oltmans"]
+[North "Verhees"]
+[East "Brink"]
+[South "Jansma"]
+[Vulnerable "NS"]
+[Deal "S:JT98.K4.AKQ42.A6 K543.AQ863.J5.42 7.JT95.876.KQJT8 AQ62.72.T93.9753"]
+[Dealer "E"]
+[Auction "E"]
+2S 2NT 3S X 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "3SX"]
+[Play "S"]
+S8 S3 S7 SA 
+H4 HQ H5 H2 
+SJ S4 CK SQ 
+HK HA H9 H7 
+D2 H3 HT S2 
+*
+[Result "6"]
+[Score "-500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "3"]
+[West "Oltmans"]
+[North "Verhees"]
+[East "Brink"]
+[South "Jansma"]
+[Vulnerable "EW"]
+[Deal "S:KJ3.A94.Q74.K864 9764.T82.AKT3.T9 A85.76.J982.QJ52 QT2.KQJ53.65.A73"]
+[Dealer "S"]
+[Auction "S"]
+1C 1D 1NT X 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "1NTX"]
+[Play "E"]
+HK H4 H8 H6 
+HJ H9 HT H7 
+H3 HA H2 S5 
+CA C4 CT CQ 
+HQ D4 D3 C2 
+H5 D7 DT S8 
+ST S3 S4 SA 
+C3 C6 C9 CJ 
+C7 CK S6 C5 
+D5 C8 S7 D2 
+*
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "4"]
+[West "Oltmans"]
+[North "Verhees"]
+[East "Brink"]
+[South "Jansma"]
+[Vulnerable "Both"]
+[Deal "S:A4.62.6542.AKJ86 Q93.T984.KJT8.Q9 T52.AKQJ7.A7.754 KJ876.53.Q93.T32"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1H Pass 2C 
+Pass 2H Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+DT DA D3 D6 
+H4 HA H5 H2 
+H8 HK H3 H6 
+H9 HQ DQ D5 
+HT HJ S8 D2 
+C9 H7 S7 D4 
+CQ C4 C2 CA 
+*
+[Result "12"]
+[Score "+690"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "5"]
+[West "Oltmans"]
+[North "Verhees"]
+[East "Brink"]
+[South "Jansma"]
+[Vulnerable "NS"]
+[Deal "S:AJ854.9.JT9.Q987 T.K5.A742.KT5432 7632.AQJT843.5.J KQ9.762.KQ863.A6"]
+[Dealer "N"]
+[Auction "N"]
+3H Pass Pass Pass 
+[Declarer "N"]
+[Contract "3H"]
+[Play "E"]
+SK SA ST S7 
+H2 H9 HK HA 
+H6 C7 H5 HQ 
+H7 D9 C2 HJ 
+D3 DT C3 HT 
+D6 C8 D2 H8 
+SQ S4 C4 S6 
+CA C9 C5 CJ 
+*
+[Result "10"]
+[Score "+170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "6"]
+[West "Oltmans"]
+[North "Verhees"]
+[East "Brink"]
+[South "Jansma"]
+[Vulnerable "EW"]
+[Deal "S:Q6.7.KJ983.J9874 T9543.Q986.T752. AK.AT53.A6.AQ632 J872.KJ42.Q4.KT5"]
+[Dealer "E"]
+[Auction "E"]
+Pass 2C Pass 2NT 
+Pass 3D Pass 3NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+H4 H7 HQ HA 
+D4 DK D7 D6 
+CK CJ H9 C2 
+S8 S6 S5 SK 
+C5 C4 H8 CA 
+CT C7 S3 CQ 
+DQ D3 D2 DA 
+H2 C8 S4 C6 
+S2 C9 S9 C3 
+- DJ D5 H3 
+*
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "7"]
+[West "Oltmans"]
+[North "Verhees"]
+[East "Brink"]
+[South "Jansma"]
+[Vulnerable "Both"]
+[Deal "S:42.K7542.KT2.AQ5 KJ.T9.A93.T87632 A76.AJ86.J8765.9 QT9853.Q3.Q4.KJ4"]
+[Dealer "S"]
+[Auction "S"]
+1H Pass 4C Pass 
+4H Pass Pass Pass 
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+SK S6 S3 S2 
+SJ SA ST S4 
+H9 H6 H3 HK 
+HT HA HQ H2 
+- D5 D4 DT 
+*
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "8"]
+[West "Oltmans"]
+[North "Verhees"]
+[East "Brink"]
+[South "Jansma"]
+[Vulnerable "None"]
+[Deal "S:853.T985.T8542.K AKJT92.K.AQ6.AQ3 .AQ6432.K9.J9864 Q764.J7.J73.T752"]
+[Dealer "W"]
+[Auction "W"]
+1C 3H Pass 4H 
+4S 5C 5S Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "5S"]
+[Play "N"]
+C8 C2 CK CA 
+H2 S4 S5 SJ 
+H3 S7 S3 S9 
+C4 S6 S8 ST 
+C6 C5 D8 CQ 
+CJ C7 H5 C3 
+HA H7 H8 HK 
+*
+[Result "10"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "9"]
+[West "Oltmans"]
+[North "Verhees"]
+[East "Brink"]
+[South "Jansma"]
+[Vulnerable "EW"]
+[Deal "S:JT85.7.KQ765.Q74 A92.KQT952.AT9.6 63.86.J42.AJT532 KQ74.AJ43.83.K98"]
+[Dealer "N"]
+[Auction "N"]
+3C X 5C 6H 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "6H"]
+[Play "N"]
+CA C8 C4 C6 
+D2 D8 DQ DA 
+H6 HJ H7 H2 
+H8 HA D5 H5 
+C2 H3 D6 HK 
+S3 SK S5 S9 
+C3 CK C7 DT 
+C5 H4 D7 HQ 
+CT D3 CQ HT 
+S6 C9 - H9 
+*
+[Result "11"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "10"]
+[West "Oltmans"]
+[North "Verhees"]
+[East "Brink"]
+[South "Jansma"]
+[Vulnerable "Both"]
+[Deal "S:K.KT987654..KT62 9864.A.AKQ75.AQJ Q753.2.J9842.543 AJT2.QJ3.T63.987"]
+[Dealer "E"]
+[Auction "E"]
+Pass 4H X Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "4HX"]
+[Play "W"]
+DA D2 DT H4 
+S4 S3 SA SK 
+CJ C3 C9 CT 
+DK D4 D6 H5 
+HA H2 H3 HK 
+S9 SQ S2 C2 
+S6 S7 SJ H6 
+D5 S5 HJ HT 
+S8 D8 HQ H7 
+- - ST - 
+*
+[Result "6"]
+[Score "-1100"]
+

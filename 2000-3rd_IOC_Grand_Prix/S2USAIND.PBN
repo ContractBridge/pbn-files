@@ -1,0 +1,956 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "3rd IOC Grand Prix"]
+[Site "Lausanne, Switzerland, CHE"]
+[Date "2000.11.01"]
+[Round "S2"]
+[Board "13"]
+[Room "Open"]
+[West "Franky Karwur"]
+[North "Bob Hamman"]
+[East "Denny Sacul"]
+[South "Paul Soloway"]
+[Dealer "N"]
+[Deal "S:T3.J654.T84.JT86 QJ.K8732.AQ653.K AK8652.T9.KJ7.Q4 974.AQ.92.A97532"]
+[Vulnerable "Both"]
+[Contract "3H"]
+[Declarer "W"]
+{
+OR - E/W have 25 HCP between them, and happen to have a miraculous
+spade stopper. But do they make a game? No. After a natural sequence,
+Karwur declared  3H. When Hamman shifted to the CQ at trick two,
+Karwur thought it a good idea to get rid of his spade loser.
+It wasn't, because now NS could force declarer, preventing him
+from using his established diamonds. Two down: minus 100. If
+Karwur leads a low diamond at trick three, he later can ruff
+a diamond and use dummy's S9 to force a trump from South - a
+line that results in nine tricks.
+}
+[Auction "N"]
+1S Pass Pass 2H 
+Pass 3C Pass 3D 
+Pass 3H Pass Pass 
+Pass    
+[Play "N"]
+SK S4 S3 SJ 
+CQ C2 C6 CK 
+H9 HQ H4 H2 
+C4 CA C8 SQ 
+DJ D2 D4 D6 
+S5 S7 ST H3 
+HT HA H5 H7 
+DK D9 DT DQ 
+SA S9 D8 H8 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "13"]
+[Room "Closed"]
+[West "Eric Rodwell"]
+[North "Eddy Manoppo"]
+[East "J. Meckstroth"]
+[South "Henky Lasut"]
+[Dealer "N"]
+[Deal "S:T3.J654.T84.JT86 QJ.K8732.AQ653.K AK8652.T9.KJ7.Q4 974.AQ.92.A97532"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+CR - When Rodwell balanced with 2H, and later treated his spades
+honors as a full stopper, Meckstroth fell in love with his heart
+honors and raised to 3NT. Manoppo's attitude lead away from the
+ace-king was a good start for Rodwell, but as he "knew" the DK
+was with North, the contract depended strictly on hearts three-three.
+When they split four-two, Rodwell had to go two down: minus 200.
+Although USA started with a 12-IMP carryover, Indonesia had scored
+36 unanswered IMPs in the first stanza, and led 36-12 to start
+the second.
+}
+[Auction "N"]
+1S Pass Pass 2H 
+Pass 2S Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Play "N"]
+S2 S4 ST SQ 
+C4 C2 C6 CK 
+H9 HA H5 H3 
+HT HQ H4 H2 
+CQ CA C8 D5 
+D7 D9 D4 DA 
+DJ C3 H6 HK 
+SA S7 S3 SJ 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "14"]
+[Room "Open"]
+[West "Franky Karwur"]
+[North "Bob Hamman"]
+[East "Denny Sacul"]
+[South "Paul Soloway"]
+[Dealer "E"]
+[Deal "S:Q6.AJ7653.KQ83.Q AKJ832.92.T96.65 T.Q8.54.AKJ98732 9754.KT4.AJ72.T4"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "S"]
+{
+OR - After a nice quiet start to the auction it was up to Bob
+Hamman, North, to decide upon the final denomination. He must
+have been worried about the value of his eight-card club suit
+in a heart contract, but with some ruffing values and trump support,
+he raised 3H to four. This would have been fine had Soloway's
+trumps been slightly better. Declarer did his best in the play,
+but suffered a trump promotion in the ending for one down: minus
+50.
+}
+[Auction "E"]
+Pass 1H 1S 2C 
+2S 3H Pass 4H 
+Pass Pass Pass  
+[Play "W"]
+SA ST S7 S6 
+C6 CA CT CQ 
+D6 D4 D2 DK 
+SK H8 S4 SQ 
+C5 CK C4 D3 
+D9 D5 DA D8 
+DT C2 D7 DQ 
+H2 HQ HK H3 
+H9 C3 DJ H7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "14"]
+[Room "Closed"]
+[West "Eric Rodwell"]
+[North "Eddy Manoppo"]
+[East "J. Meckstroth"]
+[South "Henky Lasut"]
+[Dealer "E"]
+[Deal "S:Q6.AJ7653.KQ83.Q AKJ832.92.T96.65 T.Q8.54.AKJ98732 9754.KT4.AJ72.T4"]
+[Vulnerable "None"]
+[Contract "5C"]
+[Declarer "N"]
+{
+CR - The Dutch world champion Marijke van der Pas once wrote
+a Bols tip called: 'Play in your own long suit.' Manoppo followed
+this advice when he simply blasted 5C over 1S, not worrying about
+a possible slam opposite a limited partner (strong club system).
+This proved to be the right decision. In 5C declarer needed to
+find only the DA or the HK onside (after a spade lead). There
+was no defense on this layout: plus 400. 10 IMPs to Indonesia,
+46-12.
+}
+[Auction "E"]
+Pass 1H 1S 5C 
+Pass Pass Pass  
+[Play "E"]
+S5 S6 SJ ST 
+S4 SQ SA C3 
+DA D3 DT D4 
+H4 HA H2 H8 
+C4 CQ C5 CA 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "15"]
+[Room "Open"]
+[West "Franky Karwur"]
+[North "Bob Hamman"]
+[East "Denny Sacul"]
+[South "Paul Soloway"]
+[Dealer "S"]
+[Deal "S:K653.A93.Q52.975 QT92.K2.AJT63.Q4 AJ4.QJ654.84.863 87.T87.K97.AKJT2"]
+[Vulnerable "NS"]
+[Contract "3D"]
+[Declarer "W"]
+{
+OR - The Indonesians bid to an unmolested 3D when Hamman deemed
+the North hand unworthy of a vulnerable overcall. A reasonable
+3NT was missed (declarer must guess the diamonds correctly, more
+or less) when Karwur "conservatively" passed 3D. Hamman started
+the HQ to Soloway's ace, and the S3 went to the jack. Hamman
+switched back to hearts. When Karwur passed the D10 to Soloway's
+queen, he maintained control and communications and had nine
+tricks, losing two spades, one heart and one diamond. Plus 110.
+[DC]
+}
+[Auction "S"]
+Pass 1D Pass 2C 
+Pass 2D Pass 3D 
+Pass Pass Pass  
+[Play "N"]
+HQ H7 HA H2 
+SJ S7 S3 S2 
+H6 H8 H9 HK 
+D4 D7 DQ DT 
+SA S8 S5 ST 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "15"]
+[Room "Closed"]
+[West "Eric Rodwell"]
+[North "Eddy Manoppo"]
+[East "J. Meckstroth"]
+[South "Henky Lasut"]
+[Dealer "S"]
+[Deal "S:K653.A93.Q52.975 QT92.K2.AJT63.Q4 AJ4.QJ654.84.863 87.T87.K97.AKJT2"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+CR - An active auction in this room, as should be expected with
+Meckwell present. Here Manoppo saw value in the North hand, and
+Lasut's raise forced some close decisions on the Americans. East's
+sequence srongly sugested a sixth club so Rodwell, counting on
+the CQ to solidify the suit, shot out 3NT. Hearts were cleared
+and on the run of the clubs the defenders discarded only spades.
+Now Manoppo's overcall payed a huge dividend when Rodwell, crediting
+Lasut with the HA and a top spade, played the overcaller for
+the DQ. Down one; 4 IMPs to Indonesia.
+}
+[Auction "S"]
+Pass 1D 1H 2C 
+2H Pass Pass X 
+Pass 2S Pass 3C 
+Pass 3NT Pass Pass 
+Pass    
+[Play "N"]
+H4 H7 HA H2 
+HQ H8 H9 HK 
+C8 C2 C5 CQ 
+C3 CA C7 C4 
+C6 CK C9 S2 
+S4 CJ S5 S9 
+SJ CT S3 ST 
+D4 D7 D2 DA 
+D8 DK D5 DJ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "16"]
+[Room "Open"]
+[West "Franky Karwur"]
+[North "Bob Hamman"]
+[East "Denny Sacul"]
+[South "Paul Soloway"]
+[Dealer "W"]
+[Deal "S:95.A32.T54.QJ862 7632.T9754.J3.K7 K.KQJ.K9872.A954 AQJT84.86.AQ6.T3"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "E"]
+{
+OR - Hamman treated his SK as a doubleton and opened 1NT (14-16),
+and Sacul doubled to show a one-suiter. 2C asked Sacul to pass
+with clubs, and Hamman took the chance to introduce his diamonds
+while the bidding was low. Momentum carried E/W to 4S, and Soloway
+led the D4. Had Sacul played low from dummy, Hamman has to withhold
+the DK to defeat the contract - hardly an obvious play (Soloway
+may have Q654). But when he put up the DJ, N/S were in command.
+Soloway hopped up with the HA and returned the CQ. One down:
+minus 100.
+}
+[Auction "W"]
+Pass 1NT X Pass 
+2C 2D 2S 3D 
+3S Pass 4S Pass 
+Pass Pass   
+[Play "S"]
+D4 DJ DK DA 
+HA H4 HK H8 
+CQ CK CA C3 
+CJ C7 C4 CT 
+H3 HT HQ H6 
+H2 H5 HJ ST 
+D5 D3 D2 DQ 
+DT S3 D7 D6 
+- S7 SK SA 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "16"]
+[Room "Closed"]
+[West "Eric Rodwell"]
+[North "Eddy Manoppo"]
+[East "J. Meckstroth"]
+[South "Henky Lasut"]
+[Dealer "W"]
+[Deal "S:95.A32.T54.QJ862 7632.T9754.J3.K7 K.KQJ.K9872.A954 AQJT84.86.AQ6.T3"]
+[Vulnerable "EW"]
+[Contract "3S"]
+[Declarer "E"]
+{
+CR - Can you believe it? Manoppo also thought the North hand
+was OK for 1NT. And when Meckstroth's natural 2S overcall was
+passed around to him, he re-opened with a double although his
+SK had no value. What a tough guy! He managed to push EW to 3S,
+but that contract was cold so his efforts were in vain. More
+so since 4C is defeated only if Rodwell finds the unlikely diamond
+lead. Would you have bid 4C with Lasut's cards? Maybe you should.
+Now it was 3S making three: plus 140. 6 IMPs to USA, their first
+in the match. Indonesia, 50-18.[AW]
+}
+[Auction "W"]
+Pass 1NT 2S Pass 
+Pass X Pass 3C 
+3S Pass Pass Pass 
+[Play "S"]
+S9 S2 SK SA 
+S5 S3 D2 SQ 
+H3 HT HJ H6 
+HA H4 HK H8 
+CQ CK CA C3 
+CJ C7 C5 CT 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "17"]
+[Room "Open"]
+[West "Franky Karwur"]
+[North "Bob Hamman"]
+[East "Denny Sacul"]
+[South "Paul Soloway"]
+[Dealer "N"]
+[Deal "S:.QT864.KJ96.JT94 653.J92.A82.8762 AK9742.A3.Q5.KQ5 QJT8.K75.T743.A3"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+OR - 1C was strong, 1D negative, 1S natural and forcing, and
+2C an artificial 5-7 relay without support (2H would have promised
+six). After some natural bidding 3NT was reached. The repeated
+spade bids convinced East to lead a diamond. Declarer could have
+done better by putting in the nine at the first trick. West would
+then have been forced to duck his ace twice to prevent declarer
+from taking three diamond tricks. As it went it was up to Hamman
+to guess hearts at trick six. When he failed to do that he went
+one down: minus 50.
+}
+[Auction "N"]
+1C Pass 1D Pass 
+1S Pass 2C Pass 
+2NT Pass 3H Pass 
+3S Pass 3NT Pass 
+Pass Pass   
+[Play "E"]
+D3 D6 D8 DQ 
+D4 DK DA D5 
+S8 H4 S6 S7 
+SQ H6 S5 S4 
+H5 HT HJ HA 
+CA C4 C2 CK 
+HK H8 H2 H3 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "17"]
+[Room "Closed"]
+[West "Eric Rodwell"]
+[North "Eddy Manoppo"]
+[East "J. Meckstroth"]
+[South "Henky Lasut"]
+[Dealer "N"]
+[Deal "S:.QT864.KJ96.JT94 653.J92.A82.8762 AK9742.A3.Q5.KQ5 QJT8.K75.T743.A3"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+CR - Lasut upgraded his hand to make a positive response to the
+strong club. Against 3NT Meckstroth led the SQ and continued
+the suit when declarer held up. West did well to duck his ace
+of diamonds twice to give the defense any chance at all. The
+four-card ending was cute. If Rodwell had played a heart declarer
+undoubtedly would have risen with the ace to throw East in with
+the HK. After the spade return Manoppo got the hearts right for
+Plus 400 and a 10-IMP gain. Indonesia led now, 60-18.
+}
+[Auction "N"]
+1C Pass 1H Pass 
+1S Pass 2D Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+SQ H4 S6 S2 
+SJ H6 S5 SA 
+C3 C4 C8 CK 
+CA C9 C7 CQ 
+D3 D9 D2 D5 
+D4 D6 D8 DQ 
+D7 CT C2 C5 
+H7 CJ C6 S4 
+DT DJ DA S7 
+S8 H8 S3 SK 
+ST DK H2 S9 
+H5 HQ H9 H3 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "18"]
+[Room "Open"]
+[West "Franky Karwur"]
+[North "Bob Hamman"]
+[East "Denny Sacul"]
+[South "Paul Soloway"]
+[Dealer "E"]
+[Deal "S:J65.AKJT62.2.A52 A87.983.AKT4.QT7 KQ432.754.J75.84 T9.Q.Q9863.KJ963"]
+[Vulnerable "NS"]
+[Contract "4D"]
+[Declarer "W"]
+{
+OR - Sacul's "Sandwich NT" certainly hit gold in Karwur's mind.
+He "walked the dog" with his 3D and 4D bids. Hamman's 1S bid
+(usually at least five) gave N/S a remote shot at arriving in
+the lucky heart game. Soloway seemed to do his best with a 2S
+raise, and a free 3H bid. The spade "filling" and doubleton club
+being the key to handling a tenth trick in hearts. A tough hand
+to judge. The SK lead held Karwur to his contract. He lost one
+spade, one heart and one club for plus 130.
+}
+[Auction "E"]
+Pass 1H Pass 1S 
+1NT 2S 3D Pass 
+Pass 3H 4D Pass 
+Pass Pass   
+[Play "N"]
+SK S9 S5 SA 
+D5 D3 D2 DA 
+D7 D6 C2 DK 
+DJ DQ H2 D4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "18"]
+[Room "Closed"]
+[West "Eric Rodwell"]
+[North "Eddy Manoppo"]
+[East "J. Meckstroth"]
+[South "Henky Lasut"]
+[Dealer "E"]
+[Deal "S:J65.AKJT62.2.A52 A87.983.AKT4.QT7 KQ432.754.J75.84 T9.Q.Q9863.KJ963"]
+[Vulnerable "NS"]
+[Contract "4C"]
+[Declarer "E"]
+{
+CR - Rodwell was more active with the West hand than Karwur in
+the Open Room. He doubled 1H, and Meckstroth competed to 3C (stressing
+the lead value) over the 2H raise. Sacul eschewed any game try,
+and merely competed with 3H, ending game chances. Meckstroth's
+balancing 3NT was along the lines of: four diamonds and longer
+clubs. Rodwell chose to play in clubs, and the singleton D2 was
+led by Sacul. As there was no quick entry to the North hand,
+declarer escaped any diamond ruff, and had ten tricks: plus 130.
+No swing. USA still way behind, 18-60.
+}
+[Auction "E"]
+Pass 1H X 2H 
+3C 3H Pass Pass 
+3NT Pass 4C Pass 
+Pass Pass   
+[Play "S"]
+D2 DA D7 D8 
+CA C7 C4 CK 
+HK H3 H4 HQ 
+S5 SA S4 S9 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "19"]
+[Room "Open"]
+[West "Franky Karwur"]
+[North "Bob Hamman"]
+[East "Denny Sacul"]
+[South "Paul Soloway"]
+[Dealer "S"]
+[Deal "S:54.74.KQJ43.Q732 JT32.AJ.A5.AJ854 AQ76.KT6.T82.K96 K98.Q98532.976.T"]
+[Vulnerable "EW"]
+[Contract "3H"]
+[Declarer "W"]
+{
+OR - Because of systemic considerations (1C would be 16+), Karwur's
+choice of opening bids was between an off-shape 1NT or a catch-all
+1D. When he chose the former, Sacul showed 5+ hearts with 2D,
+and Soloway seized the chance to double for the lead. Karwur
+accepted the transfer, which for most pairs means would show
+a third heart. Maybe Sacul thought so too, since over Hamman's
+3D he bid one more. 3H should make easily enough, but Karwur
+mistimed the play and went one down on a spade ruff: minus 100.
+}
+[Auction "S"]
+Pass 1NT Pass 2D 
+X 2H 3D 3H 
+Pass Pass Pass  
+[Play "N"]
+D2 D6 DQ D5 
+D8 D7 DK DA 
+S7 S8 S5 SJ 
+C6 CT C2 CA 
+C9 H2 C3 C5 
+HK H3 H4 HJ 
+SA S9 S4 S2 
+S6 SK H7 S3 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "19"]
+[Room "Closed"]
+[West "Eric Rodwell"]
+[North "Eddy Manoppo"]
+[East "J. Meckstroth"]
+[South "Henky Lasut"]
+[Dealer "S"]
+[Deal "S:54.74.KQJ43.Q732 JT32.AJ.A5.AJ854 AQ76.KT6.T82.K96 K98.Q98532.976.T"]
+[Vulnerable "EW"]
+[Contract "3D"]
+[Declarer "N"]
+{
+CR - After the same similarly-motivated start as in the open
+room, Rodwell's pass showed two hearts, and when Manoppo "raised"
+to 3D, Meckstroth applied "total tricks reasoning" and passed,
+expecting both sides to have eight trumps only. Then, it's wrong
+to bid three over three as at least one of the contracts figures
+to go down. After the C10 lead, the defense took three aces and
+two club ruffs plus a late spade trick. Two down: minus 100.
+5 IMPs to USA, but had Karwur made 3H at the other table, Indonesia
+would have gained an IMP. Indonesia, 60-23.
+}
+[Auction "S"]
+Pass 1NT Pass 2D 
+X Pass 3D Pass 
+Pass Pass   
+[Play "E"]
+CT CQ CA C6 
+D7 C2 CJ CK 
+H5 H4 HA H6 
+D6 C3 C5 C9 
+D9 DK DA D2 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "20"]
+[Room "Open"]
+[West "Franky Karwur"]
+[North "Bob Hamman"]
+[East "Denny Sacul"]
+[South "Paul Soloway"]
+[Dealer "W"]
+[Deal "S:Q93.Q4.T64.KT752 AJ.KJ532.AQ953.A 865.T87.872.QJ63 KT742.A96.KJ.984"]
+[Vulnerable "Both"]
+[Contract "6H"]
+[Declarer "W"]
+{
+OR - An excellent 6H for EW. Karwur-Sacul got there after a strong
+club auction. 3H set trumps and a series of cuebids followed.
+When East didn't make a positive move over 4S West settled for
+the small slam. The play was textbook-like. Assuming there was
+no diamond loser, declarer could afford one trump loser, but
+not two. Karwur duly played king of hearts and a heart to the
+nine to guard himself against Q10-fourth in North. This held
+him to twelve tricks: plus 980.
+}
+[Auction "W"]
+1C Pass 1S Pass 
+2H Pass 3H Pass 
+4C Pass 4D Pass 
+4S Pass 5H Pass 
+6H Pass Pass Pass 
+[Play "N"]
+CQ C4 C5 CA 
+H7 H6 H4 HK 
+H8 H9 HQ H2 
+C3 C8 CK HJ 
+HT HA C2 H3 
+D2 DK D4 D3 
+D7 DJ D6 D5 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "20"]
+[Room "Closed"]
+[West "Eric Rodwell"]
+[North "Eddy Manoppo"]
+[East "J. Meckstroth"]
+[South "Henky Lasut"]
+[Dealer "W"]
+[Deal "S:Q93.Q4.T64.KT752 AJ.KJ532.AQ953.A 865.T87.872.QJ63 KT742.A96.KJ.984"]
+[Vulnerable "Both"]
+[Contract "6H"]
+[Declarer "E"]
+{
+CR - Meckstroth-Rodwell used a space-ace auction: 1C=strong;
+1H=spades; 1S=H; 2H=good "raise"; natural bidding, cue-bids,
+then 4S RKCB; 5D for the HQ; denial; conclusion. In the play
+Meckstroth also took the safety play in trumps, but thereafter
+he played a little more carefully, testing spade before committing
+himself to diamonds. Plus 980, no swing.
+}
+[Auction "W"]
+1C Pass 1H Pass 
+1S Pass 2H Pass 
+3D Pass 3H Pass 
+3S Pass 3NT Pass 
+4C Pass 4H Pass 
+4S Pass 5C Pass 
+5D Pass 5H Pass 
+6H Pass Pass Pass 
+[Play "S"]
+C5 CA C6 C4 
+H4 HK H7 H6 
+HQ H2 H8 H9 
+D6 D3 D2 DJ 
+C2 H3 HT HA 
+S3 SA S5 S2 
+S9 SJ S6 SK 
+SQ H5 S8 S4 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "21"]
+[Room "Open"]
+[West "Franky Karwur"]
+[North "Bob Hamman"]
+[East "Denny Sacul"]
+[South "Paul Soloway"]
+[Dealer "N"]
+[Deal "S:954.853.A42.AJT8 AKT8.A2.Q76.9642 J73.Q6.KJ983.KQ5 Q62.KJT974.T5.73"]
+[Vulnerable "NS"]
+[Contract "2H"]
+[Declarer "E"]
+{
+OR - Sacul closed proceedings with a weak-jump overcall of 2H,
+Hamman choosing to pass it out with his balanced minimum. This
+was one of the possibilities for his diamond opener, and remaining
+quiet essentially showed it. A reopening double wouldn't cater
+to this hand type, so "silence was golden". 3D would be down
+one off the top (with the diamond guess to come, the thirteenth
+spade creating possibilities in the trump suit). The H5 lead
+didn't test declarer greatly. He had six hearts and four spades
+for ten tricks: plus 170.
+}
+[Auction "N"]
+1D 2H Pass Pass 
+Pass    
+[Play "S"]
+H5 H2 HQ HK 
+H3 HA H6 H4 
+S4 SA S3 S2 
+S5 S8 S7 SQ 
+H8 C2 D3 HJ 
+D2 C4 D8 HT 
+S9 SK SJ S6 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "21"]
+[Room "Closed"]
+[West "Eric Rodwell"]
+[North "Eddy Manoppo"]
+[East "J. Meckstroth"]
+[South "Henky Lasut"]
+[Dealer "N"]
+[Deal "S:954.853.A42.AJT8 AKT8.A2.Q76.9642 J73.Q6.KJ983.KQ5 Q62.KJT974.T5.73"]
+[Vulnerable "NS"]
+[Contract "2H"]
+[Declarer "E"]
+{
+CR - CR - Meckstroth, true to form, judged this to be a 1H overcall.
+Over Sacul's negative double, Rodwell redoubled to show his strength.
+Meckstroth's 2H bid ended the auction at a different tempo than
+the Open Room, but ended it nonetheless. The H5 lead gave declarer
+the same route to ten tricks as in the Open Room: plus 170. No
+swing. USA were having trouble scoring, and trailed 60-23 at
+this point.
+}
+[Auction "N"]
+1D 1H X XX 
+Pass 2H Pass Pass 
+Pass    
+[Play "S"]
+H5 H2 HQ HK 
+H3 HA H6 H4 
+S4 SA S3 S2 
+S5 S8 S7 SQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "22"]
+[Room "Open"]
+[West "Franky Karwur"]
+[North "Bob Hamman"]
+[East "Denny Sacul"]
+[South "Paul Soloway"]
+[Dealer "E"]
+[Deal "S:QJT43.A8.T52.AJ8 87.KJT54.3.KQ954 AK62.3.KQ976.T76 95.Q9762.AJ84.32"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "S"]
+{
+OR - Hamman showed his main feature before raising to 3S, forcing,
+just in case Soloway had the right cards for slam, then signed
+off in 4S. With the contract played from the right side, it was
+never in danger, and on the CK lead Soloway made ten tricks by
+drawing trumps. Making four: plus 420.
+}
+[Auction "E"]
+Pass 1S Pass 2D 
+Pass 2S Pass 3S 
+Pass 3NT Pass 4S 
+Pass Pass Pass  
+[Play "W"]
+CK C6 C3 CA 
+S7 SA S5 S3 
+S8 S2 S9 SJ 
+D3 DK DA D2 
+CQ C7 C2 C8 
+C5 CT H2 CJ 
+H5 - - DT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "22"]
+[Room "Closed"]
+[West "Eric Rodwell"]
+[North "Eddy Manoppo"]
+[East "J. Meckstroth"]
+[South "Henky Lasut"]
+[Dealer "E"]
+[Deal "S:QJT43.A8.T52.AJ8 87.KJT54.3.KQ954 AK62.3.KQ976.T76 95.Q9762.AJ84.32"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "S"]
+{
+CR - At this table, Manoppo jumped to 4H, showing prime spade
+support, a singleton heart and values for game. Lasut had quite
+a good hand in context, with nothing wasted in hearts and two
+aces, but since he had to go past the safety level of 4S to make
+a slam try, he wisely signed off in game, for plus 420, and a
+push.
+}
+[Auction "E"]
+Pass 1S Pass 4H 
+Pass 4S Pass Pass 
+Pass    
+[Play "W"]
+D3 DK DA D5 
+CQ C6 C3 C8 
+C9 C7 C2 CJ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "23"]
+[Room "Open"]
+[West "Franky Karwur"]
+[North "Bob Hamman"]
+[East "Denny Sacul"]
+[South "Paul Soloway"]
+[Dealer "S"]
+[Deal "S:AKJ82.K9.QJ86.94 763.86432.A974.7 QT.AQT5.K3.86532 954.J7.T52.AKQJT"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+OR - A hand for a bidding contest! Can N/S avoid 3NT and end
+up in 4S instead? It was too tough for Hamman-Soloway, who had
+a natural sequence to the obvious (= no fit) game. East had the
+easiest lead problem ever and got cute by leading fifth best.
+On the run of the clubs West discouraged both hearts and spades,
+so East duly found the diamonds shift for two down: minus 200.
+}
+[Auction "S"]
+1S Pass 1NT Pass 
+2D Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+CT C4 C7 C2 
+CJ C9 H2 C3 
+CA D6 S3 C5 
+CK H9 H3 C6 
+CQ HK H4 C8 
+D2 D8 DA D3 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "23"]
+[Room "Closed"]
+[West "Eric Rodwell"]
+[North "Eddy Manoppo"]
+[East "J. Meckstroth"]
+[South "Henky Lasut"]
+[Dealer "S"]
+[Deal "S:AKJ82.K9.QJ86.94 763.86432.A974.7 QT.AQT5.K3.86532 954.J7.T52.AKQJT"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+CR - Manoppo might have tried something more sofisticated after
+2D, but as you have probably noticed he likes to bid to the final
+contract quickly. Of course, the defense again cashed out for
+two down. No swing.
+}
+[Auction "S"]
+1S Pass 2C Pass 
+2D Pass 3NT Pass 
+Pass Pass   
+[Play "E"]
+CA C4 C7 C6 
+CT C9 H6 C2 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "24"]
+[Room "Open"]
+[West "Franky Karwur"]
+[North "Bob Hamman"]
+[East "Denny Sacul"]
+[South "Paul Soloway"]
+[Dealer "W"]
+[Deal "S:J2.J7.K5.KJT8432 Q743.T983.A98.95 K.AKQ52.QJT4.AQ7 AT9865.64.7632.6"]
+[Vulnerable "None"]
+[Contract "5C"]
+[Declarer "N"]
+{
+OR - Soloway announced a club positive over Sacul's weak 2S,
+and Karwur took the three-level from Hamman, who made a forcing
+pass to await developments. Soloway reopened with an action double,
+leaving Hamman a complex problem. He solved it by burying his
+hearts and supporting clubs, then subsided over Soloway's 5C.
+Soloway would have cue-bid 4D/4S with an ace, so Hamman was virtually
+certain that the pointed aces were with the opposition. The SA
+was cashed, followed by the D7 to West's ace. Declarer had the
+remainder of the tricks for plus 400.
+}
+[Auction "W"]
+Pass 1C 2S 3C 
+3S Pass Pass X 
+Pass 4C Pass 5C 
+Pass Pass Pass  
+[Play "E"]
+SA S2 S4 SK 
+D7 D5 DA D4 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S2"]
+[Board "24"]
+[Room "Closed"]
+[West "Eric Rodwell"]
+[North "Eddy Manoppo"]
+[East "J. Meckstroth"]
+[South "Henky Lasut"]
+[Dealer "W"]
+[Deal "S:J2.J7.K5.KJT8432 Q743.T983.A98.95 K.AKQ52.QJT4.AQ7 AT9865.64.7632.6"]
+[Vulnerable "None"]
+[Contract "5C"]
+[Declarer "N"]
+{
+CR - The strong club auction was identical up to the 3S juncture.
+Manoppo, encouraged by partner's 3C bid (5+ clubs and 8+ HCP),
+decided to gamble that Lasut held a diamond control (highly likely
+on the given auction to date), and launched into RKCB. The 5C
+response showed one keycard (1430 responses), and Manoppo dropped
+him like a hot potato. The defense grabbed their two aces immediately,
+and declarer had his eleven tricks: plus 400. No swing. Indonesia
+won the set 24-11 and led 60-23 with only twelve deals remaining.
+}
+[Auction "W"]
+Pass 1C 2S 3C 
+3S 4NT Pass 5C 
+Pass Pass Pass  
+[Play "E"]
+SA S2 S3 SK 
+D7 D5 DA DQ 
+*
+[Result "11"]
+

@@ -1,0 +1,1432 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "European Team Championships '99"]
+[Site "Malta, MLT"]
+[Date "1999.06.25"]
+[Board "1"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J2.QJT95.A963.96 K8.84.KQ87.AJ832 T3.K63.JT52.KQ75 AQ97654.A72.4.T4"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS -450"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+Pass 1NT Pass 2H
+X Pass Pass 4S
+Pass Pass Pass
+[Play "N"]
+HQ H4 H6 HA
+D3 DQ D2 D4
+H9 H8 H3 H2
+SJ SK S3 S4
+D6 D7 D5 S5
+H5 S8 HK H7
+D9 D8 DT S6
+S2 C2 ST SA
+HT C3 C5 SQ
+C6 C8 C7 S9
+HJ - - S7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "1"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J2.QJT95.A963.96 K8.84.KQ87.AJ832 T3.K63.JT52.KQ75 AQ97654.A72.4.T4"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -450"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1D Pass 4S
+Pass Pass Pass
+[Play "N"]
+HQ H4 H6 HA
+D3 DK D2 D4
+HJ H8 HK H7
+S2 SK ST S4
+D6 D7 D5 S6
+H5 S8 H3 H2
+D9 D8 DT S5
+SJ C2 S3 SA
+H9 C3 C5 SQ
+HT C8 DJ S9
+C6 DQ CK S7
+C9 CA C7 C4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "2"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:52.Q62.J843.K964 97.AKJT7.KT.T753 AKQT8.9843.96.A8 J643.5.AQ752.QJ2"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "7"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS -100"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+Pass 1H 1S 2D
+Pass Pass Pass
+[Play "E"]
+S5 S7 SQ S3
+C4 C3 CA C2
+S2 S9 SK S4
+CK C5 C8 CQ
+C9 C7 D9 CJ
+C6 DT SA S6
+D3 DK D6 D2
+H2 HA H3 H5
+H6 H7 H4 D5
+D4 HT H8 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "2"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:52.Q62.J843.K964 97.AKJT7.KT.T753 AKQT8.9843.96.A8 J643.5.AQ752.QJ2"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1H 1S X
+Pass 2C Pass 2D
+Pass Pass Pass
+[Play "E"]
+S5 S7 SQ S6
+S2 S9 SA S3
+C4 C3 CA C2
+CK C5 C8 CQ
+C9 C7 D9 CJ
+H2 DT SK S4
+D3 DK D6 D2
+HQ HA H3 H5
+H6 H7 H9 D5
+D4 HT H4 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "3"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:43.65.KJ6532.A73 KJT.AQ84.Q74.KQJ Q987.3.AT8.T9654 A652.KJT972.9.82"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "^13"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS -710"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+1NT X XX Pass
+Pass 2C Pass 2H
+Pass Pass Pass
+[Play "S"]
+S3 ST SQ SA
+H5 H4 H3 HJ
+H6 H8 C4 HT
+CA CJ C5 C2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "3"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:43.65.KJ6532.A73 KJT.AQ84.Q74.KQJ Q987.3.AT8.T9654 A652.KJT972.9.82"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1C Pass 1H
+2D 2H 3D 3S
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+D3 DQ DA D9
+D2 D4 DT H2
+H5 HA H3 H9
+H6 H4 CT HK
+CA CJ C9 C8
+C7 CQ C5 C2
+C3 CK C4 S6
+S3 ST S7 SA
+S4 SJ SQ S5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "4"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ3.AQ8.96.KQ985 K94.J753.KQ72.76 8765.962.T5.AJ32 AT2.KT4.AJ843.T4"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "8"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS -90"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+1NT Pass Pass X
+Pass Pass XX Pass
+2C Pass Pass Pass
+[Play "N"]
+C6 C2 CT CK
+C7 CJ C4 C8
+SK S5 S2 SQ
+D2 DT DA D6
+H3 H2 HK HA
+DQ D5 D3 D9
+H5 H6 HT HQ
+HJ H9 H4 H8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "4"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ3.AQ8.96.KQ985 K94.J753.KQ72.76 8765.962.T5.AJ32 AT2.KT4.AJ843.T4"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -90"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1NT Pass Pass Pass
+[Play "N"]
+H5 H9 HK HA
+C6 CA C4 C5
+C7 CJ CT C9
+H3 C2 D3 CK
+S9 C3 D4 CQ
+- - - C8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "5"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T3.AKQT.AJ982.J9 A865.8763.K.KQT4 KJ72.54.QT6.8752 Q94.J92.7543.A63"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "10"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS 130"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+1D X 1S Pass
+2D Pass Pass Pass
+[Play "E"]
+CK C2 C3 C9
+C4 C5 CA CJ
+DK D6 D3 DA
+H3 H4 H2 HA
+H6 H5 H9 HK
+H7 S2 HJ HQ
+S5 DQ D4 D2
+- DT D5 DJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "5"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T3.AKQT.AJ982.J9 A865.8763.K.KQT4 KJ72.54.QT6.8752 Q94.J92.7543.A63"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 90"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1D Pass 1S Pass
+2D Pass Pass Pass
+[Play "E"]
+CK C2 C6 CJ
+CQ C5 C3 C9
+C4 C7 CA D2
+SA S2 S9 ST
+S5 SK S4 S3
+DK DT D3 D8
+CT C8 H9 D9
+H3 H4 HJ HA
+H6 H5 H2 HK
+H7 DQ SQ HT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "6"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:JT32.KJ8.86.J954 A975.543.52.AQ87 KQ84.QT7.KT7.K32 6.A962.AQJ943.T6"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS 130"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2S Pass 3D
+Pass Pass Pass
+[Play "E"]
+C5 C7 CK C6
+S2 SA SQ S6
+D6 D2 DK DA
+D8 D5 D7 DQ
+S3 H3 DT DJ
+H8 H4 HT H2
+SJ S5 S4 D3
+ST S7 S8 D9
+HJ H5 H7 D4
+HK - - HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "6"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:JT32.KJ8.86.J954 A975.543.52.AQ87 KQ84.QT7.KT7.K32 6.A962.AQJ943.T6"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 130"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1D 2D
+Pass Pass Pass
+[Play "E"]
+SJ SA S4 S6
+H8 H3 H7 HA
+HJ H4 HT H6
+S2 S5 SK D3
+HK H5 HQ H2
+S3 S7 SQ D4
+C4 CQ CK C6
+D6 D2 D7 DQ
+CJ CA C2 CT
+D8 D5 DT DJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "7"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KT975.986.62.T87 QJ6.QT543.AQ.A64 A843.AJ2.JT5.Q93 2.K7.K98743.KJ52"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS -600"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+Pass 1H Pass 1NT
+Pass 2C Pass 2S
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+ST SQ SA S2
+S7 SJ S3 H7
+D2 DA D5 D3
+D6 DQ DJ D4
+C8 C4 C9 CK
+H6 S6 DT DK
+H8 H3 HJ D9
+H9 H4 H2 D8
+C7 H5 C3 D7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "7"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KT975.986.62.T87 QJ6.QT543.AQ.A64 A843.AJ2.JT5.Q93 2.K7.K98743.KJ52"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -600"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1NT Pass 2NT
+Pass 3D Pass 3S
+X Pass Pass 5C
+Pass 5D Pass Pass
+Pass
+[Play "N"]
+D5 D3 D6 DQ
+H2 HK H9 H4
+SA S2 ST SJ
+HA H7 H6 H3
+S3 D4 ^R D2 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "8"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K976.J62.KQ65.93 852.AKQT95.8.J76 J43.83.JT73.KT42 AQT.74.A942.AQ85"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS 450"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2D Pass 2H
+Pass 2NT Pass 3NT
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+DJ DA D5 D8
+D3 D2 DQ H5
+C2 CQ C3 C6
+H3 H4 H2 HA
+H8 H7 H6 HK
+D7 ST HJ HQ
+CK CA C9 CJ
+DT D4 D6 H9
+CT C5 S6 C7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "8"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K976.J62.KQ65.93 852.AKQT95.8.J76 J43.83.JT73.KT42 AQT.74.A942.AQ85"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 430"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1NT 2H Pass 3NT
+Pass Pass Pass
+[Play "W"]
+DK D8 D3 D4
+DQ S2 DJ D2
+D6 S5 DT DA
+H6 H9 H3 H7
+C3 C6 C2 CA
+D5 C7 D7 D9
+H2 HA H8 H4
+- HK SJ C5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "9"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT42.K642.8654.A 96.53.KQT72.KT97 J87.AQJT9.AJ.Q63 AK53.87.93.J8542"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS 420"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+Pass Pass 1H Pass
+2S Pass 4H Pass
+Pass Pass
+[Play "W"]
+SA S2 S6 S7
+SK S4 S9 S8
+S3 ST H3 SJ
+D3 D4 DQ DA
+H7 H2 H5 H9
+H8 HK D2 HT
+- SQ - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "9"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QT42.K642.8654.A 96.53.KQT72.KT97 J87.AQJT9.AJ.Q63 AK53.87.93.J8542"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1H Pass
+2C Pass 2D Pass
+4C Pass 4D Pass
+4H Pass Pass Pass
+[Play "W"]
+SK S2 S6 S8
+SA S4 S9 SJ
+S3 SQ H3 S7
+D3 D4 DK DA
+H7 H2 H5 HQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "10"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A3.KJ9732.7.AJ64 Q942.Q8.AKQ832.2 KT7.65.JT6.KT987 J865.AT4.954.Q53"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS -100"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+1H 1NT Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+D7 DA D6 D4
+C4 C2 CK C3
+S3 D2 DT D5
+H9 HQ H5 H4
+SA S2 S7 S8
+HJ H8 H6 HA
+H2 SQ SK S5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "10"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A3.KJ9732.7.AJ64 Q942.Q8.AKQ832.2 KT7.65.JT6.KT987 J865.AT4.954.Q53"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 110"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1H 2D Pass 3D
+Pass Pass Pass
+[Play "W"]
+H6 HA H2 H8
+D6 D4 D7 DA
+DT D5 H3 DK
+DJ D9 C4 DQ
+S7 S8 SA S4
+- - S3 S2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "11"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:T982.KT93.J9.732 AQ53.52.AK76532. K74.A74..AKQJT98 J6.QJ86.QT84.654"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS 50"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+Pass 1D 3D X
+Pass Pass 4C Pass
+Pass 5C X 5D
+Pass Pass Pass
+[Play "N"]
+CA C4 C2 D3
+CK D4 D9 DK
+H7 HJ HK H5
+S4 - S2 S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "11"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:T982.KT93.J9.732 AQ53.52.AK76532. K74.A74..AKQJT98 J6.QJ86.QT84.654"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1C X XX
+Pass 2D 3C 3D
+3H 3S 4C 4D
+Pass 5D Pass Pass
+Pass
+[Play "N"]
+CA C4 C7 D3
+C8 D4 D9 DA
+C9 DQ DJ D2
+SK SJ S2 S5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "12"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AT.KT954.K.Q6543 K973.8763.Q652.J Q642.QJ2.A983.K7 J85.A.JT74.AT982"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS 50"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+1H Pass 1S Pass
+2C Pass 4H Pass
+Pass Pass
+[Play "N"]
+D2 D3 D7 DK
+CJ CK CA C6
+DQ DA D4 ST
+H3 C7 C8 CQ
+H6 H2 HA H4
+S3 S2 S8 SA
+D5 HJ C2 C3
+S7 S4 S5 H5
+D6 HQ C9 C4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "12"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AT.KT954.K.Q6543 K973.8763.Q652.J Q642.QJ2.A983.K7 J85.A.JT74.AT982"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1H Pass 1S Pass
+2C Pass 4H Pass
+Pass Pass
+[Play "N"]
+D5 D3 D7 DK
+CJ CK CA C5
+H8 H2 HA H4
+S3 S2 S8 SA
+H3 C7 CT CQ
+SK S4 S5 ST
+H6 HJ SJ H5
+D2 DA D4 C3
+S7 SQ C2 C4
+- S6 DT H9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "13"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q75.QJ95.98653.5 932.AT82.T2.KQJ3 AKJ84..AK7.98742 T6.K7643.QJ4.AT6"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS 620"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+Pass Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+DQ D3 D2 DA
+C6 C5 CJ C2
+ST SQ S2 S4
+H3 H5 HA S8
+CT S5 C3 C4
+D4 D5 DT DK
+CA S7 CQ C7
+H4 H9 H2 SJ
+S6 D6 S3 SA
+H6 D8 S9 SK
+DJ D9 H8 D7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "13"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q75.QJ95.98653.5 932.AT82.T2.KQJ3 AKJ84..AK7.98742 T6.K7643.QJ4.AT6"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1S Pass
+2S Pass 3C Pass
+4S Pass Pass Pass
+[Play "W"]
+H4 H9 HT S4
+C6 C5 CJ C4
+ST SQ S3 S8
+D4 D3 D2 DA
+CT S5 C3 C2
+DJ D5 DT DK
+CA S7 CK C7
+DQ D6 H2 D7
+H3 HQ HA SJ
+S6 D8 CQ C9
+HK H5 H8 SK
+H6 D9 S2 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "14"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:.8.AJ87532.JT654 KT98.T92.KQT9.A9 A754.AQJ765.64.8 QJ632.K43..KQ732"]
+[Declarer "W"]
+[Contract "4D"]
+[Result "9"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS 50"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+3NT Pass 4D Pass
+Pass Pass
+[Play "N"]
+SQ D2 S8 S4
+C7 C4 CA C8
+S6 DA DK D4
+H3 H8 HT HA
+S2 C5 S9 SA
+HK D3 H2 HQ
+C2 C6 C9 D6
+H4 CT H9 H5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "14"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:.8.AJ87532.JT654 KT98.T92.KQT9.A9 A754.AQJ765.64.8 QJ632.K43..KQ732"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 500"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+4D Pass 5D X
+Pass Pass Pass
+[Play "S"]
+HT HA H3 H8
+CA C8 CQ C4
+DK D4 S6 DA
+C9 D6 C2 C5
+S8 SA S2 C6
+S9 S4 SQ D2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "15"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:A5.T432.KT2.A865 QJT873.75.AJ5.KJ K642.K986.983.T9 9.AQJ.Q764.Q7432"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS -140"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+Pass 1S Pass 1NT
+X 2S Pass Pass
+Pass
+[Play "N"]
+CT C2 CA CK
+C9 C3 C5 CJ
+S2 S9 SA S3
+D8 DQ D2 D5
+D3 D4 DT DJ
+SK C4 S5 ST
+H6 HA H2 H5
+S4 CQ C6 H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "15"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:A5.T432.KT2.A865 QJT873.75.AJ5.KJ K642.K986.983.T9 9.AQJ.Q764.Q7432"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -170"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1S Pass 1NT
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+CT C2 CA CK
+D3 DQ DT D5
+S2 S9 S5 S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "16"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:975.T852.9732.Q8 Q42.KJ6.KJ8.J952 J863.Q93.AQT6.74 AKT.A74.54.AKT63"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS 460"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+Pass 1NT Pass 2NT
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+S6 SA S7 S4
+C4 CA C8 C2
+C7 CK CQ C5
+D6 C3 H2 CJ
+H3 CT S5 C9
+S3 ST S9 SQ
+H9 HA H5 H6
+HQ H4 H8 HK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "16"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:975.T852.9732.Q8 Q42.KJ6.KJ8.J952 J863.Q93.AQT6.74 AKT.A74.54.AKT63"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 430"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 2C Pass 2H
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "E"]
+S3 SA S9 S4
+C7 CA C8 C5
+C4 CK CQ CJ
+HQ H4 H2 HJ
+S6 SK S7 S2
+DQ D4 D2 DJ
+S8 ST S5 SQ
+- - - HK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "17"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJ2.T43.K86.AT72 A63.QJ65.JT32.43 T87.872.975.KQJ6 Q954.AK9.AQ4.985"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS -90"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1D Pass 1NT
+Pass Pass Pass
+[Play "N"]
+C2 C3 CJ C5
+CT C4 CK C8
+SJ SA S8 S9
+D6 DJ D5 D4
+H3 H5 H2 HA
+H4 H6 H7 HK
+HT HJ H8 H9
+CA HQ D7 C9
+D8 D2 D9 DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "17"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJ2.T43.K86.AT72 A63.QJ65.JT32.43 T87.872.975.KQJ6 Q954.AK9.AQ4.985"]
+[Declarer "N"]
+[Contract "1NTX"]
+[Result "5"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -300"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1NT Pass Pass X
+Pass Pass Pass
+[Play "E"]
+D2 D5 DQ DK
+C3 C6 C9 CA
+C4 CJ C5 C2
+S3 CQ C8 C7
+H5 CK S4 CT
+SA ST S5 SK
+D3 D7 DA D6
+HQ H2 HK H3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "18"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:9.853.A64.AKJ984 KJ732.AKT.QJT3.T AQ5.J742.87.7632 T864.Q96.K952.Q5"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "9"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS 100"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "E"]
+1C 1S X 2S
+3C 3D 3S 4S
+5C Pass Pass Pass
+[Play "S"]
+DQ D7 D2 DA
+CT C2 C5 CA
+S2 C3 CQ CK
+HK H2 H6 H3
+DT D8 D5 D4
+HA H4 H9 H5
+HT H7 HQ H8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "18"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:9.853.A64.AKJ984 KJ732.AKT.QJT3.T AQ5.J742.87.7632 T864.Q96.K952.Q5"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -200"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+2C 2S 2NT 3S
+4C 4S Pass Pass
+Pass
+[Play "W"]
+D8 DK DA DT
+D7 D2 D4 DQ
+H4 HQ H8 HT
+SA S4 S9 SK
+C2 C5 CK CT
+S5 D5 D6 D3
+SQ S6 C4 S2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "19"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:6.KQ9863.Q87.K72 Q52.T54.KJ4.AT83 AJ9874.2.AT5.954 KT3.AJ7.9632.QJ6"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "7"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS -150"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "S"]
+1H Pass 1S Pass
+2D Pass 2S Pass
+3S Pass 4H Pass
+Pass Pass
+[Play "W"]
+D4 D5 D9 DQ
+H4 H2 HA HQ
+CA C4 CJ CK
+DJ DA D2 D7
+S2 SA S3 S6
+S5 S4 SK H3
+H5 S7 H7 HK
+HT S8 HJ H6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "19"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:6.KQ9863.Q87.K72 Q52.T54.KJ4.AT83 AJ9874.2.AT5.954 KT3.AJ7.9632.QJ6"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+2H Pass 2S Pass
+3C Pass 3H Pass
+Pass Pass
+[Play "W"]
+H5 H2 HJ HK
+C3 C4 CJ C7
+CA C5 CQ CK
+CT C9 C6 C2
+S2 SA S3 S6
+S5 S4 ST H3
+DJ DA D2 D8
+SQ S7 SK H6
+DK D5 D3 DQ
+D4 DT D6 D7
+HT S8 D9 H8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "20"]
+[West "Moller S"]
+[North "Stamatov J"]
+[East "Godtfredsen S"]
+[South "Popov B"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q8742.T54.6.J742 AKJ.K3.KJT3.AKT5 T965.Q97.AQ954.3 3.AJ862.872.Q986"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "Bulgaria"]
+[Room "Open"]
+[Round "37"]
+[Score "NS -100"]
+[Table "16"]
+[VisitTeam "Denmark"]
+[Auction "W"]
+Pass 2D Pass 2H
+Pass 2NT Pass 3D
+Pass 3NT Pass 4C
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+D6 DJ DQ D2
+S7 D3 DA D7
+H5 DT D4 D8
+C2 CA C3 C6
+S2 SA S5 S3
+H4 HK H7 H2
+HT H3 H9 HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "20"]
+[West "Mihov V"]
+[North "ChristiansenS"]
+[East "Nanev I"]
+[South "Andersen M"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q8742.T54.6.J742 AKJ.K3.KJT3.AKT5 T965.Q97.AQ954.3 3.AJ862.872.Q986"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 600"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 2C Pass 2H
+Pass 2NT Pass 3D
+Pass 3NT Pass 4C
+Pass 4H Pass 4S
+Pass 4NT Pass 5C
+Pass Pass Pass
+[Play "E"]
+S9 S3 S8 SJ
+S5 D2 S2 SA
+S6 D7 S4 SK
+H7 H2 H4 HK
+H9 HA H5 H3
+DQ D8 D6 DT
+D4 C6 C7 D3
+ST C8 SQ DJ
+HQ H6 HT C5
+C3 C9 C2 CK
+D5 CQ S7 DK
+D9 H8 C4 CT
+*
+

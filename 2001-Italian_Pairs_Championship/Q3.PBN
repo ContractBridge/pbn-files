@@ -1,0 +1,378 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "2001 Italian Pairs"]
+[Site "Salsomaggiore, Italy, ITL"]
+[Date "2001.04.06"]
+[Round "Q3"]
+[Board "3"]
+[Room "Open"]
+[West "Cittadini"]
+[North "Rossano"]
+[East "Le Pera"]
+[South "Vivaldi"]
+[Dealer "S"]
+[Deal "S:AKT652.A9.QT64.6 QJ7.KT73.932.742 93.J65.AK8.AT953 84.Q842.J75.KQJ8"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "S"]
+1S Pass 2C Pass 
+2D Pass 2NT Pass 
+3S Pass 4S Pass 
+Pass Pass   
+[Play "W"]
+H3 H5 HQ HA 
+SQ S3 S4 SA 
+SJ S9 S8 S2 
+HK H6 H2 H9 
+C7 CA C8 C6 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q3"]
+[Board "4"]
+[Room "Open"]
+[West "Cittadini"]
+[North "Rossano"]
+[East "Le Pera"]
+[South "Vivaldi"]
+[Dealer "W"]
+[Deal "S:J.843.KJT764.K95 987653.52.95.J32 T2.QJ6.Q82.Q8764 AKQ4.AKT97.A3.AT"]
+[Vulnerable "Both"]
+[Contract "3H"]
+[Declarer "E"]
+[Auction "W"]
+Pass Pass 1C 1D 
+Pass 2D 3H Pass 
+Pass Pass   
+[Play "S"]
+DJ D5 D8 DA 
+H3 H2 H6 HA 
+H4 H5 HJ HK 
+H8 D9 HQ HT 
+D4 C2 DQ D3 
+D6 C3 D2 H7 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q3"]
+[Board "5"]
+[Room "Open"]
+[West "Avarello"]
+[North "Rossano"]
+[East "Pizza"]
+[South "Vivaldi"]
+[Dealer "N"]
+[Deal "S:K84.96.K73.QT642 QJ.QJ752.AQJT6.9 9762.AK843.4.875 AT53.T.9852.AKJ3"]
+[Vulnerable "NS"]
+[Contract "6D"]
+[Declarer "E"]
+[Auction "N"]
+Pass 1D Pass 2D 
+Pass 2S Pass 3H 
+Pass 4D Pass 5D 
+Pass 6D Pass Pass 
+Pass    
+[Play "S"]
+C2 C9 C8 C3 
+H6 H2 HK HT 
+S4 SJ S6 SA 
+C4 SQ C5 CA 
+D3 DT D4 D2 
+H9 H5 H3 D5 
+D7 D6 S2 D9 
+S8 DJ S7 S3 
+DK HQ HA D8 
+SK DQ S9 S5 
+C6 DA C7 ST 
+CT HJ H4 CJ 
+- H7 H8 - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q3"]
+[Board "6"]
+[Room "Open"]
+[West "Avarello"]
+[North "Rossano"]
+[East "Pizza"]
+[South "Vivaldi"]
+[Dealer "E"]
+[Deal "S:J3.AQT6.QT8.9743 KT9875.5.KJ54.J5 Q2.973.A7632.AK2 A64.KJ842.9.QT86"]
+[Vulnerable "EW"]
+[Contract "3D"]
+[Declarer "N"]
+[Auction "E"]
+Pass Pass 2S Pass 
+Pass X Pass 3D 
+Pass Pass Pass  
+[Play "E"]
+SA S3 S7 S2 
+S6 SJ SK SQ 
+C6 C3 C5 CA 
+H4 HT H5 H3 
+D9 D8 D4 DA 
+H2 DT DJ D2 
+S4 DQ DK D3 
+C8 C4 ST D6 
+HJ HQ D5 H7 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q3"]
+[Board "7"]
+[Room "Open"]
+[West "Carpentieri"]
+[North "Rossano"]
+[East "Guarino"]
+[South "Vivaldi"]
+[Dealer "S"]
+[Deal "S:95.3.AJT9765.AJ8 KJT8.T.Q32.Q7652 AQ7632.KQ65.8.KT 4.AJ98742.K4.943"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "N"]
+[Auction "S"]
+Pass Pass 1S 2H 
+3D Pass 3S Pass 
+4H Pass 4S Pass 
+Pass Pass   
+[Play "E"]
+HA H3 HT H5 
+C4 C8 CQ CK 
+H7 S9 ST H6 
+C3 CJ C2 CT 
+S4 S5 SJ SA 
+H2 D5 S8 S2 
+DK DA D2 D8 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q3"]
+[Board "8"]
+[Room "Open"]
+[West "Carpentieri"]
+[North "Rossano"]
+[East "Guarino"]
+[South "Vivaldi"]
+[Dealer "W"]
+[Deal "S:K97.96.AT4.QT743 Q853.AT542.92.J6 AJT6.87.KQ8763.9 42.KQJ3.J5.AK852"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "E"]
+[Auction "W"]
+2D X 4H Pass 
+Pass Pass   
+[Play "S"]
+DA D2 D8 D5 
+DT D9 DQ DJ 
+SK S3 S6 S2 
+S9 S5 ST S4 
+S7 S8 SA HJ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q3"]
+[Board "9"]
+[Room "Open"]
+[West "Callegari"]
+[North "Rossano"]
+[East "De Seriis"]
+[South "Vivaldi"]
+[Dealer "N"]
+[Deal "S:AT.7.AK732.K9875 K4.AKQJT86.J.643 92.54.Q98654.AQT QJ87653.932.T.J2"]
+[Vulnerable "EW"]
+[Contract "4D"]
+[Declarer "S"]
+[Auction "N"]
+Pass Pass 1D 1H 
+2D 2H 3H X 
+4D Pass Pass Pass 
+[Play "W"]
+HA H4 H2 H7 
+HK H5 H3 D2 
+DJ D4 DT DA 
+C3 CA C2 C5 
+C4 CQ CJ C7 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q3"]
+[Board "10"]
+[Room "Open"]
+[West "Callegari"]
+[North "Rossano"]
+[East "De Seriis"]
+[South "Vivaldi"]
+[Dealer "E"]
+[Deal "S:J652.KT43.K6432. A7.96.AT875.KQJ9 KQ4.J852.J.A8742 T983.AQ7.Q9.T653"]
+[Vulnerable "Both"]
+[Contract "2C"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 1D Pass 
+1S Pass 2C Pass 
+Pass Pass   
+[Play "N"]
+H2 HQ HK H6 
+S4 S3 S6 SA 
+DJ DQ DK D5 
+SQ S8 S2 S7 
+H5 HA H3 H9 
+CA C3 D2 C9 
+C2 C5 D3 CJ 
+C4 D9 D4 DA 
+HJ H7 H4 CQ 
+H8 S9 D6 D8 
+C8 ST HT DT 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q3"]
+[Board "11"]
+[Room "Open"]
+[West "Cosimi"]
+[North "Rossano"]
+[East "Magini"]
+[South "Vivaldi"]
+[Dealer "S"]
+[Deal "S:Q6.KQ.AKJT.KJ953 T3.AJT73.9875.T2 A52.9542.432.AQ8 KJ9874.86.Q6.764"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "N"]
+[Auction "S"]
+1C Pass 1NT 2S 
+3C Pass 3D Pass 
+3S Pass 3NT Pass 
+Pass Pass   
+[Play "E"]
+S4 SQ ST S2 
+D6 DA D5 D2 
+C4 C3 C2 CA 
+DQ DK D7 D3 
+H6 HK HA H2 
+S7 S6 S3 SA 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q3"]
+[Board "12"]
+[Room "Open"]
+[West "Cosimi"]
+[North "Rossano"]
+[East "Magini"]
+[South "Vivaldi"]
+[Dealer "W"]
+[Deal "S:QJT96.K2.A.QJ964 843.JT854.J6.AK8 K52.Q96.KQT987.7 A7.A73.5432.T532"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "W"]
+Pass Pass Pass 1S 
+Pass 2C Pass 3C 
+Pass 4S Pass Pass 
+Pass    
+[Play "W"]
+CK C7 C5 C4 
+HJ H6 H3 HK 
+D6 D7 D2 DA 
+CA S2 C2 CQ 
+DJ DK D3 H2 
+H4 H9 H7 S6 
+C8 SK C3 C6 
+S3 S5 S7 SJ 
+S4 D8 SA SQ 
+H5 HQ HA S9 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q3"]
+[Board "13"]
+[Room "Open"]
+[West "Sommella"]
+[North "Rossano"]
+[East "Bottone"]
+[South "Vivaldi"]
+[Dealer "N"]
+[Deal "S:T82.KQ2.432.A532 Q93.JT86.AK76.K6 AJ764.A743.QJ5.8 K5.95.T98.QJT974"]
+[Vulnerable "Both"]
+[Contract "3S"]
+[Declarer "N"]
+[Auction "N"]
+1S Pass 1NT Pass 
+2H Pass 3S Pass 
+Pass Pass   
+[Play "E"]
+CQ CA C6 C8 
+SK S2 S3 SJ 
+CJ C2 CK S4 
+H5 HK H6 H3 
+D8 D2 D6 DQ 
+S5 S8 S9 SA 
+H9 HQ H8 H4 
+C4 H2 HJ HA 
+C7 ST HT H7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q3"]
+[Board "14"]
+[Room "Open"]
+[West "Sommella"]
+[North "Rossano"]
+[East "Bottone"]
+[South "Vivaldi"]
+[Dealer "E"]
+[Deal "S:752.JT9.Q86.9432 J94.8765.AK3.AQ7 K6.A2.T974.JT865 AQT83.KQ43.J52.K"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "E"]
+[Auction "E"]
+1S Pass 2C Pass 
+2H Pass 4H Pass 
+Pass Pass   
+[Play "S"]
+HJ H5 H2 HQ 
+D8 DK D4 D2 
+H9 H6 HA H3 
+DQ DA DT DJ 
+HT H8 C5 HK 
+C2 CA C6 CK 
+C3 CQ C8 D5 
+S2 S9 SK SA 
+*
+[Result "12"]
+

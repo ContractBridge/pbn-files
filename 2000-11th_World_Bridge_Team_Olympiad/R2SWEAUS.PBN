@@ -1,0 +1,926 @@
+% PBN 1.0
+%
+[Event "Bridge Olympiad 2000"]
+[Site "Maastricht, The Netherlands, NLD"]
+[Date "2000.09.03"]
+[Round "R2"]
+[Board "17"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:QT72.K53.KQ97.QJ AK5.JT872.T832.K 9643.Q6.6.AT9762 J8.A94.AJ54.8543"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass Pass 1C 1H 
+Pass 2H Pass Pass 
+X Pass 2S Pass 
+Pass Pass   
+[Contract "2S"]
+[Declarer "S"]
+[Play "W"]
+HJ HQ HA H5 
+H7 H6 H9 HK 
+CK CA C5 CQ 
+S5 C2 C3 CJ 
+HT S3 H4 H3 
+SK S4 S8 ST 
+D8 D6 DA D7 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "17"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:QT72.K53.KQ97.QJ AK5.JT872.T832.K 9643.Q6.6.AT9762 J8.A94.AJ54.8543"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass Pass 1D 1H 
+2C 2D Pass 2H 
+3C Pass Pass Pass 
+[Contract "3C"]
+[Declarer "N"]
+[Play "E"]
+SJ SQ SK S3 
+S8 S2 SA S4 
+C3 S7 S5 S6 
+HA H3 H2 H6 
+DA D7 D2 D6 
+D4 DQ D3 C2 
+H4 HK H7 HQ 
+C4 CQ CK CA 
+C5 CJ H8 C6 
+H9 H5 HT CT 
+C8 D9 D8 C9 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "18"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:T.T873.KQJ9854.Q AJ763.AJ65.73.K9 Q8.KQ2.T62.T8543 K9542.94.A.AJ762"]
+[Vulnerable "NS"]
+[Auction "E"]
+1S 3D 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "E"]
+[Play "S"]
+DK D3 DT DA 
+ST SA S8 S2 
+D9 S3 SQ SK 
+CQ CK C5 C6 
+D4 C9 CT CJ 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "18"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:T.T873.KQJ9854.Q AJ763.AJ65.73.K9 Q8.KQ2.T62.T8543 K9542.94.A.AJ762"]
+[Vulnerable "NS"]
+[Auction "E"]
+1S 3D X Pass 
+4C Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "E"]
+[Play "S"]
+DK D3 D2 DA 
+ST S3 S8 SK 
+D4 SA SQ S2 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "19"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:A842.986532.J3.3 J963.T.A752.JT64 KT5.AK4.964.K852 Q7.QJ7.KQT8.AQ97"]
+[Vulnerable "EW"]
+[Auction "S"]
+Pass Pass 1C 1NT 
+2D Pass 2H Pass 
+Pass Pass   
+[Contract "2H"]
+[Declarer "N"]
+[Play "E"]
+DK D3 D7 D6 
+DQ DJ D5 D9 
+D8 C3 DA D4 
+C9 H2 C6 C8 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "19"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:A842.986532.J3.3 J963.T.A752.JT64 KT5.AK4.964.K852 Q7.QJ7.KQT8.AQ97"]
+[Vulnerable "EW"]
+[Auction "S"]
+Pass Pass 1D 1NT 
+2H X 3H Pass 
+Pass Pass   
+[Contract "3H"]
+[Declarer "S"]
+[Play "W"]
+HT HA H7 H2 
+S3 S5 S7 SA 
+C4 CK CA C3 
+D2 HK HQ H3 
+S6 SK SQ S2 
+SJ ST D8 S4 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "20"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:J9.JT952.64.QJ98 AQ874.8.7.T65432 K3.763.KJT832.A7 T652.AKQ4.AQ95.K"]
+[Vulnerable "Both"]
+[Auction "W"]
+2S 3D 4D Pass 
+4H Pass 4S Pass 
+5D Pass 6S Pass 
+Pass Pass   
+[Contract "6S"]
+[Declarer "W"]
+[Play "N"]
+CA CK C8 C3 
+D3 DQ D4 D7 
+SK S2 SJ SQ 
+DK D5 D6 S4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "20"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:J9.JT952.64.QJ98 AQ874.8.7.T65432 K3.763.KJT832.A7 T652.AKQ4.AQ95.K"]
+[Vulnerable "Both"]
+[Auction "W"]
+Pass 1D 1H Pass 
+1S Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "W"]
+[Play "N"]
+CA CK C8 C2 
+DJ DA D4 D7 
+S3 S2 S9 SA 
+C7 S5 C9 C4 
+H3 HA H2 H8 
+H6 HK H5 C3 
+H7 H4 HJ S4 
+D3 ST CJ C5 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "21"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:53.AT87.Q2.KT874 AQ2.KQ62.97653.5 J87.J53.AKJ.AJ92 KT964.94.T84.Q63"]
+[Vulnerable "NS"]
+[Auction "N"]
+1NT Pass 2C Pass 
+2D Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Contract "3NT"]
+[Declarer "N"]
+[Play "E"]
+ST S3 SQ S8 
+S4 S5 SA S7 
+SK H7 S2 SJ 
+S9 H8 D6 H3 
+S6 HT H2 H5 
+H9 HA H6 HJ 
+C3 CK C5 C2 
+CQ C4 D5 CJ 
+H4 C7 HQ C9 
+C6 C8 HK DJ 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "21"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:53.AT87.Q2.KT874 AQ2.KQ62.97653.5 J87.J53.AKJ.AJ92 KT964.94.T84.Q63"]
+[Vulnerable "NS"]
+[Auction "N"]
+1NT Pass 2C Pass 
+2D Pass 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "N"]
+[Play "E"]
+S4 S3 SQ S7 
+S6 S5 SA S8 
+SK H7 S2 SJ 
+S9 H8 H2 DJ 
+ST D2 D7 H3 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "22"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:K96.975.QT75.A93 .AKQJ8.AK63.KJ87 8743.T6432.J4.52 AQJT52..982.QT64"]
+[Vulnerable "EW"]
+[Auction "E"]
+3S Pass 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+H2 S2 H9 HQ 
+C2 C4 C3 CJ 
+C5 C6 C9 CK 
+S3 CT CA C8 
+DJ D2 D5 D3 
+S4 SQ SK D6 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "22"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:K96.975.QT75.A93 .AKQJ8.AK63.KJ87 8743.T6432.J4.52 AQJT52..982.QT64"]
+[Vulnerable "EW"]
+[Auction "E"]
+2S Pass 3NT Pass 
+4S Pass Pass Pass 
+[Contract "4S"]
+[Declarer "E"]
+[Play "S"]
+CA C7 C5 C4 
+D7 DA D4 D8 
+H5 HA H2 D2 
+H7 H8 H3 S2 
+S6 D3 S3 SA 
+SK D6 S4 SJ 
+D5 DK DJ D9 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "23"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:J653.J65.5.JT654 Q8.T872.AK972.A8 AT2.AKQ3.QJT86.K K974.94.43.Q9732"]
+[Vulnerable "Both"]
+[Auction "S"]
+Pass 1H X Pass 
+1S 2D X Pass 
+Pass Pass   
+[Contract "2DX"]
+[Declarer "W"]
+[Play "N"]
+DQ D3 D5 DA 
+CK C2 C4 CA 
+SA S4 S3 S8 
+S2 S7 S5 SQ 
+HQ H4 H5 HT 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "23"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:J653.J65.5.JT654 Q8.T872.AK972.A8 AT2.AKQ3.QJT86.K K974.94.43.Q9732"]
+[Vulnerable "Both"]
+[Auction "S"]
+Pass 1D X Pass 
+1S Pass 1NT Pass 
+Pass Pass   
+[Contract "1NT"]
+[Declarer "N"]
+[Play "E"]
+C2 C4 CA CK 
+D3 D5 D2 DJ 
+D4 C5 DK DQ 
+H9 H5 H2 HA 
+C7 C6 DA DT 
+H4 HJ HT H3 
+SK S3 S8 ST 
+S4 S5 SQ SA 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "24"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:853.Q754.Q3.9863 AQ.AKJ83.K97.AQ2 KJT6.T2.JT854.75 9742.96.A62.KJT4"]
+[Vulnerable "None"]
+[Auction "W"]
+1C Pass 1S Pass 
+2H Pass 2NT Pass 
+4NT Pass 5D Pass 
+6NT Pass Pass Pass 
+[Contract "6NT"]
+[Declarer "E"]
+[Play "S"]
+S3 SQ SK S2 
+S5 SA S6 S7 
+C3 CA C5 C4 
+C6 C2 C7 CJ 
+C8 CQ D5 CK 
+C9 D7 D4 CT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "24"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:853.Q754.Q3.9863 AQ.AKJ83.K97.AQ2 KJT6.T2.JT854.75 9742.96.A62.KJT4"]
+[Vulnerable "None"]
+[Auction "W"]
+1C Pass 1H Pass 
+1S Pass 1NT Pass 
+2C Pass 2D Pass 
+2H Pass 2S Pass 
+2NT Pass 3D Pass 
+3H Pass 3S Pass 
+3NT Pass Pass Pass 
+[Contract "3NT"]
+[Declarer "E"]
+[Play "S"]
+H5 H3 HT H6 
+D3 D7 DJ DA 
+H4 HJ H2 H9 
+H7 HA S6 S4 
+C3 C2 C5 CJ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "25"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:AQ64.7.KJ7.QJ953 83.AT6532.53.AT4 9752.KQ94.A6.762 KJT.J8.QT9842.K8"]
+[Vulnerable "EW"]
+[Auction "N"]
+Pass Pass 2C Pass 
+2D X 2S Pass 
+3S Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "S"]
+[Play "W"]
+D5 DA D4 D7 
+S3 S2 SJ SQ 
+S8 S5 ST SA 
+HA H4 H8 H7 
+D3 D6 D2 DK 
+- - - DJ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "25"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:AQ64.7.KJ7.QJ953 83.AT6532.53.AT4 9752.KQ94.A6.762 KJT.J8.QT9842.K8"]
+[Vulnerable "EW"]
+[Auction "N"]
+Pass Pass 2C Pass 
+2D X 2S Pass 
+Pass Pass   
+[Contract "2S"]
+[Declarer "S"]
+[Play "W"]
+D5 D6 DQ DK 
+HA H4 H8 H7 
+H2 HK HJ C3 
+S3 S2 SJ SQ 
+S8 S5 ST SA 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "26"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:J87.AK97542.5.65 Q.QT.A8642.AKJT9 AT432.6.KJ.Q8732 K965.J83.QT973.4"]
+[Vulnerable "Both"]
+[Auction "E"]
+Pass 3H 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+H6 H3 HK HT 
+S3 H8 HA HQ 
+C2 C4 C6 CA 
+DJ D9 D5 DA 
+DK DT H2 D2 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "26"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:J87.AK97542.5.65 Q.QT.A8642.AKJT9 AT432.6.KJ.Q8732 K965.J83.QT973.4"]
+[Vulnerable "Both"]
+[Auction "E"]
+Pass 2D 2NT Pass 
+3C Pass 3D Pass 
+3H X Pass Pass 
+3NT Pass Pass Pass 
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+H6 H3 HK HT 
+S2 H8 HA HQ 
+C2 C4 C6 CA 
+DJ DT D5 DA 
+DK D9 H2 D4 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "27"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:KJ9732.972.4.JT5 T854.T64.2.AK973 A6.AK5.AKJT653.6 Q.QJ83.Q987.Q842"]
+[Vulnerable "None"]
+[Auction "S"]
+2D Pass 3D Pass 
+3S Pass 4C Pass 
+5C Pass 5D Pass 
+Pass Pass   
+[Contract "5D"]
+[Declarer "S"]
+[Play "W"]
+CA C6 C2 C5 
+H4 HA H3 H2 
+D2 DA D7 D4 
+C3 DK D8 CT 
+C7 DJ DQ S7 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "27"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:KJ9732.972.4.JT5 T854.T64.2.AK973 A6.AK5.AKJT653.6 Q.QJ83.Q987.Q842"]
+[Vulnerable "None"]
+[Auction "S"]
+2D Pass 2NT Pass 
+3S Pass 5S Pass 
+6S Pass Pass Pass 
+[Contract "6S"]
+[Declarer "S"]
+[Play "W"]
+CK C6 C2 C5 
+CA S6 C4 CT 
+S4 SA SQ S2 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "28"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:AJ.AT5.AQ652.AQT KT82.9873.J.6532 Q743.KQJ.T73.K98 965.642.K984.J74"]
+[Vulnerable "NS"]
+[Auction "W"]
+Pass 1C Pass 6NT 
+Pass Pass Pass  
+[Contract "6NT"]
+[Declarer "S"]
+[Play "W"]
+H9 HJ H2 H5 
+DJ D3 D4 DQ 
+C2 CK C4 CT 
+SK S3 S5 SJ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "28"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:AJ.AT5.AQ652.AQT KT82.9873.J.6532 Q743.KQJ.T73.K98 965.642.K984.J74"]
+[Vulnerable "NS"]
+[Auction "W"]
+Pass Pass Pass 1C 
+Pass 1H Pass 2D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "N"]
+[Play "E"]
+S5 SJ SK S3 
+S6 SA S2 S4 
+D4 DA DJ D3 
+DK D2 C6 DT 
+S9 H5 ST SQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "29"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:AKQ64.A4.T953.J6 T753.QJ6532.8.53 J.T98.AKJ764.874 982.K7.Q2.AKQT92"]
+[Vulnerable "Both"]
+[Auction "N"]
+Pass 2C 2S Pass 
+Pass Pass   
+[Contract "2S"]
+[Declarer "S"]
+[Play "W"]
+C5 C4 CA C6 
+C3 C7 CK CJ 
+D8 C8 CQ H4 
+H2 H8 HK HA 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "29"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:AKQ64.A4.T953.J6 T753.QJ6532.8.53 J.T98.AKJ764.874 982.K7.Q2.AKQT92"]
+[Vulnerable "Both"]
+[Auction "N"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 2H 
+Pass 2NT Pass 3H 
+Pass Pass Pass  
+[Contract "3H"]
+[Declarer "W"]
+[Play "N"]
+DA D2 D3 D8 
+SJ S2 SQ S3 
+C8 S8 SK S5 
+C4 S9 SA S7 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "30"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:AKT762.J63.T9.82 4.742.KQJ8.A9763 3.KQT98.A54.KJ54 QJ985.A5.7632.QT"]
+[Vulnerable "None"]
+[Auction "E"]
+Pass 2D Pass 2S 
+Pass Pass Pass  
+[Contract "2S"]
+[Declarer "N"]
+[Play "E"]
+D7 DT DJ DA 
+S5 SA S4 S3 
+S8 SK C3 D4 
+HA H3 H2 HK 
+CT C2 CA C4 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "30"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:AKT762.J63.T9.82 4.742.KQJ8.A9763 3.KQT98.A54.KJ54 QJ985.A5.7632.QT"]
+[Vulnerable "None"]
+[Auction "E"]
+Pass 2D Pass 2S 
+Pass Pass Pass  
+[Contract "2S"]
+[Declarer "N"]
+[Play "E"]
+CQ C2 C3 CK 
+S5 SA S4 S3 
+CT C8 CA C4 
+D2 D9 DK DA 
+SJ DT C6 CJ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "31"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:52.KJ6.T8.KQ9865 KJ6.AQ93.7653.J7 73.85.AQJ942.AT3 AQT984.T742.K.42"]
+[Vulnerable "NS"]
+[Auction "S"]
+Pass Pass 1D 2S 
+3C 4S Pass Pass 
+Pass    
+[Contract "4S"]
+[Declarer "E"]
+[Play "S"]
+DT D3 DA DK 
+C5 C7 CA C2 
+CQ CJ CT C4 
+D8 D5 DQ S4 
+S2 SK S3 S8 
+S5 SJ S7 SQ 
+H6 H9 H5 H2 
+C6 D6 D9 S9 
+HJ HQ H8 H4 
+- HA - - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "31"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:52.KJ6.T8.KQ9865 KJ6.AQ93.7653.J7 73.85.AQJ942.AT3 AQT984.T742.K.42"]
+[Vulnerable "NS"]
+[Auction "S"]
+Pass 1C 2C 2S 
+Pass 3S Pass 4S 
+Pass Pass Pass  
+[Contract "4S"]
+[Declarer "E"]
+[Play "S"]
+DT D3 DA DK 
+D8 D5 DJ ST 
+S2 SK S3 S4 
+S5 S6 S7 SQ 
+H6 H9 H5 H2 
+C5 D6 D9 S8 
+HJ HQ H8 H4 
+- HA - - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "32"]
+[West "Wernle"]
+[North "Sylvan"]
+[East "Kriftner"]
+[South "Sundelin"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:98.JT5.KJ43.KT75 KJ74.3.AQT85.Q43 QT53.KQ94.9.AJ98 A62.A8762.762.62"]
+[Vulnerable "EW"]
+[Auction "W"]
+1S Pass 1NT Pass 
+2D X Pass 3C 
+Pass Pass Pass  
+[Contract "3C"]
+[Declarer "S"]
+[Play "W"]
+H3 H4 HA H5 
+C4 H9 H8 HJ 
+S4 S3 SA S8 
+C3 HQ H2 HT 
+SK S5 S6 S9 
+SJ SQ S2 D3 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R2"]
+[Board "32"]
+[West "Fredin"]
+[North "Barnay"]
+[East "Lindkvist"]
+[South "Terraneo"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:98.JT5.KJ43.KT75 KJ74.3.AQT85.Q43 QT53.KQ94.9.AJ98 A62.A8762.762.62"]
+[Vulnerable "EW"]
+[Auction "W"]
+1D Pass 1H 2C 
+Pass Pass 2D Pass 
+Pass 3C Pass Pass 
+Pass    
+[Contract "3C"]
+[Declarer "S"]
+[Play "W"]
+H3 HK HA H5 
+C3 H4 H8 HJ 
+S7 S3 SA S8 
+C4 H9 H2 HT 
+*
+[Result "7"]

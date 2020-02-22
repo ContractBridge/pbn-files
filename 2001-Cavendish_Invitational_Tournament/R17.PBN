@@ -1,0 +1,124 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.11"]
+[Round "17"]
+[Board "22"]
+[Room "Open"]
+[West "Marty Fleisher"]
+[North "B. Eisenberg"]
+[East "Eric Rodwell"]
+[South "Zia Mahmood"]
+[Dealer "E"]
+[Deal "S:862.T2.A532.T975 KJ75.9653.64.A62 AT943.AQJ84.J7.Q Q.K7.KQT98.KJ843"]
+[Vulnerable "EW"]
+[Contract "3S"]
+[Declarer "N"]
+{
+ An aggressive 2S raise by Zia spurred Eisenberg, with his good
+distribution and hearts behind the heart bidder, to try for game
+via a help-suit try of 3D.  Zia, of course, retreated to three
+spades.
+}
+[Auction "E"]
+1D Pass 1H 1S 
+2C 2S Pass 3D 
+Pass 3S Pass Pass 
+Pass    
+[Play "E"]
+DQ D2 D4 D7 
+DK DA D6 DJ 
+HK HT H3 H4 
+DT D3 C2 S3 
+SQ S2 S5 SA 
+H7 H2 H5 HA 
+C4 D5 H6 HQ 
+D9 C5 H9 HJ 
+C8 S8 SJ H8 
+- - CA - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "17"]
+[Board "23"]
+[Room "Open"]
+[West "Marty Fleisher"]
+[North "B. Eisenberg"]
+[East "Eric Rodwell"]
+[South "Zia Mahmood"]
+[Dealer "S"]
+[Deal "S:64.A863.J9864.J2 72.742.T532.QT75 AKQ9.QT9.KQ7.A86 JT853.KJ5.A.K943"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+ A 20-HCP 2NT opening led to a normal three notrump via a Stayman
+auction. Rodwell led the SJ from his broken sequence, carefully
+avoiding blowing a trick. The four-one diamond split (the "wrong"
+way) doomed the contract, but Eisenberg tried a valiant though
+futile endplay in an effort to make. Eisenberg's throw-in would
+have succeeded had East started with only three clubs and king-empty-fourth
+of hearts. Alas, it was not to be: down two, minus 200, an unfortunate
+-195 IMPs.
+}
+[Auction "S"]
+Pass Pass 2NT Pass 
+3C Pass 3S Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+SJ S4 S7 SK 
+DA D4 D2 DQ 
+C3 CJ CQ C6 
+C9 C2 C5 C8 
+CK H3 C7 CA 
+S5 D6 D3 DK 
+H5 DJ D5 D7 
+S3 S6 S2 SA 
+S8 D8 H2 SQ 
+ST D9 - S9 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "17"]
+[Board "24"]
+[Room "Open"]
+[West "Marty Fleisher"]
+[North "B. Eisenberg"]
+[East "Eric Rodwell"]
+[South "Zia Mahmood"]
+[Dealer "W"]
+[Deal "S:AK6.KJ7.532.A762 T97.QT532.QJ9.KJ Q43.A94.AK87.T98 J852.86.T64.Q543"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+ Some Two-Over-One Game-Forcing pairs might reach three notrump
+directly over North's one diamond, but Zia responded two clubs
+and Eisenberg jumped to three notrump in an adaptation of "Fast
+Arrival" that you'll seldom see from other pairs.
+}
+[Auction "W"]
+Pass 1D Pass 2C 
+Pass 3NT Pass Pass 
+Pass    
+[Play "E"]
+S2 S6 S9 SQ 
+C3 C2 CJ CT 
+S5 SK ST S4 
+D4 D2 D9 D8 
+S8 SA S7 S3 
+D6 D3 DJ DA 
+C5 C6 CK C9 
+DT D5 DQ DK 
+C4 C7 H3 C8 
+*
+[Result "10"]
+

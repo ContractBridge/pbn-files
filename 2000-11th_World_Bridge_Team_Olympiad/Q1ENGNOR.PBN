@@ -1,0 +1,916 @@
+% PBN 1.0
+%
+[Event "Bridge Olympiad 2000"]
+[Site "Maastricht, The Netherlands, NLD"]
+[Date "2000.09.04"]
+[Round "Q1"]
+[Board "1"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:JT83.73.T63.KJ85 A.AQJT9.QJ2.7632 7654.52.K98.AQT4 KQ92.K864.A754.9"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 2H Pass 4H 
+Pass Pass Pass  
+[Contract "4H"]
+[Declarer "W"]
+[Play "N"]
+S4 S2 S3 SA 
+CT C9 C5 C2 
+S5 SK S8 D2 
+S6 SQ ST DJ 
+D8 DA D3 DQ 
+D9 D4 D6 H9 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "1"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:JT83.73.T63.KJ85 A.AQJT9.QJ2.7632 7654.52.K98.AQT4 KQ92.K864.A754.9"]
+[Vulnerable "None"]
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 2H Pass 4H 
+Pass Pass Pass  
+[Contract "4H"]
+[Declarer "W"]
+[Play "N"]
+S4 S2 S3 SA 
+CT C9 C5 C2 
+S5 SQ S8 C3 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "2"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:Q7.AK874.AK852.5 KJT.JT93.T43.KT6 A642..QJ7.AQJ743 9853.Q652.96.982"]
+[Vulnerable "NS"]
+[Auction "E"]
+Pass 1H Pass 2C 
+Pass 2D Pass 2S 
+Pass 3S Pass 4S 
+Pass 5NT Pass 6C 
+Pass Pass Pass  
+[Contract "6C"]
+[Declarer "N"]
+[Play "E"]
+D9 DK D3 D7 
+C2 C5 C6 CJ 
+C8 H4 CT CA 
+C9 H7 CK C3 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "2"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:Q7.AK874.AK852.5 KJT.JT93.T43.KT6 A642..QJ7.AQJ743 9853.Q652.96.982"]
+[Vulnerable "NS"]
+[Auction "E"]
+Pass 1H Pass 2C 
+Pass 2D Pass 2S 
+Pass 3D Pass 4D 
+Pass 4H Pass 4S 
+Pass 4NT Pass 5S 
+Pass 5NT Pass 6D 
+Pass Pass Pass  
+[Contract "6D"]
+[Declarer "S"]
+[Play "W"]
+SJ SA S3 SQ 
+C6 CA C2 C5 
+CK CQ C8 S7 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "3"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:T97653.76.AK953. 8.KQJ3.T862.KJ93 AKJ4.T.4.T876542 Q2.A98542.QJ7.AQ"]
+[Vulnerable "EW"]
+[Auction "S"]
+Pass Pass 3C 3H 
+Pass 4C X 4H 
+Pass Pass Pass  
+[Contract "4H"]
+[Declarer "E"]
+[Play "S"]
+ST S8 SK S2 
+DK D2 D4 DJ 
+DA D6 C2 D7 
+D3 D8 HT DQ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "3"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:T97653.76.AK953. 8.KQJ3.T862.KJ93 AKJ4.T.4.T876542 Q2.A98542.QJ7.AQ"]
+[Vulnerable "EW"]
+[Auction "S"]
+Pass Pass Pass 1H 
+1S 3S 4S 5H 
+5S Pass Pass X 
+Pass Pass Pass  
+[Contract "5SX"]
+[Declarer "S"]
+[Play "W"]
+HK HT HA H6 
+D2 D4 DQ DA 
+D6 C2 D7 DK 
+H3 S4 H2 H7 
+C3 C4 CA S3 
+D8 SJ DJ D3 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "4"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:A9.KJ83.K875.854 K43.5.J63.AKJT93 T752.AT92.T42.Q7 QJ86.Q764.AQ9.62"]
+[Vulnerable "Both"]
+[Auction "W"]
+1C Pass 1H Pass 
+2C Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Contract "3NT"]
+[Declarer "E"]
+[Play "S"]
+D7 D3 DT DQ 
+C4 CT CQ C2 
+H3 H5 HT H4 
+H8 S3 H2 H6 
+HJ S4 HA H7 
+HK D6 H9 HQ 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "4"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:A9.KJ83.K875.854 K43.5.J63.AKJT93 T752.AT92.T42.Q7 QJ86.Q764.AQ9.62"]
+[Vulnerable "Both"]
+[Auction "W"]
+1C Pass 1H Pass 
+2C Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Contract "3NT"]
+[Declarer "E"]
+[Play "S"]
+H3 H5 HA H4 
+HK S3 HT HQ 
+D5 D3 DT DQ 
+C4 CJ CQ C2 
+H8 C3 H9 H6 
+D7 D6 D4 DA 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "5"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:J985.A83.T75.A82 AT4.QJ75.Q842.KT KQ72.962.AJ3.J93 63.KT4.K96.Q7654"]
+[Vulnerable "NS"]
+[Auction "N"]
+Pass Pass Pass 1D 
+Pass 1NT Pass Pass 
+Pass    
+[Contract "1NT"]
+[Declarer "E"]
+[Play "S"]
+S8 S4 S2 S3 
+SJ ST SQ S6 
+S5 SA S7 C4 
+H3 HJ H2 HK 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "5"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:J985.A83.T75.A82 AT4.QJ75.Q842.KT KQ72.962.AJ3.J93 63.KT4.K96.Q7654"]
+[Vulnerable "NS"]
+[Auction "N"]
+Pass Pass Pass 1D 
+Pass 1NT Pass Pass 
+Pass    
+[Contract "1NT"]
+[Declarer "E"]
+[Play "S"]
+S9 S4 SQ S3 
+HA H5 H9 HK 
+S5 SA S2 S6 
+H3 H7 H2 HT 
+H8 HJ H6 H4 
+- HQ - - 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "6"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:Q982.JT943.K5.A2 J63.5.AQT63.K765 K5.Q862.J872.J43 AT74.AK7.94.QT98"]
+[Vulnerable "EW"]
+[Auction "E"]
+1C 1H X 3H 
+Pass Pass 4C Pass 
+Pass Pass   
+[Contract "4C"]
+[Declarer "E"]
+[Play "S"]
+HJ H5 H2 HK 
+D5 DQ D2 D4 
+DK DA D7 D9 
+H3 D3 D8 CT 
+HT C5 H6 H7 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "6"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:Q982.JT943.K5.A2 J63.5.AQT63.K765 K5.Q862.J872.J43 AT74.AK7.94.QT98"]
+[Vulnerable "EW"]
+[Auction "E"]
+1C 1H 2H 3H 
+Pass Pass Pass  
+[Contract "3H"]
+[Declarer "S"]
+[Play "W"]
+C5 CJ CQ C2 
+C6 C3 C8 CA 
+S3 SK SA S2 
+H5 H2 HK H3 
+D3 H6 HA H4 
+C7 H8 H7 H9 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "7"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:Q6.T954.KQJ93.73 AK985.A8632.T6.9 J732.KQJ.875.JT8 T4.7.A42.AKQ6542"]
+[Vulnerable "Both"]
+[Auction "S"]
+Pass 1S Pass 3C 
+Pass 3S Pass 4C 
+Pass 4H X Pass 
+Pass XX Pass 4NT 
+Pass 5H Pass 6C 
+Pass Pass Pass  
+[Contract "6C"]
+[Declarer "E"]
+[Play "S"]
+HT HA HJ H7 
+C3 C9 CT CA 
+C7 H2 C8 CK 
+DK H3 CJ CQ 
+H4 H6 D5 C4 
+D3 S5 HQ C2 
+D9 D6 D7 DA 
+H5 DT D8 C5 
+SQ SK S2 ST 
+H9 H8 HK D2 
+- - S3 - 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "7"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:Q6.T954.KQJ93.73 AK985.A8632.T6.9 J732.KQJ.875.JT8 T4.7.A42.AKQ6542"]
+[Vulnerable "Both"]
+[Auction "S"]
+Pass 1S Pass 2C 
+2D 2H Pass 2S 
+Pass 3D Pass 3H 
+Pass 3NT Pass Pass 
+Pass    
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+CJ CA C3 C9 
+C8 CK C7 H2 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "8"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:KQ63.T2.K987.KJ3 A854.AKQ7.Q532.9 J72.94.4.AQT8765 T9.J8653.AJT6.42"]
+[Vulnerable "None"]
+[Auction "W"]
+1D 3C 3D 4C 
+X Pass 4H Pass 
+Pass Pass   
+[Contract "4H"]
+[Declarer "E"]
+[Play "S"]
+C3 C9 CA C2 
+D7 D2 D4 DA 
+H2 HA H4 H3 
+HT HK H9 H5 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "8"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:KQ63.T2.K987.KJ3 A854.AKQ7.Q532.9 J72.94.4.AQT8765 T9.J8653.AJT6.42"]
+[Vulnerable "None"]
+[Auction "W"]
+1D 3C 3D 4C 
+X Pass 4H Pass 
+Pass Pass   
+[Contract "4H"]
+[Declarer "E"]
+[Play "S"]
+D7 D2 D4 DJ 
+H2 HA H4 H3 
+HT HK H9 H5 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "9"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:QT32..KJ65.KQ732 K6.K963.Q2.JT854 A854.AT852.94.A9 J97.QJ74.AT873.6"]
+[Vulnerable "EW"]
+[Auction "N"]
+1H Pass 2C Pass 
+2S Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "N"]
+[Play "E"]
+C6 C2 CT CA 
+D3 DK D2 D4 
+D7 DJ DQ D9 
+S7 C3 CJ C9 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "9"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:QT32..KJ65.KQ732 K6.K963.Q2.JT854 A854.AT852.94.A9 J97.QJ74.AT873.6"]
+[Vulnerable "EW"]
+[Auction "N"]
+1H Pass 1S Pass 
+2S Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "S"]
+[Play "W"]
+CJ CA C6 C2 
+SK S4 S7 SQ 
+CT C9 D8 CK 
+S6 SA S9 S2 
+D2 D4 DA D5 
+H3 S5 SJ S3 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "10"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:843.A.AQJ5.AKQ32 975.976.842.T954 J62.K542.763.J87 AKQT.QJT83.KT9.6"]
+[Vulnerable "Both"]
+[Auction "E"]
+1H X Pass 1NT 
+Pass 2H Pass 2S 
+Pass 3C Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "N"]
+[Play "E"]
+SK S3 S5 S2 
+SA S4 S7 S6 
+SQ S8 S9 SJ 
+ST - - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "10"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:843.A.AQJ5.AKQ32 975.976.842.T954 J62.K542.763.J87 AKQT.QJT83.KT9.6"]
+[Vulnerable "Both"]
+[Auction "E"]
+1H X Pass 1S 
+Pass 2C Pass Pass 
+Pass    
+[Contract "2C"]
+[Declarer "S"]
+[Play "W"]
+H9 H2 HQ HA 
+C4 C7 C6 CA 
+C5 C8 H3 CK 
+C9 CJ ST C3 
+H6 HK H8 S3 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "11"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:KJT74.KT42.J9.82 AQ.Q87.AT432.AK5 9832.J953..QT764 65.A6.KQ8765.J93"]
+[Vulnerable "None"]
+[Auction "S"]
+Pass 1D Pass 2D 
+Pass 2H Pass 2S 
+X 2NT Pass 3D 
+Pass 3S Pass 3NT 
+Pass 4C Pass 6D 
+Pass Pass Pass  
+[Contract "6D"]
+[Declarer "W"]
+[Play "N"]
+S2 S5 ST SQ 
+S3 DK D9 D4 
+C4 D5 DJ DA 
+S9 D7 S7 D2 
+S8 S6 S4 SA 
+C6 C3 C2 CA 
+C7 C9 C8 CK 
+CQ CJ H2 C5 
+H3 H6 HK - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "11"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:KJT74.KT42.J9.82 AQ.Q87.AT432.AK5 9832.J953..QT764 65.A6.KQ8765.J93"]
+[Vulnerable "None"]
+[Auction "S"]
+Pass 1D Pass 2D 
+2S 3C 3S 4D 
+Pass 4NT Pass 5S 
+Pass 5NT Pass 6C 
+Pass 6D Pass Pass 
+Pass    
+[Contract "6D"]
+[Declarer "W"]
+[Play "N"]
+S3 S5 ST SQ 
+S2 DK D9 D4 
+S8 D5 DJ DA 
+S9 S6 S4 SA 
+H3 HA HT H7 
+- H6 H2 HQ 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "12"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:986.KT95.Q63.954 QT42.432.A98.AT6 AK.QJ76.T7542.87 J753.A8.KJ.KQJ32"]
+[Vulnerable "NS"]
+[Auction "W"]
+Pass Pass 1NT Pass 
+2C Pass 2S Pass 
+3C Pass 3S Pass 
+4S Pass Pass Pass 
+[Contract "4S"]
+[Declarer "E"]
+[Play "S"]
+S6 S2 SK S3 
+H5 H2 HQ HA 
+S8 ST SA S5 
+- - H6 - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "12"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:986.KT95.Q63.954 QT42.432.A98.AT6 AK.QJ76.T7542.87 J753.A8.KJ.KQJ32"]
+[Vulnerable "NS"]
+[Auction "W"]
+Pass Pass 1C Pass 
+1S X 2NT Pass 
+3NT Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "W"]
+[Play "N"]
+D2 DJ DQ DA 
+SK S3 S6 S2 
+HQ HA H5 H2 
+SA SJ S8 S4 
+H6 - - - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "13"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:KQJ9.KT54.K9.AQ8 842.J963.6542.42 T63.A7.J83.KJT73 A75.Q82.AQT7.965"]
+[Vulnerable "Both"]
+[Auction "N"]
+Pass 1D 1NT Pass 
+3NT Pass Pass Pass 
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+D4 D3 DT DK 
+C2 C3 C5 CA 
+C4 C7 C6 CQ 
+S2 CT C9 C8 
+D2 CK H2 S9 
+S4 S3 S5 SJ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "13"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:KQJ9.KT54.K9.AQ8 842.J963.6542.42 T63.A7.J83.KJT73 A75.Q82.AQT7.965"]
+[Vulnerable "Both"]
+[Auction "N"]
+Pass 1D X Pass 
+1NT Pass 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "N"]
+[Play "E"]
+C9 CQ C2 C3 
+S5 SK S2 S3 
+S7 SQ S4 S6 
+SA SJ S8 ST 
+DA D9 D2 D3 
+D7 DK D4 D8 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "14"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:53.T42.AKQ3.AJ62 KQ.QJ763.8.QT753 J7642.8.T7654.K8 AT98.AK95.J92.94"]
+[Vulnerable "None"]
+[Auction "E"]
+1H Pass 2NT Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Contract "4H"]
+[Declarer "E"]
+[Play "S"]
+DK D8 D4 D2 
+H2 H3 H8 H9 
+C2 C3 CK C9 
+S3 SQ S2 S8 
+H4 H6 D5 HA 
+CA C5 C8 C4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "14"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:53.T42.AKQ3.AJ62 KQ.QJ763.8.QT753 J7642.8.T7654.K8 AT98.AK95.J92.94"]
+[Vulnerable "None"]
+[Auction "E"]
+1C 1D 2H 3D 
+4H Pass Pass Pass 
+[Contract "4H"]
+[Declarer "W"]
+[Play "N"]
+D4 D2 DA D8 
+H8 H9 H2 H3 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "15"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:AT3.JT92.QT.KQ62 954.Q764.K94.AJ3 KQJ8.K3.J65.T754 762.A85.A8732.98"]
+[Vulnerable "NS"]
+[Auction "S"]
+1D Pass 1S Pass 
+2S Pass Pass Pass 
+[Contract "2S"]
+[Declarer "N"]
+[Play "E"]
+C9 CK C3 C4 
+HA HJ H4 H3 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "15"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:AT3.JT92.QT.KQ62 954.Q764.K94.AJ3 KQJ8.K3.J65.T754 762.A85.A8732.98"]
+[Vulnerable "NS"]
+[Auction "S"]
+1C Pass 1S Pass 
+1NT Pass Pass Pass 
+[Contract "1NT"]
+[Declarer "S"]
+[Play "W"]
+H4 HK HA H2 
+DK D5 D2 DQ 
+D9 D6 D3 DT 
+H6 H3 H5 H9 
+S4 SK S2 S3 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "16"]
+[West "Furunes"]
+[North "Burn"]
+[East "Helness"]
+[South "Callaghan"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:AK.J96.8652.AJ83 T97.A73.AQJ.KQT6 QJ5.KT8.9743.972 86432.Q542.KT.54"]
+[Vulnerable "EW"]
+[Auction "W"]
+1NT Pass 2C Pass 
+2D Pass 2H Pass 
+Pass Pass   
+[Contract "2H"]
+[Declarer "E"]
+[Play "S"]
+D2 DJ D3 DK 
+CA C6 C2 C4 
+SA S7 S5 S2 
+SK S9 SJ S3 
+D5 DQ D4 DT 
+H6 H3 HK H2 
+D6 ST SQ S4 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "Q1"]
+[Board "16"]
+[West "Liggins"]
+[North "Austberg"]
+[East "Fawcett"]
+[South "Helgemo"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:AK.J96.8652.AJ83 T97.A73.AQJ.KQT6 QJ5.KT8.9743.972 86432.Q542.KT.54"]
+[Vulnerable "EW"]
+[Auction "W"]
+1NT Pass 2C Pass 
+2D Pass 2H Pass 
+Pass Pass   
+[Contract "2H"]
+[Declarer "E"]
+[Play "S"]
+SK S7 S5 S2 
+SA S9 SJ S3 
+D6 DJ D3 DT 
+C3 ST SQ S4 
+D2 DQ D4 DK 
+H6 HA H8 H2 
+- H3 HK - 
+*
+[Result "8"]

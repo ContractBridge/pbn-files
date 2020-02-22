@@ -1,0 +1,613 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "2001 Spring NABC - Open Pairs"]
+[Site "Hyatt Hotel - Kansas City, Missouri, USA"]
+[Date "2001.03.21"]
+[Round "R1"]
+[Board "16"]
+[Room "Open"]
+[West "Charles Reed"]
+[North "Mike Passell"]
+[East "S. Sheridan"]
+[South "Eddie Wold"]
+[Dealer "W"]
+[Deal "S:AQJT83.T43.J4.T8 K4.A9652.QT7.A64 97.KQ7.K963.QJ93 652.J8.A852.K752"]
+[Vulnerable "EW"]
+[Contract "2S"]
+[Declarer "S"]
+{
+The auction was well-judged here - Wold came in with a featherweight
+2-level overcall in the sandwich seat and Passell did very well
+not to raise. The defense can always defeat 2S if they find their
+heart ruff and, indeed, an initial heart lead and subsequent
+careful defense will hold declarer to six tricks.  Declarer has
+five top losers - CA-K, HA, SK and DA and he can be endplayed
+so that he must lead diamonds in the endgame.
+}
+[Auction "W"]
+1H Pass 1NT 2S 
+Pass Pass Pass  
+[Play "W"]
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "17"]
+[Room "Open"]
+[West "Barbara Kasle"]
+[North "Mike Passell"]
+[East "Ram Sarangan"]
+[South "Eddie Wold"]
+[Dealer "N"]
+[Deal "S:KJ765.J832.6.AJ7 .A64.AKQT4.KQT98 Q984.KT75.873.42 AT32.Q9.J952.653"]
+[Vulnerable "None"]
+[Contract "5D"]
+[Declarer "E"]
+{
+Both 6C and 6D are makeable contracts on a club guess from the
+West seat, but getting there is not so easy after the 2D opening
+to show both majors, 2-10 HCP. Game in either minor is safe from
+either side and Wold duly found the heart lead to save the overtrick
+and thus give NS an above average board. The most interesting
+contract is notrump played by East. If a low spade is led, declarer
+can make ten tricks for an excellent result because North has
+no entry. A heart lead holds him to nine because he must win
+immediately to avoid the killing switch through his S10.
+}
+[Auction "N"]
+Pass Pass 2D X 
+3H Pass Pass 4H 
+Pass 4S Pass 5C 
+Pass 5D Pass Pass 
+Pass    
+[Play "S"]
+H3 H4 HK H9 
+D6 DT D7 DJ 
+CA C8 C4 C3 
+S5 - - - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "18"]
+[Room "Open"]
+[West "Barbara Kasle"]
+[North "Mike Passell"]
+[East "Ram Sarangan"]
+[South "Eddie Wold"]
+[Dealer "E"]
+[Deal "S:7.AQ74.A9742.JT8 832.KJ2.JT5.AKQ7 JT964.953.Q8.965 AKQ5.T86.K63.432"]
+[Vulnerable "NS"]
+[Contract "4DX"]
+[Declarer "W"]
+{
+When things are going well, it can sometimes seem as though you
+are impervious to harm. So it was on this deal, where Passell-Wold
+were truly in harm's way - they were in position to go minus
+800 against the opponents' non-vulnerable game (3NT). Passell
+had a nightmare hand opposite Wold's vulnerable takeout double,
+and had Barbara Kasle seen fit to double 2D, she'd have had a
+near-top rather than the near-bottom she scored for committing
+to spades.
+}
+[Auction "E"]
+1S X XX Pass 
+Pass 2D 4S X 
+Pass Pass Pass  
+[Play "N"]
+C5 C2 C8 C7 
+DQ DK D4 DT 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "19"]
+[Room "Open"]
+[West "Les Amoils"]
+[North "Mike Passell"]
+[East "Darren Wolpert"]
+[South "Eddie Wold"]
+[Dealer "S"]
+[Deal "S:KJ95.74.J53.T962 876.A962.8.KQJ53 Q3.KT3.AKQ64.A87 AT42.QJ85.T972.4"]
+[Vulnerable "EW"]
+[Contract "2NT"]
+[Declarer "N"]
+{
+Passell and Wold conducted an auction that would be duplicated
+at many tables but at others, West might open the bidding with
+1C, 1D, 1H or even 2C (all depending upon system). An active
+E/W auction might then push N/S into the lucky-to-make, but cold
+on the lie of the cards, 3NT. Or, North might take a shot at
+doubling three hearts, which could make if N/S don't get the
+spades going soon enough.
+}
+[Auction "S"]
+Pass Pass 1D Pass 
+1S X 2NT Pass 
+Pass Pass   
+[Play "E"]
+HQ H4 H2 HK 
+SA S5 S8 SQ 
+H8 H7 HA H3 
+HJ C2 H6 HT 
+H5 C6 H9 C7 
+- - CK - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "20"]
+[Room "Open"]
+[West "Les Amoils"]
+[North "Mike Passell"]
+[East "Darren Wolpert"]
+[South "Eddie Wold"]
+[Dealer "W"]
+[Deal "S:AJT2.AT.JT32.T52 64.97543.A95.AK6 Q95.Q82.KQ86.874 K873.KJ6.74.QJ93"]
+[Vulnerable "Both"]
+[Contract "1NT"]
+[Declarer "N"]
+{
+Eddie Wold is obviously a believer in the "Casino Points" hypothesis
+as he opened that pretty spare South hand after three passes.
+The theory is that, in fourth seat, after three passes: add the
+high card points and spades, and open if they total 14 or more.
+Wold had some good intermediates to spare! By not passing the
+hand out, South also gave North the chance to execute the "Jackpot
+Coup", whereby one finishes the play with any four cards of the
+same denomination, in this case the four 10's in South. Let's
+see if Passell is up to it!
+}
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass 1NT Pass Pass 
+Pass    
+[Play "E"]
+CQ C2 CK C4 
+HJ HA H7 H2 
+D4 D2 D5 DK 
+D7 DJ D9 D6 
+H6 D3 DA D8 
+HK HT H5 H8 
+C3 C5 CA C7 
+CJ CT C6 C8 
+C9 S2 H3 S9 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "21"]
+[Room "Open"]
+[West "Leila Sink"]
+[North "Mike Passell"]
+[East "John Hoffman"]
+[South "Eddie Wold"]
+[Dealer "N"]
+[Deal "S:T9743.AT.T743.KJ A2.K962.K6.A6432 KJ.QJ7543.A952.5 Q865.8.QJ8.QT987"]
+[Vulnerable "NS"]
+[Contract "2H"]
+[Declarer "N"]
+{
+Sink continued a run of conservative actions taken by the players
+in the West seat when she passed out Passell's 2H. There was,
+in her defense, no guarantee of more than a 7-card fit for E/W
+on the auction. On a different day, she might have balanced with
+3C and gone for a huge number against her own plus score from
+defending 2H.
+}
+[Auction "N"]
+1H Pass 1S Pass 
+2H Pass Pass Pass 
+[Play "E"]
+DQ D3 D6 DA 
+CT CK CA C5 
+D8 D4 DK D5 
+S6 S3 SA SJ 
+S5 S4 S2 SK 
+H8 HA H2 H3 
+C7 HT H6 H5 
+DJ D7 C2 D9 
+CQ CJ C6 H4 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "22"]
+[Room "Open"]
+[West "Leila Sink"]
+[North "Mike Passell"]
+[East "John Hoffman"]
+[South "Eddie Wold"]
+[Dealer "E"]
+[Deal "S:.AQ43.AT94.JT542 KJ83.J762.KJ7.Q7 AT762.95.6532.A6 Q954.KT8.Q8.K983"]
+[Vulnerable "EW"]
+[Contract "2D"]
+[Declarer "S"]
+{
+Passell and Wold continue a run of pretty good luck with a deal
+on which, despite holding fewer than half the high cards in the
+deck, they can make 10 tricks in their best fit, yet the opponents
+cannot make more than 7 tricks in their best fit. Not only that,
+E/W's fit was stolen from them on the first round of the bidding!
+Note that Wold opened 1D to give himself an easy 2C rebid should
+Passell bid the expected 1S. On a worse day, North's shape would
+be 5-3-3-2, and 2D would not play so well.
+}
+[Auction "E"]
+Pass 1D Pass 1S 
+Pass 2C Pass 2D 
+Pass Pass Pass  
+[Play "W"]
+H6 H5 HK HA 
+CQ CA C3 CT 
+C7 C6 CK C2 
+H2 H9 HT HQ 
+D7 D2 DQ DT 
+DK D3 D8 DA 
+S3 D5 C8 C5 
+S8 SA S4 H3 
+SJ S2 S5 D4 
+- - - CJ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "23"]
+[Room "Open"]
+[West "Barbara Estep"]
+[North "Mike Passell"]
+[East "Mike Estep"]
+[South "Eddie Wold"]
+[Dealer "S"]
+[Deal "S:Q82.QJ98.T84.K84 T976.43.Q92.7532 K3.AKT652.A73.Q9 AJ54.7.KJ65.AJT6"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "N"]
+{
+One of the most important developments in bidding over the past
+decades has been the methods for raising opener's suit. First
+came ways to raise in non-competitive auctions, such as Jacoby
+2NT, Swiss, Splinters and Bergen. There soon followed methods
+to show a fit in competition -- fit jumps, transfer responses
+and advances, and preemptive jump raises. Here, 2D is artificial
+and shows a good heart raise. Some use both 2C and 2D to specify
+the number of trumps.
+}
+[Auction "S"]
+Pass Pass 1H X 
+2D Pass 4H Pass 
+Pass Pass   
+[Play "E"]
+H7 HQ H3 H2 
+D5 H8 H4 HK 
+CT CK C5 C9 
+S4 H9 S7 HT 
+S5 SQ S6 S3 
+C6 HJ C7 HA 
+D6 D4 C3 H5 
+DJ D8 D2 D3 
+DK DT D9 DA 
+CA C4 C2 CQ 
+CJ C8 S9 H6 
+- - - SK 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "24"]
+[Room "Open"]
+[West "Barbara Estep"]
+[North "Mike Passell"]
+[East "Mike Estep"]
+[South "Eddie Wold"]
+[Dealer "W"]
+[Deal "S:A876.KJ7.QT3.Q82 53.T952.K752.J97 T94.AQ84.J8.K643 KQJ2.63.A964.AT5"]
+[Vulnerable "None"]
+[Contract "2S"]
+[Declarer "S"]
+{
+This is a deal which illustrates the essence of matchpoints.
+When two passes came to East, he quite sensibly opened with 1D,
+the action he'd have taken in first or second seat. With a good
+hand he knew there was no hurry to open 1S, which might have
+been the winner if he'd had an ace fewer and intended to make
+only one bid. After two passes North came to life with a double,
+and West was not content to allow the opponents an easy ride
+at the one-level. South took the push to 2S.
+}
+[Auction "W"]
+Pass Pass 1D Pass 
+Pass X Pass 1S 
+2D Pass Pass 2S 
+Pass Pass Pass  
+[Play "W"]
+D5 D8 DA D3 
+S3 S4 SK SA 
+S5 S9 SJ S7 
+D2 ST SQ S8 
+DK DJ D4 DT 
+D7 C3 D9 DQ 
+H5 C4 S2 S6 
+H2 H4 H3 HK 
+H9 - - H7 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "25"]
+[Room "Open"]
+[West "S. Drumhiller"]
+[North "Mike Passell"]
+[East "John Hickey"]
+[South "Eddie Wold"]
+[Dealer "N"]
+[Deal "S:AQT5.KT854.K64.T J92.A7.Q9852.K74 87643.QJ93.J7.82 K.62.AT3.AQJ9653"]
+[Vulnerable "EW"]
+[Contract "4C"]
+[Declarer "E"]
+{
+One can tell much about a player's and his pair's bidding style
+from deals such as this one. The first style issue was South's
+initial action, Wold preferring to introduce three suits rather
+than focus on one. The second was Passell's decision to bid 1S
+rather than 2S or even 2C over Drumhiller's redouble. 1S indicates
+that this pair's style is both undisciplined as to shape for
+takeout doubles (no 2S bid), and that a cue bid really shows
+something, despite the opponents' auction (no 2C bid).
+}
+[Auction "N"]
+Pass 1C X XX 
+1S 2C 2S 3C 
+3S 4C Pass Pass 
+Pass    
+[Play "S"]
+SA S2 S8 SK 
+H4 HA H9 H6 
+ST S9 S7 C3 
+CT CK C2 C9 
+SQ SJ S6 C5 
+H5 C4 C8 CA 
+H8 H7 HJ H2 
+DK - DJ D3 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "26"]
+[Room "Open"]
+[West "S. Drumhiller"]
+[North "Mike Passell"]
+[East "John Hickey"]
+[South "Eddie Wold"]
+[Dealer "E"]
+[Deal "S:AQT32.K92.AQ3.53 K8.7.KJT92.QJT86 975.AJ854.6.K972 J64.QT63.8754.A4"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "S"]
+{
+Another style-revealing deal, Wold preferring to get his range
+and balanced pattern across as early as possible rather than
+show his five- card spade suit. He would not be denied his spades
+at his second turn, however, and the touch-and-go 4S was reached
+as a consequence. When Drumhiller led the CQ, Wold could not
+have liked his chances. He ducked in dummy, and ducked again
+when clubs were continued. Now if he could negotiate only one
+loser in the majors, he'd be home free.
+}
+[Auction "E"]
+Pass 1NT 2NT X 
+3D 3S Pass 4S 
+Pass Pass Pass  
+[Play "W"]
+CQ C2 C4 C5 
+CJ C7 CA C3 
+D9 D6 D8 DA 
+D2 S5 D4 D3 
+SK S9 S4 S2 
+S8 S7 S6 ST 
+C6 H4 SJ SA 
+DT H5 H3 SQ 
+DJ C9 D5 S3 
+H7 HA H6 H2 
+C8 CK D7 DQ 
+- H8 HT HK 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "27"]
+[Room "Open"]
+[West "D. Rosenberg"]
+[North "Mike Passell"]
+[East "Joey Silver"]
+[South "Eddie Wold"]
+[Dealer "S"]
+[Deal "S:A964.J62.QT6.KJ8 Q.AK7.AJ972.AQT7 T832.943.84.9632 KJ75.QT85.K53.54"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+The E/W auction would be duplicated at many tables, with East
+becoming declarer in 3NT after West's jump shift. Silver took
+the low spade lead with the queen, tested diamonds, and played
+four rounds of the suit. Passell shrewdly kept all three of his
+hearts, enticing Silver into taking a third-round finesse for
+the HJ. Now the defense was able to win the SA and later came
+to a club trick as well. Minus 430 was a very good result for
+N/S as declarer could take all 13 tricks on the low spade lead.
+}
+[Auction "S"]
+Pass 1D Pass 1H 
+Pass 3C Pass 3D 
+Pass 3H Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+S4 SQ S3 S5 
+DT D2 D4 DK 
+D6 D9 D8 D5 
+DQ DA S2 D3 
+S6 DJ S8 S7 
+H2 HA H3 H5 
+H6 HK H4 H8 
+HJ H7 H9 HT 
+SA C7 ST SJ 
+C8 CT C9 C4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "28"]
+[Room "Open"]
+[West "D. Rosenberg"]
+[North "Mike Passell"]
+[East "Joey Silver"]
+[South "Eddie Wold"]
+[Dealer "W"]
+[Deal "S:KJ94.8732.AK876. 8.AK94.QT.J98763 7652.QJ6.542.AK2 AQT3.T5.J93.QT54"]
+[Vulnerable "NS"]
+[Contract "3S"]
+[Declarer "N"]
+{
+A competitive auction led to a precarious 3S contract by North.
+Although Passell must have felt on the auction that he would
+have a good play for 3S the presence of dummy and the early play
+soon showed him the error in his optimism. Three rounds of hearts
+and a diamond shift were followed by Passell playing loser-on-loser
+in the red suits to force a black-suit play. Remarkably, his
+10 HCP provided no entries!
+}
+[Auction "W"]
+Pass Pass Pass 1D 
+Pass 1S Pass 2S 
+X Pass 3C 3S 
+Pass Pass Pass  
+[Play "E"]
+HT H2 HK H6 
+H5 H3 HA HJ 
+S3 H7 H4 HQ 
+D9 DA DT D2 
+D3 DK DQ D5 
+DJ H8 H9 D4 
+CQ D6 C8 CA 
+SQ SK S8 S5 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "29"]
+[Room "Open"]
+[West "Roy Zekauskas"]
+[North "Mike Passell"]
+[East "Mike Aliotta"]
+[South "Eddie Wold"]
+[Dealer "N"]
+[Deal "S:QT76.QJ532.T3.A6 J5.AK64.AK65.T54 9432.T8.974.Q832 AK8.97.QJ82.KJ97"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+A fairly uninteresting deal that, under different circumstances,
+might have been made more exciting. In practice, West had an
+easy raise to 3NT (over what appears to be a weak notrump), eschewing
+Stayman, and South led a low heart, Mike Aliota ducking to the
+ten. When Passell declined to cover the C10 when it was led from
+dummy, declarer had 11 easy tricks with more club finesses. But
+suppose Passell covers and Wold wins the ace to exit a diamond.
+Then it's a bit more difficult - but only a bit.
+}
+[Auction "N"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+H3 H4 HT H7 
+HQ HA H8 H9 
+C6 CT C2 C7 
+CA C5 C3 C9 
+DT DA D4 D2 
+H5 C4 C8 CJ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "R1"]
+[Board "30"]
+[Room "Open"]
+[West "Roy Zekauskas"]
+[North "Mike Passell"]
+[East "Mike Aliotta"]
+[South "Eddie Wold"]
+[Dealer "E"]
+[Deal "S:T75.J853.6.KQ875 J86432.764.AJ2.9 .AK92.KQT973.J63 AKQ9.QT.854.AT42"]
+[Vulnerable "None"]
+[Contract "4C"]
+[Declarer "S"]
+{
+Our final deal of the session featured some conservative bidding
+by West and South, followed by uninspired defense. East took
+the push to 3S once his partner was known to have at least five
+of them. The first conservative decision was West's pass over
+3S - holding a sixth spade, an ace and a singleton, 4S would
+not have been an insanely aggressive bid. Passell's reopening
+takeout double was the normal move with his promising hand, having
+already bid the main feature of his hand, diamonds.
+}
+[Auction "E"]
+1NT Pass 2H 3D 
+3S Pass Pass X 
+Pass 4C Pass Pass 
+Pass    
+[Play "W"]
+H4 HA HT H5 
+DA DK D4 D6 
+H6 HK HQ H8 
+D2 DQ D5 S5 
+DJ D3 D8 C5 
+C9 C3 C2 CK 
+S6 CJ CA C7 
+S2 C6 CT CQ 
+S3 D7 C4 C8 
+*
+[Result "11"]
+

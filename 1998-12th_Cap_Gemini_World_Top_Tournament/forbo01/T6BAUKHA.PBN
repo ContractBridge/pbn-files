@@ -1,0 +1,522 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "2001 Forbo Teams"]
+[Site "Kurhaus Hotel - Scheveningen, The Netherlands, NLD"]
+[Date "2001.02.25"]
+[Round "6"]
+[Board "9"]
+[West "Townsend"]
+[North "Schaffer"]
+[East "Zhong"]
+[South "Auken"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:J85.AJ98.J54.A63 K.74.AK92.KT9875 AQ64.KT52.T83.QJ T9732.Q63.Q76.42"]
+[Vulnerable "EW"]
+[Contract "3H"]
+[Declarer "S"]
+[Auction "N"]
+1D Pass 1H 2C 
+2H Pass 2S Pass 
+3H Pass Pass Pass 
+[Play "W"]
+H7 H2 H3 H8 
+H4 HK H6 H9 
+CK CJ C4 C6 
+DK D3 D7 D5 
+DA D8 D6 D4 
+D2 DT DQ DJ 
+C5 CQ C2 C3 
+C7 H5 HQ HA 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "9"]
+[West "Blakset"]
+[North "Hackett Ju"]
+[East "Bruun"]
+[South "Hackett Ja"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:J85.AJ98.J54.A63 K.74.AK92.KT9875 AQ64.KT52.T83.QJ T9732.Q63.Q76.42"]
+[Vulnerable "EW"]
+[Contract "3H"]
+[Declarer "N"]
+[Auction "N"]
+1H Pass 2H 3C 
+Pass Pass 3H Pass 
+Pass Pass   
+[Play "E"]
+C4 C3 CK CJ 
+D6 D4 DK D8 
+D7 D5 DA DT 
+DQ DJ D2 D3 
+C2 C6 CT CQ 
+H3 H8 H4 HK 
+H6 H9 H7 H5 
+HQ HA C5 H2 
+S2 S5 SK SA 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "10"]
+[West "Townsend"]
+[North "Schaffer"]
+[East "Zhong"]
+[South "Auken"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:A94.QT98.AT.A983 Q2.6543.K953.KT5 KJ3.AK72.Q864.42 T8765.J.J72.QJ76"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 2S 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Play "W"]
+H3 H2 HJ HQ 
+C5 C2 C7 CA 
+CT C4 C6 C3 
+H4 H7 S6 H8 
+CK HK CJ C8 
+D5 D4 D2 DA 
+D3 HA CQ C9 
+S2 S3 S7 SA 
+H5 D6 S5 HT 
+H6 SJ S8 H9 
+DK D8 D7 DT 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "10"]
+[West "Blakset"]
+[North "Hackett Ju"]
+[East "Bruun"]
+[South "Hackett Ja"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:A94.QT98.AT.A983 Q2.6543.K953.KT5 KJ3.AK72.Q864.42 T8765.J.J72.QJ76"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 2S 
+Pass 3H Pass 3NT 
+Pass 4C Pass 4H 
+Pass Pass Pass  
+[Play "W"]
+H4 H2 HJ HQ 
+C5 C2 C6 CA 
+CT C4 C7 C3 
+H3 H7 S8 H8 
+S2 SK S7 S4 
+SQ S3 S6 SA 
+CK HK CJ C8 
+D3 D4 D7 DA 
+D5 HA CQ C9 
+DK DQ D2 DT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "11"]
+[West "Townsend"]
+[North "Schaffer"]
+[East "Zhong"]
+[South "Auken"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:J.AT6.Q7642.AJ73 QT74.932.AT53.Q9 A95.K74.KJ8.KT42 K8632.QJ85.9.865"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "N"]
+[Auction "S"]
+1D Pass 3NT Pass 
+Pass Pass   
+[Play "E"]
+S3 SJ SQ S5 
+SK C3 S4 S9 
+S6 H6 ST SA 
+D9 D2 DA DJ 
+S8 C7 S7 H4 
+S2 D4 H2 C2 
+HQ HA H3 H7 
+H5 D6 D3 DK 
+C5 CA C9 C4 
+C6 CJ CQ CK 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "11"]
+[West "Blakset"]
+[North "Hackett Ju"]
+[East "Bruun"]
+[South "Hackett Ja"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:J.AT6.Q7642.AJ73 QT74.932.AT53.Q9 A95.K74.KJ8.KT42 K8632.QJ85.9.865"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "N"]
+[Auction "S"]
+1D Pass 2C Pass 
+3C Pass 3NT Pass 
+Pass Pass   
+[Play "E"]
+S2 SJ SQ SA 
+D9 D2 DA DK 
+S3 H6 ST S5 
+SK C3 S7 S9 
+S8 D4 S4 H4 
+S6 C7 H9 C4 
+HQ HA H2 H7 
+H5 D6 D5 DJ 
+C5 CA C9 C2 
+C6 CJ CQ CK 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "12"]
+[West "Townsend"]
+[North "Schaffer"]
+[East "Zhong"]
+[South "Auken"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:J9842.Q3.J.KT942 KQ63.642.AK42.A7 AT5.AJ95.Q853.QJ 7.KT87.T976.8653"]
+[Vulnerable "NS"]
+[Contract "1NT"]
+[Declarer "W"]
+[Auction "W"]
+1NT Pass Pass Pass 
+[Play "N"]
+CQ C3 C2 CA 
+D5 D6 DJ DA 
+D3 D7 S8 DK 
+DQ D9 S2 D2 
+CJ C5 CK C7 
+H9 C6 C9 H2 
+D8 C8 CT S3 
+H5 H7 C4 H4 
+SA S7 S4 SK 
+ST DT SJ SQ 
+HJ H8 H3 D4 
+HA HT HQ H6 
+S5 HK S9 S6 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "12"]
+[West "Blakset"]
+[North "Hackett Ju"]
+[East "Bruun"]
+[South "Hackett Ja"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:J9842.Q3.J.KT942 KQ63.642.AK42.A7 AT5.AJ95.Q853.QJ 7.KT87.T976.8653"]
+[Vulnerable "NS"]
+[Contract "2S"]
+[Declarer "S"]
+[Auction "W"]
+1C X Pass 1S 
+Pass Pass X 2C 
+2D Pass Pass 2S 
+Pass Pass Pass  
+[Play "W"]
+DA D3 D9 DJ 
+H2 H5 H7 HQ 
+S3 ST S7 S2 
+CA CJ C3 C4 
+SQ SA D6 S4 
+SK S5 D7 S8 
+C7 CQ C5 CK 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "13"]
+[West "Townsend"]
+[North "Schaffer"]
+[East "Zhong"]
+[South "Auken"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:K942.A.AKJ863.J4 765.975.T742.K86 Q8.QJT842..QT753 AJT3.K63.Q95.A92"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "N"]
+3H Pass 4H Pass 
+Pass Pass   
+[Play "E"]
+H6 HA H5 H2 
+D5 DA D4 S8 
+D9 DK D2 SQ 
+CA C4 C6 CT 
+C9 CJ CK C3 
+C2 D3 C8 CQ 
+H3 S2 H7 HT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "13"]
+[West "Blakset"]
+[North "Hackett Ju"]
+[East "Bruun"]
+[South "Hackett Ja"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:K942.A.AKJ863.J4 765.975.T742.K86 Q8.QJT842..QT753 AJT3.K63.Q95.A92"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "N"]
+3H Pass 4H Pass 
+Pass Pass   
+[Play "E"]
+D5 DA D2 S8 
+D9 DK D4 SQ 
+C2 CJ CK C5 
+H6 HA H5 H2 
+CA C4 C6 CQ 
+SA S2 S7 H4 
+H3 D3 H7 HJ 
+HK S4 H9 HT 
+DQ D6 D7 H8 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "14"]
+[West "Townsend"]
+[North "Schaffer"]
+[East "Zhong"]
+[South "Auken"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:A.Q74.AT732.JT94 T72.A98.J8.AK765 J865.KJ63.Q65.83 KQ943.T52.K94.Q2"]
+[Vulnerable "None"]
+[Contract "2C"]
+[Declarer "W"]
+[Auction "E"]
+Pass 1D Pass 1H 
+1S X 2C Pass 
+Pass Pass   
+[Play "N"]
+D5 D4 D7 D8 
+C3 CQ C4 C5 
+C8 C2 C9 CA 
+S5 H2 CT CK 
+S6 SK SA S7 
+HJ H5 H7 H8 
+H3 HT HQ HA 
+HK S3 H4 H9 
+DQ DK DA DJ 
+D6 D9 DT C6 
+- - - S2 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "14"]
+[West "Blakset"]
+[North "Hackett Ju"]
+[East "Bruun"]
+[South "Hackett Ja"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:A.Q74.AT732.JT94 T72.A98.J8.AK765 J865.KJ63.Q65.83 KQ943.T52.K94.Q2"]
+[Vulnerable "None"]
+[Contract "3S"]
+[Declarer "W"]
+[Auction "E"]
+Pass 1D 2C X 
+2H Pass 2S Pass 
+2NT Pass 3S Pass 
+Pass Pass   
+[Play "N"]
+D5 D4 DA D8 
+H6 H2 H4 HA 
+C3 CQ C4 C5 
+C8 C2 C9 CA 
+S5 H5 CJ CK 
+S6 SQ SA S2 
+H3 HT HQ H8 
+D6 S3 CT C6 
+DQ DK D2 DJ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "15"]
+[West "Townsend"]
+[North "Schaffer"]
+[East "Zhong"]
+[South "Auken"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:A43.AQ85.84.KT42 9762.96.KQJ3.J75 QT5.KJT4.7652.93 KJ8.732.AT9.AQ86"]
+[Vulnerable "NS"]
+[Contract "2H"]
+[Declarer "N"]
+[Auction "S"]
+1C Pass 1H Pass 
+2H Pass Pass Pass 
+[Play "E"]
+H3 H5 H6 HJ 
+C6 CK C5 C3 
+CQ C2 C7 C9 
+H2 HQ H9 H4 
+C8 C4 CJ HT 
+S8 SA S2 S5 
+CA CT DK HK 
+D9 D4 D3 D2 
+H7 HA S6 D5 
+SJ S3 S7 ST 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "15"]
+[West "Blakset"]
+[North "Hackett Ju"]
+[East "Bruun"]
+[South "Hackett Ja"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:A43.AQ85.84.KT42 9762.96.KQJ3.J75 QT5.KJT4.7652.93 KJ8.732.AT9.AQ86"]
+[Vulnerable "NS"]
+[Contract "3H"]
+[Declarer "S"]
+[Auction "S"]
+1H Pass 2H Pass 
+Pass X Pass 2NT 
+Pass 3D 3H Pass 
+Pass Pass   
+[Play "W"]
+DK D2 D9 D8 
+D3 D5 DA D4 
+DJ D6 DT H5 
+S2 SQ SK S3 
+C7 C3 C6 CK 
+CJ C9 C8 C2 
+H6 H4 H3 H8 
+C5 HT CQ C4 
+DQ D7 H2 HA 
+H9 HJ H7 HQ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "16"]
+[West "Townsend"]
+[North "Schaffer"]
+[East "Zhong"]
+[South "Auken"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:A85.JT9.KT8.A972 QT7.A832.AJ5.J43 K2.K64.Q9764.T85 J9643.Q75.32.KQ6"]
+[Vulnerable "EW"]
+[Contract "1NT"]
+[Declarer "S"]
+[Auction "W"]
+Pass Pass Pass 1C 
+Pass 1D Pass 1NT 
+Pass Pass Pass  
+[Play "W"]
+H2 H4 HQ HT 
+S7 S2 S4 SA 
+D5 D4 D3 DT 
+DJ D6 D2 DK 
+DA D7 C6 D8 
+SQ SK S3 S5 
+C3 DQ H7 C7 
+H8 D9 H5 S8 
+C4 C5 CK CA 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "6"]
+[Board "16"]
+[West "Blakset"]
+[North "Hackett Ju"]
+[East "Bruun"]
+[South "Hackett Ja"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:A85.JT9.KT8.A972 QT7.A832.AJ5.J43 K2.K64.Q9764.T85 J9643.Q75.32.KQ6"]
+[Vulnerable "EW"]
+[Contract "2S"]
+[Declarer "W"]
+[Auction "W"]
+1NT Pass 2H Pass 
+2S Pass Pass Pass 
+[Play "N"]
+D6 D2 DK DA 
+SK S3 S5 ST 
+C5 CQ C7 C4 
+S2 S4 SA S7 
+H4 H5 HJ HA 
+D4 S6 S8 SQ 
+HK H7 HT H2 
+DQ D3 D8 D5 
+C8 C6 CA C3 
+*
+[Result "8"]
+

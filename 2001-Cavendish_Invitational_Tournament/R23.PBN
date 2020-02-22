@@ -1,0 +1,131 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.12"]
+[Round "23"]
+[Board "13"]
+[Room "Open"]
+[West "Jan Jansma"]
+[North "Bob Hamman"]
+[East "Louk Verhees"]
+[South "Nick Nickell"]
+[Dealer "N"]
+[Deal "S:QJ853.AQT82.7.J2 K964.J6.Q963.A63 T7.K973.AK8.T875 A2.54.JT542.KQ94"]
+[Vulnerable "Both"]
+[Contract "3H"]
+[Declarer "S"]
+{
+Time for a top encounter. American world champions Bob Hamman
+and Nick Nickell in third place will take on eight-placed Jan
+Jansma and Luuk Verhees of the Netherlands. Nickell and Hamman
+start by bidding to the theoretically correct level, Nickell
+opening his shapely hand in third seat and Hamman giving him
+a little leeway. Jansma had no reason to find the club lead,
+and when he led a diamond instead, Nickell had time to ditch
+a club loser and emerge with an overtrick, plus 170.
+}
+[Auction "N"]
+Pass Pass 1S Pass 
+1NT Pass 2H Pass 
+3H Pass Pass Pass 
+[Play "W"]
+D6 DA D5 D7 
+D3 DK D2 C2 
+H6 H3 H4 HA 
+S4 ST SA S3 
+CA C5 C4 CJ 
+DQ D8 DT H2 
+SK S7 S2 SQ 
+C3 C7 C9 H8 
+S6 H7 DJ S5 
+- HK H5 - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "14"]
+[Room "Open"]
+[West "Jan Jansma"]
+[North "Bob Hamman"]
+[East "Louk Verhees"]
+[South "Nick Nickell"]
+[Dealer "E"]
+[Deal "S:AK4.J962.K54.964 T6.Q74.QT63.A872 QJ9753.T53.2.KT3 82.AK8.AJ987.QJ5"]
+[Vulnerable "None"]
+[Contract "2NT"]
+[Declarer "E"]
+{
+Would you have raised a 1NT opening with Jansma's hand? It depends
+on the range for the 1NT opening. If it's 15-17, pass will surely
+be the winner (especially not vulnerable) but opposite an American
+"good 15 to bad 18" raising seems to be in order. Here, East/West
+were in the wrong strain, so Jansma's choice shouldn't matter.
+Or should it? If he passes, Hamman may very well protect with
+2S, giving East/West the chance to back into diamonds, where
+they are cold for nine tricks.
+}
+[Auction "E"]
+1NT Pass 2NT Pass 
+Pass Pass   
+[Play "S"]
+H2 H4 HT HK 
+C4 CA C3 C5 
+DK DQ D2 D9 
+SK S6 S7 S2 
+HJ H7 H5 HA 
+D5 D3 H3 DA 
+H6 HQ S3 H8 
+D4 DT S5 D7 
+- D6 CT DJ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "23"]
+[Board "15"]
+[Room "Open"]
+[West "Jan Jansma"]
+[North "Bob Hamman"]
+[East "Louk Verhees"]
+[South "Nick Nickell"]
+[Dealer "S"]
+[Deal "S:9865.A6.K82.AKJ7 K42.QJT3.AQT64.8 AQ73.K95.J93.T64 JT.8742.75.Q9532"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "S"]
+{
+When Jansma got involved after Nickell's strong 1NT opening,
+he could have been doubled for at least minus 300, but due to
+the vulnerability, the Americans wisely chose to bid 4S instead.
+With all finesses working and trumps 3-2, it looks like an "easy
+make". Not really. When Nickell made a safety play in trumps
+after first cashing one club honor, he lost both a trump trick
+and a club ruff, and all Jansma had to do to win a bunch of IMPs
+was exit with his last heart.
+}
+[Auction "S"]
+1NT X XX Pass 
+Pass 2D Pass Pass 
+2S Pass 4S Pass 
+Pass Pass   
+[Play "W"]
+HQ H5 H2 HA 
+S4 SQ SJ S5 
+C8 C4 C2 CA 
+HJ HK H4 H6 
+HT H9 H7 S9 
+S2 S3 ST S8 
+SK C6 C3 C7 
+D4 D9 D5 D2 
+D6 CT C5 CJ 
+- - - CK 
+*
+[Result "10"]
+

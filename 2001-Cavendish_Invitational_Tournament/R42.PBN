@@ -1,0 +1,120 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.13"]
+[Round "42"]
+[Board "19"]
+[Room "Open"]
+[West "Brad Moss"]
+[North "Anton Maas"]
+[East "Fred Gitelman"]
+[South "V. Ramondt"]
+[Dealer "S"]
+[Deal "S:T2.T64.AQ9853.A5 QJ7.AK98.KT7.KQ7 AK9654.532.42.T9 83.QJ7.J6.J86432"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+Brad Moss of USA and Fred Gitelman of Canada won the Cavendish
+Teams earlier this week, and with one 27-board session to go,
+they are in front again. Will they take a double? In the session
+so far they have lost 63 IMPs, so if they intend to stay ahead
+of the chasing dogs, they need a couple of good boards - and
+time is running out. Their opponents are Dutch internationalists
+Anton Maas and Vincent Ramondt, lying in 21th place.
+}
+[Auction "S"]
+1D X 2S Pass 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Play "N"]
+S6 S3 ST SQ 
+C9 C2 C5 CQ 
+CT C3 CA CK 
+SK S8 S2 SJ 
+SA D6 D3 S7 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "42"]
+[Board "20"]
+[Room "Open"]
+[West "Brad Moss"]
+[North "Anton Maas"]
+[East "Fred Gitelman"]
+[South "V. Ramondt"]
+[Dealer "W"]
+[Deal "S:K842.K9765.6.A62 Q6.QT.AKQT982.K5 AJ97.A842.J5.843 T53.J3.743.QJT97"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+Hoping either to protect his tenous major suit holdings or to
+shut out his opponents, young Moss kicked off with 2NT - ostensibly
+20-21! He did succeed in shutting his opponents out, who indeed
+were cold for 4H and 5S, but when they had too many tricks to
+cash against 3NT and 13 pairs had missed the pushy game on North/South,
+the result was a disappointing six down.
+}
+[Auction "W"]
+2NT Pass 3S Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+S7 S3 SK S6 
+SA S5 S2 SQ 
+SJ ST S4 CK 
+S9 C7 S8 D8 
+HA H3 H5 HT 
+H2 HJ HK HQ 
+H8 D3 H9 D2 
+H4 D4 H7 D9 
+- - H6 C5 
+*
+[Result "3"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "42"]
+[Board "21"]
+[Room "Open"]
+[West "Brad Moss"]
+[North "Anton Maas"]
+[East "Fred Gitelman"]
+[South "V. Ramondt"]
+[Dealer "N"]
+[Deal "S:JT9.53.96542.T86 Q76.KJ94.J8.K754 432.AT6.Q73.AQJ9 AK85.Q872.AKT.32"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "W"]
+{
+Even though the CK is a doubtful value, it doesn't have to be
+useless, so Moss deemed his hand good enough for 2H, and Gitelman
+had an easy raise. Maas led a third best diamond, and after knocking
+out the HA Moss tested spades. With two honors falling from Ramondt,
+the odds favored a finesse (by a lot), but since Maas had turned
+up with three trumps, at least three diamonds (the opening lead
+was the D3, remember) and had opened with 1C, Moss played for
+the drop.
+}
+[Auction "N"]
+1C X Pass 2H 
+Pass 4H Pass Pass 
+Pass    
+[Play "N"]
+D3 DA D6 DJ 
+HA H2 H3 HK 
+D7 DK D2 D8 
+H6 H7 H5 HJ 
+HT HQ D9 H9 
+S2 SA SJ S6 
+S3 S5 ST SQ 
+S4 SK S9 S7 
+*
+[Result "10"]
+

@@ -1,0 +1,125 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.11"]
+[Round "03"]
+[Board "7"]
+[Room "Open"]
+[West "S. Weinstein"]
+[North "Anton Maas"]
+[East "Bobby Levin"]
+[South "V. Ramondt"]
+[Dealer "S"]
+[Deal "S:JT6.AK3.AQ63.764 AQ873.J7652..Q32 K.QT8.JT874.AKJ8 9542.94.K952.T95"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "S"]
+{
+More Europeans coming in, this time Anton Maas/Vincent Ramondt,
+well-known Dutch internationals. They were selected only yesterday
+to play for their country in the European Championships next
+month. Earlier this year, bridge players in Holland voted for
+"best player in the country," and the winner was Maas. But at
+the same time, the question was put to the experts, and then
+Ramondt came out first. Let´s see how Weinstein and Levin fare
+against these Dutch heroes. The Americans move to the E/W seats.
+}
+[Auction "S"]
+1NT 2H 3NT Pass 
+Pass Pass   
+[Play "W"]
+S3 SK S5 S6 
+H7 DJ D5 D3 
+H6 DT DK DA 
+C3 CA C5 C6 
+H5 D8 D2 D6 
+H2 D4 D9 DQ 
+HJ HQ H9 H3 
+S8 D7 H4 SJ 
+SA H8 S2 HK 
+S7 HT S4 HA 
+C2 CJ CT C4 
+CQ CK C9 C7 
+*
+[Result "13"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "8"]
+[Room "Open"]
+[West "S. Weinstein"]
+[North "Anton Maas"]
+[East "Bobby Levin"]
+[South "V. Ramondt"]
+[Dealer "W"]
+[Deal "S:75.T32.KT74.J753 JT3.AQ75.962.K84 KQ984..AQJ53.T92 A62.KJ9864.8.AQ6"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "E"]
+{
+Here we see another example of the Levin/Weinstein Transfer Advances,
+West's 3D showing at least a sound raise to 3H raise. Maas, still
+hoping to compete effectively, doubled to show his diamonds,
+but in practice that cost his side an overtrick when Ramondt
+led the D7 (the king would have worked better, permitting a spade
+switch). The low diamond lead allowed declarer to draw trumps,
+ruff the diamonds, eliminate the clubs, and finally endplay North
+by exiting with a small spade to the ten and king.
+}
+[Auction "W"]
+Pass 1S 2H Pass 
+3D X 4H Pass 
+Pass Pass   
+[Play "S"]
+D7 D2 DA D8 
+D4 D6 DQ H9 
+H3 HQ D5 H8 
+DT D9 D3 HK 
+H2 H5 S4 HJ 
+HT HA S9 H4 
+C3 C4 CT CA 
+- - - C6 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "9"]
+[Room "Open"]
+[West "S. Weinstein"]
+[North "Anton Maas"]
+[East "Bobby Levin"]
+[South "V. Ramondt"]
+[Dealer "N"]
+[Deal "S:KQ52.T4.AT4.K987 JT87.AJ52.Q876.Q A6.K87.J2.AJT643 943.Q963.K953.52"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "S"]
+{
+A natural, if somewhat curious, Dutch auction. If South´s 2NT
+was indeed invitational it looks both a bit pessimistic (with
+such good clubs) and presumptuous (with that heart holding),
+but perhaps 2NT was a one-round force, at least semi-natural.
+However, all went well for the Dutch. North had hearts stopped,
+and he accepted the invitation (would he have without the CJ?).
+}
+[Auction "N"]
+1C Pass 1S Pass 
+2C Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+H2 H7 HQ H4 
+HA H8 H3 HT 
+H5 HK H6 D4 
+S7 SA S3 S2 
+ST S6 S9 SK 
+CQ - - CK 
+*
+[Result "11"]
+

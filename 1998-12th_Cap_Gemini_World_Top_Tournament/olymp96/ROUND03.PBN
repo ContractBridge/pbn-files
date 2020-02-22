@@ -1,0 +1,898 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "10th World Bridge Team Olympiad 1996"]
+[Site "Rodos Palace Hotel - Rhodos, Greece, GRC"]
+[Date "1996.11.02"]
+[Round "03"]
+[Board "1"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "EW"]
+[Deal "S:86.QT72.864.JT54 KT4.AJ9853.KQJ3. J9752..AT92.Q872 AQ3.K64.75.AK963"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT Pass 2D 
+Pass 4D Pass 6H 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "6H"]
+[Play "N"]
+S5 SA S8 S4 
+S2 HK H2 H3 
+S7 H4 H7 H9 
+SJ SQ S6 ST 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+1430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "1"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "EW"]
+[Deal "S:86.QT72.864.JT54 KT4.AJ9853.KQJ3. J9752..AT92.Q872 AQ3.K64.75.AK963"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT Pass 2D 
+Pass 2H Pass 3D 
+Pass 4H Pass 5C 
+Pass 6H Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "6H"]
+[Play "S"]
+C5 H3 CQ C3 
+H2 H5 S7 HK 
+H7 H8 S2 H4 
+S6 S4 S5 SA 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+1430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "2"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "None"]
+[Deal "S:KT5.KQ62.KQ93.K6 A9872.AT43.A72.9 QJ4.5.864.AQ7432 63.J987.JT5.JT85"]
+[Dealer "W"]
+[Auction "W"]
+1S 2C Pass 2S 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+S6 SK S2 S4 
+C5 CK C9 C4 
+C8 C6 D2 C3 
+HJ HK HA H5 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "2"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "None"]
+[Deal "S:KT5.KQ62.KQ93.K6 A9872.AT43.A72.9 QJ4.5.864.AQ7432 63.J987.JT5.JT85"]
+[Dealer "W"]
+[Auction "W"]
+1S 2C Pass 3NT 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+S2 S4 S6 SK 
+C9 C2 C5 CK 
+H4 CA C8 C6 
+D2 CQ CT H2 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "3"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "Both"]
+[Deal "S:K5.QJ.AK985.AK96 J94.A732.T3.QJ75 AQ8.KT9654.J4.T4 T7632.8.Q762.832"]
+[Dealer "S"]
+[Auction "S"]
+2D Pass 2H Pass 
+2NT Pass 3D Pass 
+3H Pass 4NT Pass 
+5S Pass 6H Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "6H"]
+[Play "E"]
+D2 DA D3 D4 
+H8 HQ H2 H6 
+S2 HJ H3 HK 
+C2 C6 HA HT 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+1430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "3"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "Both"]
+[Deal "S:K5.QJ.AK985.AK96 J94.A732.T3.QJ75 AQ8.KT9654.J4.T4 T7632.8.Q762.832"]
+[Dealer "S"]
+[Auction "S"]
+2D Pass 2H Pass 
+2NT Pass 3D Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+S7 SK S4 S8 
+H8 HQ H2 H4 
+S2 HJ HA H5 
+S3 S5 S9 SA 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+680"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "4"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "EW"]
+[Deal "S:K.QJ9654.Q954.93 Q62.8.KT76.AKQJ2 T7543.A3.J82.T76 AJ98.KT72.A3.854"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 2C Pass 
+2NT Pass 3D Pass 
+3NT Pass Pass Pass 
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+HQ H8 HA H2 
+H9 D6 H3 H7 
+C9 CA C6 C5 
+SK SQ S3 S9 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "4"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "EW"]
+[Deal "S:K.QJ9654.Q954.93 Q62.8.KT76.AKQJ2 T7543.A3.J82.T76 AJ98.KT72.A3.854"]
+[Dealer "E"]
+[Auction "E"]
+1D 2H 3C Pass 
+3NT Pass Pass Pass 
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+HQ H8 HA H2 
+H9 D6 H3 H7 
+C9 CA C6 C4 
+C3 CK C7 C5 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+660"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "5"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "NS"]
+[Deal "S:AQJ.A2.KQJT743.K KT97.T5.86.QJT72 8543.K76.92.A864 62.QJ9843.A5.953"]
+[Dealer "N"]
+[Auction "N"]
+Pass 2D X 2H 
+Pass Pass 3D Pass 
+3NT Pass Pass Pass 
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+HJ HA HT H7 
+D5 D3 D8 D9 
+C3 CK C2 C4 
+DA DK D6 D2 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+660"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "5"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "NS"]
+[Deal "S:AQJ.A2.KQJT743.K KT97.T5.86.QJT72 8543.K76.92.A864 62.QJ9843.A5.953"]
+[Dealer "N"]
+[Auction "N"]
+Pass 2D X 2H 
+Pass Pass 4D Pass 
+5D Pass Pass Pass 
+[Declarer "S"]
+[Contract "5D"]
+[Play "W"]
+HT H6 H8 HA 
+D6 D9 DA D3 
+C7 C4 C3 CK 
+D8 D2 D5 DK 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "6"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "Both"]
+[Deal "S:A7.KJT76.A62.983 J4.983.QJ85.JT54 KQ8632.Q4.973.K7 T95.A52.KT4.AQ62"]
+[Dealer "W"]
+[Auction "W"]
+Pass 2D Pass 2S 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+DJ D3 D4 D6 
+D5 D7 DK DA 
+H3 HQ HA H6 
+DQ D9 DT D2 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "6"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "Both"]
+[Deal "S:A7.KJT76.A62.983 J4.983.QJ85.JT54 KQ8632.Q4.973.K7 T95.A52.KT4.AQ62"]
+[Dealer "W"]
+[Auction "W"]
+Pass 2D X 2S 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+DQ D3 D4 DA 
+S4 S2 S5 SA 
+SJ SQ S9 S7 
+C5 SK ST C9 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "7"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "EW"]
+[Deal "S:K952.T95.9763.64 AJ63.743.AQ4.KT5 QT87.KQJ.KT8.A97 4.A862.J52.QJ832"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1S 1NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+C3 C4 CK C7 
+CJ C6 CT C9 
+CQ S9 C5 CA 
+S4 SK SA S8 
+*
+[Room "Open"]
+[Result "5"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "7"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "EW"]
+[Deal "S:K952.T95.9763.64 AJ63.743.AQ4.KT5 QT87.KQJ.KT8.A97 4.A862.J52.QJ832"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D 1NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+C2 C4 CK C7 
+CJ C6 CT C9 
+C8 D3 C5 CA 
+H2 H5 H3 HK 
+*
+[Room "Closed"]
+[Result "4"]
+[Score "-150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "8"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "NS"]
+[Deal "S:5.AK84.AJT75.Q63 A9764.J32.Q83.AJ 832.Q9765.64.982 KQJT.T.K92.KT754"]
+[Dealer "E"]
+[Auction "E"]
+1S 2D 4S Pass 
+Pass X Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4SX"]
+[Play "S"]
+HA H2 H5 HT 
+HK H3 H7 ST 
+S5 S4 S2 SQ 
+C3 CA C2 C4 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+690"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "8"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "NS"]
+[Deal "S:5.AK84.AJT75.Q63 A9764.J32.Q83.AJ 832.Q9765.64.982 KQJT.T.K92.KT754"]
+[Dealer "E"]
+[Auction "E"]
+2C 2D X Pass 
+2S Pass 4S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+HA H2 H9 HT 
+HK H3 H5 ST 
+S5 S4 S2 SQ 
+D7 SA S3 SJ 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "9"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "None"]
+[Deal "S:AJ8432.76.6.Q862 .AQJ53.KQ754.KJ5 Q75.K982.J92.T74 KT96.T4.AT83.A93"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C 2S X 
+3S Pass Pass X 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3SX"]
+[Play "W"]
+DQ D2 D8 D6 
+D4 D9 DT S2 
+CJ C4 C3 C2 
+D5 DJ D3 S3 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-300"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "9"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "None"]
+[Deal "S:AJ8432.76.6.Q862 .AQJ53.KQ754.KJ5 Q75.K982.J92.T74 KT96.T4.AT83.A93"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D 2S 3H 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+S3 C5 SQ SK 
+H6 H3 HK HT 
+SJ H5 S7 ST 
+SA D4 S5 S6 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "10"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "EW"]
+[Deal "S:J75.83.K76542.K4 AK6.J942.A.JT862 QT94.Q.QJT9.Q953 832.AKT765.83.A7"]
+[Dealer "W"]
+[Auction "W"]
+1H Pass 4H Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+DQ D3 D7 DA 
+C5 CA C4 C2 
+HQ HA H8 H2 
+C3 C7 CK C6 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+680"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "10"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "EW"]
+[Deal "S:J75.83.K76542.K4 AK6.J942.A.JT862 QT94.Q.QJT9.Q953 832.AKT765.83.A7"]
+[Dealer "W"]
+[Auction "W"]
+2C Pass 2D Pass 
+2H Pass 4NT Pass 
+5H Pass 6H Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "6H"]
+[Play "N"]
+DQ D3 D2 DA 
+HQ HA H3 H4 
+S4 HK H8 H2 
+C3 CA C4 C2 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+1430"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "11"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "NS"]
+[Deal "S:AKT72.Q7.T3.9653 Q96.K843.K72.KT8 J54.J5.AQ986.AQ4 83.AT962.J54.J72"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C 1D Pass 
+1S Pass 2S Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+C8 CQ C2 C5 
+SQ S4 S3 ST 
+CK CA C7 C3 
+CT C4 CJ C6 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "11"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "NS"]
+[Deal "S:AKT72.Q7.T3.9653 Q96.K843.K72.KT8 J54.J5.AQ986.AQ4 83.AT962.J54.J72"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1D Pass 
+1S Pass 1NT Pass 
+2C Pass 3S Pass 
+4S Pass Pass Pass 
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+H3 H5 HA H7 
+HK HJ H6 HQ 
+C8 CQ C2 C3 
+S6 S4 S3 SA 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "12"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "None"]
+[Deal "S:4.JT54.QJT65.832 T953.7.AK974.A54 J76.AKQ93.3.KQJ7 AKQ82.862.82.T96"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1D 1H 
+1S 2H 2S 4H 
+4S Pass Pass X 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4SX"]
+[Play "S"]
+*
+[Room "Open"]
+[Result "10"]
+[Score "+590"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "12"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "None"]
+[Deal "S:4.JT54.QJT65.832 T953.7.AK974.A54 J76.AKQ93.3.KQJ7 AKQ82.862.82.T96"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1D X 
+1S 2H 2S 4H 
+4S Pass Pass Pass 
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+HJ H7 HQ H2 
+C2 CA CK C6 
+S4 S3 S6 SQ 
+H4 S5 H3 H6 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "13"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "Both"]
+[Deal "S:4.K5.T84.QJ97643 Q53.AT82.AKQ7.A8 AJT9.Q9764.962.T K8762.J3.J53.K52"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 3C X 
+Pass 4S Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+CQ C8 CT CK 
+S4 SQ SA S6 
+C7 S3 SJ SK 
+D4 DA D6 D3 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "13"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "Both"]
+[Deal "S:4.K5.T84.QJ97643 Q53.AT82.AKQ7.A8 AJT9.Q9764.962.T K8762.J3.J53.K52"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 1C 
+Pass 1S 2C 2NT 
+Pass 3NT Pass 4S 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+D4 DA D2 DJ 
+S4 SQ SA S2 
+CJ CA CT C5 
+C9 S3 S9 SK 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "14"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "NS"]
+[Deal "S:6.JT62.JT63.Q853 QJ9.A54.742.AK62 AT84.Q9873.9.974 K7532.K.AKQ85.JT"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 2H Pass 
+2S Pass 3D Pass 
+4S Pass 4NT Pass 
+5S Pass 6S Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "6S"]
+[Play "N"]
+C7 CJ CQ CA 
+SA S2 S6 SQ 
+C4 CT C3 C2 
+H3 HK H6 H4 
+*
+[Room "Open"]
+[Result "11"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "14"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "NS"]
+[Deal "S:6.JT62.JT63.Q853 QJ9.A54.742.AK62 AT84.Q9873.9.974 K7532.K.AKQ85.JT"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1S Pass 
+1NT Pass 2C Pass 
+3S Pass 4NT Pass 
+5S Pass 6S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "6S"]
+[Play "S"]
+C5 CA C9 CT 
+S6 SQ SA S2 
+D3 D2 D9 DA 
+H2 SJ S4 S3 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "15"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "None"]
+[Deal "S:85.A986.K754.763 J642.KQ.T8.J8542 KQ9.52.AJ962.AQ9 AT73.JT743.Q3.KT"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+H4 HA HQ H5 
+D3 DK DT D2 
+DQ D4 D8 DA 
+S7 D5 S6 D9 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "15"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "None"]
+[Deal "S:85.A986.K754.763 J642.KQ.T8.J8542 KQ9.52.AJ962.AQ9 AT73.JT743.Q3.KT"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+H3 HA HQ H2 
+D3 DK D8 D2 
+DQ D4 DT DA 
+S3 D5 C2 DJ 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "16"]
+[West "McGann"]
+[North "Panelewen"]
+[East "Hanlon"]
+[South "Watulingas"]
+[Vulnerable "Both"]
+[Deal "S:Q54.T6.T652.T975 KJ9.AKJ8753..642 A862.942.KQ87.AK T73.Q.AJ943.QJ83"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 4H X 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "4HX"]
+[Play "N"]
+CK C3 CT C6 
+CA C8 C7 C4 
+SA S3 S4 S9 
+S2 S7 SQ SK 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+790"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "03"]
+[Board "16"]
+[West "Manoppo"]
+[North "Brennan"]
+[East "Lasut"]
+[South "Scannell"]
+[Vulnerable "Both"]
+[Deal "S:Q54.T6.T652.T975 KJ9.AKJ8753..642 A862.942.KQ87.AK T73.Q.AJ943.QJ83"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1H X 
+Pass 1S 2H 2S 
+4H Pass Pass Pass 
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+DK DA D2 S9 
+H2 HQ H6 H3 
+D7 D3 D5 H5 
+H4 D4 HT HA 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+620"]
+

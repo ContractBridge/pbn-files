@@ -1,0 +1,650 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1998 IOC Grand Prix"]
+[Site "IOC Olympic Museum - Lausanne, Switzerland, CHE"]
+[Date "1998.09.11"]
+[Round "3"]
+[Board "1"]
+[West "Mari"]
+[North "Hu"]
+[East "Levy"]
+[South "Wang"]
+[Vulnerable "None"]
+[Deal "S:T63.764.AQJ94.T8 Q92.AQ98.87.AK76 AKJ4.JT5.KT32.92 875.K32.65.QJ543"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 2D X 
+Pass 2H 3D Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+S5 S3 SQ SA 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "1"]
+[West "Dai"]
+[North "Perron"]
+[East "Shi"]
+[South "Chemla"]
+[Vulnerable "None"]
+[Deal "S:T63.764.AQJ94.T8 Q92.AQ98.87.AK76 AKJ4.JT5.KT32.92 875.K32.65.QJ543"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 2D X 
+Pass 3C 3D Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "2"]
+[West "Mari"]
+[North "Hu"]
+[East "Levy"]
+[South "Wang"]
+[Vulnerable "NS"]
+[Deal "S:953.KQ72.Q63.KQ9 AKJ74.T4.JT7.A84 QT62.9.AK85.JT76 8.AJ8653.942.532"]
+[Dealer "E"]
+[Auction "E"]
+2H Pass Pass X 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+SK S2 S8 S5 
+HT H9 H6 HQ 
+CA C6 C2 CQ 
+H4 D5 HA H2 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "2"]
+[West "Dai"]
+[North "Perron"]
+[East "Shi"]
+[South "Chemla"]
+[Vulnerable "NS"]
+[Deal "S:953.KQ72.Q63.KQ9 AKJ74.T4.JT7.A84 QT62.9.AK85.JT76 8.AJ8653.942.532"]
+[Dealer "E"]
+[Auction "E"]
+2H Pass Pass X 
+Pass 3NT X Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "3NTX"]
+[Play "W"]
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+750"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "3"]
+[West "Mari"]
+[North "Hu"]
+[East "Levy"]
+[South "Wang"]
+[Vulnerable "EW"]
+[Deal "S:KJT532.QJ.Q6.J93 Q7.863.AJ85.K754 A986.A92.T9732.A 4.KT754.K4.QT862"]
+[Dealer "S"]
+[Auction "S"]
+2D Pass 2NT Pass 
+3H Pass 4S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+C2 C9 CK CA 
+S4 SK S7 S6 
+H4 S2 SQ SA 
+D4 DQ DA D3 
+HK HJ H8 H2 
+DK D6 D5 D2 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "3"]
+[West "Dai"]
+[North "Perron"]
+[East "Shi"]
+[South "Chemla"]
+[Vulnerable "EW"]
+[Deal "S:KJT532.QJ.Q6.J93 Q7.863.AJ85.K754 A986.A92.T9732.A 4.KT754.K4.QT862"]
+[Dealer "S"]
+[Auction "S"]
+2S Pass 4S Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+H6 - - - 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "4"]
+[West "Mari"]
+[North "Hu"]
+[East "Levy"]
+[South "Wang"]
+[Vulnerable "Both"]
+[Deal "S:2.KJ4.A96543.KQ8 KQ76.A876.KQ.T94 A954.T95.J87.653 JT83.Q32.T2.AJ72"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1S 2D 
+2S Pass Pass Pass 
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+CK C4 C3 CA 
+S2 SK S4 S3 
+D6 S6 S5 ST 
+C8 C9 C5 C2 
+CQ CT C6 C7 
+DA DQ D7 D2 
+D3 DK DJ DT 
+HK H6 HT HQ 
+H4 H7 H9 H3 
+D5 SQ SA S8 
+- - S9 SJ 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "4"]
+[West "Dai"]
+[North "Perron"]
+[East "Shi"]
+[South "Chemla"]
+[Vulnerable "Both"]
+[Deal "S:2.KJ4.A96543.KQ8 KQ76.A876.KQ.T94 A954.T95.J87.653 JT83.Q32.T2.AJ72"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1S 2D 
+2S Pass Pass Pass 
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "5"]
+[West "Mari"]
+[North "Hu"]
+[East "Levy"]
+[South "Wang"]
+[Vulnerable "NS"]
+[Deal "S:AT6532.97.62.A42 K4.643.AJT73.Q95 7.KQT852.K84.T83 QJ98.AJ.Q95.KJ76"]
+[Dealer "N"]
+[Auction "N"]
+2D Pass 2H Pass 
+Pass X Pass 3D 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3D"]
+[Play "N"]
+S7 S8 SA SK 
+C3 CJ C2 C9 
+DK DQ D2 D3 
+HK HA H7 H4 
+D4 D5 D6 DA 
+D8 D9 S2 DJ 
+H2 SQ S3 S4 
+H5 SJ S5 H3 
+C8 C6 CA C5 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "5"]
+[West "Dai"]
+[North "Perron"]
+[East "Shi"]
+[South "Chemla"]
+[Vulnerable "NS"]
+[Deal "S:AT6532.97.62.A42 K4.643.AJT73.Q95 7.KQT852.K84.T83 QJ98.AJ.Q95.KJ76"]
+[Dealer "N"]
+[Auction "N"]
+2H X 3H X 
+Pass 4C Pass 4D 
+Pass 4S Pass 5D 
+X Pass Pass Pass 
+[Declarer "W"]
+[Contract "5DX"]
+[Play "N"]
+S7 - - - 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "6"]
+[West "Mari"]
+[North "Hu"]
+[East "Levy"]
+[South "Wang"]
+[Vulnerable "EW"]
+[Deal "S:T954.Q962.KT.KJ9 A76.J83.A72.Q854 32.KT4.QJ953.A32 KQJ8.A75.864.T76"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass Pass 
+[Contract "Pass"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "6"]
+[West "Dai"]
+[North "Perron"]
+[East "Shi"]
+[South "Chemla"]
+[Vulnerable "EW"]
+[Deal "S:T954.Q962.KT.KJ9 A76.J83.A72.Q854 32.KT4.QJ953.A32 KQJ8.A75.864.T76"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass Pass 
+[Contract "Pass"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "7"]
+[West "Mari"]
+[North "Hu"]
+[East "Levy"]
+[South "Wang"]
+[Vulnerable "Both"]
+[Deal "S:K862.QJ7.87.AQ87 AT.K832.KQJ432.6 Q543.A9.A95.J952 J97.T654.T6.KT43"]
+[Dealer "S"]
+[Auction "S"]
+1C 1D 1S Pass 
+2S X XX Pass 
+Pass 3D Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "3D"]
+[Play "N"]
+S4 S7 SK SA 
+SQ S9 S2 ST 
+HA H4 H7 H3 
+H9 H5 HJ HK 
+D5 DT D8 D4 
+S5 SJ S6 C6 
+DA D6 D7 DQ 
+CJ C3 C8 D2 
+- - - DK 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "7"]
+[West "Dai"]
+[North "Perron"]
+[East "Shi"]
+[South "Chemla"]
+[Vulnerable "Both"]
+[Deal "S:K862.QJ7.87.AQ87 AT.K832.KQJ432.6 Q543.A9.A95.J952 J97.T654.T6.KT43"]
+[Dealer "S"]
+[Auction "S"]
+1C 1D 1S Pass 
+2S X XX 3H 
+Pass Pass 3S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3S"]
+[Play "E"]
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "8"]
+[West "Mari"]
+[North "Hu"]
+[East "Levy"]
+[South "Wang"]
+[Vulnerable "None"]
+[Deal "S:4.AK763.873.QJ87 AQ6.4.JT654.AKT5 KJ9832.J2.A9.963 T75.QT985.KQ2.42"]
+[Dealer "W"]
+[Auction "W"]
+1D 1S X Pass 
+2C Pass 2D 2H 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "2H"]
+[Play "W"]
+CA C3 C4 C8 
+D4 D9 DQ D7 
+CK C6 C2 CQ 
+CT C9 H5 C7 
+SA S2 S5 S4 
+C5 HJ HQ CJ 
+H4 H2 H8 HA 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "8"]
+[West "Dai"]
+[North "Perron"]
+[East "Shi"]
+[South "Chemla"]
+[Vulnerable "None"]
+[Deal "S:4.AK763.873.QJ87 AQ6.4.JT654.AKT5 KJ9832.J2.A9.963 T75.QT985.KQ2.42"]
+[Dealer "W"]
+[Auction "W"]
+1D 2S Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "9"]
+[West "Mari"]
+[North "Hu"]
+[East "Levy"]
+[South "Wang"]
+[Vulnerable "EW"]
+[Deal "S:J62.AK5.QJ9875.8 AK53.Q864.K.AT62 74.9732.6432.KJ5 QT98.JT.AT.Q9743"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1D X 
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+HA H4 H3 HT 
+D7 DK D3 DT 
+S6 SA S4 S9 
+S2 SK S7 S8 
+SJ S3 D2 SQ 
+C8 CA C5 C3 
+D5 C2 CK C7 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "9"]
+[West "Dai"]
+[North "Perron"]
+[East "Shi"]
+[South "Chemla"]
+[Vulnerable "EW"]
+[Deal "S:J62.AK5.QJ9875.8 AK53.Q864.K.AT62 74.9732.6432.KJ5 QT98.JT.AT.Q9743"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1D X 
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+HA - - - 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "10"]
+[West "Mari"]
+[North "Hu"]
+[East "Levy"]
+[South "Wang"]
+[Vulnerable "Both"]
+[Deal "S:AKT53.K3.J7654.9 64.AQJT52.A32.AQ 987.976.KQT9.832 QJ2.84.8.KJT7654"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1S X 2S 
+3C Pass 4H Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+S9 SQ SK S6 
+C3 C5 C9 CA 
+C8 CK H3 CQ 
+S8 S2 SA S4 
+DT D8 D5 DA 
+D9 H4 D4 D3 
+S7 SJ S3 D2 
+- H8 - - 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "10"]
+[West "Dai"]
+[North "Perron"]
+[East "Shi"]
+[South "Chemla"]
+[Vulnerable "Both"]
+[Deal "S:AKT53.K3.J7654.9 64.AQJT52.A32.AQ 987.976.KQT9.832 QJ2.84.8.KJT7654"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1S X Pass 
+2C Pass 2H Pass 
+3C Pass Pass Pass 
+[Declarer "E"]
+[Contract "3C"]
+[Play "S"]
+SA - - - 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "11"]
+[West "Mari"]
+[North "Hu"]
+[East "Levy"]
+[South "Wang"]
+[Vulnerable "None"]
+[Deal "S:QT987.73.9864.Q8 J65.AQ.QT5.J6543 A32.JT9652.KJ32. K4.K84.A7.AKT972"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 2H 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+H7 HA H5 H4 
+C8 C3 H2 CA 
+CQ C4 H6 CK 
+S8 CJ S2 C2 
+S7 C5 D3 CT 
+H3 HQ H9 H8 
+D6 C6 S3 C7 
+D4 S5 D2 C9 
+D9 D5 DJ DA 
+D8 DQ DK D7 
+ST S6 SA S4 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "11"]
+[West "Dai"]
+[North "Perron"]
+[East "Shi"]
+[South "Chemla"]
+[Vulnerable "None"]
+[Deal "S:QT987.73.9864.Q8 J65.AQ.QT5.J6543 A32.JT9652.KJ32. K4.K84.A7.AKT972"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1H 1NT 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+ST - - - 
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+460"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "12"]
+[West "Mari"]
+[North "Hu"]
+[East "Levy"]
+[South "Wang"]
+[Vulnerable "NS"]
+[Deal "S:A76.KT.A92.KT643 2.AQJ8764.864.A2 K543.2.Q753.QJ87 QJT98.953.KJT.95"]
+[Dealer "W"]
+[Auction "W"]
+1H Pass 2H X 
+4H 4S X Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "4SX"]
+[Play "E"]
+H3 HK HA H2 
+H9 HT HJ D5 
+DT DA D4 D3 
+C9 C3 CA C8 
+DJ D2 D8 D7 
+DK D9 D6 DQ 
+SQ S6 S2 S4 
+S8 SA H8 S3 
+C5 C4 C2 CQ 
+S9 C6 H4 CJ 
+SJ - - - 
+*
+[Room "Open"]
+[Result "5"]
+[Score "-1400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "3"]
+[Board "12"]
+[West "Dai"]
+[North "Perron"]
+[East "Shi"]
+[South "Chemla"]
+[Vulnerable "NS"]
+[Deal "S:A76.KT.A92.KT643 2.AQJ8764.864.A2 K543.2.Q753.QJ87 QJT98.953.KJT.95"]
+[Dealer "W"]
+[Auction "W"]
+1H Pass 1S Pass 
+2H Pass Pass Pass 
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+140"]
+

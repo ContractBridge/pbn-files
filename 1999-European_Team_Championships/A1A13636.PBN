@@ -1,0 +1,1393 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "European Team Championships '99"]
+[Site "Malta, MLT"]
+[Date "1999.06.25"]
+[Board "1"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QJ96.AJ3.AKQ3.AT A83.T962.JT5.KJ9 K54.K8754.42.865 T72.Q.9876.Q7432"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS 430"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+2D Pass 3S Pass
+3NT Pass Pass Pass
+[Play "E"]
+DJ D2 D9 DA
+S3 SK S2 S6
+SA S4 S7 SJ
+CK C5 C2 CA
+S8 S5 ST SQ
+DT C6 C4 S9
+H2 HK HQ H3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "1"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QJ96.AJ3.AKQ3.AT A83.T962.JT5.KJ9 K54.K8754.42.865 T72.Q.9876.Q7432"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 450"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1C Pass 1D Pass
+2NT Pass 3D Pass
+3H Pass 3NT Pass
+4H Pass Pass Pass
+[Play "E"]
+DJ D2 D6 DK
+H2 HK HQ H3
+H6 H4 C4 HA
+S3 SK S2 S6
+SA S4 S7 SQ
+DT D4 D7 DA
+D5 C5 D8 DQ
+S8 S5 ST SJ
+H9 H5 D9 HJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "2"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:862.632.J94.AQ52 T93.KQ.AKQT83.J6 KQJ5.AT7.65.T987 A74.J9854.72.K43"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -100"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+Pass 1D 1S X
+2S 3D Pass Pass
+Pass
+[Play "W"]
+SK SA S8 S3
+D5 D2 D4 DA
+D6 D7 D9 DK
+S5 H4 DJ DQ
+HA H5 H2 HQ
+CT CK CA C6
+C7 C3 CQ CJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "2"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:862.632.J94.AQ52 T93.KQ.AKQT83.J6 KQJ5.AT7.65.T987 A74.J9854.72.K43"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1D 1S X
+2S 3D Pass Pass
+Pass
+[Play "W"]
+SK S4 S2 S3
+SQ SA S6 S9
+HA H4 H6 HQ
+CT C3 CQ C6
+C9 C4 CA CJ
+SJ S7 S8 ST
+HT H5 H2 HK
+D5 - - DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "3"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:982.J2.AJT987.65 KQ6.AK984.3.AJT2 AJ4.3.KQ6542.873 T753.QT765..KQ94"]
+[Declarer "S"]
+[Contract "7DX"]
+[Result "9"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -800"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+3D X 5D 5H
+Pass 6H 7D X
+Pass Pass Pass
+[Play "W"]
+HK H3 HT H2
+D3 D2 C4 D7
+SQ S4 S3 S8
+CT C3 CQ C5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "3"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:982.J2.AJT987.65 KQ6.AK984.3.AJT2 AJ4.3.KQ6542.873 T753.QT765..KQ94"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+2D X 5D 5H
+Pass 6H Pass Pass
+Pass
+[Play "S"]
+DA D3 DK H5
+H2 HA H3 H6
+HJ HK D2 H7
+C5 CA C3 C4
+C6 CJ C7 C9
+D7 C2 C8 CK
+D8 CT D4 CQ
+S2 SQ S4 S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "4"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK83.AT4.KJ42.84 J65.3.A76.AKT962 7.952.T983.QJ753 QT942.KQJ876.Q5."]
+[Declarer "N"]
+[Contract "3C"]
+[Result "5"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -400"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1C 2C Pass 2H
+Pass 3C Pass Pass
+Pass
+[Play "E"]
+S7 S2 SK S5
+H9 S4 SA S6
+C5 S9 S8 SJ
+DT DQ DK DA
+C3 H6 C4 CA
+C7 H7 C8 CK
+CJ H8 S3 CT
+D8 D5 D2 D6
+D3 HJ DJ D7
+H2 HQ HA H3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "4"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK83.AT4.KJ42.84 J65.3.A76.AKT962 7.952.T983.QJ753 QT942.KQJ876.Q5."]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -200"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1NT Pass 2NT Pass
+3C Pass Pass 4H
+Pass Pass Pass
+[Play "W"]
+SA S5 S7 SQ
+SK S6 C3 S4
+S8 SJ H5 S2
+DK DA DT DQ
+C4 CA C5 D5
+D2 D6 D9 H6
+HA H3 H2 HJ
+S3 C2 H9 S9
+C8 C6 CQ H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "5"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT643.A.Q974.AQ2 A97.J9865.KJ.T86 Q5.Q.AT853.J9754 J82.KT7432.62.K3"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS 600"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+1S Pass 1NT Pass
+2D Pass 4D Pass
+4H Pass 5D Pass
+Pass Pass
+[Play "E"]
+H5 HQ HK HA
+DJ DA D2 D7
+DK D3 D6 DQ
+C6 C7 CK CA
+C8 C4 C3 CQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "5"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT643.A.Q974.AQ2 A97.J9865.KJ.T86 Q5.Q.AT853.J9754 J82.KT7432.62.K3"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -300"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1S Pass 1NT Pass
+2D Pass 3D Pass
+3NT Pass Pass Pass
+[Play "W"]
+H2 HA H5 HQ
+D2 DQ DK DA
+D6 D9 DJ D5
+H3 S3 H9 S5
+H4 S4 H8 C4
+S2 S6 SA SQ
+- - HJ -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "6"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J72.AQ63.AQ732.6 T8643.K82.K985.9 AK5.94.T4.AQT832 Q9.JT75.J6.KJ754"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS 300"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1C Pass 1D Pass
+1H 1S 3C Pass
+3D Pass 3NT Pass
+Pass Pass
+[Play "N"]
+SQ S2 S3 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "6"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J72.AQ63.AQ732.6 T8643.K82.K985.9 AK5.94.T4.AQT832 Q9.JT75.J6.KJ754"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 300"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1H Pass 2C Pass
+2D Pass 3C Pass
+3D Pass 3NT Pass
+Pass Pass
+[Play "N"]
+SQ S2 S3 SK
+D6 DQ DK DT
+S9 SJ S4 S5
+CK C6 C9 CQ
+HJ HQ HK H4
+DJ D2 D5 D4
+HT HA H2 H9
+C4 DA D9 C2
+C5 S7 S6 SA
+C7 H3 - CA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "7"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:972.A32.J.Q98432 KJ43.KJ.QT9654.7 AQT8.986.K7.AT65 65.QT754.A832.KJ"]
+[Declarer "^E"]
+[Contract "1S"]
+[Result "2"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS 500"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass 1S Pass Pass
+Pass
+[Play "S"]
+HA HK H8 H4
+DJ DQ DK DA
+S2 SJ SQ S5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "7"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:972.A32.J.Q98432 KJ43.KJ.QT9654.7 AQT8.986.K7.AT65 65.QT754.A832.KJ"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1C 1H
+2C 2D 3C 3D
+Pass Pass Pass
+[Play "N"]
+CA CJ C2 C7
+C5 CK C3 S3
+H9 H4 H2 HK
+H8 H5 HA HJ
+SQ S5 S7 SJ
+SA S6 S2 S4
+ST H7 S9 SK
+D7 DA DJ D4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "8"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:763.T.KT.KJT7432 J54.A53.AJ762.96 AKQ2.KQ98742..Q5 T98.J6.Q98543.A8"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -450"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+3C Pass 3H Pass
+3S Pass 4H Pass
+Pass Pass
+[Play "S"]
+D3 DT DJ H2
+H6 HT HA HK
+D4 DK DA H4
+HJ C2 H3 HQ
+D5 - - H9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "8"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:763.T.KT.KJT7432 J54.A53.AJ762.96 AKQ2.KQ98742..Q5 T98.J6.Q98543.A8"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -450"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+2NT Pass 4H Pass
+Pass Pass
+[Play "S"]
+S8 S3 SJ SK
+H6 HT HA HQ
+S9 S6 S5 SA
+HJ C2 H5 HK
+D3 S7 H3 H9
+D4 C3 D2 H8
+D5 C4 D7 H7
+D8 C7 D6 H4
+CA CT C6 CQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "9"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T3.87.KT964.A852 AKQ954.KJ2.A2.Q9 J862.A64.Q753.64 7.QT953.J8.KJT73"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -650"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1S Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+DT DA D3 D8
+S3 SA S2 S7
+ST SK S6 DJ
+H7 HK H4 H3
+CA CQ C4 C3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "9"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T3.87.KT964.A852 AKQ954.KJ2.A2.Q9 J862.A64.Q753.64 7.QT953.J8.KJT73"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1C Pass 3C
+Pass 3S Pass 3NT
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+C6 C3 CA CQ
+C4 CT C2 C9
+S2 CK C5 D2
+D5 DJ DK DA
+S6 S7 S3 SA
+S8 H3 ST SK
+SJ - - SQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "10"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AK653.32.K6.JT96 Q872.AT7.J9852.2 94.K98.T43.AKQ75 JT.QJ654.AQ7.843"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -130"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1S Pass 1NT Pass
+3C Pass Pass Pass
+[Play "S"]
+D9 D3 DA D6
+D5 D4 D7 DK
+C2 CA C3 C6
+D2 CK C4 C9
+S2 S4 SJ SA
+D8 C5 C8 CT
+S7 S9 ST SK
+S8 C7 H4 S3
+DJ DT DQ CJ
+H7 - - H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "10"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AK653.32.K6.JT96 Q872.AT7.J9852.2 94.K98.T43.AKQ75 JT.QJ654.AQ7.843"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -600"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1S Pass 2C Pass
+2H Pass 2S Pass
+3C Pass 3D Pass
+3NT Pass Pass Pass
+[Play "S"]
+D2 D3 DA D6
+D5 D4 DQ DK
+C2 C5 C3 CJ
+H7 C7 C4 CT
+S2 CQ C8 C9
+D8 CA H4 C6
+D9 CK H5 S3
+S7 S9 ST SA
+S8 S4 SJ SK
+HT HK H6 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "11"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q9.865.K54.QJ876 64.K92.QJ6.AK952 AT752.AJ43.872.3 KJ83.QT7.AT93.T4"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -90"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass 1NT Pass Pass
+Pass
+[Play "N"]
+S2 SJ SQ S6
+S5 SK S9 S4
+C3 C4 C6 CA
+D2 D3 D4 DQ
+D7 D9 DK DJ
+H3 CT CQ CK
+HA H7 H5 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "11"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q9.865.K54.QJ876 64.K92.QJ6.AK952 AT752.AJ43.872.3 KJ83.QT7.AT93.T4"]
+[Declarer "^W"]
+[Contract "2CXX"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -560"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1NT Pass 2C
+X XX Pass Pass
+Pass
+[Play "N"]
+HJ - H5 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "12"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QT653.K75.Q6.AT6 KJ942.432.74.Q84 A7.AQJ9.AJ5.J752 8.T86.KT9832.K93"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -400"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1S Pass 1NT Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "S"]
+DT DQ D4 D5
+C9 C6 C4 C2
+S8 SQ SK SA
+C3 CA C8 C5
+CK CT CQ C7
+H8 HK H2 H9
+H6 H5 H3 HQ
+D2 H7 S2 CJ
+HT - - HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "12"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QT653.K75.Q6.AT6 KJ942.432.74.Q84 A7.AQJ9.AJ5.J752 8.T86.KT9832.K93"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1S Pass 2C Pass
+2H Pass 2S Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "N"]
+H2 HJ H8 H5
+- SA S8 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "13"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AJ974.8.AT96.863 2.AK9532.532.Q52 QT5.QT.Q87.JT974 K863.J764.KJ4.AK"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -650"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+Pass 1H Pass 2NT
+Pass 3C Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+CJ CK C6 C2
+HT HJ H8 HA
+C4 CA C3 C5
+HQ H4 C8 HK
+C7 D4 S4 CQ
+ST SK SA S2
+S5 S3 S7 H2
+D7 DJ - D2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "13"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AJ974.8.AT96.863 2.AK9532.532.Q52 QT5.QT.Q87.JT974 K863.J764.KJ4.AK"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+CJ CA C8 C5
+HQ HJ H8 HA
+HT H4 S4 HK
+S5 SK SA S2
+ST S3 S7 H2
+C4 CK C3 C2
+SQ S6 S9 H3
+C7 D4 C6 CQ
+D7 DK DA D2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "14"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K5.K.QT8632.QJT9 8743.J9874.4.A53 JT6.QT32.A75.K74 AQ92.A65.KJ9.862"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -50"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+2D Pass Pass X
+Pass 2H Pass Pass
+Pass
+[Play "W"]
+DA D9 D2 D4
+C4 C2 CT C3
+C7 C6 CQ CA
+H2 HA HK HJ
+D5 DK D3 C5
+CK C8 C9 H4
+S6 S9 SK S3
+ST H5 CJ S4
+SJ SA S5 S7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "14"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K5.K.QT8632.QJT9 8743.J9874.4.A53 JT6.QT32.A75.K74 AQ92.A65.KJ9.862"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass Pass 1NT
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "E"]
+CQ C3 C7 C8
+CJ CA C4 C6
+D2 D4 DA D9
+C9 C5 CK C2
+SK S3 S6 SQ
+S5 S4 ST SA
+HK H4 H2 HA
+D3 H7 HT H5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "15"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K96.852.KJT6.T62 QJ7.QJT74.Q842.K T843.AK3.95.AJ95 A52.96.A73.Q8743"]
+[Declarer "W"]
+[Contract "1H"]
+[Result "7"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -80"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+Pass 1H Pass Pass
+Pass
+[Play "N"]
+D5 D3 DK D2
+D9 DA D6 D4
+CA C3 C2 CK
+S4 SA S6 S7
+C5 CQ C6 D8
+S3 S2 SK SJ
+H3 D7 DT DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "15"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K96.852.KJT6.T62 QJ7.QJT74.Q842.K T843.AK3.95.AJ95 A52.96.A73.Q8743"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -90"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D 1H Pass 1NT
+Pass Pass Pass
+[Play "S"]
+C2 CK CA C3
+C6 D2 CJ CQ
+H8 H4 HK H9
+CT H7 C9 C4
+DJ D4 D9 DA
+H5 HT HA H6
+S6 HJ C5 C8
+SK S7 S3 S2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "16"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K64.KT642.K65.K2 A953.QJ73.92.AT5 82.A9.J873.J9843 QJT7.85.AQT4.Q76"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS 420"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+1C X Pass 2C
+Pass 2H Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+S4 S3 S2 ST
+H6 HQ HA H5
+DK D2 D3 D4
+S6 S5 S8 SJ
+SK SA C8 S7
+D5 D9 D7 DT
+D6 C5 D8 DQ
+H2 CT DJ DA
+HK H3 H9 H8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "16"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K64.KT642.K65.K2 A953.QJ73.92.AT5 82.A9.J873.J9843 QJT7.85.AQT4.Q76"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 170"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1H Pass 1NT 2S
+Pass 3S Pass Pass
+Pass
+[Play "W"]
+CK CA C3 C7
+DK D9 DJ DQ
+C2 CT CJ CQ
+D5 D2 D3 DA
+D6 C5 D7 DT
+H6 HQ HA H5
+HK H3 H9 H8
+H2 H7 C4 D4
+H4 HJ C9 S7
+S4 S3 S2 SQ
+SK SA S8 SJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "17"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KT642.QJT8.9.954 A9.K962.AK86.T73 J8.A53.JT5432.Q8 Q753.74.Q7.AKJ62"]
+[Declarer "S"]
+[Contract "2HX"]
+[Result "6"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -300"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "N"]
+2C X 2H X
+Pass Pass Pass
+[Play "W"]
+H4 HQ H2 H3
+D7 D9 DK D2
+CJ C4 C7 C8
+H7 HJ H6 H5
+CK C5 C3 CQ
+C2 C9 CT HA
+S3 S2 S9 SJ
+S5 S4 SA S8
+DQ H8 D6 DJ
+S7 SK H9 D3
+C6 HT HK D4
+- - DA D5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "17"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KT642.QJT8.9.954 A9.K962.AK86.T73 J8.A53.JT5432.Q8 Q753.74.Q7.AKJ62"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -430"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2H Pass 2S
+Pass 3D Pass 3NT
+Pass Pass Pass
+[Play "S"]
+CQ CA C5 C7
+SJ S3 S4 S9
+C8 C2 C4 CT
+D2 CJ C9 C3
+D3 CK S2 H2
+H3 C6 S6 H6
+S8 S5 ST SA
+D4 DQ D9 D6
+D5 D7 H8 DA
+DT H4 SK DK
+DJ H7 - D8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "18"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:96.75.AQ73.AQ742 QJT32.T9842.2.J9 AK754.6.654.T865 8.AKQJ3.KJT98.K3"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -100"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "E"]
+1C Pass 1S 2S
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+SA S8 S9 S3
+C6 C3 CQ C9
+C5 CK CA CJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "18"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:96.75.AQ73.AQ742 QJT32.T9842.2.J9 AK754.6.654.T865 8.AKQJ3.KJT98.K3"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1D Pass 1S 2H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+S9 S2 SA S8
+CQ C9 C8 C3
+DA D2 D6 D8
+CA CJ C5 CK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "19"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K82.A7.JT86.AK32 9.J32.K43.QJ9765 AJT7.T854.A2.T84 Q6543.KQ96.Q975."]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS 150"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "S"]
+1C Pass 1D Pass
+1NT Pass Pass Pass
+[Play "W"]
+CQ C4 S5 CA
+CJ C8 D7 C2
+H2 H4 HQ HA
+C5 CT S4 C3
+S9 SJ S3 S2
+D3 S7 SQ SK
+C6 D2 S6 CK
+C7 ST D5 S8
+- SA - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "19"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K82.A7.JT86.AK32 9.J32.K43.QJ9765 AJT7.T854.A2.T84 Q6543.KQ96.Q975."]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 400"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1NT Pass 2C Pass
+2D Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "W"]
+CQ C4 S6 CA
+CJ C8 S4 C2
+H2 H4 HQ HA
+HJ H5 H6 H7
+H3 H8 H9 D6
+C5 HT HK D8
+D3 D2 D7 DT
+C6 CT D5 C3
+S9 SA S3 S2
+- S7 S5 S8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.25"]
+[Board "20"]
+[West "Andersson L"]
+[North "Bocchi N"]
+[East "Gullberg T"]
+[South "Duboin G"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:876.62.KQ97.AT53 KQJT3.A87.86.J62 A92.T95.AT5432.7 54.KQJ43.J.KQ984"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "Italy"]
+[Room "Open"]
+[Round "36"]
+[Score "NS -100"]
+[Table "13"]
+[VisitTeam "Sweden"]
+[Auction "W"]
+Pass 1S Pass 2D
+Pass 2H Pass 3C
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+DA DJ D7 D6
+C7 C8 CA C6
+H5 C4 C3 CJ
+SA S4 S6 S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "20"]
+[West "Ferraro G"]
+[North "Lindkvist M"]
+[East "De Falco S"]
+[South "Fredin P"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:876.62.KQ97.AT53 KQJT3.A87.86.J62 A92.T95.AT5432.7 54.KQJ43.J.KQ984"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 500"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1S Pass 2D
+X 2H 2S 4H
+Pass Pass 5D X
+Pass Pass Pass
+[Play "S"]
+HK H2 H8 H5
+S5 S6 ST SA
+DJ DK D6 D2
+*
+

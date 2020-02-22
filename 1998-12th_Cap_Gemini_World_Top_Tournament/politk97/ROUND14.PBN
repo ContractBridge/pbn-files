@@ -1,0 +1,326 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "2nd Politiken World Pairs 1997"]
+[Site "Phoenix Copenhagen Hotel, Denmark, DNK"]
+[Date "1997.11.09"]
+[Round "14"]
+[Board "1"]
+[West "Auken"]
+[North "Sverrisson"]
+[East "Koch"]
+[South "Jorgensen"]
+[Vulnerable "None"]
+[Deal "S:AQT95.KQ875.A8.J 43.AT94.KJ4.A982 J72.63.653.QT765 K86.J2.QT972.K43"]
+[Dealer "S"]
+[Auction "S"]
+1C Pass 1D Pass 
+1S X 2S 3D 
+3S Pass Pass Pass 
+[Declarer "S"]
+[Contract "3S"]
+[Play "W"]
+D4 D3 DQ D8 
+DJ D5 D2 DA 
+HA H3 H2 HK 
+DK D6 D7 S5 
+H4 H6 HJ HQ 
+H9 S7 S8 H8 
+CA C5 C4 CJ 
+C9 CQ CK ST 
+HT SJ SK H5 
+C2 C6 DT S9 
+S3 S2 S6 SA 
+- - - SQ 
+*
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "14"]
+[Board "2"]
+[West "Auken"]
+[North "Sverrisson"]
+[East "Koch"]
+[South "Jorgensen"]
+[Vulnerable "NS"]
+[Deal "S:AKQ7.KJ8.74.AK97 T32.76532.96.Q65 9865.QT.832.T842 J4.A94.AKQJT5.J3"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1D X 
+Pass 1S 1NT X 
+2H Pass 3D 3S 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "3S"]
+[Play "E"]
+DA D4 D6 D3 
+DK D7 D9 D8 
+DQ S7 ST D2 
+S4 SQ S3 S5 
+SJ SA S2 S6 
+HA H8 H7 HT 
+H9 HJ H2 HQ 
+C3 C7 CQ C2 
+*
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "14"]
+[Board "3"]
+[West "Auken"]
+[North "Sverrisson"]
+[East "Koch"]
+[South "Jorgensen"]
+[Vulnerable "Both"]
+[Deal "S:762.T7.QT98.J873 KQ9543.Q4.KJ.A94 AJ.A532.762.KQT6 T8.KJ986.A543.52"]
+[Dealer "N"]
+[Auction "N"]
+1NT 2H Pass 2S 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+CK C2 C8 C4 
+D7 D3 DQ DK 
+HA H6 H7 H4 
+D6 D4 D9 DJ 
+C6 C5 C7 CA 
+CT ST C3 C9 
+SJ S8 S6 S3 
+D2 D5 D8 S4 
+SA H8 S2 SQ 
+H2 H9 HT HQ 
+- - - SK 
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "14"]
+[Board "4"]
+[West "Auken"]
+[North "Sverrisson"]
+[East "Koch"]
+[South "Jorgensen"]
+[Vulnerable "None"]
+[Deal "S:AJ2.J843.KT976.8 863.Q5.A843.9763 KQ95.A96.QJ5.QT2 T74.KT72.2.AKJ54"]
+[Dealer "E"]
+[Auction "E"]
+1C 1D 2C X 
+3C Pass Pass 3D 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3D"]
+[Play "W"]
+C6 CT CJ C8 
+C7 C2 CA D6 
+D3 DQ D2 D7 
+DA D5 S7 DT 
+C9 CQ CK H3 
+S6 S5 S4 SA 
+D4 DJ - DK 
+*
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "14"]
+[Board "5"]
+[West "Auken"]
+[North "Sverrisson"]
+[East "Koch"]
+[South "Jorgensen"]
+[Vulnerable "NS"]
+[Deal "S:T652.J3.A432.K98 K7.AT986.KT.JT62 98.K75.QJ985.A73 AQJ43.Q42.76.Q54"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1H Pass 1S 
+Pass 2C Pass 3H 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3H"]
+[Play "N"]
+DQ D6 DA DT 
+D5 D7 D2 DK 
+H5 H2 H3 HA 
+H7 H4 HJ H8 
+D8 HQ D3 C2 
+S9 S3 S2 SK 
+S8 SA S5 S7 
+HK SQ S6 C6 
+CA C4 C8 CT 
+C7 C5 CK CJ 
+*
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "14"]
+[Board "6"]
+[West "Auken"]
+[North "Sverrisson"]
+[East "Koch"]
+[South "Jorgensen"]
+[Vulnerable "EW"]
+[Deal "S:964.AQT975.QJ84. A2.83.AK962.KQ83 53.KJ.T7.JT76542 KQJT87.642.53.A9"]
+[Dealer "W"]
+[Auction "W"]
+1D 3C 4S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+HA H3 HJ H6 
+H5 H8 HK H4 
+S4 C3 CJ C9 
+H7 SA C2 H2 
+S6 S2 S3 SK 
+S9 - - SQ 
+*
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "14"]
+[Board "7"]
+[West "Auken"]
+[North "Sverrisson"]
+[East "Koch"]
+[South "Jorgensen"]
+[Vulnerable "None"]
+[Deal "S:7654.AT.K74.9732 AKQJ.97.JT5.AKQ5 9832.QJ62.Q92.JT T.K8543.A863.864"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 2NT 
+Pass 3D Pass 3H 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+S2 ST S4 SQ 
+H2 H3 HT H7 
+CJ C4 C3 CA 
+H6 HK HA H9 
+CT C6 C2 CK 
+S3 D3 S5 SA 
+S8 H4 S6 SK 
+S9 H5 S7 SJ 
+HQ C8 C7 CQ 
+D2 H8 C9 C5 
+DQ DA D4 DJ 
+D9 D6 D7 DT 
+*
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "14"]
+[Board "8"]
+[West "Auken"]
+[North "Sverrisson"]
+[East "Koch"]
+[South "Jorgensen"]
+[Vulnerable "NS"]
+[Deal "S:A842.QJ954.7.T87 JT9.72.J963.AJ54 Q3.AT863.A54.K63 K765.K.KQT82.Q92"]
+[Dealer "E"]
+[Auction "E"]
+1D 1H 2D 3D 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+SJ SQ SK S2 
+D3 DA DQ D7 
+D6 D4 D2 H4 
+H7 HA HK HQ 
+S9 S3 S5 SA 
+ST HT S6 S4 
+DJ D5 D8 H9 
+H2 H3 DT HJ 
+C4 C3 S7 S8 
+CA - - C7 
+*
+[Result "11"]
+[Score "+650"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "14"]
+[Board "9"]
+[West "Auken"]
+[North "Sverrisson"]
+[East "Koch"]
+[South "Jorgensen"]
+[Vulnerable "EW"]
+[Deal "S:QJT653.JT9.2.J32 4.A652.J8764.QT9 K987.K87.KQ53.76 A2.Q43.AT9.AK854"]
+[Dealer "S"]
+[Auction "S"]
+3S Pass 4S X 
+Pass 4NT Pass 5C 
+Pass 5D Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "5D"]
+[Play "N"]
+S8 SA S6 S4 
+C7 C4 C3 CQ 
+DQ DA D2 DJ 
+DK D9 ST D4 
+SK S2 S3 D6 
+D3 DT S5 D7 
+C6 CA C2 CT 
+H7 H3 H9 HA 
+D5 H4 - D8 
+*
+[Result "11"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "14"]
+[Board "10"]
+[West "Auken"]
+[North "Sverrisson"]
+[East "Koch"]
+[South "Jorgensen"]
+[Vulnerable "Both"]
+[Deal "S:QT75.J92.K65.K96 8643.T765.7.Q752 AKJ92.KQ.Q32.J43 .A843.AJT984.AT8"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1C 1D 1H 
+Pass 1S 2H Pass 
+Pass 2S Pass 3C 
+Pass 4S Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+DA D5 D7 D3 
+D4 D6 S3 D2 
+CA C6 C2 C4 
+DJ DK S4 DQ 
+HA H2 H5 HK 
+*
+[Result "8"]
+[Score "-200"]
+

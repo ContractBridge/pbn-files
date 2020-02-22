@@ -1,0 +1,717 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1999 IOC Grand Prix - Angelini Group Trophy"]
+[Site "IOC Olympic Museum - Lausanne, Switzerland, CHE"]
+[Date "1999.09.24"]
+[Round "1"]
+[Board "1"]
+[West "De Sainte M"]
+[North "Buratti"]
+[East "Bompis"]
+[South "Lanzarotti"]
+[Vulnerable "None"]
+[Deal "S:5.AJ4.Q765.J8762 AT842.T832.T4.AT K973.76.AJ9832.5 QJ6.KQ95.K.KQ943"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT Pass 2C 
+Pass 2H Pass 4H 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+S5 S2 SK SJ 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "1"]
+[West "Versace"]
+[North "Voldoire"]
+[East "Lauria"]
+[South "Bitran"]
+[Vulnerable "None"]
+[Deal "S:5.AJ4.Q765.J8762 AT842.T832.T4.AT K973.76.AJ9832.5 QJ6.KQ95.K.KQ943"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C Pass 1S 
+2D X 2NT X 
+3D Pass Pass 3H 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+C5 C3 C7 CT 
+H6 HK HA H2 
+H7 C4 C2 CA 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "2"]
+[West "De Sainte M"]
+[North "Buratti"]
+[East "Bompis"]
+[South "Lanzarotti"]
+[Vulnerable "NS"]
+[Deal "S:54.Q732.AK2.QJT4 AKQT98.KT6.543.A .A54.QT986.98765 J7632.J98.J7.K32"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT Pass 2NT 
+Pass 3C 4S Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+DT D7 DA D4 
+D9 DJ DK D5 
+C9 C2 CQ CA 
+C5 S2 S4 SA 
+C6 S3 S5 SK 
+D6 S7 D2 D3 
+C8 CK C4 H6 
+C7 C3 CJ ST 
+D8 SJ H2 S9 
+HA H8 H7 HT 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "2"]
+[West "Versace"]
+[North "Voldoire"]
+[East "Lauria"]
+[South "Bitran"]
+[Vulnerable "NS"]
+[Deal "S:54.Q732.AK2.QJT4 AKQT98.KT6.543.A .A54.QT986.98765 J7632.J98.J7.K32"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C X XX 
+1S 2D 4S 5D 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "5D"]
+[Play "W"]
+CA C5 C2 C4 
+D3 D8 D7 D2 
+D4 D6 DJ DA 
+D5 D9 S6 DK 
+S8 C6 CK CQ 
+S9 C7 C3 CJ 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "3"]
+[West "De Sainte M"]
+[North "Buratti"]
+[East "Bompis"]
+[South "Lanzarotti"]
+[Vulnerable "EW"]
+[Deal "S:9.K62.A864.K9875 AJ75.Q94.KJT5.T4 Q32.AJ85.Q92.QJ2 KT864.T73.73.A63"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1NT Pass 
+2C Pass 2H Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "2H"]
+[Play "E"]
+D7 D4 DK D2 
+D3 D6 DJ DQ 
+C3 C5 C4 CQ 
+H3 HK H4 H5 
+HT H2 H9 HJ 
+CA C7 CT CJ 
+S4 S9 SA S3 
+H7 D8 D5 D9 
+C6 - - - 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "3"]
+[West "Versace"]
+[North "Voldoire"]
+[East "Lauria"]
+[South "Bitran"]
+[Vulnerable "EW"]
+[Deal "S:9.K62.A864.K9875 AJ75.Q94.KJT5.T4 Q32.AJ85.Q92.QJ2 KT864.T73.73.A63"]
+[Dealer "S"]
+[Auction "S"]
+1C Pass 1D Pass 
+1H Pass 3NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+S4 S9 SA S2 
+SK H2 SJ SQ 
+ST D4 S7 S3 
+S8 - - - 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "4"]
+[West "De Sainte M"]
+[North "Buratti"]
+[East "Bompis"]
+[South "Lanzarotti"]
+[Vulnerable "Both"]
+[Deal "S:T94.AK4.AK642.93 AJ72.T853..Q8764 K8653.J9.Q873.KT Q.Q762.JT95.AJ52"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1NT 
+2C X 3C 3D 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3D"]
+[Play "W"]
+C4 CK CA C3 
+C8 CT CJ C9 
+H3 H9 H7 HA 
+C7 DQ D5 D2 
+C6 D3 D9 DK 
+S2 SK SQ S9 
+H5 HJ HQ HK 
+H8 D7 H2 H4 
+SJ S3 C2 ST 
+SA S5 - - 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "4"]
+[West "Versace"]
+[North "Voldoire"]
+[East "Lauria"]
+[South "Bitran"]
+[Vulnerable "Both"]
+[Deal "S:T94.AK4.AK642.93 AJ72.T853..Q8764 K8653.J9.Q873.KT Q.Q762.JT95.AJ52"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1NT 
+Pass 2H Pass 2S 
+Pass 3NT Pass 4S 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+C4 CT CJ C3 
+H8 H9 H7 HA 
+S2 S3 SQ S9 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-300"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "5"]
+[West "De Sainte M"]
+[North "Buratti"]
+[East "Bompis"]
+[South "Lanzarotti"]
+[Vulnerable "NS"]
+[Deal "S:KQ832.AT2.85.QJ7 JT7.KQ95.K92.AK2 A94.83.QJT763.T9 65.J764.A4.86543"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1S X 
+2S Pass Pass Pass 
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+S7 S9 S5 S3 
+HK H3 H7 HT 
+SJ SA S6 S2 
+H5 H8 H4 HA 
+H9 S4 H6 H2 
+CK C9 C3 C7 
+HQ D3 HJ S8 
+- - - SK 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "5"]
+[West "Versace"]
+[North "Voldoire"]
+[East "Lauria"]
+[South "Bitran"]
+[Vulnerable "NS"]
+[Deal "S:KQ832.AT2.85.QJ7 JT7.KQ95.K92.AK2 A94.83.QJT763.T9 65.J764.A4.86543"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1S X 
+2S 3H Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "3H"]
+[Play "S"]
+SK S7 S4 S6 
+SQ ST S9 S5 
+D8 DK DQ D4 
+HA HK H3 H4 
+D5 - - - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "6"]
+[West "De Sainte M"]
+[North "Buratti"]
+[East "Bompis"]
+[South "Lanzarotti"]
+[Vulnerable "EW"]
+[Deal "S:J.T7.KQJT842.876 K9543.K85.9.AK53 AQ8762.AQ2.A.J42 T.J9643.7653.QT9"]
+[Dealer "E"]
+[Auction "E"]
+Pass 3D X XX 
+3H Pass Pass Pass 
+[Declarer "E"]
+[Contract "3H"]
+[Play "S"]
+SJ SK SA ST 
+DK D9 DA D5 
+H7 S3 S8 D6 
+DQ H5 HQ D7 
+C8 S4 S7 HJ 
+HT HK HA H3 
+- - H2 - 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "6"]
+[West "Versace"]
+[North "Voldoire"]
+[East "Lauria"]
+[South "Bitran"]
+[Vulnerable "EW"]
+[Deal "S:J.T7.KQJT842.876 K9543.K85.9.AK53 AQ8762.AQ2.A.J42 T.J9643.7653.QT9"]
+[Dealer "E"]
+[Auction "E"]
+Pass 3D Pass 3S 
+Pass 4D Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "4D"]
+[Play "W"]
+CA C2 C9 C6 
+CK C4 CT C7 
+C3 CJ CQ C8 
+- - D3 - 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+130"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "7"]
+[West "De Sainte M"]
+[North "Buratti"]
+[East "Bompis"]
+[South "Lanzarotti"]
+[Vulnerable "Both"]
+[Deal "S:QJ65.AT9.KQ643.Q A43.K832.2.97643 KT98.J75.JT75.85 72.Q64.A98.AKJT2"]
+[Dealer "S"]
+[Auction "S"]
+1D Pass 1S 2C 
+2S 3S Pass 3NT 
+Pass 4C Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4C"]
+[Play "S"]
+SQ SA S8 S7 
+CQ C3 C8 CA 
+S5 C4 C5 CK 
+D3 D2 D5 DA 
+D4 C6 D7 D9 
+S6 S3 SK S2 
+SJ S4 ST CT 
+H9 HK H7 H6 
+HT H2 H5 H4 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+130"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "7"]
+[West "Versace"]
+[North "Voldoire"]
+[East "Lauria"]
+[South "Bitran"]
+[Vulnerable "Both"]
+[Deal "S:QJ65.AT9.KQ643.Q A43.K832.2.97643 KT98.J75.JT75.85 72.Q64.A98.AKJT2"]
+[Dealer "S"]
+[Auction "S"]
+1D Pass 1S 2C 
+3S 4D Pass 5C 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "5C"]
+[Play "S"]
+SQ SA ST S2 
+CQ C3 C5 CA 
+D4 C4 C8 CK 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "8"]
+[West "De Sainte M"]
+[North "Buratti"]
+[East "Bompis"]
+[South "Lanzarotti"]
+[Vulnerable "None"]
+[Deal "S:87.J872.A32.Q542 A4.A63.KQT964.K6 JT93.KT.J87.AJ73 KQ652.Q954.5.T98"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 2C Pass 
+2D Pass 2S Pass 
+3NT Pass Pass Pass 
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+C3 C8 CQ CK 
+S3 SK S7 S4 
+DJ D5 D3 DT 
+CA C9 C5 C6 
+CJ CT C2 H3 
+C7 S2 C4 H6 
+HT H4 H2 HA 
+D7 S5 DA DQ 
+- - S8 - 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "8"]
+[West "Versace"]
+[North "Voldoire"]
+[East "Lauria"]
+[South "Bitran"]
+[Vulnerable "None"]
+[Deal "S:87.J872.A32.Q542 A4.A63.KQT964.K6 JT93.KT.J87.AJ73 KQ652.Q954.5.T98"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1S Pass 
+2NT Pass 3C Pass 
+3S Pass 3NT Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+C3 C8 CQ CK 
+S3 S2 S7 SA 
+S9 SQ S8 S4 
+ST SK C2 D4 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "9"]
+[West "De Sainte M"]
+[North "Buratti"]
+[East "Bompis"]
+[South "Lanzarotti"]
+[Vulnerable "EW"]
+[Deal "S:AQJ.KQ72.T32.JT8 7.A8.K864.AK7543 K9432.963.A95.Q2 T865.JT54.QJ7.96"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1NT 2S 
+X Pass Pass 3C 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3C"]
+[Play "N"]
+S3 S8 SA S7 
+S2 S5 SQ C3 
+D9 DQ D3 D6 
+C2 C6 C8 CA 
+CQ C9 CT CK 
+D5 DJ D2 D4 
+DA D7 DT DK 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "9"]
+[West "Versace"]
+[North "Voldoire"]
+[East "Lauria"]
+[South "Bitran"]
+[Vulnerable "EW"]
+[Deal "S:AQJ.KQ72.T32.JT8 7.A8.K864.AK7543 K9432.963.A95.Q2 T865.JT54.QJ7.96"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1C 2C 
+2S Pass Pass 2NT 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "2NT"]
+[Play "N"]
+S3 S5 SA S7 
+S2 S6 SQ C3 
+S4 S8 SJ C4 
+*
+[Room "Closed"]
+[Result "6"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "10"]
+[West "De Sainte M"]
+[North "Buratti"]
+[East "Bompis"]
+[South "Lanzarotti"]
+[Vulnerable "None"]
+[Deal "S:Q4.T9742.74.KQ87 873.Q53.AKQ5.AT6 JT62.AJ6.JT86.93 AK95.K8.932.J542"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 3NT 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+DJ D2 D4 DK 
+S2 SK S4 S7 
+C3 C2 C7 CT 
+C9 C4 CQ CA 
+H6 C5 C8 C6 
+HJ CJ CK S3 
+S6 S5 SQ S8 
+D6 D3 D7 DA 
+HA H8 H4 H3 
+DT D9 H2 DQ 
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "10"]
+[West "Versace"]
+[North "Voldoire"]
+[East "Lauria"]
+[South "Bitran"]
+[Vulnerable "None"]
+[Deal "S:Q4.T9742.74.KQ87 873.Q53.AKQ5.AT6 JT62.AJ6.JT86.93 AK95.K8.932.J542"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 2H 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+DJ D2 D4 DQ 
+S2 S5 SQ S8 
+D6 D3 D7 DA 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "11"]
+[West "De Sainte M"]
+[North "Buratti"]
+[East "Bompis"]
+[South "Lanzarotti"]
+[Vulnerable "Both"]
+[Deal "S:AJ72.Q53.Q932.QJ 643.T976.K4.KT63 985.J.AJT765.987 KQT.AK842.8.A542"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 3H Pass 
+4H Pass Pass Pass 
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+CQ C3 C7 CA 
+H3 H6 HJ HA 
+H5 H7 D7 HK 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "11"]
+[West "Versace"]
+[North "Voldoire"]
+[East "Lauria"]
+[South "Bitran"]
+[Vulnerable "Both"]
+[Deal "S:AJ72.Q53.Q932.QJ 643.T976.K4.KT63 985.J.AJT765.987 KQT.AK842.8.A542"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 3D X 
+4H Pass Pass Pass 
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+D3 DK DA D8 
+SA S3 S8 SK 
+DQ D4 D5 H2 
+H3 H6 HJ HA 
+H5 H7 D6 HK 
+CJ C3 C7 CA 
+CQ CK C8 C2 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "12"]
+[West "De Sainte M"]
+[North "Buratti"]
+[East "Bompis"]
+[South "Lanzarotti"]
+[Vulnerable "NS"]
+[Deal "S:9642.KJ743.A53.K A5.AQ8.T.QJ87652 QJT873..KJ96.AT9 K.T9652.Q8742.43"]
+[Dealer "W"]
+[Auction "W"]
+1C 1D Pass 2C 
+4C 4S Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+C4 CK C2 C9 
+SK S4 SA S3 
+C3 D3 CJ CA 
+D7 S2 C5 CT 
+D4 DA DT D6 
+- S6 S5 - 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+680"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1"]
+[Board "12"]
+[West "Versace"]
+[North "Voldoire"]
+[East "Lauria"]
+[South "Bitran"]
+[Vulnerable "NS"]
+[Deal "S:9642.KJ743.A53.K A5.AQ8.T.QJ87652 QJT873..KJ96.AT9 K.T9652.Q8742.43"]
+[Dealer "W"]
+[Auction "W"]
+1C 1H Pass 4S 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+DT DJ D7 D3 
+C2 C9 C3 CK 
+SA S3 SK S6 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+680"]
+

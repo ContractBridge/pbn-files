@@ -1,0 +1,975 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "3rd IOC Grand Prix"]
+[Site "Lausanne, Switzerland, CHE"]
+[Date "2000.10.30"]
+[Round "4a"]
+[Board "1"]
+[Room "Open"]
+[West "Nick Nickell"]
+[North "Chuangcheng Ju"]
+[East "Dick Freeman"]
+[South "Zhong Fu"]
+[Dealer "N"]
+[Deal "S:753.KQJ9.976.832 KT6.752.AQJ5.AJ5 J9842.AT.8432.Q6 AQ.8643.KT.KT974"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+OR - An unexciting 3NT to start the match. Richard Freeman's
+1H rebid on four small looks wrong to me, especially since a
+descriptive 1NT rebid is available - [AW]. However, the 1H bid
+had the advantage of putting North (Chuangcheng Ju) on  lead,
+with no reason to select the HA (he led a spade). Nick Nickell
+could have cashed his nine top tricks, getting three overtricks
+when the CQ dropped, but instead he led a heart himself. The
+defense could have taken four tricks (sometimes they can take
+five...), but they didn't. Plus 490 after all!
+}
+[Auction "N"]
+Pass 1C Pass 1D 
+Pass 1H Pass 3NT 
+Pass Pass Pass  
+[Play "N"]
+S4 SA S3 S6 
+HT H3 HK H2 
+S2 SQ S5 ST 
+D2 DK D6 D5 
+D3 DT D7 DA 
+D4 H4 D9 DQ 
+D8 H6 S7 DJ 
+S8 H8 H9 SK 
+C6 CK C2 CJ 
+CQ CT C3 CA 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "1"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "Bob Hamman"]
+[East "Xueliang Cao"]
+[South "Paul Soloway"]
+[Dealer "N"]
+[Deal "S:753.KQJ9.976.832 KT6.752.AQJ5.AJ5 J9842.AT.8432.Q6 AQ.8643.KT.KT974"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+CR - Here, 3NT was declared by East when Xueliang Cao upgraded
+his hand to a 13-15 HCP 1NT. Soloway led the HK and Hamman must
+have had hopes of defeating the contract. Unfortunately, the
+lead was from a four-card heart suit, and after the defenders
+cashed their four heart tricks declarer had the rest. Plus 400:
+3 IMPs to USA.
+}
+[Auction "N"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+HK H2 HA H3 
+HQ H5 HT H4 
+HJ H7 S2 H6 
+H9 C5 D2 H8 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "2"]
+[Room "Open"]
+[West "Nick Nickell"]
+[North "Chuangcheng Ju"]
+[East "Dick Freeman"]
+[South "Zhong Fu"]
+[Dealer "E"]
+[Deal "S:83.KJT982.AQ5.62 AKQJT64.AQ.96.85 95.543.JT2.AQJT3 72.76.K8743.K974"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "W"]
+{
+OR - The West hand poses an interesting bidding problem after
+a 1H opening on the right. You're obviously a little strong for
+a simple 1S overcall. 3NT looks like a reasonable gamble, although
+you might achieve an embarrassing result if North fails to lead
+his partner's suit. Nickell opted for a take-out double. His
+intention was to bid some number of spades next to show a strong
+hand. When Freeman made a voluntary bid over Ju's artificial
+(clubs) 1NT, Nickell knew how many spades to bid. There was nothing
+to the play: plus 420.
+}
+[Auction "E"]
+Pass 1H X 1NT 
+2D 2H 4S Pass 
+Pass Pass   
+[Play "N"]
+H3 H6 HJ HQ 
+S5 S2 S3 SA 
+S9 S7 S8 SK 
+H5 D3 H2 SQ 
+C3 H7 H8 SJ 
+CT C4 H9 ST 
+H4 D4 HT S4 
+D2 D7 HK HA 
+CQ CK C2 C5 
+CJ C7 C6 C8 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "2"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "Bob Hamman"]
+[East "Xueliang Cao"]
+[South "Paul Soloway"]
+[Dealer "E"]
+[Deal "S:83.KJT982.AQ5.62 AKQJT64.AQ.96.85 95.543.JT2.AQJT3 72.76.K8743.K974"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "W"]
+{
+CR - Here South started with a very healthy weak two-bid. It
+now was more dangerous to overcall 3NT, since there was a bigger
+chance that North might hold a strong minor suit. Yang just bid
+4S directly, a strong (rather than preemptive) action after the
+weak opening bid. Plus 420: no swing.
+}
+[Auction "E"]
+Pass 2H 4S Pass 
+Pass Pass   
+[Play "N"]
+H3 H6 HK HA 
+S5 S2 S3 SA 
+S9 S7 S8 SK 
+D2 DK DA D6 
+H4 H7 HJ HQ 
+CA C4 - C5 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "3"]
+[Room "Open"]
+[West "Nick Nickell"]
+[North "Chuangcheng Ju"]
+[East "Dick Freeman"]
+[South "Zhong Fu"]
+[Dealer "S"]
+[Deal "S:KQJT543.9.K7.K93 6.AJ754.QJ53.AT4 98.QT82.AT96.Q85 A72.K63.842.J762"]
+[Vulnerable "EW"]
+[Contract "2S"]
+[Declarer "S"]
+{
+R - A perfectly normal auction, ending at 2S, by South. Game
+in spades has some play, but is virtually impossible to bid,
+even if North chooses to bid 1NT at his first turn (Ju could
+not, as 1NT would have been artificial). The DQ was led as a
+kind of a "least of evils" approach to the defence. It didn't
+test declarer on this layout. Zhong Fu won the DK, and played
+the SK to East's ace. Freeman cashed the HK, and played a club
+to West's ace. That was all for the defense. Ten tricks, plus
+170.
+}
+[Auction "S"]
+1S X Pass 1NT 
+2S Pass Pass Pass 
+[Play "W"]
+DQ D6 D2 DK 
+S6 S8 SA SK 
+H4 H2 HK H9 
+CA C5 C7 C3 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "3"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "Bob Hamman"]
+[East "Xueliang Cao"]
+[South "Paul Soloway"]
+[Dealer "S"]
+[Deal "S:KQJT543.9.K7.K93 6.AJ754.QJ53.AT4 98.QT82.AT96.Q85 A72.K63.842.J762"]
+[Vulnerable "EW"]
+[Contract "2S"]
+[Declarer "S"]
+{
+CR -The auction and opening lead were the same here as in the
+Open Room, but Soloway, playing with the house's money (so to
+speak) played 2S with a bit more greed than Fu. He won the DK,
+and finessed the D10 immediately. He pitched his heart on the
+DA, and knocked out the SA. East tried the HK instead of exiting
+with his remaining spade. This had the effect of putting pressure
+on West in three suits, and he was squeezed out of his small
+club. Declarer led a club to the queen and a club to the nine,
+and declarer had eleven tricks. Plus 200: 1 IMP for USA, ahead
+4-0.
+}
+[Auction "S"]
+1S X Pass 1NT 
+2S Pass Pass Pass 
+[Play "W"]
+DQ D6 D2 DK 
+D3 D9 D4 D7 
+D5 DA D8 H9 
+S6 S8 S2 S3 
+H7 S9 SA S4 
+H5 H2 HK S5 
+H4 H8 S7 SK 
+HJ HT C7 SQ 
+C4 DT H3 SJ 
+CT CQ C2 C3 
+CA C5 C6 C9 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "4"]
+[Room "Open"]
+[West "Nick Nickell"]
+[North "Chuangcheng Ju"]
+[East "Dick Freeman"]
+[South "Zhong Fu"]
+[Dealer "W"]
+[Deal "S:AQJ72.A6.KJ54.A2 K954.KJ4.Q92.543 T83.T87.AT86.J87 6.Q9532.73.KQT96"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "S"]
+{
+OR - After a strong 1C (16+ HCP) and a weak 1D (0-7 HCP), the
+Chinese pair found their spade fit and bid to 4S. Nickell led
+a club, and with trumps four-one, some good guessing was required.
+With only one sure entry to dummy, Fu led the DJ at trick two,
+which Nickell covered. The rest was easy. Ten tricks, and a nice
+plus 620.
+}
+[Auction "W"]
+Pass Pass Pass 1C 
+Pass 1D Pass 1S 
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Play "W"]
+C3 C7 CT CA 
+DQ DA D3 DJ 
+S4 ST S6 S2 
+SK S3 H2 SJ 
+S9 S8 C6 SA 
+S5 H7 D7 SQ 
+C4 C8 C9 C2 
+C5 CJ CK S7 
+D2 DT H3 D4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "4"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "Bob Hamman"]
+[East "Xueliang Cao"]
+[South "Paul Soloway"]
+[Dealer "W"]
+[Deal "S:AQJ72.A6.KJ54.A2 K954.KJ4.Q92.543 T83.T87.AT86.J87 6.Q9532.73.KQT96"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "S"]
+{
+CR - Here too South opened with a strong 1C, but over Hamman's
+negative 1D response, East got involved - not only once, but
+twice. Yang also led a club to the ten and ace. Expecting East
+to be five-five in the rounded suits, Soloway didn't need to
+finesse in spades (if East has the SK doubleton, there will be
+four diamond tricks), so he played SA, spade instead. He lost
+one trump trick, but later took the correct view in diamonds,
+of course. Plus 620, for a good push.
+}
+[Auction "W"]
+Pass Pass Pass 1C 
+Pass 1D 1H 1S 
+2H 2S 3C 3D 
+3H 4D Pass 4S 
+Pass Pass Pass  
+[Play "W"]
+C4 C7 C9 CA 
+S4 S3 S6 SA 
+S5 ST H2 S2 
+SK S8 H5 SQ 
+C5 C8 CT C2 
+H4 H7 H3 HA 
+S9 H8 C6 SJ 
+D2 D6 D3 DK 
+D9 D8 D7 DJ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "5"]
+[Room "Open"]
+[West "Nick Nickell"]
+[North "Chuangcheng Ju"]
+[East "Dick Freeman"]
+[South "Zhong Fu"]
+[Dealer "N"]
+[Deal "S:KJ97.764.J865.J8 AQ4.KQ983.9.K953 8.J52.AK7432.642 T6532.AT.QT.AQT7"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "E"]
+{
+OR - EW had a natural auction, East signing off in 4S with his
+minimum opening bid and bad spades. The play was easy. Declarer
+took the spade finesse and ruffed his diamond loser in dummy.
+He lost a diamond and two trumps for plus 420.
+}
+[Auction "N"]
+Pass 1S Pass 2H 
+Pass 2NT Pass 3S 
+Pass 4S Pass Pass 
+Pass    
+[Play "S"]
+D6 D9 DK DT 
+C8 C3 C2 CA 
+S7 SQ S8 S2 
+S9 SA D3 S3 
+H6 H3 H2 HA 
+D5 S4 D2 DQ 
+H4 HK H5 HT 
+H7 HQ HJ C7 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "5"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "Bob Hamman"]
+[East "Xueliang Cao"]
+[South "Paul Soloway"]
+[Dealer "N"]
+[Deal "S:KJ97.764.J865.J8 AQ4.KQ983.9.K953 8.J52.AK7432.642 T6532.AT.QT.AQT7"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "E"]
+{
+CR - Cao's somewhat eccentric 1NT opening showed 13-15 HCP and
+2D was game-forcing Stayman. The rest of the bidding was natural,
+West making a slam try with 4D. Again East signed off, with terrible
+cards for a spade slam. The play was identical to that of the
+Open Room. Plus 420: no swing. Ironically, there is a slam on
+the East/West cards after all, but it's in clubs, and the suit
+was never bid at either table in two (more-or-less) unimpeded
+auctions.
+}
+[Auction "N"]
+Pass 1NT Pass 2D 
+X 2S Pass 3H 
+Pass 3S Pass 4D 
+Pass 4S Pass Pass 
+Pass    
+[Play "S"]
+D5 D9 DK DT 
+C8 C3 C6 CA 
+S7 SQ S8 S2 
+S9 SA D7 S3 
+H4 H3 H2 HA 
+D6 S4 D2 DQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "6"]
+[Room "Open"]
+[West "Nick Nickell"]
+[North "Chuangcheng Ju"]
+[East "Dick Freeman"]
+[South "Zhong Fu"]
+[Dealer "E"]
+[Deal "S:97642.J9.A3.A983 JT.Q65.J762.KJ62 AQ53.K42.QT954.Q K8.AT873.K8.T754"]
+[Vulnerable "EW"]
+[Contract "3S"]
+[Declarer "S"]
+{
+OR - With both sides bidding vigorously, Fu decided to settle
+for 3S rather than try for game with a "maximal" double of 3H.
+It's not clear that a game-try double would have worked any better
+in reaching the tight game. North would never value his HK highly.
+The H5 was led to the ten, and jack. Nickell covered the H9,
+and was permitted to hold the trick. Declarer ruffed the heart
+return, and took the losing spade finesse, won the club switch,
+and led the D3 to the  nine and king. With spades two-two, declarer
+had the rest of the tricks. Plus 170.
+}
+[Auction "E"]
+Pass Pass Pass 1D 
+1H 1S 2H 2S 
+3H 3S Pass Pass 
+Pass    
+[Play "W"]
+H5 H2 HT HJ 
+HQ H4 H8 H9 
+H6 HK HA S2 
+SJ SQ SK S4 
+C2 CQ C4 CA 
+D6 D9 DK D3 
+D2 D4 D8 DA 
+ST SA S8 S6 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "6"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "Bob Hamman"]
+[East "Xueliang Cao"]
+[South "Paul Soloway"]
+[Dealer "E"]
+[Deal "S:97642.J9.A3.A983 JT.Q65.J762.KJ62 AQ53.K42.QT954.Q K8.AT873.K8.T754"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "N"]
+{
+CR - The four-card major style of Hamman-Soloway worked in their
+favor here. Hamman opened 1S on the North cards, and was quickly
+raised to game by Soloway. Cao led the C7, Hamman taking the
+ace to lead the D3 to the ten, and king. East, sensing that the
+diamonds were going to pitch away heart losers, shifted to the
+HA, and a heart when a second club would have been more challenging.
+Declarer won the HK, cashed the SA, and played a diamond to the
+ace, and led a second trump. With spades two-two, declarer had
+his game. Plus 420, and 6 imps to USA.
+}
+[Auction "E"]
+Pass Pass Pass 1S 
+Pass 4S Pass Pass 
+Pass    
+[Play "E"]
+C7 CA C6 CQ 
+DK D3 D7 DT 
+HA H9 H5 H2 
+H7 HJ HQ HK 
+S8 S2 ST SA 
+D8 DA D2 D4 
+SK S4 SJ SQ 
+C4 C9 CJ S3 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "7"]
+[Room "Open"]
+[West "Nick Nickell"]
+[North "Chuangcheng Ju"]
+[East "Dick Freeman"]
+[South "Zhong Fu"]
+[Dealer "S"]
+[Deal "S:AK.A9.KQ875.J765 Q7.KQJ8.JT32.QT4 JT8432.T54.A.A82 965.7632.964.K93"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "N"]
+{
+OR - Over Fu's strong 1C (16+ HCP), Ju forced to game with a
+natural 1S (8+ HCP, 5+ spades), and three natural bids followed.
+3NT probably showed some slam interest (it's not mentioned on
+their convention card) but South had too little to suggest a
+slam. The cards lay well for declarer, and with the SQ doubleton
+and diamonds four-three, only a heart lead beats slam. Freeman
+duly found it, so declarer was held to eleven tricks.
+}
+[Auction "S"]
+1C Pass 1S Pass 
+2D Pass 2S Pass 
+3S Pass 3NT Pass 
+4S Pass Pass Pass 
+[Play "E"]
+H3 HA H8 H4 
+D4 D5 DJ DA 
+S5 SA S7 S2 
+S6 SK SQ S3 
+D6 DK D2 H5 
+D9 DQ D3 HT 
+H2 H9 HK S4 
+S9 C5 HJ SJ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "7"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "Bob Hamman"]
+[East "Xueliang Cao"]
+[South "Paul Soloway"]
+[Dealer "S"]
+[Deal "S:AK.A9.KQ875.J765 Q7.KQJ8.JT32.QT4 JT8432.T54.A.A82 965.7632.964.K93"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "N"]
+{
+CR - When Yang bid 1H over the strong 1C on his chunky four-card
+suit, Cao tried a fancy 2C (in case a club lead were best) but
+when Yang raised to 3C, they had bid much too much. And if Hamman
+had doubled, instead of bidding 3S, they would have been severly
+punished (DA, CA, SK, DK and DQ discarding clubs, club ruff,
+SA, diamond ruff with H10, HA - that's nine tricks to ... North-South;
+1400). In 4S, Hamman ducked the heart lead and later ruffed a
+heart with the SK. Plus 620:  1 IMP to China. USA led at this
+point, 10-1.
+}
+[Auction "S"]
+1C 1H 1S 2C 
+2D 3C Pass 3H 
+Pass Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "E"]
+H7 H9 HJ H4 
+H2 HA H8 H5 
+S5 SA S7 S2 
+D4 D5 D3 DA 
+H3 SK HQ HT 
+D6 DK D2 C2 
+D9 DQ DT C8 
+C3 C5 C4 CA 
+S6 C6 SQ SJ 
+S9 D7 DJ S8 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "8"]
+[Room "Open"]
+[West "Nick Nickell"]
+[North "Chuangcheng Ju"]
+[East "Dick Freeman"]
+[South "Zhong Fu"]
+[Dealer "W"]
+[Deal "S:QT74.84.872.AK65 KJ3.AJ6.Q43.Q742 8.KQ732.T6.JT983 A9652.T95.AKJ95."]
+[Vulnerable "None"]
+[Contract "2S"]
+[Declarer "E"]
+{
+OR - The bidding started quietly with everybody having something
+to say. East doubled 1NT to show a good hand. It's hard to explain
+why Freeman passed two spades with his relatively huge hand,
+but we suspect a slip of the bidding box. Maybe he didn't expect
+to find three spades in dummy. He made eleven tricks because
+South stubbornly refused to ruff one of the high diamonds. Plus
+200: an unlikely result.
+}
+[Auction "W"]
+1C 1H 1S 1NT 
+Pass Pass X Pass 
+2S Pass Pass Pass 
+[Play "S"]
+CA C2 C3 S2 
+S4 SJ S8 S5 
+S7 SK C8 S6 
+ST S3 H7 SA 
+D2 DQ D6 D5 
+D7 D3 DT DA 
+D8 D4 H2 DK 
+C5 C4 C9 DJ 
+C6 C7 CT D9 
+H4 HA H3 H5 
+CK CQ CJ S9 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "8"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "Bob Hamman"]
+[East "Xueliang Cao"]
+[South "Paul Soloway"]
+[Dealer "W"]
+[Deal "S:QT74.84.872.AK65 KJ3.AJ6.Q43.Q742 8.KQ732.T6.JT983 A9652.T95.AKJ95."]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+CR - Here EW failed to find their spade fit. East was the culprit,
+since he chose not to bid his five-card major after the game-forcing
+Stayman sequence. The Chinese pair got lucky when North/South
+could not cash five club tricks. When Hamman led a low heart
+declarer had nine top tricks. After running four of his five
+diamonds Yang boldly (recklessly?) played a spade to the jack
+and made an overtrick: plus 430. Was there something in the air?
+6 surprise IMPs to China.
+}
+[Auction "W"]
+1NT Pass 2D Pass 
+2NT Pass 3D Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+H2 H5 H8 HJ 
+D6 DA D2 D3 
+DT D5 D7 DQ 
+C3 DK D8 D4 
+H7 DJ C6 H6 
+S8 S2 S4 SJ 
+H3 S5 S7 SK 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "9"]
+[Room "Open"]
+[West "Nick Nickell"]
+[North "Chuangcheng Ju"]
+[East "Dick Freeman"]
+[South "Zhong Fu"]
+[Dealer "N"]
+[Deal "S:K64.A7652.JT6.32 AJ9.K943.Q875.84 T753.QJT8.K932.9 Q82..A4.AKQJT765"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+OR - Some would open the nine-trick East hand with a two-bid.
+When Freeman chose 1C, he had to find an appropriate second call
+over partner's 1H response and settled for an Acol-style 3NT,
+which hinted at short hearts. This missed the slightly anti-percentage
+slam, and landed them in a game that would have been less attractive
+had one of the opponents held Nickell's precious H9. The H5 was
+ducked to North's ten, and declarer shed a diamond. A heart back,
+and declarer claimed eleven tricks, discarding a spade. Plus
+660.
+}
+[Auction "N"]
+Pass 1C Pass 1H 
+Pass 3NT Pass Pass 
+Pass    
+[Play "S"]
+H5 H9 HT D4 
+HA H3 HJ S2 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "9"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "Bob Hamman"]
+[East "Xueliang Cao"]
+[South "Paul Soloway"]
+[Dealer "N"]
+[Deal "S:K64.A7652.JT6.32 AJ9.K943.Q875.84 T753.QJT8.K932.9 Q82..A4.AKQJT765"]
+[Vulnerable "EW"]
+[Contract "6C"]
+[Declarer "E"]
+{
+CR - Soloway's 1H overcall of Cao's strong 1C elicited a barrage
+4H from Hamman. Although Yang did not promise the world with
+his negative double, Cao reasoned that the opponents' bidding
+and Yang's failure to bid notrump made it likely that the partnership
+hands would mesh well. Hence Cao's slam try of 6C. The lead of
+the HA was worst for the defense; Cao took the double spade finesse,
+discarding his diamond on the HK. On a minor-suit lead, declarer
+would have to guess the pretty end position correctly to succeed.
+Plus 1370: 12 imps to China, ahead now 19-10.
+}
+[Auction "N"]
+Pass 1C 1H X 
+4H 6C Pass Pass 
+Pass    
+[Play "S"]
+HA H3 H8 C5 
+C2 C4 C9 CA 
+C3 C8 S3 CK 
+SK SA S5 SQ 
+H2 HK HT D4 
+H5 H4 HQ C6 
+D6 D5 D2 DA 
+S4 S9 ST S2 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "10"]
+[Room "Open"]
+[West "Nick Nickell"]
+[North "Chuangcheng Ju"]
+[East "Dick Freeman"]
+[South "Zhong Fu"]
+[Dealer "E"]
+[Deal "S:976.8.T432.AT642 32.KQJT3.J85.K83 KQT85.2.AKQ7.Q75 AJ4.A97654.96.J9"]
+[Vulnerable "Both"]
+[Contract "5D"]
+[Declarer "N"]
+{
+OR - The modern style is to overcall 1S with the North hand,
+and then double if room permits. Ju, North, was from the old-fashioned
+school, and he doubled the 1H opening bid. When 4H came back
+to him, he probably wished he was a little younger. He doubled
+again, and partner offered two places to play with 4NT. With
+the actual spade layout, 4S would have failed by one trick, so
+this wasn't a total disaster for China. Freeman led the HA and
+switched to a trump. Declarer had to lose two spades, one heart
+and one club for down two: minus 200.
+}
+[Auction "E"]
+Pass Pass 1H X 
+4H Pass Pass X 
+Pass 4NT Pass 5D 
+Pass Pass Pass  
+[Play "E"]
+HA H8 H3 H2 
+D6 D2 D8 DA 
+D9 D3 D5 DK 
+S4 S6 S2 SK 
+H4 D4 DJ DQ 
+C9 CA C3 C5 
+- S7 - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "10"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "Bob Hamman"]
+[East "Xueliang Cao"]
+[South "Paul Soloway"]
+[Dealer "E"]
+[Deal "S:976.8.T432.AT642 32.KQJT3.J85.K83 KQT85.2.AKQ7.Q75 AJ4.A97654.96.J9"]
+[Vulnerable "Both"]
+[Contract "5HX"]
+[Declarer "W"]
+{
+CR - After two passes, Yang felt the West hand was closer to
+a weak-two bid than a one-bid. Hamman, being from the old and
+the new school, chose to overcall 2S, rather than double 2H.
+Cao, wanting to put some pressure on NS, leapt to a precarious
+level. His 5H effort attracted (not surprisingly) a double, and
+declarer couldn't avoid losing one spade, two diamonds and one
+club for two down doubled, minus 500. 12 IMPs to the USA, 22-19.
+}
+[Auction "E"]
+Pass Pass 2H 2S 
+5H X Pass Pass 
+Pass    
+[Play "N"]
+DK D6 D2 D5 
+SK SA S6 S3 
+H2 H4 H8 HK 
+SQ S4 S7 S2 
+DA D9 D3 D8 
+C5 C9 CA C3 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "11"]
+[Room "Open"]
+[West "Nick Nickell"]
+[North "Chuangcheng Ju"]
+[East "Dick Freeman"]
+[South "Zhong Fu"]
+[Dealer "S"]
+[Deal "S:K6542.98632.KT.4 AQ9.Q.Q764.AQ732 73.AK.98532.T985 JT8.JT754.AJ.KJ6"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+OR - West has a nasty rebid problem after the 1H response. The
+hand is definitely not good enough for a 2D reverse. Not willing
+to rebid 2C, Nickell improvised by bidding his three-card spade
+suit. It did not affect the final contract, which became the
+obvious 3NT. Declarer had little trouble taking ten tricks; plus
+430.
+}
+[Auction "S"]
+Pass 1C Pass 1H 
+Pass 1S Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Play "S"]
+S4 S9 S7 S8 
+DK D4 D2 DJ 
+H3 HQ HK H4 
+S5 SQ S3 ST 
+C4 C2 C5 CK 
+DT D6 D3 DA 
+H2 C3 C8 CJ 
+- - - C6 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "11"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "Bob Hamman"]
+[East "Xueliang Cao"]
+[South "Paul Soloway"]
+[Dealer "S"]
+[Deal "S:K6542.98632.KT.4 AQ9.Q.Q764.AQ732 73.AK.98532.T985 JT8.JT754.AJ.KJ6"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+CR - 1C was strong and the 1NT response showed 8-13 HCP and a
+balanced hand. West simply bid 3NT, not worrying about the heart
+suit. As at the other table South led a spade and again declarer
+took ten tricks. No swing.
+}
+[Auction "S"]
+Pass 1C Pass 1NT 
+Pass 3NT Pass Pass 
+Pass    
+[Play "S"]
+S4 SQ S7 S8 
+DK D4 D2 DJ 
+H3 HQ HK H5 
+DT D6 D3 DA 
+H2 D7 HA HT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "12"]
+[Room "Open"]
+[West "Nick Nickell"]
+[North "Chuangcheng Ju"]
+[East "Dick Freeman"]
+[South "Zhong Fu"]
+[Dealer "W"]
+[Deal "S:97.KQT72.AK873.T AQ52.A865.QJT.AJ 864.J9.95.K97632 KJT3.43.642.Q854"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "E"]
+{
+OR - It would be easy to say that Freeman simply bid too much
+with his balanced  six-count, nonvulnerable, but with no diamond
+ruff and the CK onside he would have had a fighting chance to
+make it. Fu led the DK, saw Ju's nine, and shifted nonetheless
+to the HK. Declarer won the HA, played a spade to hand, and took
+the losing club finesse. The roof caved in on him now: DA, diamond
+ruff, HJ, club ruff left him three down. Minus 150.
+}
+[Auction "W"]
+1D Pass 1S 2H 
+3S Pass 4S Pass 
+Pass Pass   
+[Play "S"]
+DK DT D9 D4 
+HK HA H9 H3 
+S7 S2 S4 ST 
+CT CJ CK C4 
+DA DJ D5 D2 
+D3 DQ S6 D6 
+H2 H5 HJ H4 
+S9 CA C2 C5 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4a"]
+[Board "12"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "Bob Hamman"]
+[East "Xueliang Cao"]
+[South "Paul Soloway"]
+[Dealer "W"]
+[Deal "S:97.KQT72.AK873.T AQ52.A865.QJT.AJ 864.J9.95.K97632 KJT3.43.642.Q854"]
+[Vulnerable "NS"]
+[Contract "2S"]
+[Declarer "W"]
+{
+CR - Cao-Yang's Precision auction kept them low. Soloway mentioned
+both red suits, and both Yang and Cao offered action doubles
+before coming to rest in 2S. The HJ went to declarer's ace, and
+a declarer went to a trump to take the losing club finesse where
+a second round of trumps would have secured the contract. Easier
+said than done, however. The defence gathered in their six defensive
+tricks for down one: minus 50. China gained 3 IMPs to conclude
+the first half.  A curiosity: both teams recorded gains of 12,
+6, 3 and 1 IMP for a score of 22-22.
+}
+[Auction "W"]
+1C Pass 1D 1H 
+Pass Pass X 2D 
+X 2H Pass Pass 
+2S Pass Pass Pass 
+[Play "N"]
+HJ H3 H7 HA 
+S4 ST S7 S2 
+CK C4 CT CJ 
+C6 C5 S9 CA 
+D9 D2 DK DT 
+D5 D4 DA DJ 
+H9 H4 HK H5 
+S6 D6 D3 DQ 
+*
+[Result "7"]
+

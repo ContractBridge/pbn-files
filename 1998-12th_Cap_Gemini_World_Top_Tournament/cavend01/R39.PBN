@@ -1,0 +1,121 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.13"]
+[Round "39"]
+[Board "10"]
+[Room "Open"]
+[West "Brad Moss"]
+[North "Louk Verhees"]
+[East "Fred Gitelman"]
+[South "Jan Jansma"]
+[Dealer "E"]
+[Deal "S:QJ9874.KT.AJT3.4 KT5.732.K82.QJT2 A6.Q85.Q7654.A76 32.AJ964.9.K9853"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "S"]
+{
+West had a square hand with most of his strength in the form
+of kings in the opponents' suits. His four-club advance of East's
+distributional takeout double put his side in 800-number jeopardy,
+but North couldn't muster up a double, and South, with an offensively-oriented
+hand, preferred to bid game.
+}
+[Auction "E"]
+Pass 1S Pass 2D 
+X 3D 4C Pass 
+Pass 4S Pass Pass 
+Pass    
+[Play "W"]
+CQ CA C3 C4 
+S5 SA S2 S4 
+SK S6 S3 SJ 
+CJ C6 C8 S7 
+ST C7 H4 SQ 
+D2 D4 D9 DA 
+D8 D5 H6 DT 
+DK D6 C5 DJ 
+H7 H5 HA - 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "39"]
+[Board "11"]
+[Room "Open"]
+[West "Brad Moss"]
+[North "Louk Verhees"]
+[East "Fred Gitelman"]
+[South "Jan Jansma"]
+[Dealer "S"]
+[Deal "S:AQT54.KJ.QJ3.K54 K73.865.92.JT873 J962.AQT7.KT75.2 8.9432.A864.AQ96"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "S"]
+{
+Many would open the South hand one spade, but one notrump with
+all those picture-cards is also reasonable. A routine Stayman
+auction led to the cold four-spade game. There was little to
+the play, as the defenders took their three obvious tricks. Making
+four spades, minus 420, for a small 10-IMP loss.
+}
+[Auction "S"]
+1NT Pass 2C Pass 
+2S Pass 4S Pass 
+Pass Pass   
+[Play "W"]
+CJ C2 CA C4 
+C8 S2 C6 C5 
+SK SJ S8 S4 
+C3 S9 C9 CK 
+S3 S6 D4 SA 
+S7 D5 D6 SQ 
+D2 D7 DA DJ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "39"]
+[Board "12"]
+[Room "Open"]
+[West "Brad Moss"]
+[North "Louk Verhees"]
+[East "Fred Gitelman"]
+[South "Jan Jansma"]
+[Dealer "W"]
+[Deal "S:AKQJ8.987.J4.J63 972.K654.T82.Q74 T4.J2.AQ976.AK92 653.AQT3.K53.T85"]
+[Vulnerable "NS"]
+[Contract "3HX"]
+[Declarer "E"]
+{
+East's 4-card overcall on a weakish square hand combined with
+West's preemptive jump raise on a very weak square hand robbed
+South of the bidding space he might otherwise have used to probe
+for the right game. Four spades was makable, but that was hard
+for South to know, so he doubled three hearts.
+}
+[Auction "W"]
+Pass 1D 1H 1S 
+3H Pass Pass X 
+Pass Pass Pass  
+[Play "S"]
+SK S2 S4 S5 
+SA S7 ST S6 
+SQ S9 D6 S3 
+DJ D2 D7 DK 
+H7 H4 H2 HA 
+H8 HK HJ H3 
+H9 H5 C2 HQ 
+D4 D8 D9 D5 
+S8 DT DA D3 
+C3 C4 CA C5 
+C6 C7 CK C8 
+*
+[Result "6"]
+

@@ -1,0 +1,1341 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "1"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQ92.764.Q82.543 765.AQ932.KJ9.Q7 A8.JT8.AT4.AKT62 JT43.K5.7653.J98"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+90"]
+[VisitTeam "Crash"]
+[Auction "N"]
+Pass 1H 1NT Pass
+Pass Pass
+[Play "W"]
+D7 D2 DJ DA
+D6 DQ DK D4
+C9 C3 CQ CA
+D5 D8 D9 DT
+S3 S2 S5 SA
+S4 SK S6 S8
+ST SQ S7 C2
+C8 C4 C7 CK
+HK H4 H2 HJ
+CJ C5 H3 C6
+SJ S9 H9 CT
+D3 H6 HQ H8
+H5 H7 HA HT
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "1"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQ92.764.Q82.543 765.AQ932.KJ9.Q7 A8.JT8.AT4.AKT62 JT43.K5.7653.J98"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+110"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1H 2C X
+3C Pass Pass Pass
+[Play "W"]
+HK H4 H2 HT
+H5 H6 HA H8
+D6 H7 HQ HJ
+C8 D2 H3 D4
+D3 D8 DJ DA
+C9 C3 C7 CA
+CJ C4 CQ CK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "2"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T953.Q.QJ64.AK72 Q74.876.7.QT9865 AKJ862.KJ9.82.J4 .AT5432.AKT953.3"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-500"]
+[VisitTeam "Crash"]
+[Auction "E"]
+1D Pass 1S 2H
+2S 3H 4S 5H
+X Pass Pass Pass
+[Play "E"]
+CA C5 C4 C3
+HQ H6 H9 HA
+D4 D7 D2 DA
+D6 C6 D8 DK
+DJ H7 HJ D5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "2"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T953.Q.QJ64.AK72 Q74.876.7.QT9865 AKJ862.KJ9.82.J4 .AT5432.AKT953.3"]
+[Declarer "E"]
+[Contract "5SX"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "#"]
+[Auction "E"]
+1NT Pass 4H X
+4S Pass Pass 4NT
+5S X Pass Pass
+Pass
+[Play "S"]
+D7 D2 DK D6
+H6 H9 HA HQ
+C5 D8 DA D4
+C6 C4 C3 CA
+S4 SA H2 ST
+C8 CJ H3 CK
+S7 SJ - S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "3"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKJT73.943.K.AK7 9865.QJ5.985.Q32 2.AKT62.QJT3.865 Q4.87.A7642.JT94"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+450"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1S Pass 2H Pass
+4D Pass 4H Pass
+4NT Pass 5H Pass
+Pass Pass
+[Play "E"]
+CJ CA C2 C8
+H8 H3 H5 HA
+H7 H4 HJ HK
+DA DK D5 D3
+C4 CK C3 C5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "3"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKJT73.943.K.AK7 9865.QJ5.985.Q32 2.AKT62.QJT3.865 Q4.87.A7642.JT94"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+480"]
+[VisitTeam "#"]
+[Auction "S"]
+1S Pass 1NT Pass
+4S Pass Pass Pass
+[Play "W"]
+HQ HA H8 H4
+S5 S2 S4 SA
+S6 C5 SQ SK
+S8 C6 D7 SJ
+S9 C8 D6 ST
+D5 D3 DA DK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "4"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ93..JT86.AQJ43 JT7.A.AK9.T87652 K5.K943.Q7543.K9 8642.QJT87652.2."]
+[Declarer "W"]
+[Contract "6CX"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-800"]
+[VisitTeam "Crash"]
+[Auction "W"]
+1C Pass 1H 2H
+2S Pass 2NT Pass
+3C Pass 3D Pass
+4D Pass 6C Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+DA D3 D2 D8
+HA H3 H2 C3
+C2 CK H5 C4
+C5 HK H6 DT
+C8 C9 H7 CQ
+DK D4 H8 DJ
+SJ S5 S2 SQ
+C6 H4 HT CA
+C7 H9 HJ CJ
+D9 DQ HQ D6
+CT D7 S4 S3
+S7 SK S6 S9
+ST D5 S8 SA
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "4"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ93..JT86.AQJ43 JT7.A.AK9.T87652 K5.K943.Q7543.K9 8642.QJT87652.2."]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+630"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1H Pass
+1S Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "S"]
+S6 S3 ST SK
+D2 DJ DK D3
+- - DA D4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "5"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:64.AKQT53.J52.A7 97.J876.974.KQT2 AKT5.9.K863.9865 QJ832.42.AQT.J43"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-200"]
+[VisitTeam "Crash"]
+[Auction "N"]
+1H 2C X 2H
+4H X Pass Pass
+Pass
+[Play "E"]
+CK C5 C4 CA
+S7 SA S3 S6
+H6 H9 H2 H3
+C2 C6 CJ C7
+S9 SK SQ S4
+CT C8 C3 H5
+H7 C9 H4 HA
+H8 D3 S2 HK
+HJ D6 S8 HQ
+D4 DK DA D2
+CQ S5 SJ HT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "5"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:64.AKQT53.J52.A7 97.J876.974.KQT2 AKT5.9.K863.9865 QJ832.42.AQT.J43"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+140"]
+[VisitTeam "#"]
+[Auction "N"]
+1H Pass 1S Pass
+2H Pass Pass Pass
+[Play "E"]
+CK C5 C3 CA
+H7 H9 H2 HA
+H8 S5 H4 HQ
+C2 C6 CJ C7
+S9 SA SQ S4
+CT C8 C4 H3
+D9 DK DA D5
+D4 D6 DQ D2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "6"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QJ5.K9.Q954.AQ76 A9432.QT65.2.J43 K6.A8.KT876.T852 T87.J7432.AJ3.K9"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "E"]
+1D 1S 2S X
+Pass Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "N"]
+S8 SQ S3 S6
+DA D4 D2 DK
+S7 S5 S4 SK
+D3 DQ C4 DT
+DJ D9 H5 D6
+ST SJ SA C2
+- - S9 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "6"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QJ5.K9.Q954.AQ76 A9432.QT65.2.J43 K6.A8.KT876.T852 T87.J7432.AJ3.K9"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+660"]
+[VisitTeam "#"]
+[Auction "E"]
+1D Pass 2C Pass
+3C Pass 3D Pass
+3NT Pass Pass Pass
+[Play "S"]
+S2 S6 ST SQ
+D2 DK DA D5
+SA SK S8 S5
+S3 C2 S7 SJ
+H5 HA H2 H9
+H6 D6 D3 D9
+S4 D7 DJ DQ
+S9 DT H3 D4
+C3 D8 H4 C7
+C4 C5 C9 CQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "7"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K.AKJ987543.T4.5 QT54.QT6.AQ653.3 AJ83.2.K982.AT96 9762..J7.KQJ8742"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "S"]
+4C Pass 6H Pass
+Pass Pass
+[Play "E"]
+CK C5 C3 CA
+C7 HA H6 H2
+C4 HK HT D2
+S2 SK S4 SA
+S6 H3 S5 S3
+D7 D4 DA D8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "7"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K.AKJ987543.T4.5 QT54.QT6.AQ653.3 AJ83.2.K982.AT96 9762..J7.KQJ8742"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+650"]
+[VisitTeam "#"]
+[Auction "S"]
+4H Pass Pass Pass
+[Play "W"]
+S5 S3 S6 SK
+H6 H2 CK HA
+HT D2 C2 HK
+C3 CA C4 C5
+S4 SA S2 D4
+SQ SJ S7 DT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "8"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A8.KQJ.KQT8.QT64 63.A9852.43.AJ95 K97542.64.A9.K32 QJT.T73.J7652.87"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+450"]
+[VisitTeam "Crash"]
+[Auction "W"]
+1NT Pass 2H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+D3 D9 DJ DK
+S3 S2 SJ SA
+S6 SK ST S8
+D4 DA D7 DT
+HA H4 H7 HK
+H8 H6 HT HQ
+C5 C2 D2 D8
+H2 C3 H3 HJ
+- - - DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "8"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A8.KQJ.KQT8.QT64 63.A9852.43.AJ95 K97542.64.A9.K32 QJT.T73.J7652.87"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+430"]
+[VisitTeam "#"]
+[Auction "W"]
+1D 1H 1S Pass
+1NT Pass 2H Pass
+2S Pass 3NT Pass
+Pass Pass
+[Play "N"]
+C9 C2 C8 CT
+S3 S2 ST SA
+S6 S9 SJ S8
+HA H4 HT HJ
+CA C3 C7 C4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "9"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:932.76.K7432.Q72 AJT4.KQ852.5.J63 865.94.JT8.AKT98 KQ7.AJT3.AQ96.54"]
+[Declarer "S"]
+[Contract "4CX"]
+[Result "6"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-800"]
+[VisitTeam "Crash"]
+[Auction "N"]
+3D X Pass Pass
+XX Pass 4C X
+Pass Pass Pass
+[Play "W"]
+C4 C2 CJ CK
+C5 CQ C6 C8
+S7 C7 C3 CA
+DQ DK D5 DJ
+- D2 H5 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "9"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:932.76.K7432.Q72 AJT4.KQ852.5.J63 865.94.JT8.AKT98 KQ7.AJT3.AQ96.54"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+650"]
+[VisitTeam "#"]
+[Auction "N"]
+2C 2D 3C X
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+CK C4 C7 C6
+CA C5 C2 C3
+CT HA CQ CJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "10"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A62.Q96.Q98765.2 KT74.AJT43.3.AK3 .852.KJ4.QJT9854 QJ9853.K7.AT2.76"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+680"]
+[VisitTeam "Crash"]
+[Auction "E"]
+Pass 1H Pass 1S
+2D 4D X Pass
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+C2 CA C4 C7
+SA S4 C5 SQ
+D5 D3 DK DA
+D8 S7 D4 D2
+S6 ST CQ SJ
+D6 SK DJ DT
+H6 H3 H2 HK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "10"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A62.Q96.Q98765.2 KT74.AJT43.3.AK3 .852.KJ4.QJT9854 QJ9853.K7.AT2.76"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+1430"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1H 3C 3S
+Pass 4C Pass 4D
+Pass 4NT Pass 5C
+Pass 5D Pass 6H
+Pass 6S Pass Pass
+Pass
+[Play "E"]
+D6 D3 DK DA
+S2 S4 C5 S9
+D5 S7 D4 D2
+H6 HA H2 H7
+H9 H3 H5 HK
+D7 ST DJ DT
+SA SK CQ S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "11"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ7.J976..KQT963 63.T2.QJ9876.852 KQ9.AK83.A42.AJ4 T8542.Q54.KT53.7"]
+[Declarer "N"]
+[Contract "7NT"]
+[Result "12"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-50"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1C 2D X 4D
+4H Pass 4NT X
+5C Pass 5D X
+Pass Pass XX Pass
+6C Pass 7NT Pass
+Pass Pass
+[Play "E"]
+C7 C3 C2 CA
+D3 CT C5 C4
+S2 S7 S3 SK
+S8 SJ S6 S9
+S5 SA DQ SQ
+H4 H6 H2 HA
+D5 H7 D6 DA
+ST CK C8 CJ
+DT CQ HT H3
+S4 C9 D7 D2
+DK C6 D8 D4
+- H9 D9 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "11"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ7.J976..KQT963 63.T2.QJ9876.852 KQ9.AK83.A42.AJ4 T8542.Q54.KT53.7"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+990"]
+[VisitTeam "#"]
+[Auction "S"]
+1C Pass 1H Pass
+4H Pass 4NT Pass
+5C Pass 5D Pass
+5H Pass 5S Pass
+6H Pass 6NT Pass
+Pass Pass
+[Play "E"]
+D5 H6 DJ DA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "12"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K9763.Q2.942.K72 J84.KJ96.AK863.T AT52.A43.JT.AQ93 Q.T875.Q75.J8654"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+420"]
+[VisitTeam "Crash"]
+[Auction "W"]
+Pass 1D X Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+DK DT D7 D4
+CT CA C4 C2
+S4 S2 SQ SK
+S8 ST C5 S3
+SJ SA H5 S6
+D3 DJ DQ D2
+HK HA H8 HQ
+D6 C3 C6 CK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "12"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K9763.Q2.942.K72 J84.KJ96.AK863.T AT52.A43.JT.AQ93 Q.T875.Q75.J8654"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "-50"]
+[VisitTeam "#"]
+[Auction "W"]
+2D X 4S Pass
+Pass Pass
+[Play "S"]
+D5 D2 DK DT
+D7 D4 DA DJ
+C6 C2 CT CA
+SQ S3 S4 SA
+C8 CK S8 C3
+DQ D9 D8 S2
+C4 SK SJ ST
+H5 H2 HJ HA
+H7 S9 H9 S5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "13"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK92.T5.K832.AT8 84.KJ862.T97.752 QT753.AQ97.J.Q93 J6.43.AQ654.KJ64"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+680"]
+[VisitTeam "Crash"]
+[Auction "N"]
+1NT Pass 2C Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+DT DJ DA D2
+C7 C9 C4 C8
+S4 S3 S6 SA
+S8 SQ SJ S2
+C2 C3 CJ CA
+D7 CQ D4 DK
+H2 HQ H3 H5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "13"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK92.T5.K832.AT8 84.KJ862.T97.752 QT753.AQ97.J.Q93 J6.43.AQ654.KJ64"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+680"]
+[VisitTeam "#"]
+[Auction "N"]
+1D Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+C6 C8 C2 C3
+S6 SA S8 S3
+H4 H5 H2 HQ
+DA D2 D7 DJ
+H3 HT HJ HA
+SJ SK H8 H7
+D4 D3 DT S5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "14"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKQ82.Q9.J87.Q42 T73.A873.AT.8653 J54.T4.6543.KT97 96.KJ652.KQ92.AJ"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+170"]
+[VisitTeam "Crash"]
+[Auction "E"]
+1NT Pass Pass 2D
+Pass 2H Pass Pass
+2S 3H Pass Pass
+Pass
+[Play "W"]
+S4 S6 SQ S7
+S5 S9 SA S3
+SJ H2 SK ST
+H4 H5 HQ HA
+HT HK H9 H3
+D3 D2 D7 DA
+D4 DK D8 DT
+- DQ DJ -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "14"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKQ82.Q9.J87.Q42 T73.A873.AT.8653 J54.T4.6543.KT97 96.KJ652.KQ92.AJ"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+140"]
+[VisitTeam "#"]
+[Auction "E"]
+1S Pass 1NT X
+Pass 2H 2S 3H
+Pass Pass Pass
+[Play "W"]
+S4 S6 SQ S3
+S5 S9 SA S7
+CK CA C2 C3
+H4 H2 H9 HA
+HT HJ HQ H3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "15"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K752.AJ.A4.AT653 QT3.T9.J96.KQJ74 J9864.743.K8753. A.KQ8652.QT2.982"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1C Pass 1D 3H
+Pass Pass Pass
+[Play "S"]
+DA D6 D8 DQ
+D4 DJ DK DT
+HJ D9 D3 D2
+CA C4 S4 C2
+CT CK H4 C8
+S2 S3 S8 SA
+HA H9 H3 H2
+SK ST S6 H5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "15"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K752.AJ.A4.AT653 QT3.T9.J96.KQJ74 J9864.743.K8753. A.KQ8652.QT2.982"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+200"]
+[VisitTeam "#"]
+[Auction "S"]
+1NT Pass 2H 3H
+3S Pass Pass Pass
+[Play "W"]
+CK H3 C8 CA
+D6 D3 D2 DA
+D9 DK DQ D4
+DJ D5 DT S5
+C7 S4 C9 C5
+S3 S6 SA S2
+C4 S8 C2 C3
+ST D7 H6 HJ
+CQ S9 H2 C6
+HT H4 HK HA
+CJ SJ H5 CT
+H9 H7 HQ S7
+SQ D8 H8 SK
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "16"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K732.J8.J873.AQ3 AQJT8.T5.64.T842 65.K9642.KT952.7 94.AQ73.AQ.KJ965"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+140"]
+[VisitTeam "Crash"]
+[Auction "W"]
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+C7 C5 CQ CT
+DT C6 CA C4
+S5 C9 C3 C2
+D9 DQ D3 D6
+S6 S9 S2 S8
+H4 S4 S3 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "16"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K732.J8.J873.AQ3 AQJT8.T5.64.T842 65.K9642.KT952.7 94.AQ73.AQ.KJ965"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+460"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 2H 2NT
+Pass 3H Pass 3S
+Pass 3NT Pass Pass
+Pass
+[Play "W"]
+CQ C2 C7 CK
+S3 S8 S5 S9
+CA C4 S6 C5
+D7 D4 DK DA
+S7 ST H2 S4
+- SA - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "17"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:62.AKQ5.AQ32.A32 AK53.JT982.7.T76 QJT9.3.T986.QJ54 874.764.KJ54.K98"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+430"]
+[VisitTeam "Crash"]
+[Auction "N"]
+1C 1H X Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "E"]
+HJ H3 H7 HA
+S3 S9 S8 S6
+D7 DT DK DA
+C7 CQ CK C2
+H2 C4 H6 HK
+C6 CJ C9 C3
+S5 D9 D4 D2
+H8 D6 D5 D3
+SA D8 DJ DQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "17"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:62.AKQ5.AQ32.A32 AK53.JT982.7.T76 QJT9.3.T986.QJ54 874.764.KJ54.K98"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "+430"]
+[VisitTeam "#"]
+[Auction "N"]
+1D 1H X 2H
+3NT Pass Pass Pass
+[Play "E"]
+HJ H3 H6 HQ
+SK S9 S4 S6
+H8 D6 H7 HK
+SA ST S8 S2
+H9 D8 H4 HA
+C6 CQ CK C3
+D7 D9 D5 DQ
+C7 C4 C8 CA
+CT CJ C9 C2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "18"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J2.AQ986.762.J62 KQT74.T5432.A5.5 863.K7.KQ94.K983 A95.J.JT83.AQT74"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "6"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "E"]
+2D Pass 2H Pass
+Pass Pass
+[Play "N"]
+DJ D2 DA D4
+S9 S2 SK S6
+HJ H6 H2 HK
+C7 HA H3 H7
+DT D6 D5 D9
+S5 SJ SQ S3
+CQ C2 C5 C3
+CA C6 S4 C8
+C4 CJ H4 C9
+SA H8 S7 S8
+- HQ - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "18"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J2.AQ986.762.J62 KQT74.T5432.A5.5 863.K7.KQ94.K983 A95.J.JT83.AQT74"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "#"]
+[Auction "E"]
+2C Pass 2H Pass
+Pass Pass
+[Play "N"]
+HJ H6 H5 HK
+C7 HQ H4 H7
+D3 D2 D5 DK
+S5 SJ SQ S6
+S9 S2 ST S3
+SA H8 S4 S8
+DJ D7 DA D4
+C4 H9 SK C3
+D8 HA H2 C8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "19"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J5.A32.QJ96.K984 KT7.T84.A542.T62 Q832.KQJ95.T3.Q5 A964.76.K87.AJ73"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+110"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1NT Pass 2C Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+D7 D6 DA DT
+DK D9 D5 D3
+D8 DJ D4 S2
+H6 H2 H4 HQ
+H7 H3 H8 HJ
+S4 HA HT H5
+- DQ D2 S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "19"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J5.A32.QJ96.K984 KT7.T84.A542.T62 Q832.KQJ95.T3.Q5 A964.76.K87.AJ73"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "#"]
+[Auction "S"]
+1C Pass 1H Pass
+1NT Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+D7 D6 DA D3
+SA S5 S7 S2
+S4 SJ SK S8
+DK D9 D2 DT
+CA C4 C2 C5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1997.12.14"]
+[Board "20"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q92.AJ8.8652.542 754.T97654.J.T87 J63.32.AT3.KJ963 AKT8.KQ.KQ974.AQ"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+620"]
+[VisitTeam "Crash"]
+[Auction "W"]
+Pass Pass Pass 2D
+Pass 2S Pass 2NT
+Pass 3D Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+D5 DJ DA D4
+C5 C7 CJ CA
+D2 C8 D3 DQ
+D6 CT DT DK
+H8 H4 H2 HQ
+HA H5 H3 HK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "20"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q92.AJ8.8652.542 754.T97654.J.T87 J63.32.AT3.KJ963 AKT8.KQ.KQ974.AQ"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1C X
+1NT 2H Pass 3NT
+Pass Pass Pass
+[Play "W"]
+C2 C7 C9 CQ
+D5 DJ DA D4
+C4 C8 CK CA
+D2 H4 D3 DK
+D6 CT DT DQ
+*
+

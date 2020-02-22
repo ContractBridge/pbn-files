@@ -1,0 +1,1002 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "3rd IOC Grand Prix"]
+[Site "Lausanne, Switzerland, CHE"]
+[Date "2000.11.01"]
+[Round "S1"]
+[Board "1"]
+[Room "Open"]
+[West "A. Versace"]
+[North "K. Jassem"]
+[East "Lorenzo Lauria"]
+[South "P. Tuszynski"]
+[Dealer "N"]
+[Deal "S:K86.J85.JT72.A42 T97.KQT.K3.J9853 5432.943.Q86.KQT AQJ.A762.A954.76"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+OR - With 9 HCP, some useful intermediates and a five-card suit,
+nobody raises 1NT (15-17) one step only. Not Versace, anyway.
+Lauria had a hand with which he would have passed an invitational
+2NT, but even with this mis-fitting minimum, 3NT was a respectable
+contract. With hearts coming in, Lauria would have made his game
+had the SK been onside. When it wasn't, after Tuszynski's good
+diamond lead, Lauria was going down, and he knew it: minus 50.
+}
+[Auction "N"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+D2 DK D8 D4 
+SK ST S2 SQ 
+DJ D3 DQ DA 
+H5 HK H3 H2 
+H8 HQ H4 H6 
+HJ HT H9 HA 
+C2 C3 S3 H7 
+S6 S7 S4 SA 
+S8 S9 S5 SJ 
+C4 C9 CT C6 
+- - D6 D5 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "1"]
+[Room "Closed"]
+[West "M. Kwiecien"]
+[North "N. Bocchi"]
+[East "Jacek Pszczola"]
+[South "Giorgio Duboin"]
+[Dealer "N"]
+[Deal "S:K86.J85.JT72.A42 T97.KQT.K3.J9853 5432.943.Q86.KQT AQJ.A762.A954.76"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+CR - Here too West (Kwiecien) raised his partner's strong 1NT
+to 3NT, and again South (Duboin) started with a low diamond.
+When the spade finesse failed and South continued diamonds, declarer
+(Pszczola) cashed out for one down: minus 50. No swing. Italy
+carried forward 1.5 IMPs from the round robin, so if you're keeping
+score, Italy starts with a small lead.
+}
+[Auction "N"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+D2 DK D8 D5 
+SK S7 S5 SQ 
+D7 D3 DQ DA 
+H8 HK H4 H7 
+H5 HQ H3 H2 
+HJ HT H9 HA 
+S6 C3 S4 H6 
+S8 S9 S2 SA 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "2"]
+[Room "Open"]
+[West "A. Versace"]
+[North "K. Jassem"]
+[East "Lorenzo Lauria"]
+[South "P. Tuszynski"]
+[Dealer "E"]
+[Deal "S:K.K3.9863.T87632 Q96432.96.QJT52. JT85.Q872.K7.KQ4 A7.AJT54.A4.AJ95"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "W"]
+{
+OR - Lauria's 2C rebid was either natural and limited, or artificial,
+the way to develop most strong hands. 2D would have been artificial
+and 2S described Versace's hand well. As Lauria would have passed
+with the limited hand, 3S showed the strong type. The auction
+does look natural, doesn't it? Versace was not hard pressed to
+take ten tricks. He might have tried for an overtrick by sneaking
+the ten of diamonds past North, but that would have sunk the
+contract if the DK were singleton. Plus 420.
+}
+[Auction "E"]
+1H Pass 1S Pass 
+2C Pass 2S Pass 
+3S Pass 4S Pass 
+Pass Pass   
+[Play "N"]
+CK CA C3 H6 
+S5 SA SK S2 
+S8 S7 C8 SQ 
+D7 DA D3 D2 
+DK D4 D6 DQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "2"]
+[Room "Closed"]
+[West "M. Kwiecien"]
+[North "N. Bocchi"]
+[East "Jacek Pszczola"]
+[South "Giorgio Duboin"]
+[Dealer "E"]
+[Deal "S:K.K3.9863.T87632 Q96432.96.QJT52. JT85.Q872.K7.KQ4 A7.AJT54.A4.AJ95"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "W"]
+{
+CR - Here Pszczola showed his extra values explicitly at his
+second turn. 3S might have made it difficult to reach 3NT opposite
+some strong two-suiters without a diamond stopper, but West's
+shape strongly suggested a suit contract. Kwiecien, in contrast
+to Versace, did by not draw a second round of trumps, which might
+have enabled him to ruff a diamond in dummy in certain variations.
+Plus 420 here too. No swing.
+}
+[Auction "E"]
+1H Pass 1S Pass 
+3C Pass 3S Pass 
+4S Pass Pass Pass 
+[Play "N"]
+H7 HA H3 H6 
+C4 CA C6 H9 
+S5 SA SK S2 
+D7 DA D3 D2 
+DK D4 D6 DQ 
+SJ S7 C2 SQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "3"]
+[Room "Open"]
+[West "A. Versace"]
+[North "K. Jassem"]
+[East "Lorenzo Lauria"]
+[South "P. Tuszynski"]
+[Dealer "S"]
+[Deal "S:9632.972.AQ65.KQ T.AJ853.K43.J863 AK7.QT.JT7.AT952 QJ854.K64.982.74"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+OR - Jassem sensibly upgraded his 14 HCP to a strong notrump
+because of his intermediates and five-card suit. Lauria led the
+S4 to the ten and king. Versace allowed the DJ to hold and declarer
+unblocked clubs, crossed to the SA, and got the bad news on the
+CA. When he reverted to diamonds, Versace ducked the D10 as well
+(a commentator's delight)! Jassem fell for the ruse and played
+the D7 to the queen (if he had been carefully watching Lauria's
+diamond spots - he would surely have chuckled, and dropped the
+DK). Down two: minus 100. [DC]
+}
+[Auction "S"]
+Pass Pass 1NT Pass 
+2C Pass 2D Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+S4 S2 ST SK 
+D8 D5 D3 DJ 
+C4 CQ C3 C2 
+C7 CK C6 C5 
+S5 S3 H3 SA 
+H6 S6 C8 CA 
+D2 D6 D4 DT 
+D9 DQ DK D7 
+HK H2 H5 HQ 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "3"]
+[Room "Closed"]
+[West "M. Kwiecien"]
+[North "N. Bocchi"]
+[East "Jacek Pszczola"]
+[South "Giorgio Duboin"]
+[Dealer "S"]
+[Deal "S:9632.972.AQ65.KQ T.AJ853.K43.J863 AK7.QT.JT7.AT952 QJ854.K64.982.74"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "S"]
+{
+CR - Bocchi had a straightforward game raise of Duboin's 9-12
+mini-notrump. With the normal game being played from the South
+side, West had a natural heart lead. The defenders ran their
+five heart tricks, and Kwiecien exited the S10. Declarer tried
+to run his clubs, and when they failed to break, neatly stuffed
+Kwiecien in with the CJ, to play into dummy's diamond AQ tenace.
+Duboin finished down two: minus 100. No swing.
+}
+[Auction "S"]
+1NT Pass 3NT Pass 
+Pass Pass   
+[Play "W"]
+H5 HQ HK H2 
+HJ HT H6 H7 
+HA S7 H4 H9 
+H8 D7 D9 S2 
+H3 DJ D2 D5 
+ST SA S5 S3 
+C3 C2 C4 CK 
+C6 C5 C7 CQ 
+D3 SK S4 S6 
+C8 CA S8 S9 
+CJ CT SJ D6 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "4"]
+[Room "Open"]
+[West "A. Versace"]
+[North "K. Jassem"]
+[East "Lorenzo Lauria"]
+[South "P. Tuszynski"]
+[Dealer "W"]
+[Deal "S:AQ83.AQ842.95.T5 J92.KJ9.KQT3.864 K74.T6.AJ64.J972 T65.753.872.AKQ3"]
+[Vulnerable "Both"]
+[Contract "1NT"]
+[Declarer "N"]
+{
+OR - Although many pairs playing five-card majors treat a 1NT
+response as forcing for one round, or at least semi-forcing,
+the Poles don't. That meant Tuszynski didn't have to find a rebid
+on his "unbiddable" hand, which was too weak for 2S and too short
+for 2H or two-of-a-minor. 1NT was a decent contract, and with
+all suits breaking Jassem had no problems making it. Versace
+switched to a low diamond after winning the HJ, playing Lauria
+for the DJ, but losing an overtrick when Jassem had it. Making
+two: plus 120.
+}
+[Auction "W"]
+Pass Pass Pass 1H 
+Pass 1NT Pass Pass 
+Pass    
+[Play "E"]
+CA C5 C8 C7 
+ST SA S2 S4 
+H3 H2 HJ H6 
+D8 D9 D3 D4 
+H5 H4 HK HT 
+CK CT C4 C2 
+CQ S3 C6 C9 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "4"]
+[Room "Closed"]
+[West "M. Kwiecien"]
+[North "N. Bocchi"]
+[East "Jacek Pszczola"]
+[South "Giorgio Duboin"]
+[Dealer "W"]
+[Deal "S:AQ83.AQ842.95.T5 J92.KJ9.KQT3.864 K74.T6.AJ64.J972 T65.753.872.AKQ3"]
+[Vulnerable "Both"]
+[Contract "1NT"]
+[Declarer "S"]
+{
+CR - 1S was a relay (like a forcing notrump), denying five+ spades.
+1NT showed a minimum with four spades (as here) or 3-5-2-3 distribution.
+Bocchi knew where to play. When the lead of the DQ revealed that
+West held  the king-queen, Duboin ducked, took the D3 continuation
+with the jack, and ran the H10. Kwiecien drove out the DA, and
+Duboin tested spades first, carefully winning the third trick
+in dummy. When the suit split, he did not need the heart finesse
+for his contract so he led to the HA and cashed his long spade.
+Making one: plus 90, but 1 IMP to Poland.
+}
+[Auction "W"]
+Pass Pass Pass 1H 
+Pass 1S Pass 1NT 
+Pass Pass Pass  
+[Play "W"]
+DQ D4 D7 D5 
+D3 DJ D2 D9 
+HJ HT H3 H2 
+DK DA D8 C5 
+S2 S4 S5 SA 
+S9 S7 S6 SQ 
+SJ SK ST S3 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "5"]
+[Room "Open"]
+[West "A. Versace"]
+[North "K. Jassem"]
+[East "Lorenzo Lauria"]
+[South "P. Tuszynski"]
+[Dealer "N"]
+[Deal "S:932.J84.J7.98752 A5.AKQT6.A6.QT64 KJ76.75.QT842.J3 QT84.932.K953.AK"]
+[Vulnerable "NS"]
+[Contract "6H"]
+[Declarer "W"]
+{
+OR - A decent slam for E/W, basically needing normal breaks in
+hearts and clubs. Lauria-Versace had a smooth sequence. West
+used the fourth suit to set up a game force. East's 3C bid, showing
+concentrated strength in that suit, was just what the doctor
+ordered. After a trump lead Versace drew only one more round,
+preparing to ruff the C10 in dummy. With the jack dropping that
+was not necessary. In the ending North got squeezed for the overtrick:
+plus 1010.
+}
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 1S Pass 2C 
+Pass 2H Pass 2NT 
+Pass 3C Pass 3D 
+Pass 4H Pass 4NT 
+Pass 5H Pass 6H 
+Pass Pass Pass  
+[Play "N"]
+H5 H2 HJ HA 
+H7 H3 H4 HK 
+C3 CA C2 C4 
+CJ CK C9 C6 
+D2 H9 H8 HQ 
+S6 S4 C5 CQ 
+S7 S8 C7 CT 
+D4 D3 C8 HT 
+SJ D5 S2 H6 
+SK ST S3 SA 
+*
+[Result "13"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "5"]
+[Room "Closed"]
+[West "M. Kwiecien"]
+[North "N. Bocchi"]
+[East "Jacek Pszczola"]
+[South "Giorgio Duboin"]
+[Dealer "N"]
+[Deal "S:932.J84.J7.98752 A5.AKQT6.A6.QT64 KJ76.75.QT842.J3 QT84.932.K953.AK"]
+[Vulnerable "NS"]
+[Contract "6H"]
+[Declarer "W"]
+{
+CR - Kwiecien-Pszczola bid less scientifically than their Italian
+counterparts. 1C was a one-round force, but much more natural
+than the various "Polish" versions (1D would have promised five
+or 4-4-4-1) and 2C was the equivalent of "fourth suit forcing."
+When East admitted to some heart support West simply blasted
+the slam. In the play declarer lost his overtrick when he won
+the diamond lead in dummy. This cut the communication lines for
+a squeeze, so Kwiecien had to settle for plus 980 and a 1-IMP
+loss. Italy 2.5-1
+}
+[Auction "N"]
+Pass 1C Pass 1H 
+Pass 1S Pass 2C 
+Pass 2H Pass 6H 
+Pass Pass Pass  
+[Play "N"]
+D2 DK D7 D6 
+H5 H2 H4 HA 
+H7 H3 H8 HK 
+C3 CA C2 C4 
+CJ CK C5 C6 
+D4 H9 HJ HQ 
+S6 S4 S2 HT 
+D8 D3 C7 CQ 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "6"]
+[Room "Open"]
+[West "A. Versace"]
+[North "K. Jassem"]
+[East "Lorenzo Lauria"]
+[South "P. Tuszynski"]
+[Dealer "E"]
+[Deal "S:JT964.9.K952.A43 KQ87.KT862.Q.J75 53.QJ54.AT84.KT2 A2.A73.J763.Q986"]
+[Vulnerable "EW"]
+[Contract "3S"]
+[Declarer "S"]
+{
+OR - Lauria's 2NT was a three-card limit raise, and Tuszynki
+prepared the way for a non-vulnerable sacrifice with a hyper-aggressive
+3S overcall. To his surprise, his bid ended the auction: no double,
+no trouble. Versace led the H2, and Lauria won the ace to switch
+to the C6 to the jack and king. After a trump to the jack, and
+queen, Versace continued clubs. Declarer won and led the S10
+to Lauria's blank ace (a low one would not have shut out the
+S8) and Lauria played clubs. Tuszynski managed six tricks for
+down three: minus 150.
+}
+[Auction "E"]
+Pass Pass 1H Pass 
+2NT 3S Pass Pass 
+Pass    
+[Play "W"]
+H2 H4 HA H9 
+CJ CK C6 C4 
+SQ S3 S2 SJ 
+C7 CT CQ CA 
+S7 S5 SA ST 
+C5 C2 C9 C3 
+H8 D4 C8 S6 
+S8 DT H3 S4 
+SK H5 H7 S9 
+DQ DA D3 D2 
+HK HJ D6 D5 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "6"]
+[Room "Closed"]
+[West "M. Kwiecien"]
+[North "N. Bocchi"]
+[East "Jacek Pszczola"]
+[South "Giorgio Duboin"]
+[Dealer "E"]
+[Deal "S:JT964.9.K952.A43 KQ87.KT862.Q.J75 53.QJ54.AT84.KT2 A2.A73.J763.Q986"]
+[Vulnerable "EW"]
+[Contract "3H"]
+[Declarer "W"]
+{
+CR - Pszczola's 2C was a Drury-fit raise in hearts, and Kwiecien's
+2D was regressive. Duboin entered the fray when the bidding threatened
+to die at the two-level. His 2S bid pushed Pszczola to 3H, and
+there they rested. Bocchi led the S5 and declarer played ace
+and king before testing trumps. When the foul break came to light,
+declarer ruffed his spade loser in dummy and played a club to
+the jack and king. Bocchi cashed the hig trumps and played on
+diamonds, so declarer did not score a club trick. Two down: minus
+200. 8 IMPs to Italy, who led 10.5-1.
+}
+[Auction "E"]
+Pass Pass 1H Pass 
+2C Pass 2D Pass 
+2H 2S Pass Pass 
+3H Pass Pass Pass 
+[Play "N"]
+S5 SA S6 S7 
+S3 S2 SJ SK 
+H4 HA H9 H2 
+H5 H3 D5 HK 
+CT H7 S4 S8 
+CK C6 C3 CJ 
+HQ C8 ST H6 
+HJ C9 C4 H8 
+D4 D3 DK DQ 
+DA D6 D9 C5 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "7"]
+[Room "Open"]
+[West "A. Versace"]
+[North "K. Jassem"]
+[East "Lorenzo Lauria"]
+[South "P. Tuszynski"]
+[Dealer "S"]
+[Deal "S:AT9832.7.QJ.KJ73 .AQ9832.A9.AQ642 KJ.JT64.KT87652. Q7654.K5.43.T985"]
+[Vulnerable "Both"]
+[Contract "6CX"]
+[Declarer "E"]
+{
+OR - Two-suited bids with a six-card major and a five-card minor
+are dangerous, because the six-two major-suit fit may prove elusive.
+However, with a hand strong enough to introduce the major over
+a minimum response (as here), it's fine. As 2S showed clubs and
+hearts, so Lauria had enough for 4C over 3D with his four trumps
+and the golden HK. 6C is a very good contract, but Tuszynski's
+penalty double hinted that the reasonable breaks required would
+not be forthcoming. Lauria had to go two down on a diamond lead:
+ minus 500.
+}
+[Auction "S"]
+1S 2S 3D 4C 
+Pass 4D Pass 4H 
+Pass 6C Pass Pass 
+X Pass Pass Pass 
+[Play "S"]
+DQ DA D8 D3 
+H7 H2 H4 HK 
+CJ CQ D5 CT 
+C3 HA H6 H5 
+DJ D9 DK D4 
+CK H3 HJ C9 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "7"]
+[Room "Closed"]
+[West "M. Kwiecien"]
+[North "N. Bocchi"]
+[East "Jacek Pszczola"]
+[South "Giorgio Duboin"]
+[Dealer "S"]
+[Deal "S:AT9832.7.QJ.KJ73 .AQ9832.A9.AQ642 KJ.JT64.KT87652. Q7654.K5.43.T985"]
+[Vulnerable "Both"]
+[Contract "3H"]
+[Declarer "W"]
+{
+CR - If the bidding was optimistic in the Open Room, it was the
+opposite here. Duboin thought his hand looked more like a good
+weak two-bid than a 1S opening, and when the Poles had no two-suited
+gadget available, Kwiecien showed his strength with a double
+followed by 3H. Personally, I think king-doubleton in support
+is enough for a raise, but Pszczola thought otherwise - and right
+he was. Declarer lost 1 heart, 1 diamond and 2 clubs: a spectacular
+plus 140. 12 IMPs to Poland, who took the lead 13-10.5. [AW]
+}
+[Auction "S"]
+2D X Pass 2S 
+Pass 3H Pass Pass 
+Pass    
+[Play "N"]
+SK S4 S3 H2 
+H4 H5 H7 HA 
+H6 HK S2 H3 
+HT CT C3 C2 
+SJ S5 S8 H8 
+HJ D3 S9 HQ 
+D6 C9 CJ C4 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "8"]
+[Room "Open"]
+[West "A. Versace"]
+[North "K. Jassem"]
+[East "Lorenzo Lauria"]
+[South "P. Tuszynski"]
+[Dealer "W"]
+[Deal "S:A5.874.T64.Q9843 KT874.AJ.KJ93.A2 962.KQ532.7.JT76 QJ3.T96.AQ852.K5"]
+[Vulnerable "None"]
+[Contract "6D"]
+[Declarer "E"]
+{
+R - Lauria-Versace bid to a bad slam via an odd looking sequence.
+It's unclear why East preferred 4C to the more obvious 3S. North
+seized the chance to ask for a heart lead when West cue-bid 4H.
+This doomed the slam. Obviously Versace expected more from partners
+4C bid when he raised 5D to six. As it was, EW would have been
+a lot better off just blasting the slam. South might well have
+led a club then. One down: minus 50. [BW]
+}
+[Auction "W"]
+1S Pass 2D Pass 
+3D Pass 4C Pass 
+4H X Pass Pass 
+XX Pass 5D Pass 
+6D Pass Pass Pass 
+[Play "S"]
+H7 HA H2 H6 
+D4 D3 D7 DA 
+D6 DK H3 D2 
+DT DJ H5 D5 
+SA S4 S2 SQ 
+H4 HJ HQ H9 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "8"]
+[Room "Closed"]
+[West "M. Kwiecien"]
+[North "N. Bocchi"]
+[East "Jacek Pszczola"]
+[South "Giorgio Duboin"]
+[Dealer "W"]
+[Deal "S:A5.874.T64.Q9843 KT874.AJ.KJ93.A2 962.KQ532.7.JT76 QJ3.T96.AQ852.K5"]
+[Vulnerable "None"]
+[Contract "5S"]
+[Declarer "W"]
+{
+CR - The auction started the same way as in the open room, but
+here Pszczola did show his spade support. The meaning of the
+rest of the auction is unclear (it would seem that 4NT could
+not have been RKCB), but in the end Kwiecien-Pszczola managed
+to stop short of slam. Bocchi led the HQ (Rusinow) and cashed
+his king when in with the SA. Plus 450 to EW and 11 IMPs to Poland,
+now in the lead 24-10.5
+}
+[Auction "W"]
+1S Pass 2D Pass 
+3D Pass 3S Pass 
+3NT Pass 4S Pass 
+4NT Pass 5C Pass 
+5S Pass Pass Pass 
+[Play "N"]
+HQ H6 H7 HA 
+S6 SQ SA S4 
+HK H9 H4 HJ 
+CJ - - - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "9"]
+[Room "Open"]
+[West "A. Versace"]
+[North "K. Jassem"]
+[East "Lorenzo Lauria"]
+[South "P. Tuszynski"]
+[Dealer "N"]
+[Deal "S:KJT76.Q94.Q8.J95 9.A765.K73.AQT73 852.JT3.JT954.82 AQ43.K82.A62.K64"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+OR - Versace's 2C bid was relay-Stayman, and 2D announced a minimum
+strong notrump without the majors (or possibly four spades -
+as here). The 3C bid relayed, and 3D showed a 4333 type. 3S was
+shortness, and 3NT ended the auction. Well bid, as slam requires
+the clubs to come in without loss, hearts 3-3 (more or less),
+and the spade finesse - a poor proposition. Tuszynski's lead
+of the S7 allowed the nine to win, and declarer ran his clubs
+before ducking a heart. When they broke, declarer had twelve
+tricks (thanks to the spade lead): plus 690.
+}
+[Auction "N"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 3C 
+Pass 3D Pass 3S 
+Pass 3NT Pass Pass 
+Pass    
+[Play "S"]
+S7 S9 S5 S4 
+C5 CA C2 C4 
+C9 C3 C8 CK 
+CJ CQ D5 C6 
+S6 CT S2 S3 
+ST C7 S8 D2 
+H9 H5 HT H2 
+D8 D3 DT DA 
+H4 HA H3 H8 
+HQ H6 HJ HK 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "9"]
+[Room "Closed"]
+[West "M. Kwiecien"]
+[North "N. Bocchi"]
+[East "Jacek Pszczola"]
+[South "Giorgio Duboin"]
+[Dealer "N"]
+[Deal "S:KJT76.Q94.Q8.J95 9.A765.K73.AQT73 852.JT3.JT954.82 AQ43.K82.A62.K64"]
+[Vulnerable "EW"]
+[Contract "6NT"]
+[Declarer "E"]
+{
+CR - The Poles' auction looks shakier than their counterparts.
+3C was a relay, but the rest of the bidding creates the impression
+of uncertainty. Kwiecien tried to play in 6C (slight extra chance
+here as declarer could try and ruff out the SK, and/or duck a
+heart, play two trumps, and revert to hearts) but it seems that
+Pszczola thought spades were in the picture. Duboin avoided the
+fatal spade lead, and selected the C5. There were only eleven
+tricks available now for down one: minus 100. 13 IMPs to Italy,
+ahead now by half an IMP, 24-23.5 [DC]
+}
+[Auction "N"]
+Pass 1NT Pass 2C 
+Pass 2S Pass 3C 
+Pass 3S Pass 4C 
+Pass 5C Pass 6C 
+Pass 6S Pass 6NT 
+Pass Pass Pass  
+[Play "S"]
+C5 C3 C8 CK 
+C9 CA C2 C4 
+CJ CQ S2 C6 
+S6 CT D4 D2 
+S7 C7 D5 S3 
+H4 H5 HJ H8 
+SK S9 S5 SQ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "10"]
+[Room "Open"]
+[West "A. Versace"]
+[North "K. Jassem"]
+[East "Lorenzo Lauria"]
+[South "P. Tuszynski"]
+[Dealer "E"]
+[Deal "S:KJ.AJ5.A8754.643 843.KT743.KT2.85 A9.92.QJ9.KQT972 QT7652.Q86.63.AJ"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "S"]
+{
+OR - The Poles' convention card hints that Jassem's 3C was merely
+invitational.  If this is so, then Tuszynski's 3NT strikes me
+as a good piece of evaluation, with stoppers, fast tricks and
+club length. Versace's opening lead was "attitude" (strong holding)
+and Tuszynski had to guess who had the CA. Since Versace may
+have overcalled 1H on a five- or six-card suit headed by K-10
+plus the CA, I think East is more likely to have it - and that
+you should duck hearts twice. Tuszynski didn't agree with me.
+He won the first trick and was quickly defeated: minus 100. [AW]
+}
+[Auction "E"]
+Pass 1D Pass 2C 
+Pass 2D Pass 3C 
+Pass 3NT Pass Pass 
+Pass    
+[Play "W"]
+H3 H2 HQ HA 
+C5 CK CA C3 
+HT H9 H8 H5 
+HK D9 H6 HJ 
+H7 C2 S2 C4 
+H4 DQ S5 D4 
+S4 S9 SQ SK 
+C8 CQ CJ C6 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "10"]
+[Room "Closed"]
+[West "M. Kwiecien"]
+[North "N. Bocchi"]
+[East "Jacek Pszczola"]
+[South "Giorgio Duboin"]
+[Dealer "E"]
+[Deal "S:KJ.AJ5.A8754.643 843.KT743.KT2.85 A9.92.QJ9.KQT972 QT7652.Q86.63.AJ"]
+[Vulnerable "Both"]
+[Contract "3S"]
+[Declarer "E"]
+{
+CR - I'm glad to report that treating this East hand as a weak
+2S opening (bad suit, three hearts and lots of strength outside
+spades) didn't produce a good result. So is Lauria, East at the
+other table, who could have opened 2S but didn't. Kwiecien pre-empted
+with 3H (pass or correct), and E/W finished in 3S. On a club
+lead, and with everything lying well, Pszczola was able to get
+out for one down: minus 100. Double dummy, there is a second
+undertrick available on a heart lead and a subsequent heart ruff.
+5 IMPs to Italy, ahead 28.5-24. [AW]
+}
+[Auction "E"]
+2D Pass 3H Pass 
+3S Pass Pass Pass 
+[Play "S"]
+C3 C5 CQ CA 
+SJ S3 S9 S5 
+D4 DK D9 D6 
+SK S4 SA S6 
+C4 C8 CK CJ 
+D5 D2 DQ D3 
+DA DT DJ ST 
+D8 S8 C9 S2 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "11"]
+[Room "Open"]
+[West "A. Versace"]
+[North "K. Jassem"]
+[East "Lorenzo Lauria"]
+[South "P. Tuszynski"]
+[Dealer "S"]
+[Deal "S:KQJT83.Q8.J2.QJ4 64.AKT2.AKT43.T8 7.J9643.Q86.9765 A952.75.975.AK32"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+OR - West doesn't have a classic double of 1S, but it's an action
+we all would take. More interesting, perhaps, is West's rebid
+after a hypothetical 2C from partner. According to a modern bidding
+theory you may rebid 2D without showing extra values ("Equal
+Level Conversion"). It was no issue on this board, East having
+enough values to make a stronger bid. Lauria preferred a cue-bid
+to a natural 2NT. Declarer ducked the first spade in case the
+suit split 5-2, and then ducked a diamond to North. He took the
+obvious nine tricks for plus 400.
+}
+[Auction "S"]
+1S X Pass 2S 
+X 3D Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+SK S4 S7 S2 
+SJ S6 H6 SA 
+D2 DT DQ D5 
+C4 C8 C6 CA 
+DJ DA D6 D9 
+S3 DK D8 D7 
+S8 D4 C5 C2 
+H8 D3 C7 H5 
+HQ HA H3 H7 
+ST HK H4 S5 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "11"]
+[Room "Closed"]
+[West "M. Kwiecien"]
+[North "N. Bocchi"]
+[East "Jacek Pszczola"]
+[South "Giorgio Duboin"]
+[Dealer "S"]
+[Deal "S:KQJT83.Q8.J2.QJ4 64.AKT2.AKT43.T8 7.J9643.Q86.9765 A952.75.975.AK32"]
+[Vulnerable "None"]
+[Contract "2SX"]
+[Declarer "S"]
+{
+CR - Bocchi-Duboin open 2H and 2S with poor weak two's and 2D
+(Multi) with classical hands, which explains Duboin's mountainous
+nonvulnerable two-bid. What irony that he promptly got doubled
+in 2S. E/W took all their tricks in defense, including a club
+ruff by West: minus 500 for declarer and 3 IMPs to Poland. Ah
+well, at least Duboin judged correctly that all his side honours
+were worthless! After eleven deals it was only the carryover
+that separated the two teams.
+}
+[Auction "S"]
+2D X 2H X 
+2S Pass Pass X 
+Pass Pass Pass  
+[Play "W"]
+HA H3 H5 H8 
+CT C5 CK C4 
+C8 C6 CA CJ 
+S4 C7 C2 CQ 
+DK D6 D5 D2 
+DA D8 D7 DJ 
+HK H4 H7 HQ 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "12"]
+[Room "Open"]
+[West "A. Versace"]
+[North "K. Jassem"]
+[East "Lorenzo Lauria"]
+[South "P. Tuszynski"]
+[Dealer "W"]
+[Deal "S:KQ75.73.A96.AKT5 A98643.T8.732.72 J.AQJ964.JT85.94 T2.K52.KQ4.QJ863"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "S"]
+{
+OR - The 2NT bid was forcing with at least two hearts, and when
+Jassem showed his diamonds, Tuszynki tried 3NT. Dummy's SJ held
+at trick one, and the DJ held at trick two. A second diamond
+went to the king his ace, and Tuszynski took the heart finesse,
+East ducking smoothly. The DK was dislodged, and Declarer rose
+with the ace on East's low club switch, and drove out the SA
+to build his ninth winner. He had two spades, two hearts, three
+diamonds and two clubs: plus 600.
+}
+[Auction "W"]
+Pass 2H Pass 2NT 
+Pass 3D Pass 3NT 
+Pass Pass Pass  
+[Play "W"]
+S3 SJ S2 S5 
+D2 DJ D4 D6 
+D3 DT DQ DA 
+H8 HQ H2 H3 
+D7 D5 DK D9 
+C2 C4 C3 CA 
+SA H4 ST SK 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "S1"]
+[Board "12"]
+[Room "Closed"]
+[West "M. Kwiecien"]
+[North "N. Bocchi"]
+[East "Jacek Pszczola"]
+[South "Giorgio Duboin"]
+[Dealer "W"]
+[Deal "S:KQ75.73.A96.AKT5 A98643.T8.732.72 J.AQJ964.JT85.94 T2.K52.KQ4.QJ863"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "N"]
+{
+CR - Kwiecien's Multi 2D attracted a light 2H overcall, and Pszczola
+got in the way with 2S. When Versace made a card-showing double,
+Bocchi leapt to the heart game, suggesting that he thought more
+of his hand than mere mortals might have done. The S10 went to
+the ace, and West shifted to the D3, five, queen, ace. Fearing
+a diamond ruff, Bocchi played HA, HJ. Pszczola won the king,
+but the DK was declarer's only other loser: plus 620. Italy gained
+1 IMP, and after 12 deals were in front by a nose, 29.5-27 [DC]
+}
+[Auction "W"]
+2D 2H 2S X 
+Pass 4H Pass Pass 
+Pass    
+[Play "E"]
+ST S5 SA SJ 
+DQ DA D3 D5 
+H2 H3 H8 HA 
+HK H7 HT HJ 
+DK D6 D2 D8 
+*
+[Result "10"]
+

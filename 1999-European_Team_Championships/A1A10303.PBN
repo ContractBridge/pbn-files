@@ -1,0 +1,1404 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "European Team Championships '99"]
+[Site "Malta, MLT"]
+[Date "1999.06.14"]
+[Board "1"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQ7.KT6432.Q95.T A84.A.JT7642.864 T9652.QJ5.A.AJ93 J3.987.K83.KQ752"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS 450"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "N"]
+Pass Pass 1S Pass
+4S Pass Pass Pass
+[Play "W"]
+CK CT C4 CA
+S3 SK S4 S2
+H7 H2 HA HQ
+D8 D5 DT DA
+SJ SQ SA S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "1"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQ7.KT6432.Q95.T A84.A.JT7642.864 T9652.QJ5.A.AJ93 J3.987.K83.KQ752"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1H Pass 1S Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+D4 DA D3 D9
+SA S2 S3 SK
+S8 ST SJ SQ
+HA H5 H9 H2
+S4 S5 H8 S7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "2"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J7632.74.AJ62.Q9 98.J3.T8743.T865 AK4.KT95.KQ.A742 QT5.AQ862.95.KJ3"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS 50"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 1NT Pass
+2NT Pass 4S Pass
+Pass Pass
+[Play "S"]
+HJ HK HA H4
+H3 H5 HQ H7
+S8 H9 H2 S7
+C5 CA C3 C9
+S9 SA S5 S2
+D3 SK ST S3
+- HT H6 CQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "2"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J7632.74.AJ62.Q9 98.J3.T8743.T865 AK4.KT95.KQ.A742 QT5.AQ862.95.KJ3"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -430"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1C 1H
+1S Pass 2C Pass
+2D Pass 2S Pass
+3C Pass 3NT Pass
+Pass Pass
+[Play "N"]
+H6 H7 HJ HK
+S5 S2 S8 SA
+ST S3 S9 SK
+SQ S6 D3 S4
+HQ H4 H3 H9
+HA - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "3"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A8653.92.AQ5.AK5 T74.AQ7.86.87642 QJ9.K84.KT43.QJ9 K2.JT653.J972.T3"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS 400"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "S"]
+1C Pass 1H Pass
+1S Pass 1NT Pass
+2D Pass 2H Pass
+2S Pass 2NT Pass
+3C Pass 3NT Pass
+Pass Pass
+[Play "E"]
+H5 H2 HA H4
+H3 H9 HQ H8
+HT S3 H7 HK
+SK SA S4 SQ
+D2 DA D6 D3
+D7 DQ D8 D4
+D9 D5 C2 DK
+C3 CA C4 CJ
+CT C5 C6 CQ
+H6 CK C7 C9
+- S5 S7 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "3"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A8653.92.AQ5.AK5 T74.AQ7.86.87642 QJ9.K84.KT43.QJ9 K2.JT653.J972.T3"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 400"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1S Pass 2D Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "W"]
+HA H4 H3 H2
+HQ H8 H5 H9
+H7 HK H6 S3
+D6 D3 D2 DQ
+D8 D4 D7 DA
+C6 DK D9 D5
+S4 SQ S2 S5
+S7 SJ SK SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "4"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QT94.AQT4.AQ.T54 AK76.92.J8752.KQ J532.KJ.KT9.9862 8.87653.643.AJ73"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS -120"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "W"]
+1NT Pass Pass Pass
+[Play "N"]
+D5 D9 D6 DA
+SK S2 S8 ST
+D2 DT D3 DQ
+S6 S3 H5 S9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "4"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QT94.AQT4.AQ.T54 AK76.92.J8752.KQ J532.KJ.KT9.9862 8.87653.643.AJ73"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -120"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1NT Pass Pass Pass
+[Play "N"]
+D5 D9 D3 DA
+SK S2 S8 ST
+D2 DT D4 DQ
+S6 S3 H3 S9
+H2 HJ H5 H4
+D7 DK D6 C4
+H9 HK H6 HA
+S7 S5 H7 HQ
+CK SJ H8 HT
+CQ C2 - CT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "5"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AT65.AQT43.3.AK4 KJ42.6.AT976.872 Q97.95.KQJ42.J93 83.KJ872.85.QT65"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS 600"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "N"]
+1C 1NT 2D Pass
+2H Pass 2S Pass
+3S Pass 3NT Pass
+Pass Pass
+[Play "W"]
+S8 S5 SK S9
+D8 D3 D7 DK
+HJ HQ H6 H9
+S3 S6 S2 S7
+D5 H3 DA DQ
+H2 ST S4 SQ
+C5 H4 D6 DJ
+C6 CA C2 C3
+H7 SA SJ D2
+CT CK C7 C9
+- HA - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "5"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AT65.AQT43.3.AK4 KJ42.6.AT976.872 Q97.95.KQJ42.J93 83.KJ872.85.QT65"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 600"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1H Pass 2D Pass
+2S Pass 3C Pass
+3NT Pass Pass Pass
+[Play "E"]
+C2 C9 CT CK
+D7 DK D5 D3
+H6 H9 HK HA
+SJ S7 S3 S5
+C8 CJ CQ C4
+C7 C3 C5 CA
+S2 SQ S8 S6
+D6 H5 H7 HT
+D9 D2 - HQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "6"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AKT6.K9.986.QJT4 3.AQ87.AQ3.AK763 QJ9872.654.KT.92 54.JT32.J7542.85"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS 450"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "E"]
+1D X 2S Pass
+3S X Pass 4H
+Pass Pass Pass
+[Play "E"]
+SK S3 S8 S5
+C4 CA C2 C5
+CT CK C9 C8
+CJ C3 S2 H2
+HK HA H4 HT
+CQ C6 S7 H3
+D6 DQ DK D2
+S6 H7 SQ S4
+H9 H8 H5 HJ
+D8 DA DT D4
+- HQ H6 D5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "6"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AKT6.K9.986.QJT4 3.AQ87.AQ3.AK763 QJ9872.654.KT.92 54.JT32.J7542.85"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 130"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1C Pass 1D Pass
+1S X 1NT Pass
+Pass X 2S 2NT
+Pass 3NT X 4D
+Pass Pass Pass
+[Play "E"]
+D6 D3 DT DJ
+D8 DQ DK D2
+SK S3 SQ S4
+SA DA S2 S5
+C4 CA C2 C5
+CT CK C9 C8
+CJ C3 S7 D4
+HK HA H4 HJ
+CQ C6 H5 D5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "7"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:JT9762.74.Q954.2 A85.K65.K82.K965 Q43.T83.A73.JT87 K.AQJ92.JT6.AQ43"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS -650"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1NT Pass 2C
+Pass 2NT Pass 3C
+Pass 3H Pass 3NT
+Pass 4C Pass 4H
+Pass Pass Pass
+[Play "S"]
+C2 C5 C7 CQ
+H4 H5 H3 HA
+H7 HK H8 H2
+SJ H6 HT HQ
+S7 S5 S3 SK
+D4 D2 DA DJ
+D9 DK D3 D6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "7"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:JT9762.74.Q954.2 A85.K65.K82.K965 Q43.T83.A73.JT87 K.AQJ92.JT6.AQ43"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -650"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1NT Pass 2D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+C2 C5 C8 CA
+H4 H5 H3 HQ
+H7 HK H8 H2
+SJ H6 HT HA
+D4 DK DA D6
+S2 C6 CJ CQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "8"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J652.A53.AQ2.Q62 AK8.T8.J643.KT75 94.Q9762.K875.A4 QT73.KJ4.T9.J983"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS 50"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "W"]
+{ 1D Pass 1H Pass
+1NT X Pass 2S
+Pass Pass Pass }
+[Play "S"]
+HK H3 H8 HQ
+H4 HA HT H7
+S3 S2 SA S4
+S7 S5 SK S9
+SQ S6 S8 D5
+CJ CQ CK CA
+D9 DQ D3 D7
+ST SJ C5 H9
+DT DA D4 D8
+- D2 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "8"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J652.A53.AQ2.Q62 AK8.T8.J643.KT75 94.Q9762.K875.A4 QT73.KJ4.T9.J983"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -110"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1H Pass
+1S Pass 2H Pass
+Pass Pass
+[Play "S"]
+C9 CQ CK CA
+DT DQ D6 D5
+HK H3 H8 HQ
+D9 DA D3 D7
+H4 HA HT H2
+HJ D2 D4 DK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "9"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A.K2.QT862.J8643 QT864.JT.953.KT2 9753.Q974.AJ4.AQ KJ2.A8653.K7.975"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "12"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS 170"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "N"]
+Pass Pass 1D Pass
+2NT Pass 3D Pass
+Pass Pass
+[Play "W"]
+S2 SA S4 S5
+C5 C3 C2 CQ
+C7 C4 CT CA
+HA H2 HJ H4
+DK D2 D3 DA
+H6 HK HT H7
+C9 C6 CK D4
+D7 D6 D5 DJ
+- - - S3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "9"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A.K2.QT862.J8643 QT864.JT.953.KT2 9753.Q974.AJ4.AQ KJ2.A8653.K7.975"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 400"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1D Pass 1H Pass
+2C Pass 2S Pass
+3C Pass 3D Pass
+3H Pass 5D Pass
+Pass Pass
+[Play "E"]
+S4 S3 SK SA
+C2 CQ C7 C6
+CT CA C9 C3
+HT HQ HA H2
+HJ H4 H3 HK
+D3 DJ DK D2
+S6 H7 H5 DQ
+CK D4 C5 CJ
+D5 DA D7 D6
+- S5 S2 D8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "10"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A72.KQ84.K53.AT4 KQT9854.7632.A.5 J63.AJT9.J7.Q982 .5.QT98642.KJ763"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "6"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS -300"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "E"]
+1NT 3S Pass Pass
+Pass
+[Play "W"]
+C2 CJ CA C5
+HJ H5 HK H2
+H9 D2 H4 H3
+HA D4 H8 H6
+HT C3 HQ H7
+DJ D6 D3 DA
+S3 D8 SA SK
+D7 D9 DK S8
+S6 C6 S2 SQ
+SJ C7 - ST
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "10"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A72.KQ84.K53.AT4 KQT9854.7632.A.5 J63.AJT9.J7.Q982 .5.QT98642.KJ763"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -300"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1NT 3S Pass Pass
+Pass
+[Play "W"]
+DJ DQ D5 DA
+S6 D2 SA SK
+H9 H5 H8 H3
+D7 D8 DK S4
+S3 C3 S2 SQ
+SJ D4 S7 S8
+CQ CK CA C5
+HT C6 HK H2
+HJ C7 H4 H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "11"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J84.Q84.KQ9.9432 T3.AK97.873.KJ75 AKQ972.J3.JT65.A 65.T652.A42.QT86"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS 420"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "S"]
+Pass 1D 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+S5 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "11"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J84.Q84.KQ9.9432 T3.AK97.873.KJ75 AKQ972.J3.JT65.A 65.T652.A42.QT86"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1C 1S Pass
+2S Pass 3D Pass
+4S Pass Pass Pass
+[Play "E"]
+S6 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "12"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q976.T942.984.T9 AKT432.A63.J65.A 85.KJ5.Q32.J8542 J.Q87.AKT7.KQ763"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS 1370"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "W"]
+Pass 1C Pass 1NT
+Pass 2S Pass 3D
+Pass 3H Pass 4C
+Pass 4D Pass 5H
+Pass 6C Pass 6D
+Pass Pass Pass
+[Play "W"]
+HT H3 HK H7
+H9 HA H5 H8
+C9 CA C2 C3
+D4 D5 D2 DA
+CT DJ C4 C6
+D8 D6 D3 DT
+D9 S2 DQ DK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "12"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q976.T942.984.T9 AKT432.A63.J65.A 85.KJ5.Q32.J8542 J.Q87.AKT7.KQ763"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 680"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1C Pass 2C
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+D2 DA D4 D6
+C2 C3 C9 CA
+S5 SJ SQ S2
+H5 H7 H4 HA
+S8 C6 S6 SA
+C4 C7 S7 SK
+C5 D7 S9 ST
+D3 DT D8 D5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "13"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK7.J9763.72.J84 Q82.A8.QJT.K7653 54.KQ42.K865.AQ9 JT963.T5.A943.T2"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS -110"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1NT X 2S
+Pass Pass Pass
+[Play "N"]
+D2 DT DK DA
+S7 S2 S4 ST
+SK S8 S5 S3
+SA SQ H2 S6
+H3 HA H4 H5
+D7 DJ D5 D3
+H6 DQ D6 D4
+H7 H8 HQ HT
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "13"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK7.J9763.72.J84 Q82.A8.QJT.K7653 54.KQ42.K865.AQ9 JT963.T5.A943.T2"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1S X 2S
+4H Pass Pass Pass
+[Play "E"]
+DQ D5 D3 D7
+DT D6 D4 D2
+DJ D8 D9 H3
+HA H2 H5 H6
+H8 HK HT H7
+S8 S4 SJ SK
+CK CA C2 CJ
+S2 S5 S6 SA
+SQ HQ S3 S7
+C3 DK DA H9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "14"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AQ9654.964.53.A6 T87.QJ72.62.KT87 KJ3.AK53.JT.J932 2.T8.AKQ9874.Q54"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "9"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS -300"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "E"]
+1S Pass 4S 5D
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+SA S7 SJ S2
+S5 S8 SK D4
+D3 D2 DT DA
+D5 D6 DJ DK
+H4 HQ HK H8
+S4 ST S3 D9
+H6 H2 HA HT
+- - C2 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "14"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AQ9654.964.53.A6 T87.QJ72.62.KT87 KJ3.AK53.JT.J932 2.T8.AKQ9874.Q54"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1S Pass 2C 4D
+Pass Pass 4S Pass
+Pass Pass
+[Play "S"]
+D6 DT DQ D3
+D2 DJ DA D5
+H2 HK HT H4
+S7 SK S2 S4
+S8 S3 D4 SQ
+ST SJ D9 SA
+C8 C2 H8 S9
+H7 C3 D7 S6
+HJ H3 D8 H6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "15"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:JT82.53.T93.AQ87 A3.72.K652.KT642 KQ654.KJT.84.J93 97.AQ9864.AQJ7.5"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS -420"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass 1NT Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+SJ SA S4 S7
+H3 H2 HT HQ
+CA C2 C9 C5
+S2 S3 SQ S9
+H5 H7 HJ HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "15"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:JT82.53.T93.AQ87 A3.72.K652.KT642 KQ654.KJT.84.J93 97.AQ9864.AQJ7.5"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -420"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1S 2H
+2S X Pass 4H
+Pass Pass Pass
+[Play "S"]
+SJ SA S4 S7
+H3 H2 HT HQ
+H5 H7 HK HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "16"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A74.J97.J763.AK6 Q653.T3.Q52.9842 JT98.Q854.T9.Q73 K2.AK62.AK84.JT5"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS 90"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "W"]
+1D Pass 1H 1NT
+Pass Pass Pass
+[Play "W"]
+H7 HT HQ H2
+SA S3 SJ SK
+HJ H3 H4 HA
+C6 C9 CQ C5
+S7 S5 ST S2
+D3 D2 DT DA
+CK C2 C3 CT
+D6 D5 D9 DK
+H9 S6 H5 HK
+CA C4 C7 CJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "16"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A74.J97.J763.AK6 Q653.T3.Q52.9842 JT98.Q854.T9.Q73 K2.AK62.AK84.JT5"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 90"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1D 1NT
+Pass Pass Pass
+[Play "W"]
+D3 D2 D9 DK
+C6 C2 CQ CT
+SA S3 SJ SK
+D6 D5 DT DA
+CK C4 C7 C5
+S7 SQ S8 S2
+CA C8 C3 CJ
+S4 S5 S9 H2
+H7 S6 ST H6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "17"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A9.A84.864.T9874 6532.KJ5.Q9.KQJ6 KQJT7.T32.2.A532 84.Q976.AKJT753."]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "10"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS 100"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "N"]
+Pass 1D 1S X
+XX Pass 2S 3S
+Pass 4C Pass 4D
+Pass 4H Pass 5D
+X Pass Pass Pass
+[Play "S"]
+SK S4 S9 S2
+SQ S8 SA S3
+H2 H6 HA H5
+H3 H7 H4 HK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "17"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A9.A84.864.T9874 6532.KJ5.Q9.KQJ6 KQJT7.T32.2.A532 84.Q976.AKJT753."]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 150"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1C 1S X
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "S"]
+SK S4 SA S2
+ST S8 S9 S3
+SQ H6 C4 S5
+SJ H7 C7 S6
+S7 H9 H4 C6
+CA D3 C8 CJ
+HT HQ HA H5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "18"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T732.J93.T53.T96 AK.AK86542.Q4.87 J965.T.J762.A542 Q84.Q7.AK98.KQJ3"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS 1440"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 2S Pass 2NT
+Pass 3D Pass 4NT
+Pass 5D Pass 6NT
+Pass Pass Pass
+[Play "E"]
+C9 C7 CA C3
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "18"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T732.J93.T53.T96 AK.AK86542.Q4.87 J965.T.J762.A542 Q84.Q7.AK98.KQJ3"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 1430"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 2C Pass 2NT
+Pass 3H Pass 4NT
+Pass 5C Pass 6H
+Pass Pass Pass
+[Play "W"]
+CA C3 C6 C7
+C2 CK C9 C8
+HT HQ H3 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "19"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:Q632.J6.K5.AQ754 K97.KQ32.AT9.KT8 AJ85.A9874.62.J2 T4.T5.QJ8743.963"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS -50"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "S"]
+2S 2NT 4S Pass
+Pass Pass
+[Play "W"]
+HK HA H5 H6
+CK CJ C3 C4
+DA D2 D4 D5
+C8 C2 C6 CA
+S7 SJ S4 S2
+S9 SA ST S3
+D9 D6 DJ DK
+CT H4 C9 CQ
+H2 H7 D3 C5
+SK H8 D7 C7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "19"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:Q632.J6.K5.AQ754 K97.KQ32.AT9.KT8 AJ85.A9874.62.J2 T4.T5.QJ8743.963"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 110"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C 1NT X 2D
+Pass Pass 2H Pass
+Pass Pass
+[Play "E"]
+ST SQ SK SA
+C6 C4 CK CJ
+S4 S2 S7 S8
+C9 CA C8 C2
+C3 CQ CT D2
+D3 C7 H2 D6
+H5 S3 S9 SJ
+DQ DK DA H4
+HT HJ HQ H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.14"]
+[Board "20"]
+[West "Tredinnick S"]
+[North "Nilsland M"]
+[East "Tredinnick G"]
+[South "Fallenius B"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T9753.QJT9.Q9.A7 KQJ6.K2.JT3.J943 42.A53.87642.T62 A8.8764.AK5.KQ85"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "Sweden"]
+[Room "Open"]
+[Round "3"]
+[Score "NS -100"]
+[Table "12"]
+[VisitTeam "G.Britain"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1S Pass 3NT
+Pass Pass Pass
+[Play "W"]
+HJ HK HA H4
+H9 H2 H5 H6
+HT C3 H3 H7
+HQ C4 C2 H8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "20"]
+[West "Fredin P"]
+[North "Mould A"]
+[East "Lindkvist M"]
+[South "Hyett G"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T9753.QJT9.Q9.A7 KQJ6.K2.JT3.J943 42.A53.87642.T62 A8.8764.AK5.KQ85"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 1S Pass 1NT
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "W"]
+HQ HK HA H4
+H9 H2 H5 H8
+HJ C3 H3 H6
+HT C4 S2 H7
+ST S6 S4 SA
+CA C9 C2 C5
+*
+

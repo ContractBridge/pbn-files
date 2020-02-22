@@ -1,0 +1,358 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "2001 ING BANK Top Circuit"]
+[Site "Onstein castle - Vorden, Netherlands, NLD"]
+[Date "2001.04.16"]
+[Round "F15A"]
+[Board "21"]
+[Room "Open"]
+[West "Daemen"]
+[North "Drijver"]
+[East "Oosthoek"]
+[South "De Wijs"]
+[Dealer "N"]
+[Deal "S:Q652.842.K87.T93 T.A6.QJ6432.KJ87 AKJ94.KJT.T5.Q54 873.Q9753.A9.A62"]
+[Vulnerable "NS"]
+[Contract "3D"]
+[Declarer "W"]
+{
+With his semi psychic 1NT Simon de Wijs tries to confuse his
+opponents. Still they manage to win the partscore battle in 3D.
+An unnecessary club attack by Bas Drijver presents an overtrick.
+}
+[Auction "N"]
+1S Pass 1NT 3D 
+Pass Pass Pass  
+[Play "N"]
+SA S3 S2 ST 
+SK S7 S6 D2 
+D5 DA D8 D3 
+DT D9 D7 DQ 
+HJ H3 H2 HA 
+HK H5 H4 H6 
+C4 C2 C9 CJ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F15A"]
+[Board "22"]
+[Room "Open"]
+[West "Daemen"]
+[North "Drijver"]
+[East "Oosthoek"]
+[South "De Wijs"]
+[Dealer "E"]
+[Deal "S:8.T765.K3.KQ9872 T72.AJ82.T82.AT3 AKQ95.Q943.J65.J J643.K.AQ974.654"]
+[Vulnerable "EW"]
+[Contract "3C"]
+[Declarer "S"]
+{
+Bert Daemen leads an inspired HA against 3C. When his partner
+ruffs the next trick, it is imperative in the defence that West
+comes in immediately for the second ruff. This can only be arranged
+for in trumps. It did not happen at the table and declarer got
+away with nine tricks.
+}
+[Auction "E"]
+Pass 3C Pass Pass 
+Pass    
+[Play "W"]
+HA H3 HK H7 
+HJ HQ C5 H5 
+D2 D5 DA D3 
+D8 D6 D7 DK 
+S2 SA S4 S8 
+S7 SK S3 H6 
+ST SQ S6 HT 
+CA CJ C4 C2 
+H2 H4 C6 C7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F15A"]
+[Board "23"]
+[Room "Open"]
+[West "Daemen"]
+[North "Drijver"]
+[East "Oosthoek"]
+[South "De Wijs"]
+[Dealer "S"]
+[Deal "S:JT752.J72.KQ9.Q7 43.Q3.AJ8.T98632 AK.54.765432.AJ4 Q986.AKT986.T.K5"]
+[Vulnerable "Both"]
+[Contract "2D"]
+[Declarer "N"]
+{
+Again NS steal the partscore, this time it is the bidding. There
+is a case that at some stage both East or West should bid 2H,
+which makes.
+}
+[Auction "S"]
+Pass Pass 1D 1H 
+1S Pass 2C Pass 
+2D Pass Pass Pass 
+[Play "E"]
+HK H2 H3 H5 
+HA H7 HQ H4 
+S8 S2 S4 SA 
+DT DK DA D2 
+C5 C7 CT CA 
+H8 DQ D8 D3 
+- HJ - - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F15A"]
+[Board "24"]
+[Room "Open"]
+[West "Daemen"]
+[North "Drijver"]
+[East "Oosthoek"]
+[South "De Wijs"]
+[Dealer "W"]
+[Deal "S:AKQ.AKQ9865.AQ5. 9874.32.K84.KJ72 3.T.93.AQT986543 JT652.J74.JT762."]
+[Vulnerable "None"]
+[Contract "6HX"]
+[Declarer "S"]
+{
+'How on earth can you lead a club?', senior kibitzer Jaap van
+der Neut asks himself (and me). You know almost for sure that
+clubs are dealt 9 to 4 . Still, 1210 was the result at 4 (out
+of 8) tables. Only the unlikely trump lead beats the heart slam.
+At two other tables NS were less fortunate: North 5C - South
+6C, down one.
+}
+[Auction "W"]
+Pass 5C Pass 6H 
+Pass Pass X Pass 
+Pass Pass   
+[Play "W"]
+C2 CQ H4 H5 
+S7 S3 S2 SA 
+S4 D3 S5 SK 
+D4 D9 D2 DA 
+D8 HT D6 D5 
+C7 CA HJ HQ 
+H2 C3 H7 HA 
+H3 C4 DJ HK 
+CJ C5 DT H9 
+CK C6 S6 H8 
+S8 C8 D7 H6 
+S9 C9 ST SQ 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F15A"]
+[Board "25"]
+[Room "Open"]
+[West "Daemen"]
+[North "Drijver"]
+[East "Oosthoek"]
+[South "De Wijs"]
+[Dealer "N"]
+[Deal "S:974.QT5.K8732.74 JT632.96.J65.Q85 K85.AJ42.T.KT632 AQ.K873.AQ94.AJ9"]
+[Vulnerable "EW"]
+[Contract "1NT"]
+[Declarer "E"]
+{
+A hand with some interesting points in bidding and play. First
+of all, what does 1NT mean in this specific situation? Still
+19-21 HCP? In the play there are some humoristic aspects when
+North decides to duck both his black Kings. When NS switch on
+time to hearts 3NT can be defeated.
+}
+[Auction "N"]
+1C X 1D 1S 
+Pass 1NT Pass Pass 
+Pass    
+[Play "S"]
+D3 D5 DT DQ 
+S9 S2 S8 SQ 
+DK D6 C2 D4 
+S7 S3 S5 SA 
+C4 C5 C3 CJ 
+D8 DJ H2 D9 
+H5 H6 H4 HK 
+HT H9 HJ H3 
+C7 C8 C6 C9 
+HQ - - H7 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F15A"]
+[Board "26"]
+[Room "Open"]
+[West "Daemen"]
+[North "Drijver"]
+[East "Oosthoek"]
+[South "De Wijs"]
+[Dealer "E"]
+[Deal "S:T6.KT95.8543.QJ6 J2.AQ76.Q97.A985 Q98754.2.K6.KT72 AK3.J843.AJT2.43"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "W"]
+{
+North finds a good lead. Nevertheless 4H is cold in spite of
+the releatively bad trump break.
+}
+[Auction "E"]
+1D Pass 1H 1S 
+2H Pass 4H Pass 
+Pass Pass   
+[Play "N"]
+C2 C3 CJ C5 
+S4 SA ST S2 
+H2 H3 H5 HQ 
+DK DA D3 D9 
+S9 H4 H9 HA 
+D6 D2 D5 DQ 
+S5 DT D4 D7 
+S8 DJ D8 C8 
+C7 C4 C6 CA 
+CT H8 CQ C9 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F15A"]
+[Board "27"]
+[Room "Open"]
+[West "Daemen"]
+[North "Drijver"]
+[East "Oosthoek"]
+[South "De Wijs"]
+[Dealer "S"]
+[Deal "S:A85.J843.AJ7.973 KJ742.QT97.63.A2 T6.A652.K942.J54 Q93.K.QT85.KQT86"]
+[Vulnerable "None"]
+[Contract "2S"]
+[Declarer "E"]
+[Auction "S"]
+Pass 2C Pass 2S 
+Pass Pass Pass  
+[Play "S"]
+S5 S2 ST SQ 
+H3 H7 HA HK 
+SA S4 S6 S3 
+S8 SK H6 S9 
+C3 CA C5 C6 
+C7 C2 C4 CK 
+C9 D3 CJ CQ 
+- - - CT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F15A"]
+[Board "28"]
+[Room "Open"]
+[West "Daemen"]
+[North "Drijver"]
+[East "Oosthoek"]
+[South "De Wijs"]
+[Dealer "W"]
+[Deal "S:Q63.J87.AKQ763.K A9.AT432.J5.QJ96 KJ8754.KQ5..A752 T2.96.T9842.T843"]
+[Vulnerable "NS"]
+[Contract "6S"]
+[Declarer "N"]
+{
+What can I say? Textbook blunders.
+}
+[Auction "W"]
+1H 1S Pass 2H 
+Pass 4D Pass 5C 
+Pass 5D Pass 6S 
+Pass Pass Pass  
+[Play "E"]
+H9 H7 HA H5 
+H6 H8 H4 HK 
+S2 SQ SA S4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F15A"]
+[Board "29"]
+[Room "Open"]
+[West "Daemen"]
+[North "Drijver"]
+[East "Oosthoek"]
+[South "De Wijs"]
+[Dealer "N"]
+[Deal "S:Q874.AJ.J87.A943 KJ5.Q982.A65.K87 62.T7.KQT43.QT65 AT93.K6543.92.J2"]
+[Vulnerable "Both"]
+[Contract "3C"]
+[Declarer "S"]
+{
+One down is not bad for NS, since EW can make a lot of tricks
+in hearts. Yes, 1H is conventional. It just shows a 12-14 HCP.
+}
+[Auction "N"]
+Pass Pass 1C Pass 
+1D Pass 1H Pass 
+2C Pass Pass X 
+Pass 2H 2NT Pass 
+3C Pass Pass Pass 
+[Play "W"]
+H8 H7 HK HA 
+C7 C5 C2 CA 
+C8 CQ CJ C4 
+DA DK D9 D8 
+HQ HT H4 HJ 
+S5 S2 SA S4 
+- - S3 SQ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F15A"]
+[Board "30"]
+[Room "Open"]
+[West "Daemen"]
+[North "Drijver"]
+[East "Oosthoek"]
+[South "De Wijs"]
+[Dealer "E"]
+[Deal "S:642.Q7.QT952.K76 JT53.T9643..J832 K87.AJ52.AK8.QT9 AQ9.K8.J7643.A54"]
+[Vulnerable "None"]
+[Contract "2NT"]
+[Declarer "N"]
+{
+3NT is hard to defend and even 2NT impossible.
+}
+[Auction "E"]
+1D Pass Pass X 
+Pass Pass XX Pass 
+1S Pass Pass 2NT 
+Pass Pass Pass  
+[Play "E"]
+SA S2 S5 S7 
+C4 C6 CJ CQ 
+D3 D2 H4 DA 
+HK H7 H3 H2 
+CA C7 C2 C9 
+*
+[Result "10"]
+

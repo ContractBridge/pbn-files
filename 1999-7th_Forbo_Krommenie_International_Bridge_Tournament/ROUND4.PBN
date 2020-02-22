@@ -1,0 +1,520 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "7th International Forbo Krommenie Bridge Tournament 1999"]
+[Site "Kurhaus Hotel - Scheveningen, The Netherlands, NLD"]
+[Date "1999.02.28"]
+[Round "4"]
+[Board "1"]
+[West "Brulleman"]
+[North "Van Eijck"]
+[East "Wijma"]
+[South "Zhao"]
+[Vulnerable "EW"]
+[Deal "S:65432.9.QJ32.764 QJ9.K84.T84.T953 AT8.753.K97.AQ82 K7.AQJT62.A65.KJ"]
+[Dealer "N"]
+[Auction "N"]
+1C 1H Pass 2H 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+DQ D4 D9 D5 
+D2 D8 DK DA 
+H9 H4 H5 HA 
+S2 HK H3 H2 
+S3 S9 SA SK 
+C4 C3 CA CJ 
+DJ DT D7 D6 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "1"]
+[West "Nurmohamed"]
+[North "De Vrind"]
+[East "Tuwanakotta"]
+[South "Ten Brink"]
+[Vulnerable "EW"]
+[Deal "S:65432.9.QJ32.764 QJ9.K84.T84.T953 AT8.753.K97.AQ82 K7.AQJT62.A65.KJ"]
+[Dealer "N"]
+[Auction "N"]
+1C X Pass 1D 
+Pass 2H Pass 3H 
+Pass 4H Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+C6 C3 CA CJ 
+C4 C5 C2 CK 
+H9 H4 H3 HA 
+S6 H8 H5 HQ 
+S3 S9 S8 SK 
+S2 SJ SA S7 
+D2 D4 D9 DA 
+S4 HK H7 H2 
+S5 SQ ST D5 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "2"]
+[West "Brulleman"]
+[North "Van Eijck"]
+[East "Wijma"]
+[South "Zhao"]
+[Vulnerable "Both"]
+[Deal "S:A94.AKQT.KQ54.85 Q753.7543.T76.KJ T8.J98.AJ83.Q764 KJ62.62.92.AT932"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D Pass 3D 
+Pass 3H Pass 4D 
+Pass 4H Pass 5D 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "5D"]
+[Play "W"]
+S5 S8 SK SA 
+SQ ST S2 S4 
+CK C4 C2 C8 
+CJ C6 C3 C5 
+*
+[Room "Open"]
+[Result "10"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "2"]
+[West "Nurmohamed"]
+[North "De Vrind"]
+[East "Tuwanakotta"]
+[South "Ten Brink"]
+[Vulnerable "Both"]
+[Deal "S:A94.AKQT.KQ54.85 Q753.7543.T76.KJ T8.J98.AJ83.Q764 KJ62.62.92.AT932"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D Pass 2D 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+S5 S8 SK SA 
+D7 DA D9 D4 
+D6 DJ D2 D5 
+DT D3 H2 DQ 
+H4 D8 C2 DK 
+H3 H8 H6 HA 
+H5 H9 C3 HK 
+H7 HJ S2 HQ 
+S3 C4 C9 HT 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "3"]
+[West "Brulleman"]
+[North "Van Eijck"]
+[East "Wijma"]
+[South "Zhao"]
+[Vulnerable "None"]
+[Deal "S:76.AKJ9543.Q54.7 853.72.AJ2.AKT82 QJT9.QT86.KT9.J6 AK42..8763.Q9543"]
+[Dealer "S"]
+[Auction "S"]
+4H Pass Pass X 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4HX"]
+[Play "W"]
+CA C6 C9 C7 
+CK CJ C5 H5 
+H2 HT CQ H9 
+S8 S9 SA S7 
+S3 ST SK S6 
+DA D9 D8 D4 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "3"]
+[West "Nurmohamed"]
+[North "De Vrind"]
+[East "Tuwanakotta"]
+[South "Ten Brink"]
+[Vulnerable "None"]
+[Deal "S:76.AKJ9543.Q54.7 853.72.AJ2.AKT82 QJT9.QT86.KT9.J6 AK42..8763.Q9543"]
+[Dealer "S"]
+[Auction "S"]
+3H Pass 4H Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+CK C6 C3 C7 
+CA CJ C9 H3 
+H2 H6 CQ HA 
+H7 H8 C4 H4 
+S3 S9 SK S6 
+DA D9 D8 D4 
+S5 ST SA S7 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "4"]
+[West "Brulleman"]
+[North "Van Eijck"]
+[East "Wijma"]
+[South "Zhao"]
+[Vulnerable "NS"]
+[Deal "S:A742.KQ765.8.A63 J653.AJ2.KQ3.K95 KQ8.83.A9764.J82 T9.T94.JT52.QT74"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass Pass 2H 
+Pass 2S Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+D2 D8 DK DA 
+HT HK HA H3 
+D5 C3 DQ D4 
+DT S2 D3 D6 
+H4 HQ H2 H8 
+H9 H5 HJ S8 
+S9 S4 S3 SQ 
+ST S7 S5 SK 
+DJ C6 C5 D7 
+C7 CA C9 C2 
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "4"]
+[West "Nurmohamed"]
+[North "De Vrind"]
+[East "Tuwanakotta"]
+[South "Ten Brink"]
+[Vulnerable "NS"]
+[Deal "S:A742.KQ765.8.A63 J653.AJ2.KQ3.K95 KQ8.83.A9764.J82 T9.T94.JT52.QT74"]
+[Dealer "W"]
+[Auction "W"]
+1S Pass Pass 2H 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "2H"]
+[Play "W"]
+S5 SK ST S2 
+HA H3 H9 HK 
+S3 S8 S9 SA 
+H2 H8 H4 HQ 
+HJ D4 HT H5 
+DK DA D5 D8 
+C5 C2 CT C6 
+DQ D6 D2 H6 
+S6 SQ DJ S4 
+C9 C8 C4 CA 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "5"]
+[West "Brulleman"]
+[North "Van Eijck"]
+[East "Wijma"]
+[South "Zhao"]
+[Vulnerable "Both"]
+[Deal "S:K643.J.Q987.QJT4 T72.T7.J6543.972 AQ9.AKQ65432..86 J85.98.AKT2.AK53"]
+[Dealer "N"]
+[Auction "N"]
+2C X 2S Pass 
+4H Pass 4S Pass 
+5D X 5H Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "5H"]
+[Play "E"]
+CA C4 C2 C6 
+DA D7 D6 H2 
+H8 HJ H7 H3 
+D2 D8 D3 H4 
+H9 CT HT HA 
+C3 CJ C7 HK 
+DT D9 D4 HQ 
+S5 DQ D5 H6 
+C5 CQ DJ H5 
+S8 S3 S2 SQ 
+SJ S4 S7 SA 
+DK SK ST S9 
+CK S6 C9 C8 
+*
+[Room "Open"]
+[Result "12"]
+[Score "+680"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "5"]
+[West "Nurmohamed"]
+[North "De Vrind"]
+[East "Tuwanakotta"]
+[South "Ten Brink"]
+[Vulnerable "Both"]
+[Deal "S:K643.J.Q987.QJT4 T72.T7.J6543.972 AQ9.AKQ65432..86 J85.98.AKT2.AK53"]
+[Dealer "N"]
+[Auction "N"]
+2H Pass 3NT Pass 
+4H Pass Pass Pass 
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+DA D7 D3 H2 
+H8 HJ H7 H3 
+D2 D8 D4 H4 
+H9 D9 HT HA 
+C5 C4 D5 HK 
+DT CT D6 HQ 
+C3 CJ DJ H6 
+S5 DQ S2 H5 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+680"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "6"]
+[West "Brulleman"]
+[North "Van Eijck"]
+[East "Wijma"]
+[South "Zhao"]
+[Vulnerable "None"]
+[Deal "S:3.842.KJ854.KJ83 AQT92.7.T32.9652 K87654.AKQT65..7 J.J93.AQ976.AQT4"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 1S 2H 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+SJ S3 SA S4 
+D7 D4 D2 H5 
+H9 D5 S2 S5 
+CA C3 C2 C7 
+C4 CJ C5 S6 
+H3 H2 H7 HA 
+HJ H4 D3 HK 
+D6 H8 S9 S7 
+CT CK C6 S8 
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "6"]
+[West "Nurmohamed"]
+[North "De Vrind"]
+[East "Tuwanakotta"]
+[South "Ten Brink"]
+[Vulnerable "None"]
+[Deal "S:3.842.KJ854.KJ83 AQT92.7.T32.9652 K87654.AKQT65..7 J.J93.AQ976.AQT4"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 1S 4H 
+Pass Pass X Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "4HX"]
+[Play "E"]
+SJ S3 SA S4 
+H3 H2 H7 HA 
+H9 D4 ST S5 
+DA D5 D2 H5 
+HJ H4 D3 HK 
+D6 H8 S2 S6 
+D7 DK DT S7 
+D9 D8 C2 H6 
+C4 C3 C5 HQ 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+590"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "7"]
+[West "Brulleman"]
+[North "Van Eijck"]
+[East "Wijma"]
+[South "Zhao"]
+[Vulnerable "NS"]
+[Deal "S:AT84.KT52.JT6.Q2 QJ95.A73.Q4.KJ75 K72.Q98.K9873.T6 63.J64.A52.A9843"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 1NT 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+H2 H3 HQ H4 
+H5 H7 H9 H6 
+HK HA H8 HJ 
+C2 C5 C6 CA 
+CQ CK CT C3 
+S8 CJ D7 C4 
+S4 C7 D3 C8 
+ST S5 S2 C9 
+SA S9 S7 S3 
+HT D4 D8 D2 
+D6 DQ DK DA 
+*
+[Room "Open"]
+[Result "7"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "7"]
+[West "Nurmohamed"]
+[North "De Vrind"]
+[East "Tuwanakotta"]
+[South "Ten Brink"]
+[Vulnerable "NS"]
+[Deal "S:AT84.KT52.JT6.Q2 QJ95.A73.Q4.KJ75 K72.Q98.K9873.T6 63.J64.A52.A9843"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1S Pass 1NT 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+DJ DQ DK D2 
+D6 D4 D7 D5 
+DT S5 D3 DA 
+C2 C5 C6 CA 
+CQ CK CT C3 
+S4 CJ S7 C4 
+S8 C7 H8 C8 
+H2 H3 H9 C9 
+H5 HA HQ H4 
+*
+[Room "Closed"]
+[Result "7"]
+[Score "+90"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "8"]
+[West "Brulleman"]
+[North "Van Eijck"]
+[East "Wijma"]
+[South "Zhao"]
+[Vulnerable "EW"]
+[Deal "S:QJT84.QT3.JT.A93 A9.KJ764.AQ87.J4 K653.A9852.5.KQ6 72..K96432.T8752"]
+[Dealer "W"]
+[Auction "W"]
+1H Pass 1NT 2S 
+3D 4S 5D Pass 
+Pass 5S Pass Pass 
+X Pass Pass Pass 
+[Declarer "S"]
+[Contract "5SX"]
+[Play "W"]
+DA D5 DK DT 
+HK HA S2 H3 
+C4 C6 C8 CA 
+S9 S3 S7 SJ 
+DQ S5 D2 DJ 
+CJ CQ C2 C3 
+H4 CK C5 C9 
+SA S6 D3 S4 
+*
+[Room "Open"]
+[Result "10"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "4"]
+[Board "8"]
+[West "Nurmohamed"]
+[North "De Vrind"]
+[East "Tuwanakotta"]
+[South "Ten Brink"]
+[Vulnerable "EW"]
+[Deal "S:QJT84.QT3.JT.A93 A9.KJ764.AQ87.J4 K653.A9852.5.KQ6 72..K96432.T8752"]
+[Dealer "W"]
+[Auction "W"]
+1H Pass 1NT 2S 
+3D 4D 5D Pass 
+Pass 5S Pass Pass 
+X Pass Pass Pass 
+[Declarer "S"]
+[Contract "5SX"]
+[Play "W"]
+DA D5 DK DJ 
+HK HA S2 H3 
+C4 CQ C8 C3 
+SA S3 S7 SQ 
+S9 - - - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-300"]
+

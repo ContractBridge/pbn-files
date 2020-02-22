@@ -1,0 +1,944 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "3rd IOC Grand Prix"]
+[Site "Lausanne, Switzerland, CHE"]
+[Date "2000.10.30"]
+[Round "1b"]
+[Board "13"]
+[Room "Open"]
+[West "Herve Mouiel"]
+[North "J. Meckstroth"]
+[East "Alain Levy"]
+[South "Eric Rodwell"]
+[Dealer "N"]
+[Deal "S:QT8.KJ8653.AK.64 A94.AQT7.Q85.AKQ J52.92.J32.J8732 K763.4.T9764.T95"]
+[Vulnerable "Both"]
+[Contract "2NT"]
+[Declarer "W"]
+{
+OR - With your high card points distributed 21 opposite 3, it
+seldom pays to bid a tough 3NT, but with West's hearts looking
+almost as ace-king-queen fourth, you're entitled to be an optimist.
+And with France down 36-2, you could expect them to be there.
+But no. After the H9 lead to the ten, West led the DQ, hoping
+for a stiff jack, and got the S10 back. Now he was in trouble,
+and on a bad day even 2NT would have been too high. But with
+spades 3-3, he could duck and later endplay South for nine tricks.
++150 EW.
+}
+[Auction "N"]
+Pass Pass 1H X 
+Pass 1S Pass 2NT 
+Pass Pass Pass  
+[Play "N"]
+H9 H4 H6 HT 
+D2 D4 DK DQ 
+SJ S3 ST S4 
+C3 CT C4 CA 
+D3 D6 DA D8 
+C8 C5 C6 CK 
+DJ D7 H3 D5 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "13"]
+[Room "Closed"]
+[West "Dick Freeman"]
+[North "J-C Quantin"]
+[East "Nick Nickell"]
+[South "Paul Chemla"]
+[Dealer "N"]
+[Deal "S:QT8.KJ8653.AK.64 A94.AQT7.Q85.AKQ J52.92.J32.J8732 K763.4.T9764.T95"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+CR - At this table East raised to 3NT, hoping one of his suits
+would provide tricks or his intermediates would be useful. After
+the same heart lead, West got off with a low diamond, ducked
+the spade return, won the club shift (another spade would have
+been better) and played another low diamond. What's the problem?
+Ten tricks; +630 EW and another 10 IMPs to USA, extending their
+lead.
+}
+[Auction "N"]
+Pass Pass 1H X 
+Pass 1S Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Play "N"]
+H9 H4 H6 HT 
+D2 DT DK D5 
+S2 S3 ST S4 
+C3 C5 C6 CK 
+DJ D4 DA D8 
+C2 C9 C4 CA 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "14"]
+[Room "Open"]
+[West "Herve Mouiel"]
+[North "J. Meckstroth"]
+[East "Alain Levy"]
+[South "Eric Rodwell"]
+[Dealer "E"]
+[Deal "S:K9762.J3.A83.AJT T4.AKQT974.52.Q8 AJ85..T974.K9543 Q3.8652.KQJ6.762"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "S"]
+{
+OR - Facing a limited partner (strong club system) North decided
+not to look for a slam. He simply brushed aside the overcall
+with a practical four spades. Declarer ruffed the opening lead
+and played the ace of spades, hoping for a singleton ten with
+West. Trumps 2-2 was even better and with a right view in clubs
+13 tricks were made
+}
+[Auction "E"]
+Pass 1S 3H 4S 
+Pass Pass Pass  
+[Play "W"]
+HA S5 H8 H3 
+S4 SA S3 S2 
+ST S8 SQ SK 
+C8 C3 C2 CA 
+CQ CK C6 CJ 
+*
+[Result "13"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "14"]
+[Room "Closed"]
+[West "Dick Freeman"]
+[North "J-C Quantin"]
+[East "Nick Nickell"]
+[South "Paul Chemla"]
+[Dealer "E"]
+[Deal "S:K9762.J3.A83.AJT T4.AKQT974.52.Q8 AJ85..T974.K9543 Q3.8652.KQJ6.762"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "S"]
+{
+CR - Here North did try for slam with a 4H splinter bid. South
+was not tempted and signed off in 4S. After ruffing the opening
+lead declarer remarkably decided to play on diamonds. He was
+able to set up the fourth diamond for a club discard, but lost
+2 IMPs for this rather strange looking effort. 
+}
+[Auction "E"]
+Pass 1S 2H 4H 
+Pass 4S Pass Pass 
+Pass    
+[Play "W"]
+HA S5 H2 H3 
+D2 DT DJ DA 
+S4 SA S3 S2 
+ST S8 SQ SK 
+D5 D4 DQ D8 
+HQ SJ H5 HJ 
+H4 D9 DK D3 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "15"]
+[Room "Open"]
+[West "Herve Mouiel"]
+[North "J. Meckstroth"]
+[East "Alain Levy"]
+[South "Eric Rodwell"]
+[Dealer "S"]
+[Deal "S:A6.AK942.JT952.5 K742.5.AQ86.9842 83.QJT3.K74.KQJ6 QJT95.876.3.AT73"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "S"]
+{
+OR - The Meckstroth-Rodwell limited system allowed them to arrive
+in 4H in two bids. Chemla selected the C8 as the opening lead,
+and dummy's king was taken by the ace. Quantin led a diamond
+to his partner's ace, and received his ruff, declarer correctly
+playing low on the D8 return. That was all for the defence, and
+NS registered ten tricks for +620
+}
+[Auction "S"]
+1H Pass 4H Pass 
+Pass Pass   
+[Play "W"]
+C8 CK CA C5 
+DA D4 D3 D9 
+D8 D7 H8 D2 
+S2 S3 SQ SA 
+H5 HQ H6 H2 
+S4 HJ H7 H4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "15"]
+[Room "Closed"]
+[West "Dick Freeman"]
+[North "J-C Quantin"]
+[East "Nick Nickell"]
+[South "Paul Chemla"]
+[Dealer "S"]
+[Deal "S:A6.AK942.JT952.5 K742.5.AQ86.9842 83.QJT3.K74.KQJ6 QJT95.876.3.AT73"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "S"]
+{
+CR - A natural French auction to 4H in this room. West led the
+unbid suit, and declarer won the SA. Two rounds of trumps were
+drawn - why not three? Declarer played a club to dummy's king,
+and East took the ace. A diamond to the ace, and a diamond ruff,
+to go with the established spade trick defeated declarer by one
+trick. +100 to EW, and a fortunate 12 imps to the USA.
+}
+[Auction "S"]
+1H Pass 2C Pass 
+2D Pass 4H Pass 
+Pass Pass   
+[Play "W"]
+S2 S3 S9 SA 
+H5 HQ H6 H2 
+S4 H3 H7 HA 
+C9 CK CA C5 
+DA D4 D3 D5 
+D8 D7 H8 D2 
+S7 S8 SQ S6 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "16"]
+[Room "Open"]
+[West "Herve Mouiel"]
+[North "J. Meckstroth"]
+[East "Alain Levy"]
+[South "Eric Rodwell"]
+[Dealer "W"]
+[Deal "S:T542.J3.T.AQT543 AQ98.2.J932.KJ86 K6.AKQT4.KQ875.9 J73.98765.A64.72"]
+[Vulnerable "EW"]
+[Contract "3C"]
+[Declarer "N"]
+{
+OR - North opened with a strong club and learned that South had
+less than 8 HCPs (1D) and didn't like any of his suits. So he
+simply called it a day over 3C instead of persisting with 3D.
+A trump lead through South leads to at least two down, but after
+two rounds of spades, the DQ to the ace and a third spade, North
+was in good shape and would have made his contract if he had
+led a fourth diamond instead of the second heart. Now the heart
+split meant one down; +50 EW
+}
+[Auction "W"]
+Pass 1C Pass 1D 
+Pass 1H Pass 1S 
+Pass 2D Pass 3C 
+Pass Pass Pass  
+[Play "E"]
+S3 S2 SA S6 
+S7 S4 S8 SK 
+DA DT D3 DQ 
+SJ S5 S9 C9 
+D4 ST D2 DK 
+D6 C3 DJ D8 
+H5 HJ H2 HA 
+H6 H3 C6 HT 
+C7 CT SQ H4 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "16"]
+[Room "Closed"]
+[West "Dick Freeman"]
+[North "J-C Quantin"]
+[East "Nick Nickell"]
+[South "Paul Chemla"]
+[Dealer "W"]
+[Deal "S:T542.J3.T.AQT543 AQ98.2.J932.KJ86 K6.AKQT4.KQ875.9 J73.98765.A64.72"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "N"]
+{
+CR - The French reached 4H, which isn't the worst of contracts,
+although it has no play on the lie of the cards. A trump lead
+would have stopped all ruffs in dummy, but when the D10 was covered
+with the jack, king and ace, North simply drew trumps hoping
+to establish his diamond suit later. That meant two down instead
+of one. +100 EW; 2 more IMPs to USA.
+}
+[Auction "W"]
+Pass 1H Pass 1S 
+X 3D Pass 3H 
+Pass 4H Pass Pass 
+Pass    
+[Play "E"]
+C7 CA C6 C9 
+DA DT DJ DQ 
+H5 HJ H2 H4 
+S3 S2 SA S6 
+S7 S4 S8 SK 
+H6 H3 C8 HA 
+H7 C3 CJ HK 
+H8 C4 S9 HQ 
+H9 S5 D2 HT 
+D4 C5 D3 DK 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "17"]
+[Room "Open"]
+[West "Herve Mouiel"]
+[North "J. Meckstroth"]
+[East "Alain Levy"]
+[South "Eric Rodwell"]
+[Dealer "N"]
+[Deal "S:QJ873.AQJ74.5.K2 A6.K2.9732.A9854 95.T9.KJT84.QJ76 KT42.8653.AQ6.T3"]
+[Vulnerable "None"]
+[Contract "2S"]
+[Declarer "S"]
+{
+OR - NS had a straightforward auction, North giving preference
+after two hearts (2NT would be a dreadful bid here). In the play
+West fell from grace when he led the ace and another spade when
+in with the king of hearts. The purpose was to prevent heart
+ruffs, but this time it just destroyed East's spade holding.
+Declarer lost only two spades and made his contract
+}
+[Auction "N"]
+Pass Pass 1S Pass 
+1NT Pass 2H Pass 
+2S Pass Pass Pass 
+[Play "W"]
+D7 DJ DQ D5 
+CA C6 CT CK 
+C5 CQ C3 C2 
+HK H9 H6 H4 
+SA S5 S4 S3 
+S6 S9 S2 S7 
+H2 HT H3 HA 
+D2 D4 SK SQ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "17"]
+[Room "Closed"]
+[West "Dick Freeman"]
+[North "J-C Quantin"]
+[East "Nick Nickell"]
+[South "Paul Chemla"]
+[Dealer "N"]
+[Deal "S:QJ873.AQJ74.5.K2 A6.K2.9732.A9854 95.T9.KJT84.QJ76 KT42.8653.AQ6.T3"]
+[Vulnerable "None"]
+[Contract "2S"]
+[Declarer "S"]
+{
+CR - Again two spades was reached. At this table East played
+a trump after winning the diamond lead. Declarer could have made
+his contract by running this to the nine. When he quite normally
+played the queen EW had three natural trump tricks. Together
+with three tricks in the other suits that was enough for one
+down and a 4 IMP pick-up.
+}
+[Auction "N"]
+Pass Pass 1S Pass 
+1NT Pass 2H Pass 
+2S Pass Pass Pass 
+[Play "W"]
+D2 DT DQ D5 
+SA S5 S2 SQ 
+S6 S9 SK S3 
+CA C6 CT CK 
+C5 CQ C3 C2 
+D3 DK DA S7 
+C4 D4 S4 SJ 
+HK H9 H6 H4 
+D7 - - - 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "18"]
+[Room "Open"]
+[West "Herve Mouiel"]
+[North "J. Meckstroth"]
+[East "Alain Levy"]
+[South "Eric Rodwell"]
+[Dealer "E"]
+[Deal "S:AJ3.KQJ.K82.T764 6.T76432.A75.532 K987..Q9643.AKJ8 QT542.A985.JT.Q9"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "S"]
+{
+OR - The 3C bid was a relay, and 3D showed some 4333. The natural
+3S bid elicited 3NT, and there they rested. A heart was led to
+the ace, and a heart returned. Declarer play a diamond to the
+queen, which fetched the ten. Declarer paused to consider, and
+made the fine combination play of the club ace and king, felling
+the doubleton queen offside. Declarer guessed to take the spade
+finesse after this, and emerged with 11 tricks. +660 to NS.
+}
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 3C 
+Pass 3D Pass 3S 
+Pass 3NT Pass Pass 
+Pass    
+[Play "W"]
+H4 D3 HA HJ 
+H3 D4 H9 HK 
+D5 DQ DJ D2 
+C2 CA C9 C6 
+C3 CK CQ C4 
+C5 C8 S2 CT 
+H6 CJ H5 C7 
+S6 SK S4 S3 
+D7 S7 S5 SJ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "18"]
+[Room "Closed"]
+[West "Dick Freeman"]
+[North "J-C Quantin"]
+[East "Nick Nickell"]
+[South "Paul Chemla"]
+[Dealer "E"]
+[Deal "S:AJ3.KQJ.K82.T764 6.T76432.A75.532 K987..Q9643.AKJ8 QT542.A985.JT.Q9"]
+[Vulnerable "NS"]
+[Contract "5C"]
+[Declarer "S"]
+{
+CR - Here, the French bid naturally to 5C, South aspiring to
+higher ideals by bidding 4H instead of 3NT at his fourth turn.
+Declarer won the spade lead, and perhaps recklessly, took the
+club finesse. The roof caved in when the defence took their spade
+ruff and DA for down one. +100 to EW, and 13 imps to the USA,
+who were relentlessly pulling away.
+}
+[Auction "E"]
+Pass 1C Pass 1D 
+1S 1NT Pass 3C 
+Pass 3D Pass 3S 
+Pass 4H Pass 5C 
+Pass Pass Pass  
+[Play "W"]
+S6 S7 SQ SA 
+C2 C8 CQ CT 
+C3 S8 S5 S3 
+DA D3 DJ D2 
+D5 D4 DT DK 
+C5 CA C9 C4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "19"]
+[Room "Open"]
+[West "Herve Mouiel"]
+[North "J. Meckstroth"]
+[East "Alain Levy"]
+[South "Eric Rodwell"]
+[Dealer "S"]
+[Deal "S:T32.QJT.K76.QJ86 AK764.92.J32.A42 98.K865.AQT854.5 QJ5.A743.9.KT973"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "W"]
+{
+OR - West's 1S opening promised a five-card suit, so East could
+have raised spades at his first opportunity, but preferred a
+take-out double in case they had an even better trump suit. North's
+club lead removed an entry to West's hand, and made it impossible
+for him to take two diamond ruffs in dummy. When the defenders
+led trumps at every opportunity, and the club suit couldn't be
+established, West took only nine tricks. One down; +100 NS.
+}
+[Auction "S"]
+Pass 1S 2D X 
+3D Pass Pass 4S 
+Pass Pass Pass  
+[Play "N"]
+C5 CT CQ CA 
+DQ D9 D7 DJ 
+S8 SQ S2 S4 
+H5 H3 HT H2 
+S9 S5 S3 SA 
+D4 C3 C6 C2 
+D5 SJ ST S6 
+D8 CK C8 C4 
+DT C7 CJ S7 
+H6 H4 D6 SK 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "19"]
+[Room "Closed"]
+[West "Dick Freeman"]
+[North "J-C Quantin"]
+[East "Nick Nickell"]
+[South "Paul Chemla"]
+[Dealer "S"]
+[Deal "S:T32.QJT.K76.QJ86 AK764.92.J32.A42 98.K865.AQT854.5 QJ5.A743.9.KT973"]
+[Vulnerable "EW"]
+[Contract "5DX"]
+[Declarer "N"]
+{
+CR - What happened here? It looks like East-West were about to
+stop in 3S, and although South has all his honors outside spades,
+his hand doesn't look like a 4D bid to me. Probably not to North
+either, who raised to 5D expecting quite a different hand (or
+did he think East-West were in a forcing situation?). The defense
+hade four tricks, no more, no less, and there was no way to lose
+them. +300 to EW meant 9 more IMPs to USA.
+}
+[Auction "S"]
+Pass 1S 2D 3D 
+X Pass Pass 3S 
+4D Pass 5D X 
+Pass Pass Pass  
+[Play "E"]
+SQ S2 SK S8 
+HA HT H9 H5 
+H7 HJ H2 H6 
+D9 D6 D2 DQ 
+C3 DK D3 D4 
+C7 D7 DJ DA 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "20"]
+[Room "Open"]
+[West "Herve Mouiel"]
+[North "J. Meckstroth"]
+[East "Alain Levy"]
+[South "Eric Rodwell"]
+[Dealer "W"]
+[Deal "S:84.KJ75.JT2.J864 QJ9.AQ2.876.K753 AKT752.6.AQ53.Q9 63.T9843.K94.AT2"]
+[Vulnerable "Both"]
+[Contract "2S"]
+[Declarer "N"]
+{
+OR - After a natural first round of bidding North had to find
+a bid at his second turn. Having a very good hand for his one
+spade overcall he decided to double. Since 1NT can be made with
+the aid of the double heart finesse South did the right thing
+by retreating to two spades. EW lost a trick in the play and
+declarer made nine tricks.
+}
+[Auction "W"]
+1C 1S X Pass 
+1NT X Pass 2S 
+Pass Pass Pass  
+[Play "E"]
+HT HJ HQ H6 
+CA C4 C5 C9 
+H4 H7 HA S2 
+S3 S4 S9 SA 
+S6 S8 SJ SK 
+D4 DJ D6 D3 
+H3 HK H2 CQ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "20"]
+[Room "Closed"]
+[West "Dick Freeman"]
+[North "J-C Quantin"]
+[East "Nick Nickell"]
+[South "Paul Chemla"]
+[Dealer "W"]
+[Deal "S:84.KJ75.JT2.J864 QJ9.AQ2.876.K753 AKT752.6.AQ53.Q9 63.T9843.K94.AT2"]
+[Vulnerable "Both"]
+[Contract "3S"]
+[Declarer "N"]
+{
+CR - Here NS had the auction to themselves, because West passed
+his unattractive twelve count. North can hardly be blamed for
+making a game try after two spades, but three spades was simply
+too high. EW took all their tricks, so the contract went one
+down. One more swing to the USA.
+}
+[Auction "W"]
+Pass 1S Pass 1NT 
+Pass 2D Pass 2S 
+Pass 3S Pass Pass 
+Pass    
+[Play "E"]
+HT HJ HQ H6 
+CA C4 C3 C9 
+H9 H5 H2 S2 
+S3 S4 S9 SA 
+S6 S8 SJ SK 
+C2 C6 CK CQ 
+CT CJ C5 D3 
+DK DJ D6 D5 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "21"]
+[Room "Open"]
+[West "Herve Mouiel"]
+[North "J. Meckstroth"]
+[East "Alain Levy"]
+[South "Eric Rodwell"]
+[Dealer "N"]
+[Deal "S:K63.96.KT943.AJT T75.A83.Q82.KQ54 J984.2.AJ76.8732 AQ2.KQJT754.5.96"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "E"]
+{
+OR - The 2NT was a 3-card limit raise, and East looked no further
+than the 4H game. Declarer won the trump lead to play a club
+to the queen. A heart to hand, and a club to South's ace. Declarer
+stated he would take a spade finesse for his eleventh trick.
+As this was offside, he settled for 10 tricks, losing 1 spade,
+1 diamond and 1 club. +420 to EW.
+}
+[Auction "N"]
+Pass 1H Pass 2NT 
+Pass 4H Pass Pass 
+Pass    
+[Play "S"]
+H9 H3 H2 HQ 
+CJ CQ C2 C6 
+H6 H8 D6 HK 
+CA C4 C3 C9 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "21"]
+[Room "Closed"]
+[West "Dick Freeman"]
+[North "J-C Quantin"]
+[East "Nick Nickell"]
+[South "Paul Chemla"]
+[Dealer "N"]
+[Deal "S:K63.96.KT943.AJT T75.A83.Q82.KQ54 J984.2.AJ76.8732 AQ2.KQJT754.5.96"]
+[Vulnerable "NS"]
+[Contract "4H"]
+[Declarer "E"]
+{
+CR - Here, 1NT was 6-11 HCP, and 4H was reached just as quickly.
+A diamond was led to the jack, and a diamond returned. Declarer
+ruffed, and cashed one high trump before playing a club to dummy.
+He ruffed the last diamond, and removed the opponent's last trump.
+South took the club ace, and exited a club. Declarer eventually
+took a spade finesse for the same 10 tricks as the Open Room.
+No swing.
+}
+[Auction "N"]
+Pass 1H Pass 1NT 
+Pass 4H Pass Pass 
+Pass    
+[Play "S"]
+D3 D2 DJ D5 
+D4 D8 D6 H4 
+CT CK C3 C6 
+D9 DQ D7 H5 
+H6 H3 H2 HK 
+CA C4 C2 C9 
+CJ C5 C7 HQ 
+H9 HA C8 HJ 
+DT CQ S4 S2 
+SK S5 S8 SQ 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "22"]
+[Room "Open"]
+[West "Herve Mouiel"]
+[North "J. Meckstroth"]
+[East "Alain Levy"]
+[South "Eric Rodwell"]
+[Dealer "E"]
+[Deal "S:Q6.QT53.A8765.Q7 T732.K94.KQJ2.J4 AKJ9854.J8.T94.A .A762.3.KT986532"]
+[Vulnerable "EW"]
+[Contract "5CX"]
+[Declarer "E"]
+{
+OR - Both sides can make a game: North-South in 3NT, East-West
+in 5C. East deemed his unusual hand unsuitable for a pre-empt
+(I agree) and bided his time with a pass, but came in at his
+next round and got doubled. On the SQ lead East succeeds if he
+leads a low club next, felling the ace, but when he did what
+we all would and led his diamond, South grabbed the ace and led
+a second spade, so that there was a promotion when North led
+a third spade after the CA. One down; +200 NS.
+}
+[Auction "E"]
+Pass 1NT Pass 4S 
+5C Pass Pass X 
+Pass Pass Pass  
+[Play "S"]
+SQ S2 S8 C2 
+DA D2 D4 D3 
+S6 S3 SA C3 
+HT HK H8 H2 
+D5 DJ D9 H7 
+D6 DK DT H6 
+C7 C4 CA C5 
+CQ S7 SK CT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "22"]
+[Room "Closed"]
+[West "Dick Freeman"]
+[North "J-C Quantin"]
+[East "Nick Nickell"]
+[South "Paul Chemla"]
+[Dealer "E"]
+[Deal "S:Q6.QT53.A8765.Q7 T732.K94.KQJ2.J4 AKJ9854.J8.T94.A .A762.3.KT986532"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "N"]
+{
+CR - East's bidding in the closed room looks a little timid,
+but it would have been OK if he had been alert at trick two.
+What he has to do is win North's H8 with the HA and shift to
+his diamond. But that was hardly obvious, and when he followed
+the book advice of "second hand low" West's entry to the diamond
+tricks was gone. Nicely played by North, who deserved to win
+the board. +420 NS meant 6 IMPs to France.
+}
+[Auction "E"]
+Pass Pass Pass 1S 
+3C X Pass 4S 
+Pass Pass Pass  
+[Play "E"]
+CT C7 C4 CA 
+H2 HQ HK H8 
+D3 D5 DK D9 
+C3 DA DQ D4 
+HA H3 H4 HJ 
+H6 HT H9 DT 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "23"]
+[Room "Open"]
+[West "Herve Mouiel"]
+[North "J. Meckstroth"]
+[East "Alain Levy"]
+[South "Eric Rodwell"]
+[Dealer "S"]
+[Deal "S:AQ9.A87.AT942.K9 J84.T954.86.AJT2 2.KQ3.KQ73.87643 KT7653.J62.J5.Q5"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+OR - One club showed 16+ HCP and the rest of the auction was
+artificial. NS avoided the 50% six diamonds and safely came to
+rest in 3NT. East led a spade and declarer stuck in the queen
+for the overtrick. When a club to the king lost to the ace he
+settled for ten tricks.
+}
+[Auction "S"]
+1C Pass 1NT Pass 
+2H Pass 3C Pass 
+3D Pass 3S Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+S6 SQ S4 S2 
+D5 D2 D6 DK 
+C5 CK CA C4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "23"]
+[Room "Closed"]
+[West "Dick Freeman"]
+[North "J-C Quantin"]
+[East "Nick Nickell"]
+[South "Paul Chemla"]
+[Dealer "S"]
+[Deal "S:AQ9.A87.AT942.K9 J84.T954.86.AJT2 2.KQ3.KQ73.87643 KT7653.J62.J5.Q5"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "S"]
+{
+CR - In the French system the range for a 1NT opening is 15-18,
+so South was not tempted to open one diamond. West led a heart
+and declarer soon tried a club to the king. When that lost it
+was no longer safe to take the spade finesse (you could lose
+four clubs and a spade), so declarer settled for nine tricks.
+}
+[Auction "S"]
+1NT Pass 2C Pass 
+2D Pass 3NT Pass 
+Pass Pass   
+[Play "W"]
+H4 HQ H6 H8 
+D6 DQ D5 D4 
+CA C3 C5 CK 
+HT HK HJ H7 
+C2 C4 CQ C9 
+S4 S2 S6 SA 
+D8 DK DJ D2 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "24"]
+[Room "Open"]
+[West "Herve Mouiel"]
+[North "J. Meckstroth"]
+[East "Alain Levy"]
+[South "Eric Rodwell"]
+[Dealer "W"]
+[Deal "S:AQ3.4.AK62.Q7532 97.KJ98.QJT75.T8 KT854.AT75.93.64 J62.Q632.84.AKJ9"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "N"]
+{
+OR - If there is a hint of a game out there, then Meckstroth
+and Rodwell are going to have a sniff at it. Note the aggressive
+nature of Rodwell's 1D overcall on the 4-card suit. Not to mention
+the jump raise to 3S! How could they miss game after this start?
+The club ace and king were cashed before East shifted to a trump.
+Declarer won in hand to play a trump to the ace, a heart to the
+ace, and a heart ruff. A club was ruffed, and declarer claimed
+11 tricks. +450 to NS.
+}
+[Auction "W"]
+Pass Pass 1C 1D 
+1H 1S 2H 3S 
+Pass 4S Pass Pass 
+Pass    
+[Play "E"]
+CA C2 CT C4 
+CK C3 C8 C6 
+S2 S3 S9 ST 
+S6 SA S7 S4 
+H3 H4 H9 HA 
+H2 SQ H8 H5 
+C9 C5 D5 S5 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "1b"]
+[Board "24"]
+[Room "Closed"]
+[West "Dick Freeman"]
+[North "J-C Quantin"]
+[East "Nick Nickell"]
+[South "Paul Chemla"]
+[Dealer "W"]
+[Deal "S:AQ3.4.AK62.Q7532 97.KJ98.QJT75.T8 KT854.AT75.93.64 J62.Q632.84.AKJ9"]
+[Vulnerable "None"]
+[Contract "3S"]
+[Declarer "N"]
+{
+CR - Here, South didn't venture in with a 1D overcal. When he
+remained silent the first time around, there wasn't much chance
+that partner could visualize the perfect fit, even with the redouble
+and the 3H cue-bid. A lot of delayed action brought the partnership
+to rest in 3S. The CA was led, followed by a trump shift. Declarer
+played ace of hearts, and a club toward dummy. East took his
+king, but that was all for the defence. +200 to NS, and 6 imps
+to the USA. The match ended in a USA white-wash of France, 101
+to 8 imps!
+}
+[Auction "W"]
+Pass Pass 1C Pass 
+1D 1S X XX 
+2H Pass Pass 3H 
+Pass 3S Pass Pass 
+Pass    
+[Play "E"]
+CA C2 C8 C4 
+S2 SQ S7 S4 
+H2 H4 H8 HA 
+CK C3 CT C6 
+H3 S3 H9 H5 
+S6 SA S9 S5 
+C9 C5 DQ S8 
+*
+[Result "11"]
+

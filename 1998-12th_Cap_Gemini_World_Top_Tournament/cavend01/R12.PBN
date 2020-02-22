@@ -1,0 +1,114 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.11"]
+[Round "12"]
+[Board "7"]
+[Room "Open"]
+[West "B. Fallenius"]
+[North "Steve Garner"]
+[East "Roy Welland"]
+[South "H. Weinstein"]
+[Dealer "S"]
+[Deal "S:AK94.8732.T9.K54 Q7.KT954.KJ842.8 JT852.6.763.QT76 63.AQJ.AQ5.AJ932"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "W"]
+{
+The opponents for this round are teammates from the winning Cavendish
+Teams - Roy Welland and Bjorn Fallenius (Fred Gitelman-Brad Moss
+were the third pair). Welland was given the typical bidding panel
+problem as East. All rebids were flawed: 2NT shows the appropriate
+point-count, but what of the anemic spade holding? 3H shows the
+approximate point-count, but what of the lack of a fourth heart?
+}
+[Auction "S"]
+Pass Pass Pass 1C 
+Pass 1H Pass 2D 
+Pass 4D Pass 4H 
+Pass Pass Pass  
+[Play "N"]
+SJ S3 SK S7 
+- - SA - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "12"]
+[Board "8"]
+[Room "Open"]
+[West "B. Fallenius"]
+[North "Steve Garner"]
+[East "Roy Welland"]
+[South "H. Weinstein"]
+[Dealer "W"]
+[Deal "S:KQ9.AQT6.9543.J5 AT7.K8742.A7.K84 4.J95.KT86.AQ972 J86532.3.QJ2.T63"]
+[Vulnerable "None"]
+[Contract "2S"]
+[Declarer "W"]
+{
+N/S would make 3D from the South seat certainly, so Fallenius
+chose an excellent time to open a slightly shaded strong-notrump.
+Though, N/S held 22 HCP, they simply had no convenient entry
+into the auction. The simple transfer auction landed E/W in a
+very comfortable contract. But with Garner and Weinstein on defense,
+nothing is comfortable. A deadly H5 lead from Garner was taken
+by Weinstein's ace. The C5 return went to Garner's queen, and
+the CA, and a club ruff followed. The D3 went to Weinstein's
+king, and the contract was booked.
+}
+[Auction "W"]
+1NT Pass 2H Pass 
+2S Pass Pass Pass 
+[Play "N"]
+H5 H3 HA H7 
+CQ C3 C5 C4 
+CA C6 CJ C8 
+C2 CT S9 CK 
+DK D2 D3 D7 
+DT DJ D4 DA 
+S4 S2 SQ SA 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "12"]
+[Board "9"]
+[Room "Open"]
+[West "B. Fallenius"]
+[North "Steve Garner"]
+[East "Roy Welland"]
+[South "H. Weinstein"]
+[Dealer "N"]
+[Deal "S:Q4.AT65.AK942.T7 AJT8.98432.7.932 32.KJ.QJT653.A64 K9765.Q7.8.KQJ85"]
+[Vulnerable "EW"]
+[Contract "4D"]
+[Declarer "N"]
+{
+A well-judged auction by both pairs and par was reached. If E/W
+carry on with 4S, they would be doubled for minus 200. If N/S
+judge to bid to the five-level in diamonds, they would find themselves
+the H9 short of their goal. Weinstein showed incredible restraint,
+even though the partnership open light, and downgraded his SQ
+on the ensuing auction. As the auction wore on, Weinstein envisioned
+two spade losers, and "one in the wash". Very well done.
+}
+[Auction "N"]
+1D 1S X 3D 
+Pass 3H 3S Pass 
+4D Pass Pass Pass 
+[Play "E"]
+CK C7 C2 CA 
+D8 D2 D7 DJ 
+HQ HA H2 HJ 
+H7 H5 H4 HK 
+- - - D3 
+*
+[Result "11"]
+

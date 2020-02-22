@@ -1,0 +1,112 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.11"]
+[Round "09"]
+[Board "25"]
+[Room "Open"]
+[West "Eric Greco"]
+[North "Bob Hamman"]
+[East "Geoff Hampson"]
+[South "Nick Nickell"]
+[Dealer "N"]
+[Deal "S:KQ.QJT84.J83.832 AJ95.K75.AQT5.Q9 864.96.9764.KJ75 T732.A32.K2.AT64"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "E"]
+{
+ The new arrivals are Geoff Hampson/Eric Greco, winners of the
+2000 Cavendish Teams. They open most 11-counts so Hampson's 1C
+is in keeping with partnership style. After Nickell's light overcall,
+Greco's negative double shows exactly four spades. He makes an
+effort to reach 3NT but settles for 4S when he learns Hampson
+has a minimum with no special features.
+}
+[Auction "N"]
+Pass 1C 1H X 
+Pass 1S Pass 2H 
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Play "S"]
+HQ HK H9 H2 
+D3 D5 D4 DK 
+SQ SA S4 S3 
+SK SJ S6 S2 
+HJ H5 H6 HA 
+H4 S5 S8 ST 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "26"]
+[Room "Open"]
+[West "Eric Greco"]
+[North "Bob Hamman"]
+[East "Geoff Hampson"]
+[South "Nick Nickell"]
+[Dealer "E"]
+[Deal "S:T93.52.98763.954 Q86.K.AJT.AKJT83 A54.QT964.K54.76 KJ72.AJ873.Q2.Q2"]
+[Vulnerable "Both"]
+[Contract "6C"]
+[Declarer "W"]
+{
+Greco's 2C is forcing to game, so he can safely rebid 3C over
+Hampson's minimum 2NT to suggest slam. With just a bit in reserve,
+Hampson tries 3S to show "where he lives" and that is enough
+to convince Greco to take a shot at 6C. And with the slam played
+from West, there are always twelve tricks coming in.
+}
+[Auction "E"]
+1H Pass 2C Pass 
+2NT Pass 3C Pass 
+3S Pass 6C Pass 
+Pass Pass   
+[Play "N"]
+SA S2 S3 S8 
+S5 S7 ST SQ 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "09"]
+[Board "27"]
+[Room "Open"]
+[West "Eric Greco"]
+[North "Bob Hamman"]
+[East "Geoff Hampson"]
+[South "Nick Nickell"]
+[Dealer "S"]
+[Deal "S:K984.8742.A76.A8 AJ6.K95.Q98.QJ53 T72.JT63.J52.K76 Q53.AQ.KT43.T942"]
+[Vulnerable "None"]
+[Contract "2NT"]
+[Declarer "E"]
+{
+Both Eat and West would have opened the South hand, but that
+is not Nickell's style. When Greco's 1C opening is greeted by
+a natural and invitational 2NT response, his 13-count is in the
+middle of the partnership range for a balanced minimum opening,
+and it would seem that his mildly conservative decision to pass
+is influenced by the vulnerability. With 4432 or a fifth club,
+he would probably carry on to game, regardless.
+}
+[Auction "S"]
+Pass 1C Pass 2NT 
+Pass Pass Pass  
+[Play "S"]
+S4 S6 ST SQ 
+C8 CQ CK C4 
+H2 H5 HJ HQ 
+CA C3 C7 CT 
+H4 H9 HT HA 
+D6 CJ C6 C2 
+D7 D8 D2 D3 
+*
+[Result "10"]
+

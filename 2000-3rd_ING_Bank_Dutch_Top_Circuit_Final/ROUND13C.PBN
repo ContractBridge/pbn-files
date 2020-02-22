@@ -1,0 +1,299 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "3rd ING BANK Top Circuit 2000"]
+[Site "Netherlands, NLD"]
+[Date "2000.06.12"]
+[Round "13"]
+[Board "1"]
+[West "De Bruyn"]
+[North "Van Middelem"]
+[East "Gosschalk"]
+[South "Engel"]
+[Vulnerable "None"]
+[Deal "S:42.AKJ64.AQ7.QJ4 Q86.95.T642.T985 AKT753.Q3.J93.72 J9.T872.K85.AK63"]
+[Dealer "N"]
+[Auction "N"]
+2H Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+CT C2 CK C4 
+C5 C7 CA CJ 
+C8 S3 C3 CQ 
+H5 HQ H2 H4 
+H9 H3 H7 HJ 
+D2 D3 H8 HK 
+C9 S5 HT HA 
+D6 D9 D5 H6 
+S6 ST SJ S4 
+D4 S7 C6 D7 
+- - D8 DA 
+*
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "13"]
+[Board "2"]
+[West "De Bruyn"]
+[North "Van Middelem"]
+[East "Gosschalk"]
+[South "Engel"]
+[Vulnerable "NS"]
+[Deal "S:95.98764.KQT6.Q5 J3.AKQ52.8542.K9 Q876.3.AJ73.AJ63 AKT42.JT.9.T8742"]
+[Dealer "E"]
+[Auction "E"]
+2S Pass Pass Pass 
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+S9 S3 S6 ST 
+S5 SJ S7 SA 
+H8 D2 S8 SK 
+D6 D4 SQ S4 
+DT D5 D3 D9 
+C5 CK CA C4 
+CQ C9 C3 CT 
+DK D8 D7 S2 
+H4 H2 H3 HJ 
+- - - HT 
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "13"]
+[Board "3"]
+[West "De Bruyn"]
+[North "Van Middelem"]
+[East "Gosschalk"]
+[South "Engel"]
+[Vulnerable "EW"]
+[Deal "S:KQ63.T96.T543.T8 A82.AJ5.KJ86.754 T97.KQ72.A97.J96 J54.843.Q2.AKQ32"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D Pass 2C 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+H2 H3 H9 HJ 
+C6 CA CT C5 
+C9 CK C8 C7 
+CJ CQ HT C4 
+S7 C2 D4 S2 
+ST C3 D3 S8 
+D7 DQ D5 D6 
+DA D2 DT DJ 
+S9 S4 SQ SA 
+H7 H4 H6 HA 
+D9 S5 S3 DK 
+*
+[Result "11"]
+[Score "+660"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "13"]
+[Board "4"]
+[West "De Bruyn"]
+[North "Van Middelem"]
+[East "Gosschalk"]
+[South "Engel"]
+[Vulnerable "Both"]
+[Deal "S:87.KJ8.T84.AQ853 KQ6532.9.KJ72.96 AT4.A765.653.J42 J9.QT432.AQ9.KT7"]
+[Dealer "W"]
+[Auction "W"]
+2D Pass 2S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+S8 S2 SA S9 
+CA C6 C4 CK 
+S7 S3 S4 SJ 
+HJ H9 H5 H4 
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "13"]
+[Board "5"]
+[West "De Bruyn"]
+[North "Van Middelem"]
+[East "Gosschalk"]
+[South "Engel"]
+[Vulnerable "NS"]
+[Deal "S:A65.Q96.J7.AKQ42 4.K43.AQ964.JT83 982.T752.T832.76 KQJT73.AJ8.K5.95"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1S 1NT X 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "1NTX"]
+[Play "W"]
+D4 D2 DK D7 
+S4 S2 SK S5 
+D6 S8 SQ SA 
+C3 C6 C5 CK 
+C8 C7 C9 CA 
+CT S9 H8 CQ 
+DQ D3 D5 DJ 
+H3 H2 HA H6 
+D9 H5 SJ S6 
+*
+[Result "4"]
+[Score "-800"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "13"]
+[Board "6"]
+[West "De Bruyn"]
+[North "Van Middelem"]
+[East "Gosschalk"]
+[South "Engel"]
+[Vulnerable "EW"]
+[Deal "S:K875.T3.754.KQJ9 2.AJ62.KQ982.T64 AQT94.Q984.AJ.85 J63.K75.T63.A732"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1D 1S 
+X 3D Pass 3H 
+Pass 3S Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "3S"]
+[Play "E"]
+D3 D4 DQ DA 
+S3 S5 S2 SA 
+S6 S7 CT SQ 
+SJ SK D9 S4 
+C2 CK C4 C5 
+CA C9 C6 C8 
+D6 D5 DK DJ 
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "13"]
+[Board "7"]
+[West "De Bruyn"]
+[North "Van Middelem"]
+[East "Gosschalk"]
+[South "Engel"]
+[Vulnerable "Both"]
+[Deal "S:K.J63.AQ85.JT873 AJT976.Q975.3.96 Q854.KT.T976.AQ4 32.A842.KJ42.K52"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass Pass 
+[Contract "Pass"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "13"]
+[Board "8"]
+[West "De Bruyn"]
+[North "Van Middelem"]
+[East "Gosschalk"]
+[South "Engel"]
+[Vulnerable "None"]
+[Deal "S:Q432.62.A876.Q75 T865.J73.T2.T643 K.T985.J543.KJ98 AJ97.AKQ4.KQ9.A2"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 2D Pass 
+2H Pass 2NT Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "2NT"]
+[Play "S"]
+D7 DT DJ DK 
+H2 HJ H5 H4 
+S3 S8 SK SA 
+S2 S5 D4 SJ 
+SQ S6 D5 S9 
+C5 C3 C8 CA 
+H6 H3 H8 HA 
+D6 H7 H9 HK 
+S4 ST HT HQ 
+D8 D2 C9 S7 
+DA C4 D3 D9 
+*
+[Result "9"]
+[Score "+150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "13"]
+[Board "9"]
+[West "De Bruyn"]
+[North "Van Middelem"]
+[East "Gosschalk"]
+[South "Engel"]
+[Vulnerable "EW"]
+[Deal "S:A3.AKQ74.T843.T2 9864.8.972.Q8764 KT752.J3.AKQJ.A9 QJ.T9652.65.KJ53"]
+[Dealer "N"]
+[Auction "N"]
+1S Pass 2H Pass 
+3D Pass 3H Pass 
+4C X 4D Pass 
+4H Pass Pass Pass 
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+C4 CA C3 CT 
+H8 HJ H2 H4 
+C6 H3 H5 HA 
+C7 S2 H6 HK 
+D2 S5 H9 HQ 
+D7 DA D5 D4 
+D9 DK D6 D3 
+- DQ - - 
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "13"]
+[Board "10"]
+[West "De Bruyn"]
+[North "Van Middelem"]
+[East "Gosschalk"]
+[South "Engel"]
+[Vulnerable "Both"]
+[Deal "S:.AQ4.A876.QT9853 KQJ52.J86.KJ5.K2 AT.K7532.43.A764 987643.T9.QT92.J"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C 1S 2H 
+2S 4H Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+CJ CQ C2 C4 
+H9 HA H6 H2 
+HT HQ H8 H3 
+S3 H4 HJ HK 
+- - - CA 
+*
+[Result "13"]
+[Score "+710"]
+

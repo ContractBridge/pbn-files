@@ -1,0 +1,1243 @@
+% PBN 1.0
+% e-bridge source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "45th Generali European Team Championships 2001"]
+[Site "Tenerife, Canary Islands, ESP"]
+[Date "2001.06.19"]
+[Round "06"]
+[Board "1"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "N"]
+[Deal "S:Q3.QJ962.KJ9.QJ2 KJ85.3.AQT5.A865 A62.AT854.742.T4 T974.K7.863.K973"]
+[Vulnerable "None"]
+[Contract "3H"]
+[Declarer "S"]
+[Auction "N"]
+Pass Pass 1H X 
+4H Pass Pass Pass 
+[Play "W"]
+H3 HA H7 H2 
+CA CT C3 C2 
+DA D2 D8 D9 
+D5 D4 D3 DJ 
+DT D7 D6 DK 
+C5 C4 CK CJ 
+S5 H4 HK H6 
+SK SA ST SQ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "1"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "N"]
+[Deal "S:Q3.QJ962.KJ9.QJ2 KJ85.3.AQT5.A865 A62.AT854.742.T4 T974.K7.863.K973"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "N"]
+Pass Pass 1H X 
+2NT Pass 3H Pass 
+Pass Pass   
+[Play "W"]
+C6 C4 CK C2 
+SK S2 ST SQ 
+S5 SA S4 S3 
+S8 S6 S7 H2 
+H3 H4 HK HQ 
+DT D2 D3 D9 
+DA D4 D6 DJ 
+CA CT C3 CJ 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "2"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "E"]
+[Deal "S:5.Q93.K63.KQJ986 T4.T87652.Q4.542 QJ8.KJ.JT872.AT7 AK97632.A4.A95.3"]
+[Vulnerable "NS"]
+[Contract "2S"]
+[Declarer "E"]
+[Auction "E"]
+1S 2C Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+S5 S4 S8 SK 
+D3 DQ D2 D5 
+H3 ST SJ S2 
+C6 C2 CA C3 
+C8 C4 CT H4 
+C9 C5 C7 D9 
+CJ H2 D7 S3 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "2"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "E"]
+[Deal "S:5.Q93.K63.KQJ986 T4.T87652.Q4.542 QJ8.KJ.JT872.AT7 AK97632.A4.A95.3"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "N"]
+[Auction "E"]
+2C Pass 2D Pass 
+2S Pass Pass Pass 
+[Play "E"]
+C3 CK C2 C7 
+S2 CQ C4 CT 
+D5 DK D4 D2 
+S3 CJ C5 CA 
+SA S5 S4 S8 
+SK C6 ST SJ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "3"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "S"]
+[Deal "S:QJ98.T8532.963.4 K542.97.AJT2.QT8 A.AQJ64.K54.J953 T763.K.Q87.AK762"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "S"]
+Pass Pass 1H X 
+4H 4S 5H X 
+Pass Pass Pass  
+[Play "E"]
+CK C4 C8 C5 
+S6 SQ SK SA 
+C2 H2 CT C3 
+HK H3 H9 HQ 
+C6 H5 CQ C9 
+S3 SJ S2 D4 
+C7 HT H7 H4 
+S7 S8 S4 H6 
+CA H8 D2 CJ 
+D7 D3 DA D5 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "3"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "S"]
+[Deal "S:QJ98.T8532.963.4 K542.97.AJT2.QT8 A.AQJ64.K54.J953 T763.K.Q87.AK762"]
+[Vulnerable "EW"]
+[Contract "5HX"]
+[Declarer "N"]
+[Auction "S"]
+2C Pass 4H Pass 
+Pass Pass   
+[Play "E"]
+CA C4 C8 C3 
+D7 D3 DA D4 
+D8 D6 DJ DK 
+S3 S8 S2 SA 
+C2 H2 CT C5 
+S6 SQ S4 D5 
+HK H3 H7 HQ 
+DQ D9 D2 H4 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "4"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "W"]
+[Deal "S:93.K964.QJ43.963 J76542..A982.Q82 AKQ.JT3.K765.T74 T8.AQ8752.T.AKJ5"]
+[Vulnerable "Both"]
+[Contract "2C"]
+[Declarer "E"]
+[Auction "W"]
+2S Pass 3H Pass 
+4S Pass Pass Pass 
+[Play "S"]
+S9 S2 SA S8 
+S3 S4 SK ST 
+HK S5 HJ HQ 
+D3 SJ SQ DT 
+C3 C2 C4 CA 
+H4 D2 H3 HA 
+H6 S6 HT H2 
+C6 C8 C7 CJ 
+H9 S7 CT H5 
+D4 DA D5 C5 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "4"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "W"]
+[Deal "S:93.K964.QJ43.963 J76542..A982.Q82 AKQ.JT3.K765.T74 T8.AQ8752.T.AKJ5"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "W"]
+[Auction "W"]
+Pass 1D 1H Pass 
+1S Pass 2C Pass 
+Pass Pass   
+[Play "N"]
+C4 CJ C3 C2 
+H3 HA H4 S2 
+HT H2 H6 C8 
+D5 DT D3 DA 
+D6 C5 D4 D2 
+HJ H5 H9 CQ 
+SA S8 S3 S4 
+D7 H7 DJ D8 
+SK ST S9 S5 
+SQ - - - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "5"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "N"]
+[Deal "S:AJ7.JT6.J62.A742 T963.9532.K94.96 K42.K84.QT8.KQJ5 Q85.AQ7.A753.T83"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "N"]
+1C X XX Pass 
+Pass 1D Pass Pass 
+1NT Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "W"]
+D9 DT D5 D2 
+C6 CK C3 C2 
+C9 CQ C8 C4 
+H9 CJ CT C7 
+H2 C5 H7 CA 
+S3 SK S5 S7 
+S6 S4 S8 SJ 
+S9 S2 SQ SA 
+DK D8 D3 D6 
+ST DQ HQ DJ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "5"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "N"]
+[Deal "S:AJ7.JT6.J62.A742 T963.9532.K94.96 K42.K84.QT8.KQJ5 Q85.AQ7.A753.T83"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "N"]
+[Auction "N"]
+1C Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "E"]
+SQ SA ST S2 
+DA D2 D4 DQ 
+S8 S7 S3 SK 
+D3 DJ DK D8 
+HA H6 H5 HK 
+D5 D6 D9 DT 
+HQ HT H2 H4 
+D7 - - - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "6"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "E"]
+[Deal "S:JT5.A8742.AQ96.4 AQ4.KJ6.T852.AJT K83.T5.43.KQ9763 9762.Q93.KJ7.852"]
+[Vulnerable "EW"]
+[Contract "2C"]
+[Declarer "N"]
+[Auction "E"]
+Pass 1H Pass 1NT 
+Pass 2D Pass 2H 
+Pass Pass Pass  
+[Play "E"]
+DJ DQ D5 D3 
+C2 C4 CT CK 
+D7 DA D2 D4 
+DK D6 D8 HT 
+C5 H2 CJ C3 
+HQ D9 DT H5 
+S6 SJ SQ SK 
+C8 H4 CA C6 
+S2 ST SA S3 
+S9 S5 S4 S8 
+H9 - - - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "6"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "E"]
+[Deal "S:JT5.A8742.AQ96.4 AQ4.KJ6.T852.AJT K83.T5.43.KQ9763 9762.Q93.KJ7.852"]
+[Vulnerable "EW"]
+[Contract "2H"]
+[Declarer "S"]
+[Auction "E"]
+Pass 1H 1NT 2C 
+Pass Pass Pass  
+[Play "W"]
+SA S3 S2 SJ 
+S4 S8 S6 ST 
+CJ CK C2 C4 
+CT C3 C5 H2 
+H6 H5 H9 H4 
+HJ HT HQ HA 
+HK C6 H3 H8 
+CA C9 C8 D6 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "7"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "S"]
+[Deal "S:K943.KQ9.J3.8754 J62.JT62.A82.Q96 AQ5.743.KQT75.J2 T87.A85.964.AKT3"]
+[Vulnerable "Both"]
+[Contract "1S"]
+[Declarer "S"]
+[Auction "S"]
+Pass Pass 1D Pass 
+1S Pass Pass Pass 
+[Play "W"]
+C6 C2 CK C5 
+HJ H3 H8 HK 
+D8 D5 D9 DJ 
+DA D7 D4 D3 
+H2 H4 HA H9 
+C9 CJ CA C4 
+D2 DT D6 C7 
+H6 H7 H5 HQ 
+S2 S5 S7 SK 
+S6 SQ S8 S3 
+SJ SA ST S4 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "7"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "S"]
+[Deal "S:K943.KQ9.J3.8754 J62.JT62.A82.Q96 AQ5.743.KQT75.J2 T87.A85.964.AKT3"]
+[Vulnerable "Both"]
+[Contract "1S"]
+[Declarer "S"]
+[Auction "S"]
+Pass Pass 1D Pass 
+1S Pass Pass Pass 
+[Play "W"]
+H6 H3 HA H9 
+C6 C2 CA C4 
+C9 CJ CK C5 
+H2 H4 H8 HK 
+D2 DK D4 D3 
+DA D5 D6 DJ 
+HJ H7 H5 HQ 
+CQ S5 C3 C7 
+S2 SA S7 S3 
+S6 SQ S8 S4 
+D8 DQ D9 C8 
+SJ DT CT S9 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "8"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "W"]
+[Deal "S:A62.AT5.J872.KJ2 985.Q6.K653.Q743 QJT4.8732.AQ94.A K73.KJ94.T.T9865"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "W"]
+Pass 1D Pass 3NT 
+Pass Pass Pass  
+[Play "W"]
+S5 SQ S7 S2 
+D3 DA DT D2 
+DK D4 CT D7 
+HQ H2 H4 H5 
+H6 H3 HK HT 
+D5 H7 H9 HA 
+C3 CA C5 C2 
+S8 S4 S3 SA 
+S9 ST SK S6 
+- - HJ - 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "8"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "W"]
+[Deal "S:A62.AT5.J872.KJ2 985.Q6.K653.Q743 QJT4.8732.AQ94.A K73.KJ94.T.T9865"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "W"]
+Pass 1D Pass 2D 
+Pass 2H Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Play "W"]
+S9 SQ S3 S2 
+S5 SJ S7 S6 
+D3 DA DT D2 
+DK D4 C8 D7 
+C3 CA C5 C2 
+HQ H2 H4 HT 
+H6 H3 H9 H5 
+CQ H7 CT CJ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "9"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "N"]
+[Deal "S:K843.AKQ6.93.A84 J.8432.AKQ87.KQ2 AT65.JT75.64.953 Q972.9.JT52.JT76"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "N"]
+Pass Pass 1NT X 
+Pass 2C Pass 2D 
+Pass Pass Pass  
+[Play "W"]
+H2 HJ H9 HQ 
+D8 D4 DJ D3 
+SJ SA S2 S3 
+DA D6 D2 D9 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "9"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "N"]
+[Deal "S:K843.AKQ6.93.A84 J.8432.AKQ87.KQ2 AT65.JT75.64.953 Q972.9.JT52.JT76"]
+[Vulnerable "EW"]
+[Contract "2D"]
+[Declarer "W"]
+[Auction "N"]
+2C Pass 4H Pass 
+Pass Pass   
+[Play "N"]
+D4 D2 D3 DA 
+D6 D5 D9 DK 
+SA S2 S3 SJ 
+H5 H9 HA H2 
+H7 C6 HK H3 
+HT C7 H6 H4 
+ST SQ SK H8 
+C3 CJ C4 CK 
+C5 CT CA C2 
+C9 DT C8 CQ 
+- - - D7 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "10"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "E"]
+[Deal "S:Q72.AQ865.Q987.9 T53.K73.A32.8652 AK98.942.65.KQT7 J64.JT.KJT4.AJ43"]
+[Vulnerable "Both"]
+[Contract "2H"]
+[Declarer "S"]
+[Auction "E"]
+Pass 1H Pass 1S 
+X Pass 2C 4H 
+Pass Pass Pass  
+[Play "W"]
+C5 CK CA C9 
+HK H2 HT HQ 
+H3 H4 HJ HA 
+H7 H9 S4 H5 
+C2 CQ C3 D7 
+S3 S8 S6 SQ 
+S5 SA SJ S2 
+ST SK D4 S7 
+C6 S9 C4 D8 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "10"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "E"]
+[Deal "S:Q72.AQ865.Q987.9 T53.K73.A32.8652 AK98.942.65.KQT7 J64.JT.KJT4.AJ43"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "E"]
+Pass 2H Pass Pass 
+Pass    
+[Play "W"]
+S3 SA S4 S2 
+DA D5 D4 D9 
+H3 H2 HJ HQ 
+C2 CQ CA C9 
+H7 H4 HT HA 
+S5 S8 S6 SQ 
+ST SK SJ S7 
+HK S9 C3 D7 
+C5 - - - 
+*
+[Result "9"]
+
+[Event "45th Generali European Team Championships 2001"]
+[Site "Tenerife, Canary Islands, ESP"]
+[Date "2001.06.19"]
+[Round "06"]
+[Board "11"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "S"]
+[Deal "S:Q5432.AK54.3.873 K86.QT3.AQ4.KT92 A7.8762.KJ9762.5 JT9.J9.T85.AQJ64"]
+[Vulnerable "None"]
+[Contract "5C"]
+[Declarer "E"]
+[Auction "S"]
+2C X 3H 4C 
+Pass 5C Pass Pass 
+Pass    
+[Play "S"]
+HA H3 H2 HJ 
+D3 DQ DK D5 
+C3 D4 D2 DT 
+S2 S6 SA S9 
+C7 DA D6 D8 
+HK HT H6 H9 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "11"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "S"]
+[Deal "S:Q5432.AK54.3.873 K86.QT3.AQ4.KT92 A7.8762.KJ9762.5 JT9.J9.T85.AQJ64"]
+[Vulnerable "None"]
+[Contract "2D"]
+[Declarer "N"]
+[Auction "S"]
+Pass 1C 1D 2C 
+X Pass 2D Pass 
+Pass Pass   
+[Play "E"]
+SJ S2 S6 SA 
+H9 HA HT H2 
+D5 D3 D4 DK 
+D8 S3 DQ D2 
+CJ C3 C9 C5 
+HJ HK H3 H6 
+C4 C7 C2 D6 
+DT H4 DA DJ 
+C6 C8 CK D7 
+S9 H5 HQ H7 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "12"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "W"]
+[Deal "S:865.J96.54.QJ953 AJ3.AKQ5.T962.74 K72.T43.A7.AKT82 QT94.872.KQJ83.6"]
+[Vulnerable "NS"]
+[Contract "3D"]
+[Declarer "W"]
+[Auction "W"]
+1D X 1S 2C 
+X 3C 3D Pass 
+Pass Pass   
+[Play "N"]
+CA C6 C3 C4 
+H3 H2 HJ HA 
+DA D3 D4 D2 
+HT H7 H6 HK 
+D7 DK D5 D6 
+SK SQ S5 S3 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "12"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "W"]
+[Deal "S:865.J96.54.QJ953 AJ3.AKQ5.T962.74 K72.T43.A7.AKT82 QT94.872.KQJ83.6"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "E"]
+[Auction "W"]
+1D X 2NT Pass 
+3NT Pass Pass Pass 
+[Play "S"]
+CQ C4 C2 C6 
+C5 C7 CK H2 
+C3 H5 CA H7 
+CJ S3 CT S4 
+C9 HQ C8 H8 
+S5 SJ SK S9 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "13"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "N"]
+[Deal "S:94.AQJ4.J94.Q732 AKJ65.K.K873.K95 QT83.983.AQ65.84 72.T7652.T2.AJT6"]
+[Vulnerable "Both"]
+[Contract "2S"]
+[Declarer "W"]
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 1NT Pass 2D 
+Pass 2S Pass Pass 
+Pass    
+[Play "N"]
+C8 CT CQ CK 
+D5 DT DJ D3 
+H3 H2 HA HK 
+H8 H5 HQ S5 
+DQ D2 D4 D7 
+C4 CJ C2 C5 
+H9 H6 H4 S6 
+D6 S2 D9 D8 
+DA H7 HJ DK 
+S3 S7 S4 SA 
+S8 C6 C3 C9 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "13"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "N"]
+[Deal "S:94.AQJ4.J94.Q732 AKJ65.K.K873.K95 QT83.983.AQ65.84 72.T7652.T2.AJT6"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "W"]
+[Auction "N"]
+Pass Pass Pass 1S 
+Pass 1NT Pass 2C 
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Play "N"]
+H9 H2 HA HK 
+SQ S2 S4 SJ 
+DA D2 D4 D3 
+D5 DT DJ DK 
+D6 S7 D9 D7 
+H3 H5 HQ S5 
+S3 H6 S9 SA 
+S8 H7 H4 SK 
+C4 CA C2 C5 
+C8 CJ C3 C9 
+ST C6 C7 CK 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "14"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "E"]
+[Deal "S:J9732.J32.K6.763 AK6.KQ86.AQ54.J5 5.754.JT932.KQ98 QT84.AT9.87.AT42"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 1D Pass 
+1S Pass 2NT Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+DJ D7 DK D4 
+D2 D8 D6 DA 
+S5 S4 S2 SA 
+H4 S8 S3 SK 
+H5 H9 H2 HK 
+H7 HA H3 H6 
+CK C2 C3 CJ 
+C9 CT C6 C5 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "14"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "E"]
+[Deal "S:J9732.J32.K6.763 AK6.KQ86.AQ54.J5 5.754.JT932.KQ98 QT84.AT9.87.AT42"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "W"]
+[Auction "E"]
+Pass Pass 2C Pass 
+2D Pass 2NT Pass 
+3C Pass 3H Pass 
+3S Pass 3NT Pass 
+Pass Pass   
+[Play "N"]
+DJ D7 DK DA 
+CQ CA C3 CJ 
+S5 S4 S2 SA 
+C8 C2 C6 C5 
+DT D8 D6 D4 
+D2 C4 S3 DQ 
+- - - SK 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "15"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "S"]
+[Deal "S:J87.763.QT.KJ852 A64.QJT4.J63.Q96 T953.AK5.A9842.7 KQ2.982.K75.AT43"]
+[Vulnerable "NS"]
+[Contract "1NT"]
+[Declarer "S"]
+[Auction "S"]
+Pass Pass 1D Pass 
+1NT Pass Pass Pass 
+[Play "W"]
+HQ H5 H2 H3 
+H4 HK H8 H6 
+D3 D2 D5 DQ 
+D6 DA D7 DT 
+DJ D9 DK C2 
+HT HA H9 H7 
+S4 D8 C3 C5 
+S6 D4 C4 S7 
+SA S3 S2 SJ 
+HJ C7 CT S8 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "15"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "S"]
+[Deal "S:J87.763.QT.KJ852 A64.QJT4.J63.Q96 T953.AK5.A9842.7 KQ2.982.K75.AT43"]
+[Vulnerable "NS"]
+[Contract "1NT"]
+[Declarer "S"]
+[Auction "S"]
+Pass Pass 1D Pass 
+1NT Pass Pass Pass 
+[Play "W"]
+HQ H5 H2 H7 
+HJ HK H8 H3 
+D3 D2 D5 DQ 
+D6 D4 DK DT 
+H4 HA H9 H6 
+DJ DA D7 C2 
+C6 D9 C3 C5 
+S4 D8 C4 S7 
+C9 C7 CA C8 
+CQ S3 CT CK 
+S6 S5 S2 CJ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "16"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "W"]
+[Deal "S:86.Q972.83.KQ953 KQT74.J83.KQ74.2 A93.AKT54.6.AJT8 J52.6.AJT952.764"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "W"]
+Pass 1H Pass 3D 
+Pass 4H Pass Pass 
+Pass    
+[Play "E"]
+C6 C3 C2 CJ 
+H6 H2 H3 HA 
+D2 HQ H8 H4 
+D5 H7 HJ HK 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "16"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "W"]
+[Deal "S:86.Q972.83.KQ953 KQT74.J83.KQ74.2 A93.AKT54.6.AJT8 J52.6.AJT952.764"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "W"]
+1S 2H 2S 3H 
+Pass 4H Pass Pass 
+Pass    
+[Play "E"]
+S2 S6 SQ SA 
+H6 H2 H3 HA 
+D2 HQ H8 H4 
+D5 H7 HJ HK 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "17"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "N"]
+[Deal "S:A93.AQ95.6.KQ873 65.72.J5432.AJ54 K842.KJ43.AKQT.2 QJT7.T86.987.T96"]
+[Vulnerable "None"]
+[Contract "6H"]
+[Declarer "N"]
+[Auction "N"]
+1D Pass 2C Pass 
+2H Pass 3H Pass 
+3S Pass 4C Pass 
+4D Pass 4S Pass 
+4NT Pass 5S Pass 
+6H Pass Pass Pass 
+[Play "E"]
+SQ S3 S5 SK 
+C6 CK CA C2 
+ST SA S6 S2 
+C9 C3 C4 H3 
+H6 H5 H2 HK 
+H8 H9 H7 HJ 
+HT HA D2 H4 
+S7 HQ C5 S4 
+CT CQ CJ S8 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "17"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "N"]
+[Deal "S:A93.AQ95.6.KQ873 65.72.J5432.AJ54 K842.KJ43.AKQT.2 QJT7.T86.987.T96"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "N"]
+1D Pass 2D Pass 
+2NT Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "W"]
+S6 SK S7 S3 
+CA C2 C6 CK 
+S5 S2 ST SA 
+C4 S4 C9 CQ 
+D2 DA D7 D6 
+D3 DK D8 S9 
+D4 DT D9 H9 
+C5 H3 CT C3 
+D5 S8 SQ HA 
+H2 H4 H6 HQ 
+H7 HJ H8 H5 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "18"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "E"]
+[Deal "S:AKJT85.43.K8.AQ2 962.Q82.AQT7.T84 Q4.KT9.J943.KJ76 73.AJ765.652.953"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "E"]
+Pass 1S Pass 1NT 
+Pass 2C Pass 2D 
+Pass 3S Pass 4S 
+Pass Pass Pass  
+[Play "W"]
+H2 HK HA H3 
+H8 H9 HJ H4 
+DQ D3 D2 D8 
+DA D4 D5 DK 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "18"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "E"]
+[Deal "S:AKJT85.43.K8.AQ2 962.Q82.AQT7.T84 Q4.KT9.J943.KJ76 73.AJ765.652.953"]
+[Vulnerable "NS"]
+[Contract "6C"]
+[Declarer "N"]
+[Auction "E"]
+2H X 3C X 
+3D 4S Pass 5C 
+Pass 6C Pass Pass 
+Pass    
+[Play "E"]
+D2 DK DA D3 
+D5 D8 DQ D4 
+HA H3 H2 HK 
+H5 H4 HQ H9 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "19"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "S"]
+[Deal "S:K43.AKQ8.9.AJT72 Q972.965.KQJ53.Q T6.T432.AT74.965 AJ85.J7.862.K843"]
+[Vulnerable "EW"]
+[Contract "4H"]
+[Declarer "N"]
+[Auction "S"]
+1C 1D Pass 2D 
+X Pass 2H Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Play "E"]
+D2 D9 DJ DA 
+C3 CJ CQ C5 
+S8 SK S2 S6 
+H7 HA H5 H2 
+HJ HK H6 H3 
+D6 HQ H9 H4 
+CK C2 D3 C9 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "19"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "S"]
+[Deal "S:K43.AKQ8.9.AJT72 Q972.965.KQJ53.Q T6.T432.AT74.965 AJ85.J7.862.K843"]
+[Vulnerable "EW"]
+[Contract "3H"]
+[Declarer "N"]
+[Auction "S"]
+1C 1D Pass 1S 
+X 2S 3H Pass 
+Pass Pass   
+[Play "E"]
+D2 D9 DJ DA 
+C3 CJ CQ C6 
+D6 H8 DQ D4 
+C4 CA H5 C5 
+H7 HA H6 H2 
+CK C2 S2 C9 
+C8 CT H9 HT 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "20"]
+[Room "Open"]
+[West "Teylouni F."]
+[North "Baldursson Jon"]
+[East "Levy Regis"]
+[South "Sigurhjartarson K."]
+[Dealer "W"]
+[Deal "S:Q973.AT9.986.842 AK65.Q8543.K52.7 JT84.6.AJT3.AK65 2.KJ72.Q74.QJT93"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "W"]
+[Auction "W"]
+1H X 4H Pass 
+Pass Pass   
+[Play "N"]
+CA C3 C2 C7 
+DA D4 D9 D2 
+CK C9 C4 H3 
+H6 HJ HA H4 
+S4 S2 S3 SA 
+- - - H5 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "06"]
+[Board "20"]
+[Room "Closed"]
+[West "Ingimarsson T."]
+[North "Duong Hong"]
+[East "Magnusson M."]
+[South "Yalcin Tarik"]
+[Dealer "W"]
+[Deal "S:Q973.AT9.986.842 AK65.Q8543.K52.7 JT84.6.AJT3.AK65 2.KJ72.Q74.QJT93"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "W"]
+[Auction "W"]
+1H X 2H Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Play "N"]
+CA C3 C2 C7 
+DA D4 D6 D2 
+DJ DQ D8 D5 
+*
+[Result "10"]
+
+

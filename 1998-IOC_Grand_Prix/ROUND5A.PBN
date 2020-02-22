@@ -1,0 +1,680 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1998 IOC Grand Prix"]
+[Site "IOC Olympic Museum - Lausanne, Switzerland, CHE"]
+[Date "1998.09.11"]
+[Round "5"]
+[Board "1"]
+[West "Xu"]
+[North "Chagas"]
+[East "Zhuang"]
+[South "Branco"]
+[Vulnerable "None"]
+[Deal "S:KQ92.J42.AKT.A52 6543.97.J64.QT86 AJT8.K53.952.KJ7 7.AQT86.Q873.943"]
+[Dealer "N"]
+[Auction "N"]
+1C 1H X Pass 
+2S Pass 3H X 
+Pass Pass 3S Pass 
+3NT Pass Pass Pass 
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+H8 HJ H9 H3 
+S7 S2 S3 SJ 
+H6 S9 S4 ST 
+D7 SQ S5 SA 
+HT SK S6 S8 
+D3 DA D4 D9 
+C4 C2 C6 CK 
+D8 DK D6 D2 
+C3 CA C8 C7 
+C9 C5 CQ CJ 
+HQ H2 CT D5 
+- - DJ - 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "1"]
+[West "Campos"]
+[North "Dai"]
+[East "Villas Boas"]
+[South "Shi"]
+[Vulnerable "None"]
+[Deal "S:KQ92.J42.AKT.A52 6543.97.J64.QT86 AJT8.K53.952.KJ7 7.AQT86.Q873.943"]
+[Dealer "N"]
+[Auction "N"]
+1C 1D X Pass 
+1S Pass 2H Pass 
+2NT Pass 3S Pass 
+3NT Pass Pass Pass 
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+D3 - - - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "2"]
+[West "Xu"]
+[North "Chagas"]
+[East "Zhuang"]
+[South "Branco"]
+[Vulnerable "NS"]
+[Deal "S:AKJ76.AQ62.73.T5 Q.K9854.KJ6.9762 543.JT73.AQT8.83 T982..9542.AKQJ4"]
+[Dealer "E"]
+[Auction "E"]
+1C 1S 2H 2S 
+Pass Pass 3C Pass 
+Pass 3S Pass Pass 
+4C Pass Pass Pass 
+[Declarer "E"]
+[Contract "4C"]
+[Play "S"]
+SA SQ S3 S2 
+D7 DJ DQ D5 
+D3 D6 DA D4 
+C5 DK D8 D2 
+HA H4 H3 C4 
+CT C2 C3 CK 
+S6 C7 DT D9 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "2"]
+[West "Campos"]
+[North "Dai"]
+[East "Villas Boas"]
+[South "Shi"]
+[Vulnerable "NS"]
+[Deal "S:AKJ76.AQ62.73.T5 Q.K9854.KJ6.9762 543.JT73.AQT8.83 T982..9542.AKQJ4"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1S Pass 2S 
+3C 3H 5C X 
+Pass Pass Pass  
+[Declarer "E"]
+[Contract "5CX"]
+[Play "S"]
+SA - - - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-300"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "3"]
+[West "Xu"]
+[North "Chagas"]
+[East "Zhuang"]
+[South "Branco"]
+[Vulnerable "EW"]
+[Deal "S:9754.KJ.J987.J92 K8.T7632.KQ4.T43 AQT32.AQ5.T2.K87 J6.984.A653.AQ65"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1S Pass 
+3S Pass 4S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+H4 HJ HT H5 
+SJ S4 S8 SQ 
+H8 HK H7 HQ 
+S6 S5 SK SA 
+H9 C2 H2 HA 
+D5 DJ DK D2 
+CA C9 C3 CK 
+CQ CJ C4 C7 
+DA D7 - - 
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "3"]
+[West "Campos"]
+[North "Dai"]
+[East "Villas Boas"]
+[South "Shi"]
+[Vulnerable "EW"]
+[Deal "S:9754.KJ.J987.J92 K8.T7632.KQ4.T43 AQT32.AQ5.T2.K87 J6.984.A653.AQ65"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1NT Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+C5 - - - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "4"]
+[West "Xu"]
+[North "Chagas"]
+[East "Zhuang"]
+[South "Branco"]
+[Vulnerable "Both"]
+[Deal "S:KJT7.A5.93.KQ863 543.Q3.KQJT86.72 Q9.K87642.A75.95 A862.JT9.42.AJT4"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1C 
+2D 2H 3D Pass 
+Pass 3H Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "3H"]
+[Play "E"]
+D4 D3 DJ D5 
+D2 D9 DK DA 
+S6 SK S3 S9 
+SA S7 S5 SQ 
+CA C3 C7 C9 
+CJ CK C2 C5 
+H9 H5 H3 HK 
+HJ HA HQ H2 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "4"]
+[West "Campos"]
+[North "Dai"]
+[East "Villas Boas"]
+[South "Shi"]
+[Vulnerable "Both"]
+[Deal "S:KJT7.A5.93.KQ863 543.Q3.KQJT86.72 Q9.K87642.A75.95 A862.JT9.42.AJT4"]
+[Dealer "W"]
+[Auction "W"]
+2D Pass Pass 3C 
+Pass 3H Pass Pass 
+Pass    
+[Declarer "N"]
+[Contract "3H"]
+[Play "E"]
+D4 - - - 
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+170"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "5"]
+[West "Xu"]
+[North "Chagas"]
+[East "Zhuang"]
+[South "Branco"]
+[Vulnerable "NS"]
+[Deal "S:843.AJ93.KJ97.Q8 Q762.7654.A65.J9 KJT9.KT8.T42.A63 A5.Q2.Q83.KT7542"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass Pass 
+[Contract "Pass"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "5"]
+[West "Campos"]
+[North "Dai"]
+[East "Villas Boas"]
+[South "Shi"]
+[Vulnerable "NS"]
+[Deal "S:843.AJ93.KJ97.Q8 Q762.7654.A65.J9 KJT9.KT8.T42.A63 A5.Q2.Q83.KT7542"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass Pass 
+[Contract "Pass"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "6"]
+[West "Xu"]
+[North "Chagas"]
+[East "Zhuang"]
+[South "Branco"]
+[Vulnerable "EW"]
+[Deal "S:Q74.AK98.A42.732 J93.74.QJ75.AJ65 A52.J2.963.KQT98 KT86.QT653.KT8.4"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+S3 S2 SK S7 
+S9 S5 S6 SQ 
+C5 C8 C4 C2 
+H4 HJ HQ HA 
+C6 C9 S8 C3 
+CA CK ST C7 
+DQ D3 D8 D4 
+D5 D6 DK DA 
+SJ SA H3 S4 
+CJ CQ H5 H9 
+D7 CT DT D2 
+H7 H2 H6 HK 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+400"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "6"]
+[West "Campos"]
+[North "Dai"]
+[East "Villas Boas"]
+[South "Shi"]
+[Vulnerable "EW"]
+[Deal "S:Q74.AK98.A42.732 J93.74.QJ75.AJ65 A52.J2.963.KQT98 KT86.QT653.KT8.4"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C Pass 1NT 
+Pass Pass Pass  
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+H5 - - - 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "7"]
+[West "Xu"]
+[North "Chagas"]
+[East "Zhuang"]
+[South "Branco"]
+[Vulnerable "Both"]
+[Deal "S:AT94.Q753.A9.853 J76.J6.KJ5.AKQ76 KQ852.T942.74.T2 3.AK8.QT8632.J94"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 2S 
+Pass 2NT Pass 3S 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+SK S3 ST S6 
+S2 D2 SA S7 
+SQ D3 S9 SJ 
+S8 D6 S4 D5 
+S5 C4 C3 DJ 
+H2 HA H7 H6 
+C2 CJ C5 C6 
+CT C9 C8 CA 
+D4 D8 D9 CK 
+*
+[Room "Open"]
+[Result "7"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "7"]
+[West "Campos"]
+[North "Dai"]
+[East "Villas Boas"]
+[South "Shi"]
+[Vulnerable "Both"]
+[Deal "S:AT94.Q753.A9.853 J76.J6.KJ5.AKQ76 KQ852.T942.74.T2 3.AK8.QT8632.J94"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 2C 
+Pass 2D Pass 3C 
+Pass 3D Pass 3H 
+Pass 3NT Pass 4D 
+Pass 5C Pass Pass 
+Pass    
+[Declarer "E"]
+[Contract "5C"]
+[Play "S"]
+H3 - - - 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+620"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "8"]
+[West "Xu"]
+[North "Chagas"]
+[East "Zhuang"]
+[South "Branco"]
+[Vulnerable "None"]
+[Deal "S:.84.AKT9865.A532 A85.AQJT.32.K874 T932.K976.74.QJ6 KQJ764.532.QJ.T9"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1S 4D 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "4D"]
+[Play "W"]
+SA S2 S7 D6 
+D2 D4 DQ DA 
+CK C6 CT C2 
+C4 CJ C9 C3 
+- D7 DJ DK 
+*
+[Room "Open"]
+[Result "11"]
+[Score "+150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "8"]
+[West "Campos"]
+[North "Dai"]
+[East "Villas Boas"]
+[South "Shi"]
+[Vulnerable "None"]
+[Deal "S:.84.AKT9865.A532 A85.AQJT.32.K874 T932.K976.74.QJ6 KQJ764.532.QJ.T9"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1S 2D 
+X Pass 2S 3D 
+Pass Pass 3S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "3S"]
+[Play "S"]
+DA - - - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+140"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "9"]
+[West "Xu"]
+[North "Chagas"]
+[East "Zhuang"]
+[South "Branco"]
+[Vulnerable "EW"]
+[Deal "S:AKQT7.AJ2.Q42.KQ 3.Q7654.973.8743 J86.K8.AKJT86.52 9542.T93.5.AJT96"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 1S Pass 
+2D Pass 2H Pass 
+2S Pass 4NT Pass 
+5D Pass 6D Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "6D"]
+[Play "E"]
+HT - - - 
+*
+[Room "Open"]
+[Result "13"]
+[Score "+940"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "9"]
+[West "Campos"]
+[North "Dai"]
+[East "Villas Boas"]
+[South "Shi"]
+[Vulnerable "EW"]
+[Deal "S:AKQT7.AJ2.Q42.KQ 3.Q7654.973.8743 J86.K8.AKJT86.52 9542.T93.5.AJT96"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 1S Pass 
+2D Pass 2H Pass 
+2S Pass 3D Pass 
+3H Pass 4NT Pass 
+5D Pass 6D Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "6D"]
+[Play "E"]
+CA - - - 
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+920"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "10"]
+[West "Xu"]
+[North "Chagas"]
+[East "Zhuang"]
+[South "Branco"]
+[Vulnerable "Both"]
+[Deal "S:A42.QJ9.AQT8.QT5 QT7653.A64.64.94 K8.K53.KJ752.J62 J9.T872.93.AK873"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D 1S 2S 
+Pass 3C Pass 3D 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+H4 H3 HT HQ 
+D6 D2 D3 DA 
+D4 D5 D9 DQ 
+HA H5 H2 H9 
+C9 C2 CK C5 
+H6 HK H7 HJ 
+S6 DK C7 D8 
+S5 DJ C3 DT 
+S3 D7 C8 CT 
+S7 SK S9 S2 
+ST S8 SJ SA 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "10"]
+[West "Campos"]
+[North "Dai"]
+[East "Villas Boas"]
+[South "Shi"]
+[Vulnerable "Both"]
+[Deal "S:A42.QJ9.AQT8.QT5 QT7653.A64.64.94 K8.K53.KJ752.J62 J9.T872.93.AK873"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT Pass 3D 
+Pass 3NT Pass Pass 
+Pass    
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+S5 - - - 
+*
+[Room "Closed"]
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "11"]
+[West "Xu"]
+[North "Chagas"]
+[East "Zhuang"]
+[South "Branco"]
+[Vulnerable "None"]
+[Deal "S:KJ2.64.A632.Q876 AQ7.JT98.QJT7.53 T3.AKQ52.985.K92 98654.73.K4.AJT4"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1H Pass 
+1S Pass 2C Pass 
+2NT Pass Pass Pass 
+[Declarer "S"]
+[Contract "2NT"]
+[Play "W"]
+DQ D5 D4 D3 
+DT D8 DK D2 
+SQ S3 S6 S2 
+DJ D9 S5 DA 
+SA ST S4 SJ 
+D7 H2 C4 D6 
+HJ HA H3 H4 
+C3 CK CA C6 
+C5 C2 CJ CQ 
+S7 C9 S8 SK 
+- - - H6 
+*
+[Room "Open"]
+[Result "6"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "11"]
+[West "Campos"]
+[North "Dai"]
+[East "Villas Boas"]
+[South "Shi"]
+[Vulnerable "None"]
+[Deal "S:KJ2.64.A632.Q876 AQ7.JT98.QJT7.53 T3.AKQ52.985.K92 98654.73.K4.AJT4"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1H Pass 
+1NT Pass Pass X 
+XX Pass Pass 2S 
+Pass Pass 2NT Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "2NT"]
+[Play "W"]
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+120"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "12"]
+[West "Xu"]
+[North "Chagas"]
+[East "Zhuang"]
+[South "Branco"]
+[Vulnerable "NS"]
+[Deal "S:AQ8.Q832.QT3.A96 K9764.T97.9875.J JT532.A4.J64.T32 .KJ65.AK2.KQ8754"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1C X 
+Pass 1S X Pass 
+1NT 2S 3C Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "3C"]
+[Play "S"]
+C6 CJ C2 C4 
+D3 D5 D4 DA 
+CA S4 C3 CK 
+DQ D7 D6 DK 
+C9 S6 CT CQ 
+H2 H7 HA HK 
+- - DJ - 
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "12"]
+[West "Campos"]
+[North "Dai"]
+[East "Villas Boas"]
+[South "Shi"]
+[Vulnerable "NS"]
+[Deal "S:AQ8.Q832.QT3.A96 K9764.T97.9875.J JT532.A4.J64.T32 .KJ65.AK2.KQ8754"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1C Pass 
+1S Pass 2H Pass 
+2S Pass 3C Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "3C"]
+[Play "S"]
+C6 - - - 
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-50"]
+

@@ -1,0 +1,316 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "2001 ING BANK Top Circuit"]
+[Site "Onstein castle - Vorden, Netherlands, NLD"]
+[Date "2001.04.15"]
+[Round "F8C"]
+[Board "1"]
+[Room "Open"]
+[West "Bakkeren"]
+[North "Kirchhoff"]
+[East "Bakkeren"]
+[South "Paulissen"]
+[Dealer "N"]
+[Deal "S:QJT5.AKQ9.AQ.A84 AK93.T3.T97.T952 4.J762.8643.KJ76 8762.854.KJ52.Q3"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "S"]
+[Auction "N"]
+Pass Pass 2D Pass 
+2S Pass 2NT Pass 
+3C Pass 3H Pass 
+4H Pass Pass Pass 
+[Play "W"]
+SK S4 S6 S5 
+CT CJ CQ CA 
+SA H7 S2 SQ 
+H3 H2 H4 HQ 
+HT HJ H5 H9 
+S3 H6 H8 HK 
+D7 D3 D2 HA 
+C2 C6 C3 C8 
+S9 D4 S7 SJ 
+DT D6 S8 ST 
+C5 C7 D5 C4 
+- CK - - 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F8C"]
+[Board "2"]
+[Room "Open"]
+[West "Bakkeren"]
+[North "Kirchhoff"]
+[East "Bakkeren"]
+[South "Paulissen"]
+[Dealer "E"]
+[Deal "S:QT54.J9432.7.Q83 A873.AK.432.AT76 2.8765.KQ98.KJ95 KJ96.QT.AJT65.42"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "W"]
+[Auction "E"]
+1D Pass 1S Pass 
+2S Pass 3C Pass 
+3D Pass 3H Pass 
+4S Pass Pass Pass 
+[Play "N"]
+H8 HT HJ HA 
+S2 S6 S4 SA 
+H5 S9 ST S3 
+H7 HQ H3 HK 
+DQ DA D7 D2 
+DK DJ C8 D3 
+H6 C2 H9 S7 
+D8 DT S5 D4 
+C5 SK SQ S8 
+D9 D6 H2 C6 
+C9 C4 CQ CA 
+CJ SJ C3 C7 
+- D5 - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F8C"]
+[Board "3"]
+[Room "Open"]
+[West "Bakkeren"]
+[North "Kirchhoff"]
+[East "Bakkeren"]
+[South "Paulissen"]
+[Dealer "S"]
+[Deal "S:AJ65.A842.A5.AQ3 KQ4.KQ.87632.T85 T973.J7.Q4.KJ976 82.T9653.KJT9.42"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "N"]
+[Auction "S"]
+1C Pass 1S Pass 
+2D Pass 2H Pass 
+4S Pass Pass Pass 
+[Play "E"]
+DT D5 D8 DQ 
+S2 S6 SK ST 
+D9 DA D7 D4 
+S8 SA SQ S3 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F8C"]
+[Board "4"]
+[Room "Open"]
+[West "Bakkeren"]
+[North "Kirchhoff"]
+[East "Bakkeren"]
+[South "Paulissen"]
+[Dealer "W"]
+[Deal "S:J865.Q3.JT42.532 Q93.AJ764.A6.A96 AK74.K2.K9.KQJT8 T2.T985.Q8753.74"]
+[Vulnerable "Both"]
+[Contract "2C"]
+[Declarer "S"]
+[Auction "W"]
+1NT X Pass 2C 
+Pass Pass Pass  
+[Play "W"]
+DA D9 D3 D2 
+D6 DK D5 D4 
+CA CK C4 C2 
+C6 CQ C7 C3 
+C9 CJ H5 C5 
+S3 SA S2 S5 
+S9 SK ST S6 
+- S4 - - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F8C"]
+[Board "5"]
+[Room "Open"]
+[West "Bakkeren"]
+[North "Kirchhoff"]
+[East "Bakkeren"]
+[South "Paulissen"]
+[Dealer "N"]
+[Deal "S:A753.A7.J7.KJ732 64.KJT864.Q86.85 KQ98.Q3.AKT94.94 JT2.952.532.AQT6"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "S"]
+[Auction "N"]
+1D Pass 1S 2H 
+3S Pass 4S Pass 
+Pass Pass   
+[Play "W"]
+C8 C4 CA C3 
+H4 H3 H2 HA 
+D8 DA D2 D7 
+S4 SQ S2 S3 
+S6 S8 ST SA 
+H6 SK SJ S5 
+D6 DK D3 DJ 
+DQ DT D5 H7 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F8C"]
+[Board "6"]
+[Room "Open"]
+[West "Bakkeren"]
+[North "Kirchhoff"]
+[East "Bakkeren"]
+[South "Paulissen"]
+[Dealer "E"]
+[Deal "S:AQ2.QJ5.QJT92.64 K9853.AT76.85.KJ T6.K943.AK3.AT85 J74.82.764.Q9732"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "S"]
+[Auction "E"]
+Pass 1D 1S X 
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Play "W"]
+S3 ST SJ SQ 
+H6 H3 H2 HJ 
+D5 DA D4 D2 
+D8 DK D6 D9 
+CJ D3 D7 DQ 
+CK C5 C2 DJ 
+S5 C8 S7 DT 
+HA H4 H8 HQ 
+S8 S6 S4 SA 
+H7 H9 C3 H5 
+- HK - - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F8C"]
+[Board "7"]
+[Room "Open"]
+[West "Bakkeren"]
+[North "Kirchhoff"]
+[East "Bakkeren"]
+[South "Paulissen"]
+[Dealer "S"]
+[Deal "S:Q976.4.AQ93.J854 KJT8432.A65.5.96 A.K73.J87642.KT2 5.QJT982.KT.AQ73"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "E"]
+[Auction "S"]
+Pass Pass 2C 2H 
+3D 3S Pass 4H 
+Pass Pass Pass  
+[Play "S"]
+C5 C6 CK CA 
+S6 SJ SA S5 
+C4 C9 CT CQ 
+H4 H5 HK HQ 
+DA D5 D8 DK 
+CJ H6 C2 C3 
+S7 SK H3 H8 
+D3 HA D2 DT 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F8C"]
+[Board "8"]
+[Room "Open"]
+[West "Bakkeren"]
+[North "Kirchhoff"]
+[East "Bakkeren"]
+[South "Paulissen"]
+[Dealer "W"]
+[Deal "S:8643.T4.64.AJ986 T2.AQ653.AQ2.KT3 A9.J2.J98753.Q54 KQJ75.K987.KT.72"]
+[Vulnerable "None"]
+[Contract "4H"]
+[Declarer "W"]
+[Auction "W"]
+1H Pass 1S Pass 
+1NT Pass 4H Pass 
+Pass Pass   
+[Play "N"]
+D7 DK D4 D2 
+H2 HK H4 H3 
+HJ H7 HT HQ 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F8C"]
+[Board "9"]
+[Room "Open"]
+[West "Bakkeren"]
+[North "Kirchhoff"]
+[East "Bakkeren"]
+[South "Paulissen"]
+[Dealer "N"]
+[Deal "S:9652.AT97.53.T65 KJT84.862.T74.J7 7.J53.KQJ962.A84 AQ3.KQ4.A8.KQ932"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "W"]
+[Auction "N"]
+1D X Pass 1S 
+2D X Pass 3S 
+Pass 4S Pass Pass 
+Pass    
+[Play "N"]
+C4 C2 CT CJ 
+S7 SA S2 S4 
+D2 SQ S5 S8 
+D6 S3 S6 SK 
+C8 D8 S9 SJ 
+CA C3 C6 C7 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "F8C"]
+[Board "10"]
+[Room "Open"]
+[West "Bakkeren"]
+[North "Kirchhoff"]
+[East "Bakkeren"]
+[South "Paulissen"]
+[Dealer "E"]
+[Deal "S:K76.74.AJT84.832 QT9543.Q53..KQJ5 A2.KT62.763.AT74 J8.AJ98.KQ952.96"]
+[Vulnerable "Both"]
+[Contract "3S"]
+[Declarer "W"]
+[Auction "E"]
+1D Pass 1S Pass 
+1NT Pass 2NT Pass 
+3C Pass 3S Pass 
+Pass Pass   
+[Play "N"]
+H6 H8 H4 H3 
+SA S8 S6 S3 
+H2 H9 H7 HQ 
+S2 SJ SK S4 
+CA C6 C2 CK 
+HT HJ S7 H5 
+CT C9 C3 C5 
+*
+[Result "8"]
+

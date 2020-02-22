@@ -1,0 +1,328 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "3rd ING BANK Top Circuit 2000"]
+[Site "Netherlands, NLD"]
+[Date "2000.06.10"]
+[Round "5"]
+[Board "21"]
+[West "Ramondt"]
+[North "Markovic"]
+[East "Maas"]
+[South "Drijver"]
+[Vulnerable "NS"]
+[Deal "S:86.KT85.AKT52.86 J.932.QJ84.AKT92 AKQ9742.Q64..Q75 T53.AJ7.9763.J43"]
+[Dealer "N"]
+[Auction "N"]
+1S Pass 1NT 2C 
+3NT Pass Pass Pass 
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+CA C5 C3 C8 
+D4 H4 D9 DT 
+D8 H6 D3 DA 
+SJ SA S5 S8 
+H2 SK S3 S6 
+C2 SQ ST C6 
+C9 S9 H7 H5 
+H3 S7 D6 D2 
+H9 S4 D7 D5 
+DJ S2 HJ H8 
+DQ HQ HA HT 
+CK C7 C4 HK 
+CT CQ CJ DK 
+*
+[Result "10"]
+[Score "+630"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "22"]
+[West "Ramondt"]
+[North "Markovic"]
+[East "Maas"]
+[South "Drijver"]
+[Vulnerable "EW"]
+[Deal "S:K74.A832.Q2.KQJ2 Q983.4.875.AT875 AT52.QT.K643.963 J6.KJ9765.AJT9.4"]
+[Dealer "E"]
+[Auction "E"]
+1H 1NT Pass 2C 
+Pass 2D Pass 3NT 
+Pass Pass X Pass 
+Pass Pass   
+[Declarer "S"]
+[Contract "3NTX"]
+[Play "W"]
+C5 C9 C4 C2 
+D5 D3 D9 DQ 
+CA C3 H5 CK 
+H4 HT HJ H2 
+D7 HQ HK H3 
+S3 S2 H6 H8 
+C8 C6 DT CQ 
+C7 D4 H7 CJ 
+S8 SA S6 S4 
+S9 S5 SJ SK 
+CT ST H9 HA 
+- - - D2 
+*
+[Result "8"]
+[Score "-100"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "23"]
+[West "Ramondt"]
+[North "Markovic"]
+[East "Maas"]
+[South "Drijver"]
+[Vulnerable "Both"]
+[Deal "S:AQJT2.K.A43.KQ96 K973.AQ9.QJ8.AT3 86.86432.KT9.852 54.JT75.7652.J74"]
+[Dealer "S"]
+[Auction "S"]
+1S 1NT Pass Pass 
+X Pass Pass Pass 
+[Declarer "W"]
+[Contract "1NTX"]
+[Play "N"]
+S8 S4 ST S3 
+S6 S5 SQ SK 
+H6 H5 HK HQ 
+H8 D2 SA S7 
+H4 D5 SJ S9 
+H3 C4 S2 HA 
+C8 C7 CK CA 
+H2 HJ D4 H9 
+C2 HT C6 D8 
+DT H7 C9 DJ 
+C5 CJ CQ C3 
+D9 D6 DA DQ 
+DK D7 D3 CT 
+*
+[Result "5"]
+[Score "-500"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "24"]
+[West "Ramondt"]
+[North "Markovic"]
+[East "Maas"]
+[South "Drijver"]
+[Vulnerable "None"]
+[Deal "S:A.J8.AKJ932.JT75 J9863.K4.QT.AQ63 KQ74.Q973.64.842 T52.AT652.875.K9"]
+[Dealer "W"]
+[Auction "W"]
+1S Pass 2S 3D 
+Pass Pass Pass  
+[Declarer "S"]
+[Contract "3D"]
+[Play "W"]
+S3 S4 S2 SA 
+DT D4 D7 DA 
+DQ D6 D5 DK 
+S6 S7 D8 DJ 
+C3 C2 CK CJ 
+HK H3 H2 H8 
+H4 H9 HA HJ 
+CA C4 C9 C5 
+CQ C8 H5 C7 
+*
+[Result "8"]
+[Score "-50"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "25"]
+[West "Ramondt"]
+[North "Markovic"]
+[East "Maas"]
+[South "Drijver"]
+[Vulnerable "EW"]
+[Deal "S:AT84.974.A3.J972 K5.AQJ852.952.53 932.KT63.J84.KQT QJ76..KQT76.A864"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 1S Pass 3H 
+Pass Pass Pass  
+[Declarer "W"]
+[Contract "3H"]
+[Play "N"]
+CK CA C2 C3 
+S9 S6 SA SK 
+CT C4 C7 C5 
+CQ C6 C9 H2 
+D8 DK DA D5 
+HT C8 CJ H8 
+D4 DQ D3 D2 
+S2 SQ S4 S5 
+S3 SJ S8 D9 
+DJ D6 H9 HQ 
+H6 S7 H7 H5 
+HK D7 H4 HJ 
+H3 DT ST HA 
+*
+[Result "7"]
+[Score "-200"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "26"]
+[West "Ramondt"]
+[North "Markovic"]
+[East "Maas"]
+[South "Drijver"]
+[Vulnerable "Both"]
+[Deal "S:T72.AT875.K.QJT2 A.J6432.653.AK53 643..AQJT97.9864 KQJ985.KQ9.842.7"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 2H Pass 
+2NT Pass 3C Pass 
+3H Pass 3S Pass 
+4C Pass 4H Pass 
+Pass Pass   
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+DA D2 DK D5 
+DQ D4 ST D3 
+DJ D8 S7 D6 
+DT S5 H7 HJ 
+S6 HK HA H2 
+C4 C7 CQ CA 
+S3 S8 S2 SA 
+C6 H9 C2 C3 
+S4 SK H8 C5 
+C8 S9 CJ CK 
+D7 HQ H5 H3 
+*
+[Result "7"]
+[Score "-300"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "27"]
+[West "Ramondt"]
+[North "Markovic"]
+[East "Maas"]
+[South "Drijver"]
+[Vulnerable "None"]
+[Deal "S:A983.QJ52.T64.J6 QT764.T76.A92.T4 KJ52.A84.J53.Q95 .K93.KQ87.AK8732"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C 2C 
+X Pass 2S Pass 
+Pass Pass   
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+DK D4 D9 DJ 
+CA C6 C4 C9 
+CK CJ CT C5 
+D7 D6 DA D3 
+DQ DT D2 D5 
+C8 SA H6 CQ 
+C2 S9 ST SJ 
+*
+[Result "5"]
+[Score "-150"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "28"]
+[West "Ramondt"]
+[North "Markovic"]
+[East "Maas"]
+[South "Drijver"]
+[Vulnerable "NS"]
+[Deal "S:J954.AJ93.T4.542 AT8.72.KQ8762.T9 6.KQT85.J953.863 KQ732.64.A.AKQJ7"]
+[Dealer "W"]
+[Auction "W"]
+Pass 2H 4C Pass 
+4S Pass Pass Pass 
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+HK H4 H3 H7 
+H8 H6 HA H2 
+H5 S2 H9 C9 
+S6 S3 S4 ST 
+HT S7 S5 SA 
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "29"]
+[West "Ramondt"]
+[North "Markovic"]
+[East "Maas"]
+[South "Drijver"]
+[Vulnerable "Both"]
+[Deal "S:KJ8.K432.AK2.J84 Q63.AJT8.J85.KQ2 AT54.5.Q963.A653 972.Q976.T74.T97"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1NT Pass 
+2C Pass 2H Pass 
+3NT Pass Pass Pass 
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+D5 D3 DT DK 
+D8 D6 D4 DA 
+DJ DQ D7 D2 
+SQ S4 S2 SJ 
+CK C3 CT C8 
+S6 S5 S9 SK 
+S3 ST S7 S8 
+H8 SA H6 H2 
+HJ D9 H7 H3 
+C2 CA C7 C4 
+CQ C5 C9 CJ 
+*
+[Result "9"]
+[Score "+600"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "5"]
+[Board "30"]
+[West "Ramondt"]
+[North "Markovic"]
+[East "Maas"]
+[South "Drijver"]
+[Vulnerable "None"]
+[Deal "S:J2.AKT74.T973.86 AQT53.95.Q64.K42 9.Q63.A852.QT753 K8764.J82.KJ.AJ9"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 2C Pass 
+2D Pass 4S Pass 
+Pass Pass   
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+HK H5 H6 H2 
+S2 SA S9 S4 
+*
+[Result "10"]
+[Score "+420"]
+

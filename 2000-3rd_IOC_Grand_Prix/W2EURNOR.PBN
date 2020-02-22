@@ -1,0 +1,959 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "3rd IOC Grand Prix"]
+[Site "Lausanne, Switzerland, CHE"]
+[Date "2000.10.30"]
+[Round "w2"]
+[Board "13"]
+[Room "Open"]
+[West "Beverly Kraft"]
+[North "A. Rauscheid"]
+[East "Rhoda Habert"]
+[South "Pony Nehmert"]
+[Dealer "N"]
+[Deal "S:A63..KQT975.QJT7 KQJ42.QT95.86.63 9.AKJ843.AJ2.K54 T875.762.43.A982"]
+[Vulnerable "Both"]
+[Contract "5D"]
+[Declarer "S"]
+{
+OR - An easy slam was missed. While it is true that Nemhmert,
+South, probaly was not to thrilled with Rauscheid's bidding and
+rebidding hearts, she did not give North an opportunity to show
+her considerable extra features by jumping to game over 4C in
+an already gameforcing auction. Lacking 3 key cards, North was
+apparently reluctant to commit the partnership to slam, though
+she no doubt had an uncomfortable feeling that she could easily
+have enough to make slam an excellent prospect. Plus 620 to NS.
+}
+[Auction "N"]
+1H Pass 2D Pass 
+2H Pass 3C Pass 
+3D Pass 3S Pass 
+4C Pass 5D Pass 
+Pass Pass   
+[Play "W"]
+SK S9 S5 SA 
+S2 DJ S7 S3 
+H5 HA H2 S6 
+D6 DA D3 D5 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "13"]
+[Room "Closed"]
+[West "A. Malinowski"]
+[North "Joan Jackson"]
+[East "A. Hellemann"]
+[South "Robin Klar"]
+[Dealer "N"]
+[Deal "S:A63..KQT975.QJT7 KQJ42.QT95.86.63 9.AKJ843.AJ2.K54 T875.762.43.A982"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "S"]
+{
+CR - The North Americans in the closed room, having to stage
+a comeback, had their chances here, but they did not even sniff
+at slam. This is all the more incomprehensible because they were
+playing 2-over-1 gameforcing. Thus, North's jump rebid unnecessarily
+crowded the auction, and South was reluctant to move beyond 3NT
+for fear of a (partial) misfit (North's shape might well have
+been 3-6-1-3). After a spade lead, there were only 9 tricks,
+and so, Europe picked up another imp where they might have lost
+13.
+}
+[Auction "N"]
+1H Pass 2D Pass 
+3H Pass 3NT Pass 
+Pass Pass   
+[Play "W"]
+SQ S9 ST S3 
+S4 H3 S8 S6 
+S2 H4 S5 SA 
+D6 DA D3 D5 
+H5 HA H2 C7 
+H9 HK H6 CT 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "14"]
+[Room "Open"]
+[West "Beverly Kraft"]
+[North "A. Rauscheid"]
+[East "Rhoda Habert"]
+[South "Pony Nehmert"]
+[Dealer "E"]
+[Deal "S:QT85432.J85.A.T3 9.T97.Q963.AKJ74 .AK2.JT8742.9865 AKJ76.Q643.K5.Q2"]
+[Vulnerable "None"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+OR - The 1NT response was forcing and presumably 3C was constructive
+after East's 2NT rebid (why not 2H?). From the EW convention
+card it's not clear what West should bid holding a weak minor
+single-suiter (they play splinter raises and 3C gameforcing over
+1 of a major). However, the optimal contract was reached, and
+when declarer avoided putting up the DK at trick one, there suddenly
+were 9 tricks for the taking. Plus 400 to EW.
+}
+[Auction "E"]
+1S Pass 1NT Pass 
+2NT Pass 3C Pass 
+3NT Pass Pass Pass 
+[Play "N"]
+D7 D5 DA D3 
+C5 CQ CT C4 
+D4 DK S3 D6 
+C6 C2 C3 CA 
+C8 S6 S2 CK 
+C9 H3 S4 CJ 
+D2 S7 S5 C7 
+D8 H4 H5 DQ 
+H2 SA S8 S9 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "14"]
+[Room "Closed"]
+[West "A. Malinowski"]
+[North "Joan Jackson"]
+[East "A. Hellemann"]
+[South "Robin Klar"]
+[Dealer "E"]
+[Deal "S:QT85432.J85.A.T3 9.T97.Q963.AKJ74 .AK2.JT8742.9865 AKJ76.Q643.K5.Q2"]
+[Vulnerable "None"]
+[Contract "2D"]
+[Declarer "N"]
+{
+CR - At this table, North's rather anemic 2D overcall bought
+the contract when both East and West took a conservative view.
+East might easily have doubled competitively and then West would
+gladly have left the double in. Assuming EW did not have a game
+somewhere, even the double backfiring would not be disastrous.
+There was a game however, and EW collected only 100 points for
+a 7 imp loss.
+}
+[Auction "E"]
+1S Pass 1NT 2D 
+Pass Pass Pass  
+[Play "E"]
+SK S2 S9 D2 
+CQ C3 C4 C5 
+D5 DA D3 D4 
+C2 CT CJ C8 
+H4 H5 H9 HK 
+DK S3 D6 DT 
+SA S4 H7 D7 
+S6 S5 CK C9 
+S7 S8 CA C6 
+SJ ST DQ D8 
+H3 H8 C7 DJ 
+H6 HJ HT HA 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "15"]
+[Room "Open"]
+[West "Beverly Kraft"]
+[North "A. Rauscheid"]
+[East "Rhoda Habert"]
+[South "Pony Nehmert"]
+[Dealer "S"]
+[Deal "S:AT76.A3.A92.Q983 KJ32.JT6.T874.K4 98.KQ875.QJ3.752 Q54.942.K65.AJT6"]
+[Vulnerable "NS"]
+[Contract "2H"]
+[Declarer "S"]
+{
+OR - NS's 14-16 notrump range might explain North's slightly
+conservative pass at this vulnerabilty after transerring to 2H.
+With trumps breaking, there were 8 tricks. However, not counting
+on a 3-3 heart break, declarer tried to establish a club trick,
+and this led to a defensive club ruff but resolved the trump
+situation. When in with the SJ, West erred by returning the D10
+(establishing declarer's 9-spot) while exiting with the SK would
+have been safe as South had no entry left. Plus 140 to NS.
+}
+[Auction "S"]
+1NT Pass 2D Pass 
+2H Pass Pass Pass 
+[Play "W"]
+D7 DQ DK DA 
+H6 H5 H2 HA 
+HT HK H4 H3 
+CK C2 C6 C9 
+C4 C5 CA C3 
+HJ C7 CJ CQ 
+S3 S8 SQ SA 
+D4 H7 CT C8 
+S2 HQ H9 S6 
+SJ S9 S4 S7 
+DT DJ D5 D2 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "15"]
+[Room "Closed"]
+[West "A. Malinowski"]
+[North "Joan Jackson"]
+[East "A. Hellemann"]
+[South "Robin Klar"]
+[Dealer "S"]
+[Deal "S:AT76.A3.A92.Q983 KJ32.JT6.T874.K4 98.KQ875.QJ3.752 Q54.942.K65.AJT6"]
+[Vulnerable "NS"]
+[Contract "1NT"]
+[Declarer "N"]
+{
+CR - A normal standard auction led to a normal contract, though
+the result was slightly inflated. Declarer was lucky to find
+hearts 3-3, not to mention East's return of the DK after being
+allowed to hold the spade Queen at trick 2. Note: South can't
+afford the DA at trick 1 to preserve a late diamond entry if
+the 5th heart needs establishing; with tenuous black-suit holdings,
+discards on the 3rd and 4th round of hearts would be embarrassing;
+the defense might establish enough tricks to set the contract.
+Plus 150 for no swing.
+}
+[Auction "S"]
+1C Pass 1H Pass 
+1S Pass 1NT Pass 
+Pass Pass   
+[Play "E"]
+D6 D2 D8 DQ 
+SQ S6 S2 S8 
+DK DA D4 D3 
+H2 HA H6 H5 
+H4 H3 HT HK 
+H9 S7 HJ HQ 
+S4 ST D7 H8 
+C6 C3 S3 H7 
+D5 D9 DT DJ 
+S5 SA SJ S9 
+*
+[Result "2"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "16"]
+[Room "Open"]
+[West "Beverly Kraft"]
+[North "A. Rauscheid"]
+[East "Rhoda Habert"]
+[South "Pony Nehmert"]
+[Dealer "W"]
+[Deal "S:AK873.9642.65.72 J5.T5.QJ8743.KJ6 94.K73.AK2.Q9854 QT62.AQJ8.T9.AT3"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+OR - West's 3D bid at this vulnerability may not be everybody's
+cup of tea. The key play for the defense occurred at trick 2,
+when declarer's diamond 10 was allowed to hold, killing the suit.
+Though the subsequent heart return by South after cashing her
+top spades gave declarer another lease on life, she misguessed
+clubs knowing that South had 3 clubs at most and North 4 clubs
+at least. Pity. The result was 1 down; plus 100 to NS.
+}
+[Auction "W"]
+3D Pass 3NT Pass 
+Pass Pass   
+[Play "S"]
+S7 S5 S9 ST 
+D5 D3 D2 DT 
+D6 D4 DK D9 
+SK SJ S4 S2 
+SA H5 C5 S6 
+H6 HT HK HA 
+H2 D7 H3 HQ 
+H4 D8 H7 HJ 
+S3 DJ C4 SQ 
+C2 C6 C8 CA 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "16"]
+[Room "Closed"]
+[West "A. Malinowski"]
+[North "Joan Jackson"]
+[East "A. Hellemann"]
+[South "Robin Klar"]
+[Dealer "W"]
+[Deal "S:AK873.9642.65.72 J5.T5.QJ8743.KJ6 94.K73.AK2.Q9854 QT62.AQJ8.T9.AT3"]
+[Vulnerable "EW"]
+[Contract "2NT"]
+[Declarer "N"]
+{
+CR - The closed room West chose to pass, rather than open 3D.
+The upshot was that NS got way overboard, ending in 2NT, after
+South stretched with 2H and North compounded this with 2NT rather
+than retreating to 2S, not a very good contact, West might have
+tried 3D anyway. Following a diamond lead, the 2NT contract went
+three down when the spades did not split 3-3. Another 150 points
+and 6 imps to Europe.
+}
+[Auction "W"]
+Pass 1C X 1S 
+2D Pass Pass 2H 
+Pass 2NT Pass Pass 
+Pass    
+[Play "E"]
+DT D5 D3 D2 
+D9 D6 DJ DA 
+S2 S3 SJ S9 
+H8 C2 DQ DK 
+S6 SA S5 S4 
+ST SK HT C4 
+HA H2 H5 HK 
+HQ H4 D4 H3 
+HJ H6 D7 H7 
+SQ S7 D8 C5 
+C3 C7 CK C8 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "17"]
+[Room "Open"]
+[West "Beverly Kraft"]
+[North "A. Rauscheid"]
+[East "Rhoda Habert"]
+[South "Pony Nehmert"]
+[Dealer "N"]
+[Deal "S:72.T94.J852.T832 QJ964.K2.74.QJ74 AK3.A63.QT.AK965 T85.QJ875.AK963."]
+[Vulnerable "None"]
+[Contract "2CX"]
+[Declarer "N"]
+{
+OR - After an artificial and strong 2C by North, East tried CRASH,
+showing two suits of equal color. West, no doubt, hoped to limit
+the damage by passing (if East held the black suits, there's
+no problem). Had East shifted to hearts after cashing the diamond
+Ace, declarer would have been held to her contract, for +180,
+losing 2 diamonds, 2 hearts and 1 club trick. Lack of dummy entries
+prevents her from picking up the trumps. When East continued
+with a LOW diamond at trick 2, North had no trouble making 2
+overtricks for plus 380.*)
+}
+[Auction "N"]
+2C X Pass Pass 
+Pass    
+[Play "E"]
+DA D2 D7 DT 
+D3 D5 D4 DQ 
+D6 C2 C4 CA 
+H5 C8 CJ C5 
+H7 H4 HK HA 
+S5 S2 S4 SA 
+S8 S7 S6 SK 
+ST CT S9 S3 
+H8 C3 C7 C9 
+D9 D8 CQ CK 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "17"]
+[Room "Closed"]
+[West "A. Malinowski"]
+[North "Joan Jackson"]
+[East "A. Hellemann"]
+[South "Robin Klar"]
+[Dealer "N"]
+[Deal "S:72.T94.J852.T832 QJ964.K2.74.QJ74 AK3.A63.QT.AK965 T85.QJ875.AK963."]
+[Vulnerable "None"]
+[Contract "2NT"]
+[Declarer "N"]
+{
+CR - Over North's 20-21 notrump, East (hailing from Norway, incidentally)
+was not tempted to enter the fray. The horrible club division
+caused declarer to go quietly 2 down for minus 100 but a 480
+point net gain for Europe, or 10 imps
+}
+[Auction "N"]
+2NT Pass Pass Pass 
+[Play "E"]
+D6 D2 D7 DQ 
+D3 C2 C7 CA 
+S8 C8 CJ C5 
+DK D5 D4 DT 
+HQ H4 H2 H3 
+H7 H9 HK HA 
+HJ HT S4 H6 
+H8 S2 S6 C6 
+H5 CT S9 S3 
+DA D8 SJ C9 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "18"]
+[Room "Open"]
+[West "Beverly Kraft"]
+[North "A. Rauscheid"]
+[East "Rhoda Habert"]
+[South "Pony Nehmert"]
+[Dealer "E"]
+[Deal "S:K876.K.AQJ62.T72 J3.AJT93.854.J65 AT94.872.7.KQ984 Q52.Q654.KT93.A3"]
+[Vulnerable "NS"]
+[Contract "3S"]
+[Declarer "N"]
+{
+OR - Backing in after the weak notrump opening and 2H sign-off,
+NS easily made an overtick in 3S when the defense took the guess
+out of the club suit, and the trumps behaved. The duplication
+in diamonds make 4S a reasonable contract at best, when most
+of the missing strength is located in the East hand. Plus 170
+to NS.
+}
+[Auction "E"]
+1NT Pass 2H Pass 
+Pass X Pass 2S 
+3H Pass Pass 3S 
+Pass Pass Pass  
+[Play "E"]
+H5 HK HA H2 
+CA C2 C5 CK 
+C3 CT CJ CQ 
+S2 S6 S3 SA 
+S5 SK SJ S4 
+H4 C7 C6 C9 
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "18"]
+[Room "Closed"]
+[West "A. Malinowski"]
+[North "Joan Jackson"]
+[East "A. Hellemann"]
+[South "Robin Klar"]
+[Dealer "E"]
+[Deal "S:K876.K.AQJ62.T72 J3.AJT93.854.J65 AT94.872.7.KQ984 Q52.Q654.KT93.A3"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "S"]
+{
+CR - In this room, it was South who opened the bidding. East's
+2D showed a sound raise to 2H, but when the spade fit was uncovered,
+North, counting on heart shortness in dummy, lept to game. The
+passive defense put up by EW resulted in 1 down when declarer
+lost 2 clubs, a heart, and a trump trick. Minus 100 to NS and
+7 imps to Europe, who, at the halfway mark of the second set,
+was leading 24-7 in the set and 53-8 in total.
+}
+[Auction "E"]
+Pass 1D 1H X 
+2D 2S Pass 4S 
+Pass Pass Pass  
+[Play "W"]
+HA H2 H6 HK 
+HJ H7 H5 S6 
+C5 CK CA CT 
+H9 H8 HQ S8 
+C6 CQ C3 C2 
+CJ C4 DT C7 
+HT S4 H4 D2 
+S3 S9 S2 SK 
+SJ SA S5 S7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "19"]
+[Room "Open"]
+[West "Beverly Kraft"]
+[North "A. Rauscheid"]
+[East "Rhoda Habert"]
+[South "Pony Nehmert"]
+[Dealer "S"]
+[Deal "S:AQ8.T53.JT92.K62 975.K97.754.AQ93 T63.AJ864.Q3.754 KJ42.Q2.AK86.JT8"]
+[Vulnerable "EW"]
+[Contract "1NT"]
+[Declarer "E"]
+{
+R - A simple 1NT contract yielding 7 tricks after a diamond lead:
+2 diamonds, 4 clubs, and a heart. Presumably, declarer was not
+afraid of a 6-2 heart split when she tried a spade to the Jack
+at trick 7. All's well that ends well? Plus 90 to EW.
+}
+[Auction "S"]
+Pass Pass Pass 1NT 
+Pass Pass Pass  
+[Play "S"]
+DJ D4 DQ DA 
+CK CA C4 CJ 
+H3 H7 H4 HQ 
+C2 C3 C5 C8 
+C6 CQ C7 CT 
+S8 C9 S6 S4 
+SQ S5 S3 SJ 
+HT HK HA H2 
+H5 H9 HJ D6 
+D2 D5 H8 D8 
+D9 S7 H6 S2 
+DT D7 D3 DK 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "19"]
+[Room "Closed"]
+[West "A. Malinowski"]
+[North "Joan Jackson"]
+[East "A. Hellemann"]
+[South "Robin Klar"]
+[Dealer "S"]
+[Deal "S:AQ8.T53.JT92.K62 975.K97.754.AQ93 T63.AJ864.Q3.754 KJ42.Q2.AK86.JT8"]
+[Vulnerable "EW"]
+[Contract "1NT"]
+[Declarer "W"]
+{
+CR - The contract was the same in the closed room, except that
+West, rather than East was declarer. East won North's heart lead
+in dummy with the heart Queen, and when the club finesse succeeded,
+she took her 7 tricks and had to concede the balance. No swing.
+}
+[Auction "S"]
+Pass Pass Pass 1D 
+Pass 1NT Pass Pass 
+Pass    
+[Play "N"]
+H6 HQ H5 H7 
+C4 CJ C2 C3 
+C5 CT C6 C9 
+C7 C8 CK CA 
+S6 S2 S8 CQ 
+D3 DA D2 D5 
+DQ DK D9 D4 
+ST D6 DT D7 
+H4 D8 DJ S5 
+HA H2 H3 HK 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "20"]
+[Room "Open"]
+[West "Beverly Kraft"]
+[North "A. Rauscheid"]
+[East "Rhoda Habert"]
+[South "Pony Nehmert"]
+[Dealer "W"]
+[Deal "S:AKQT7.QJ9842.A4. 542.AT3.K983.KJ8 J63.7.QT62.Q6432 98.K65.J75.AT975"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "N"]
+{
+OR - Play not available. The remarkable thing about this deal
+is that the auctions were identical in both rooms. West started
+with a 1D-opening to which East responded 1NT. Both Souths bid
+a Michaels type cuebid, and urged partner on with another cuebid
+after the latter's minimum 2S response. North had nothing to
+spare and bid 3S only which South raised to game. Apparently,
+declarer lost 3 tricks in this room, scoring plus 620.
+}
+[Auction "W"]
+1D Pass 1NT 2D 
+Pass 2S Pass 3D 
+Pass 3S Pass 4S 
+Pass Pass Pass  
+[Play "E"]
+*
+[Result "10"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "20"]
+[Room "Closed"]
+[West "A. Malinowski"]
+[North "Joan Jackson"]
+[East "A. Hellemann"]
+[South "Robin Klar"]
+[Dealer "W"]
+[Deal "S:AKQT7.QJ9842.A4. 542.AT3.K983.KJ8 J63.7.QT62.Q6432 98.K65.J75.AT975"]
+[Vulnerable "Both"]
+[Contract "4S"]
+[Declarer "N"]
+{
+CR - After an identical auction, declarer, North, won East's
+opening diamond lead and correctly started work on establishing
+her side suit. West did her best to shorten dummy's trumps, but
+when both the trumps and the hearts behaved, declarer made an
+overtrick, losing just 1 diamond and 1 heart trick. Plus 450
+and 1 imp to NS.
+}
+[Auction "W"]
+1D Pass 1NT 2D 
+Pass 2S Pass 3D 
+Pass 3S Pass 4S 
+Pass Pass Pass  
+[Play "E"]
+D7 DA D3 D2 
+HK HQ H3 H7 
+D5 D4 DK D6 
+C5 S7 CJ C2 
+H5 HJ HA S3 
+C7 ST C8 C3 
+H6 H9 HT SJ 
+S8 SA S2 S6 
+- SK S4 - 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "21"]
+[Room "Open"]
+[West "Beverly Kraft"]
+[North "A. Rauscheid"]
+[East "Rhoda Habert"]
+[South "Pony Nehmert"]
+[Dealer "N"]
+[Deal "S:KQ.97542.AQ732.Q 2.AKT.KT96.JT986 T83.QJ3.J.AK7432 AJ97654.86.854.5"]
+[Vulnerable "NS"]
+[Contract "3S"]
+[Declarer "E"]
+{
+OR - East's 3S contract met a somewhat more cruel fate than it
+deserved when the defense managed to get 6 tricks on a cross-ruff.
+Once the club Queen held the opening lead, South smartly shifted
+to the diamond Ace and another, ruffed by North. South next ruffed
+a club, let North ruff another diamond, and received a second
+club ruff. Down 2, plus 100 to EW.
+}
+[Auction "N"]
+Pass 3S Pass Pass 
+Pass    
+[Play "S"]
+CQ C6 C7 C5 
+DA D6 DJ D4 
+D2 D9 S3 D5 
+SQ C8 CK S4 
+D3 DT S8 D8 
+SK C9 C2 S9 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "21"]
+[Room "Closed"]
+[West "A. Malinowski"]
+[North "Joan Jackson"]
+[East "A. Hellemann"]
+[South "Robin Klar"]
+[Dealer "N"]
+[Deal "S:KQ.97542.AQ732.Q 2.AKT.KT96.JT986 T83.QJ3.J.AK7432 AJ97654.86.854.5"]
+[Vulnerable "NS"]
+[Contract "4HX"]
+[Declarer "N"]
+{
+CR - Unlike the open room, North in the closed room opened the
+bidding, allowing South to compete with a negative double. North
+could only bid 4C (which can be set 3 tricks) but when West doubled,
+South redoubled to let North pick a red suit. West doubled again,
+but the defense only came to the spade Ace, a spade ruff, and
+2 top trumps. Meanwhile, West kept getting endplayed into assisting
+declarer to develop her clubs. Notice that 3 rounds of trumps
+will lead to 2 down. Plus 200 to EW and 7 imps to Europe.
+}
+[Auction "N"]
+1C 3S X Pass 
+4C Pass Pass X 
+Pass Pass XX Pass 
+4H Pass Pass X 
+Pass Pass Pass  
+[Play "E"]
+SA SQ S2 S8 
+S4 SK HT S3 
+C5 CQ C6 C2 
+H6 H2 HK H3 
+D5 H4 CJ C3 
+H8 H5 HA HJ 
+S5 H7 C8 C4 
+D4 DA D6 DJ 
+D8 D2 D9 HQ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "22"]
+[Room "Open"]
+[West "Beverly Kraft"]
+[North "A. Rauscheid"]
+[East "Rhoda Habert"]
+[South "Pony Nehmert"]
+[Dealer "E"]
+[Deal "S:A2.AKQ5.9873.AQ7 KT87.T8742.Q.965 Q94.J9.KJ64.T432 J653.63.AT52.KJ8"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "S"]
+{
+OR - South won the heart lead against 3NT, and crossed to hand
+in hearts in order to attack diamonds. When an honor appeared,
+the road to 9 tricks was easy. After the defenders had estabished
+a second spade winner, declarer could no longer afford to take
+the club finesse for an overtrick. Plus 400 to NS.
+}
+[Auction "E"]
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Play "W"]
+H4 HJ H3 H5 
+H2 H9 H6 HA 
+DQ DK DA D8 
+SK S4 S5 S2 
+S8 S9 SJ SA 
+H7 D4 DT D9 
+ST SQ S3 C7 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "22"]
+[Room "Closed"]
+[West "A. Malinowski"]
+[North "Joan Jackson"]
+[East "A. Hellemann"]
+[South "Robin Klar"]
+[Dealer "E"]
+[Deal "S:A2.AKQ5.9873.AQ7 KT87.T8742.Q.965 Q94.J9.KJ64.T432 J653.63.AT52.KJ8"]
+[Vulnerable "EW"]
+[Contract "3NT"]
+[Declarer "N"]
+{
+CR - The contract was the same here, but North was declarer.
+The difference was that the defense gained a tempo by attacking
+spades. But when that suit broke 4-4, declarer lost only 2 spades
+and 2 diamonds after similar play. Plus 400 to NS and no swing.
+}
+[Auction "E"]
+Pass 1D Pass 1NT 
+Pass 3NT Pass Pass 
+Pass    
+[Play "E"]
+S3 S2 SK S4 
+S5 SA S7 S9 
+DA D3 DQ DK 
+S6 C7 ST SQ 
+D2 D7 H2 DJ 
+DT D8 C6 D6 
+SJ CQ S8 C2 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "23"]
+[Room "Open"]
+[West "Beverly Kraft"]
+[North "A. Rauscheid"]
+[East "Rhoda Habert"]
+[South "Pony Nehmert"]
+[Dealer "S"]
+[Deal "S:Q92.AKQ8.8763.T9 K843.52.T952.K42 T765.T763.4.A865 AJ.J94.AKQJ.QJ73"]
+[Vulnerable "Both"]
+[Contract "2HX"]
+[Declarer "S"]
+{
+OR - Disaster occured in this room when West, holding diamond
+length, passed after East had doubled to show a strong hand.
+Declarer managed to develop a second club trick and made her
+doubled contract. Had West covered the second club however, declarer
+plays a spade to the Jack and Queen. West must win to block the
+suit and return a diamond to knock out the dummy entry. Now,
+South still has 2 diamond losers and will go 1 down. Plus 670
+to NS.
+}
+[Auction "S"]
+Pass Pass Pass 1D 
+1H 1S 2H X 
+Pass Pass Pass  
+[Play "W"]
+S4 S5 SA S2 
+H2 H3 H4 HA 
+D5 D4 DA D3 
+H5 H6 H9 HK 
+C4 C5 CJ C9 
+D2 H7 HJ HQ 
+C2 C6 CQ CT 
+D9 HT DK D6 
+CK CA C3 D7 
+S3 C8 C7 D8 
+SK S6 SJ SQ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "23"]
+[Room "Closed"]
+[West "A. Malinowski"]
+[North "Joan Jackson"]
+[East "A. Hellemann"]
+[South "Robin Klar"]
+[Dealer "S"]
+[Deal "S:Q92.AKQ8.8763.T9 K843.52.T952.K42 T765.T763.4.A865 AJ.J94.AKQJ.QJ73"]
+[Vulnerable "Both"]
+[Contract "2H"]
+[Declarer "N"]
+{
+CR - South in the closed room opened the bidding, and it was
+North who became declarer in 2H. The diamond lead and continuation
+allowed her to ruff 3 diamonds in hand after conceding a club
+trick and she took 8 tricks altogether. Plus 110 to NS and 11
+imps to Europe.
+}
+[Auction "S"]
+1D Pass 1H 1NT 
+2H Pass Pass Pass 
+[Play "E"]
+DA D3 D5 D4 
+DK D6 D2 H3 
+C3 C9 CK C5 
+H9 HA H2 H6 
+DQ D7 D9 H7 
+C7 CT C2 CA 
+CJ H8 C4 C6 
+DJ D8 DT HT 
+SA S2 S3 S7 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "24"]
+[Room "Open"]
+[West "Beverly Kraft"]
+[North "A. Rauscheid"]
+[East "Rhoda Habert"]
+[South "Pony Nehmert"]
+[Dealer "W"]
+[Deal "S:T94.AQ3.7432.T76 QJ63.98542.K6.KJ 85.J7.AQJ98.A832 AK72.KT6.T5.Q954"]
+[Vulnerable "None"]
+[Contract "2D"]
+[Declarer "N"]
+{
+OR - On the last board of the set, Europe won the partscore battle
+when EW failed to compete despite 2 opportunities to do so: over
+1D, and over 2D. The 2D contract eaily made with an overtrick
+when the trumps couldn't have behaved in a friendlier fashion.
+2H by EW is making, but perhaps South would have bid 3D anyway.
+Plus 110 to NS.
+}
+[Auction "W"]
+Pass 1D Pass 1NT 
+Pass 2C Pass 2D 
+Pass Pass Pass  
+[Play "E"]
+SK S4 S3 S5 
+SA S9 S6 S8 
+S7 ST SJ D8 
+HK HA H2 HJ 
+D5 D2 D6 DQ 
+H6 HQ H4 H7 
+DT D3 DK DA 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "w2"]
+[Board "24"]
+[Room "Closed"]
+[West "A. Malinowski"]
+[North "Joan Jackson"]
+[East "A. Hellemann"]
+[South "Robin Klar"]
+[Dealer "W"]
+[Deal "S:T94.AQ3.7432.T76 QJ63.98542.K6.KJ 85.J7.AQJ98.A832 AK72.KT6.T5.Q954"]
+[Vulnerable "None"]
+[Contract "3H"]
+[Declarer "W"]
+{
+CR - The closed room EW were not as timid and went straight to
+3H, which  was destined to fail by 1 trick. Whether EW would
+have bought the contract at 2H is an open question, however.
+Still, Europe picked up 2 more imps, and now, at the halfway
+point of the match, the lead was 85-9 imps with 24 boards to
+go in this match.
+}
+[Auction "W"]
+Pass 1D X 1NT 
+3H Pass Pass Pass 
+[Play "N"]
+S8 S2 S4 SQ 
+H7 HK HA H2 
+DA D5 D3 DK 
+DQ DT D2 D6 
+S5 SA S9 S3 
+HJ H6 HQ H4 
+CA C4 C6 CK 
+*
+[Result "8"]
+

@@ -1,0 +1,1441 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "European Team Championships '99"]
+[Site "Malta, MLT"]
+[Date "1999.06.21"]
+[Board "1"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T84.A6.AQT543.J8 K92.Q98543.7.A97 AQJ6.T2.J82.KQT4 753.KJ7.K96.6532"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS 460"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "N"]
+1D 1H X 2H
+Pass 3H X Pass
+3NT Pass Pass Pass
+[Play "E"]
+H5 H2 HK HA
+S2 SQ S3 S4
+D7 DJ DK DA
+C9 D2 D6 DQ
+C7 D8 D9 DT
+S9 HT C2 D3
+SK C4 - D5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "1"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T84.A6.AQT543.J8 K92.Q98543.7.A97 AQJ6.T2.J82.KQT4 753.KJ7.K96.6532"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 450"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1D 1H 1S 2H
+X Pass 3H X
+XX Pass 3S Pass
+3NT Pass 4S Pass
+Pass Pass
+[Play "W"]
+H7 HA H3 H2
+S3 ST SK SA
+C2 CJ CA C4
+HJ H6 H5 HT
+D6 D3 D7 D8
+S5 S4 S2 SQ
+S7 S8 S9 SJ
+D9 D4 H4 DJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "2"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:432.J763.AQJ52.8 87.84.T984.AK753 A965.952.K3.QJ92 KQJT.AKQT.76.T64"]
+[Declarer "E"]
+[Contract "1H"]
+[Result "5"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS 100"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "E"]
+Pass Pass 1C X
+1H Pass Pass Pass
+[Play "S"]
+S8 S5 SJ S2
+S7 SA SK S3
+H4 H9 HA H3
+C3 S6 SQ S4
+C5 S9 ST C8
+C7 C2 C6 H6
+D4 DK D6 D2
+CK C9 C4 H7
+D8 D3 D7 DA
+D9 CJ HT DQ
+H8 H2 HK HJ
+DT H5 HQ D5
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "2"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:432.J763.AQJ52.8 87.84.T984.AK753 A965.952.K3.QJ92 KQJT.AKQT.76.T64"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1C X
+1D 1NT Pass 2NT
+Pass Pass Pass
+[Play "W"]
+DK D6 D2 D4
+D3 D7 DJ D8
+- - DA D9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "3"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J97.J6.JT53.6432 KT63.KQ32.K2.T85 Q52.8754.764.J97 A84.AT9.AQ98.AKQ"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result "13"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS -1470"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1H Pass 2NT
+Pass 3S Pass 4NT
+Pass 6NT Pass Pass
+Pass
+[Play "S"]
+D3 D2 D4 D8
+D5 DK D6 D9
+H6 HK H4 H9
+HJ H2 H5 HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "3"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J97.J6.JT53.6432 KT63.KQ32.K2.T85 Q52.8754.764.J97 A84.AT9.AQ98.AKQ"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -1440"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass Pass 2C
+Pass 2D Pass 2NT
+Pass 3C Pass 3D
+Pass 6NT Pass Pass
+Pass
+[Play "S"]
+C4 C5 C7 CK
+S7 S3 S2 SA
+S9 ST SQ S8
+C2 C8 C9 CA
+SJ SK S5 S4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "4"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AT6.A7.AJT9.9843 KJ92.KQ4.KQ76.J2 754.JT95.43.QT65 Q83.8632.852.AK7"]
+[Declarer "S"]
+[Contract "1H"]
+[Result "8"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS 110"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "W"]
+1C X Pass 1H
+Pass Pass Pass
+[Play "W"]
+C8 CJ CQ CK
+D9 DK D3 D5
+S6 SJ S4 S3
+C3 C2 C5 CA
+H7 HK H5 H2
+SA SK S5 S8
+DA D6 D4 D2
+DJ DQ H9 D8
+C4 H4 CT C7
+- S2 S7 -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "4"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AT6.A7.AJT9.9843 KJ92.KQ4.KQ76.J2 754.JT95.43.QT65 Q83.8632.852.AK7"]
+[Declarer "S"]
+[Contract "1H"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 110"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1D X Pass 1H
+Pass Pass Pass
+[Play "W"]
+C8 CJ CQ CA
+HA H4 H5 H2
+H7 HQ H9 H3
+SA SK S4 S3
+C3 C2 CT CK
+D9 DK D3 D5
+S6 S2 S5 SQ
+DA D6 D4 D2
+DJ DQ HT D8
+C9 HK C6 C7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "5"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT984.32.A8.AKT7 J73.T8754.64.J52 A65.Q.KQJT9732.3 K2.AKJ96.5.Q9864"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "11"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS 600"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "N"]
+1S Pass 2D 2S
+Pass 4H 5D Pass
+Pass Pass
+[Play "W"]
+HA H2 H5 HQ
+HK H3 H4 D2
+D5 DA D4 D3
+H6 D8 D6 DK
+C6 S4 H7 DQ
+S2 S8 S3 SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "5"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QT984.32.A8.AKT7 J73.T8754.64.J52 A65.Q.KQJT9732.3 K2.AKJ96.5.Q9864"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1S Pass 3D Pass
+4C Pass 5D Pass
+Pass Pass
+[Play "W"]
+HA H2 H7 HQ
+HK H3 H4 D2
+D5 DA D4 D3
+H6 D8 D6 DK
+H9 S4 H5 DQ
+C4 S8 H8 DJ
+C6 C7 HT DT
+HJ S9 S3 D9
+S2 ST S7 D7
+C8 CK C2 C3
+C9 CA C5 S5
+SK SQ SJ SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "6"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KJ43.QT64.52.763 AQ87.KJ9.7.AQJ95 T92.A753.AT63.82 65.82.KQJ984.KT4"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS 430"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 1S Pass 3D
+Pass 3NT Pass Pass
+Pass
+[Play "W"]
+H3 H2 HQ HK
+D3 DK D2 D7
+D6 DQ D5 S7
+DA DJ H4 S8
+H5 H8 HT HJ
+C2 CK C3 C5
+C8 C4 C6 CJ
+ST CT C7 CA
+S9 S5 S3 CQ
+H7 D4 S4 C9
+S2 S6 SJ SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "6"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KJ43.QT64.52.763 AQ87.KJ9.7.AQJ95 T92.A753.AT63.82 65.82.KQJ984.KT4"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 400"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C Pass 3D
+Pass 3NT Pass Pass
+Pass
+[Play "W"]
+S9 S5 S3 SQ
+D3 DK D2 D7
+DA DQ D5 S7
+ST S6 S4 SA
+C2 CT C7 C5
+D6 DJ C3 H9
+C8 CK C6 C9
+H3 C4 H4 CJ
+H5 H2 H6 CQ
+H7 H8 SJ CA
+S2 D4 SK S8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "7"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AQ52.A.98653.J98 KJ976.KT5.Q7.A42 3.QJ873.42.Q7653 T84.9642.AKJT.KT"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS -660"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "S"]
+1D 1S Pass 2C
+Pass 2D Pass 2S
+Pass 3D Pass 3NT
+Pass Pass Pass
+[Play "S"]
+D8 D7 D2 DK
+S2 S6 S3 S8
+SA S7 C7 ST
+D3 DQ D4 DA
+HA H5 H3 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "7"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AQ52.A.98653.J98 KJ976.KT5.Q7.A42 3.QJ873.42.Q7653 T84.9642.AKJT.KT"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -620"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1S Pass 2D
+Pass 2NT Pass 4S
+Pass Pass Pass
+[Play "N"]
+HQ H2 HA H5
+CQ CK C9 C2
+S3 S4 S2 S7
+C3 CT C8 CA
+C5 ST CJ C4
+C6 S8 SA S6
+D2 DT D3 DQ
+H3 - - SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "8"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J42.94.864.T9832 A973.A53.AQ.AKQ6 KT5.KT862.T952.7 Q86.QJ7.KJ73.J54"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS 990"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 2NT Pass 6NT
+Pass Pass Pass
+[Play "E"]
+D5 D3 D6 DA
+SK S6 S2 S3
+D2 D7 D4 DQ
+C7 CJ C2 C6
+H8 C4 C3 CA
+H2 C5 C8 CK
+D9 H7 C9 CQ
+H6 HJ H4 HA
+S5 SQ S4 S7
+DT DJ D8 H3
+HT DK CT H5
+- S8 - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "8"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J42.94.864.T9832 A973.A53.AQ.AKQ6 KT5.KT862.T952.7 Q86.QJ7.KJ73.J54"]
+[Declarer "S"]
+[Contract "4NT"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 460"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1C Pass 1NT
+Pass 4NT Pass Pass
+Pass
+[Play "W"]
+CT CA C7 C4
+D6 DA D2 D3
+D4 DQ D5 D7
+C2 C6 H2 CJ
+H4 H3 HK HQ
+D8 S3 DT DK
+- - - DJ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "9"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT53.KT5.A4.QT74 K82.64.K973.J963 Q9.AJ872.JT865.A J764.Q93.Q2.K852"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS 420"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "N"]
+1C Pass 1H Pass
+1S Pass 2D Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "W"]
+S7 S3 SK S9
+DQ DA D3 DT
+D2 D4 DK D5
+C2 C4 C3 CA
+C5 H5 D7 D6
+H3 HK H4 H2
+HQ HT H6 H7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "9"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AT53.KT5.A4.QT74 K82.64.K973.J963 Q9.AJ872.JT865.A J764.Q93.Q2.K852"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 480"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1C Pass 1H Pass
+1S Pass 2C Pass
+2S Pass 4H Pass
+Pass Pass
+[Play "W"]
+DQ DA D3 D6
+D2 D4 D7 DT
+C2 C4 C3 CA
+S6 H5 D9 D5
+C5 C7 C6 H2
+S4 HT DK D8
+C8 CT CJ H7
+S7 HK S2 DJ
+SJ SA S8 S9
+CK CQ C9 H8
+- - - SQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "10"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KJ9763.AJ984.2.A A.KQ6.KQJ654.854 QT8.32.AT8.QJ732 542.T75.973.KT96"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS -650"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "E"]
+1S 2D 2S Pass
+4S Pass Pass Pass
+[Play "S"]
+DK DA D9 D2
+H6 H2 H5 HA
+HQ H3 H7 H8
+DQ D8 D3 S3
+HK S8 HT H4
+SA SQ S2 S6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "10"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KJ9763.AJ984.2.A A.KQ6.KQJ654.854 QT8.32.AT8.QJ732 542.T75.973.KT96"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -650"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1S 2D 2S Pass
+4S Pass Pass Pass
+[Play "S"]
+DK DA D7 D2
+H6 H2 H5 HA
+HQ H3 H7 H4
+DJ D8 D3 S3
+HK S8 HT H8
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "11"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q75.AKQ73.73.K54 J82.T42.J9642.T9 AT943.65.K.Q8763 K6.J98.AQT85.AJ2"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "10"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS 170"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "S"]
+1H Pass 1S 2D
+X Pass 2S Pass
+Pass Pass
+[Play "E"]
+H9 HA H4 H6
+H8 HK H2 H5
+HJ HQ HT DK
+D8 D3 D9 S3
+C2 CK C9 C3
+CJ C4 CT C6
+DA D7 D2 S4
+CA C5 D4 C7
+D5 S7 D6 C8
+DT H3 SJ SA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "11"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q75.AKQ73.73.K54 J82.T42.J9642.T9 AT943.65.K.Q8763 K6.J98.AQT85.AJ2"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1H Pass 1S 2D
+X Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+DA D3 D9 DK
+CA C4 C9 C6
+C2 CK CT C3
+SK S5 S8 ST
+CJ C5 S2 C7
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "12"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:6543.K4.9854.A74 AKQ9.Q75.J63.KJ8 T87.AJ3.AKT2.Q32 J2.T9862.Q7.T965"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS -100"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "W"]
+Pass 1NT Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+DA D7 D5 D3
+DK DQ D4 D6
+C3 C5 CA C8
+ST SJ S5 S9
+H3 H2 HK H5
+C2 C6 C7 CK
+D2 C9 D8 DJ
+S7 S2 S3 SA
+S8 CT S4 SK
+HJ H6 - SQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "12"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:6543.K4.9854.A74 AKQ9.Q75.J63.KJ8 T87.AJ3.AKT2.Q32 J2.T9862.Q7.T965"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -100"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1NT Pass 2D
+Pass 2H Pass Pass
+Pass
+[Play "E"]
+DA D7 D4 D6
+DK DQ D9 D3
+S8 SJ S3 S9
+HJ H2 H4 H7
+C2 C5 CA C8
+C3 C6 C7 CK
+D2 C9 D5 DJ
+S7 S2 S4 SA
+ST CT S5 SQ
+H3 H6 HK HQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "13"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ942.K8.K4.QT76 KT5.AT43.A73.AK3 J87.9765.J92.852 63.QJ2.QT865.J94"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS -90"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "N"]
+1S 1NT Pass Pass
+Pass
+[Play "S"]
+S7 S3 SA S5
+SJ S6 S4 ST
+S8 D5 S2 SK
+H5 HQ HK H3
+C5 D6 SQ D3
+C2 D8 S9 C3
+H6 H2 H8 HT
+C8 C4 C6 CA
+H7 C9 C7 CK
+H9 HJ CT H4
+D2 DT D4 DA
+- - - HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "13"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ942.K8.K4.QT76 KT5.AT43.A73.AK3 J87.9765.J92.852 63.QJ2.QT865.J94"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -90"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1S 1NT Pass Pass
+Pass
+[Play "S"]
+S8 S3 SA S5
+SJ S6 S2 ST
+S7 D5 S4 SK
+H5 H2 H8 HA
+H6 HJ HK H3
+H7 D6 SQ D3
+C5 D8 S9 D7
+D2 DT D4 DA
+C2 C4 C6 CA
+H9 HQ DK H4
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "14"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A2.JT85.KJT9.943 83.A7643.85432.5 QJ974.K9.AQ7.A72 KT65.Q2.6.KQJT86"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS 150"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C Pass 2S Pass
+3NT Pass Pass Pass
+[Play "N"]
+CK C3 C5 C7
+CJ C4 D2 CA
+SK SA S3 SJ
+ST S2 S8 S9
+CQ C9 H3 C2
+CT H5 D8 D7
+C8 H8 D5 S4
+C6 HT D3 S7
+S5 - - -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "14"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A2.JT85.KJT9.943 83.A7643.85432.5 QJ974.K9.AQ7.A72 KT65.Q2.6.KQJT86"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 50"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1NT X
+XX Pass 2C Pass
+3NT Pass Pass Pass
+[Play "N"]
+CQ C3 C5 C2
+CK C4 D2 CA
+D6 D9 D3 DA
+S5 DT D4 D7
+S6 DK D5 DQ
+C6 DJ D8 S7
+H2 H5 H3 HK
+ST S2 S3 SQ
+SK SA S8 S4
+HQ H8 H4 H9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "15"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:QJ842.QT9.A87.87 A65.A762.QJ642.2 K73.J543.93.KT54 T9.K8.KT5.AQJ963"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS -400"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "S"]
+Pass 1D Pass 2C
+Pass 2D Pass 3D
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+H3 H8 HQ HA
+D3 DK DA D6
+S7 S9 SQ S5
+SK ST SJ SA
+D9 DT D7 D2
+H4 D5 D8 DQ
+C4 C3 HT DJ
+H5 C6 C7 D4
+C5 CQ C8 C2
+- CA S2 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "15"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:QJ842.QT9.A87.87 A65.A762.QJ642.2 K73.J543.93.KT54 T9.K8.KT5.AQJ963"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "8"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 150"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1D Pass 2C
+Pass 2D Pass 2H
+Pass 3H Pass 5D
+Pass Pass Pass
+[Play "N"]
+S7 S9 SJ S5
+D3 D5 DA D2
+D9 DK D7 D4
+S3 ST S2 SA
+C4 CA C7 C2
+C5 CQ C8 DJ
+SK DT D8 D6
+CT C3 S4 DQ
+H3 HK H9 H2
+- H8 HT HA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "16"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT862.AT3.Q9.J63 KQJ3.QJ982.K.852 974.74.J8732.A97 5.K65.AT654.KQT4"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS 420"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "W"]
+Pass 1H Pass 2D
+Pass 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+S7 S5 SA S3
+D3 D4 DQ DK
+H4 H5 H3 HJ
+H7 HK HA H2
+S4 - HT HQ
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "16"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT862.AT3.Q9.J63 KQJ3.QJ982.K.852 974.74.J8732.A97 5.K65.AT654.KQT4"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 430"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2H Pass 3S
+X 3NT Pass Pass
+Pass
+[Play "E"]
+S7 S5 SA S3
+S9 D4 S6 SK
+H4 HK HA H2
+S4 D5 S2 SQ
+H7 H5 H3 HQ
+D2 D6 D9 DK
+C7 CK C3 C2
+- DA DQ -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "17"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKT865.52.K64.43 9.K9763.Q852.JT8 Q43.AQT84.A7.Q76 J72.J.JT93.AK952"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS 450"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "N"]
+1S Pass 2H Pass
+2S Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+CJ C6 C5 C4
+CT C7 CK C3
+H6 HQ HJ H2
+S9 S3 S2 SA
+C8 SQ S7 S5
+D2 DA D3 D4
+D5 D7 DJ DK
+D8 S4 D9 D6
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "17"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKT865.52.K64.43 9.K9763.Q852.JT8 Q43.AQT84.A7.Q76 J72.J.JT93.AK952"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 450"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1S Pass 2H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+CJ C6 C2 C3
+CT C7 CK C4
+C8 CQ CA S8
+H6 HQ HJ H5
+S9 S4 S2 SA
+D2 SQ S7 S5
+D5 S3 SJ SK
+H3 HT C5 H2
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "18"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:52.KQJ3.T87.J973 J963.64.K5.AK654 KQT7.AT987.A6.T8 A84.52.QJ9432.Q2"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS -140"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "E"]
+Pass 1C 1H X
+1NT 2S 3H Pass
+Pass Pass
+[Play "N"]
+CQ C3 C5 C8
+C2 C7 CK CT
+H2 C9 C4 D6
+DQ D7 D5 DA
+- - - SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "18"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:52.KQJ3.T87.J973 J963.64.K5.AK654 KQT7.AT987.A6.T8 A84.52.QJ9432.Q2"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS -140"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C X 2D
+2H Pass 3H Pass
+Pass Pass
+[Play "S"]
+H4 H7 H2 HJ
+S3 SQ SA S2
+H6 H8 H5 H3
+CK C8 C2 C3
+DK DA D2 D7
+C4 CT CQ C7
+- - DQ -
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "19"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A97.AK93.KQJ4.Q3 J8.QJ8642.92.JT6 KQ642.T7.T875.K9 T53.5.A63.A87542"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS 450"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "S"]
+1D Pass 1S Pass
+2NT Pass 3C X
+3H Pass 4S Pass
+Pass Pass
+[Play "E"]
+CA C3 CJ C9
+H5 HA H2 H7
+S3 SA S8 S2
+S5 S7 SJ SK
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "19"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A97.AK93.KQJ4.Q3 J8.QJ8642.92.JT6 KQ642.T7.T875.K9 T53.5.A63.A87542"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 450"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C Pass 1S Pass
+2D Pass 3H Pass
+4S Pass Pass Pass
+[Play "E"]
+H5 HA H2 H7
+S3 SA S8 S2
+S5 S7 SJ SK
+ST S9 H4 SQ
+D3 DK D2 D5
+DA DQ D9 D7
+CA C3 C6 C9
+*
+
+[Event "#"]
+[Site "#"]
+[Date "1999.06.21"]
+[Board "20"]
+[West "Kwiecien M"]
+[North "Kapayannides"]
+[East "Pszczola J"]
+[South "Liavakos"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ32.Q74.AJ8.K75 5.9.KQ642.AJ9842 K764.KJ2.T9753.T AT98.AT8653..Q63"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[HomeTeam "Greece"]
+[Room "Open"]
+[Round "23"]
+[Score "NS 600"]
+[Table "14"]
+[VisitTeam "Poland"]
+[Auction "W"]
+1C 2C Pass 2H
+Pass 3D Pass 5C
+Pass Pass Pass
+[Play "E"]
+S4 SA S2 S5
+S6 S8 S3 C2
+D3 C3 D8 D2
+S7 S9 SQ C4
+D5 C6 DJ D4
+SK ST SJ C8
+D7 CQ DA D6
+H2 HA H4 H9
+HJ H3 H7 C9
+D9 H5 C5 DK
+HK H6 HQ CJ
+- - - CA
+*
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Board "20"]
+[West "Lambrinos"]
+[North "Tuszynski P"]
+[East "Zotos"]
+[South "Jassem K"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ32.Q74.AJ8.K75 5.9.KQ642.AJ9842 K764.KJ2.T9753.T AT98.AT8653..Q63"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "10"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Round "#"]
+[Score "NS 130"]
+[Section "#"]
+[Table "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C 2NT X 3C
+Pass Pass Pass
+[Play "W"]
+C5 C8 CT CQ
+S2 S5 S4 SA
+S3 C2 S6 S8
+D8 D2 D3 C3
+SJ C4 S7 S9
+DJ D4 D5 C6
+SQ C9 SK ST
+DA DK D7 H3
+H4 H9 HK HA
+H7 CJ H2 HT
+C7 CA HJ H5
+*
+

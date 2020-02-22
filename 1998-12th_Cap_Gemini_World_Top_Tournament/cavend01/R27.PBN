@@ -1,0 +1,123 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.12"]
+[Round "27"]
+[Board "25"]
+[Room "Open"]
+[West "Claudio Nunes"]
+[North "M. Abecassis"]
+[East "Fulvio Fantoni"]
+[South "J-C Quantin"]
+[Dealer "N"]
+[Deal "S:Q6.KQ943.A975.J5 K3.A8762.KT4.983 J987.JT.J62.Q642 AT542.5.Q83.AKT7"]
+[Vulnerable "EW"]
+[Contract "2NT"]
+[Declarer "W"]
+{
+Another top encounter. The strong French partnership of Jean-Christophe
+Quantin and Michel Abecassis, lying fifth after two sessions
+will now face Claudio Nunes and Fulvio Fantoni, who are in second
+place. Here, Nunes and Fantoni conduct an artificial sequence
+to 2NT, and since Quantin had doubled a heart bid on the way,
+Abecassis led the HJ, ducked.
+}
+[Auction "N"]
+Pass 1S Pass 1NT 
+Pass 2C Pass 2D 
+Pass 2H X XX 
+Pass 2S Pass 2NT 
+Pass Pass Pass  
+[Play "N"]
+HJ H5 H3 H2 
+HT D3 HQ H6 
+C2 S2 HK HA 
+S9 C7 H9 H8 
+D2 CT H4 H7 
+S7 S4 S6 SK 
+S8 SA SQ S3 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "27"]
+[Board "26"]
+[Room "Open"]
+[West "Claudio Nunes"]
+[North "M. Abecassis"]
+[East "Fulvio Fantoni"]
+[South "J-C Quantin"]
+[Dealer "E"]
+[Deal "S:T63.52.KJ65.Q974 J9752.K87.93.T82 K84.A9.AT874.AJ3 AQ.QJT643.Q2.K65"]
+[Vulnerable "Both"]
+[Contract "3H"]
+[Declarer "E"]
+{
+North/South are cold for 3D, provided they don't lose a trump
+trick to East, so even if Fantoni didn't make 3H, his sixth heart
+was a good reason for taking the push - at least if you are a
+believer in the Law of total tricks. The only downside was his
+diamond queen, which on a bad day would mean that neither 3D
+nor 3H would make (give West jack third, for instance).
+}
+[Auction "E"]
+1H Pass 2H X 
+Pass 2NT Pass 3D 
+3H Pass Pass Pass 
+[Play "S"]
+H2 H7 HA H3 
+C7 C2 CA C6 
+C4 C8 C3 CK 
+H5 H8 H9 HQ 
+CQ CT CJ C5 
+D6 D3 DA D2 
+DK - D7 DQ 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "27"]
+[Board "27"]
+[Room "Open"]
+[West "Claudio Nunes"]
+[North "M. Abecassis"]
+[East "Fulvio Fantoni"]
+[South "J-C Quantin"]
+[Dealer "S"]
+[Deal "S:84.J853.KQ64.J52 J7.64.JT9752.KT7 KQ9652.K97.A3.43 AT3.AQT2.8.AQ986"]
+[Vulnerable "None"]
+[Contract "4C"]
+[Declarer "E"]
+{
+With a combined double stopper in spades and the HK onside, East/West
+are cold for 3NT, but they don't have the cards to bid it. And
+when they neither have the distribution nor the trumps to even
+consider 5C, stopping in a part-score is normal. Against 4C the
+defenders have to lead trumps early, and when they duly do, Fantoni
+only manages one heart ruff in dummy. Minus 130, and 23 IMPs
+to Fantoni/Nunes.
+}
+[Auction "S"]
+Pass Pass 1S 2C 
+Pass 3C Pass 3H 
+Pass 4C Pass Pass 
+Pass    
+[Play "S"]
+S8 S7 SQ SA 
+S4 SJ SK S3 
+C5 C7 C4 C6 
+H5 H4 H7 HQ 
+DQ D2 D3 D8 
+C2 CT C3 C8 
+H3 H6 H9 HA 
+H8 CK HK H2 
+D4 D5 DA C9 
+*
+[Result "10"]
+

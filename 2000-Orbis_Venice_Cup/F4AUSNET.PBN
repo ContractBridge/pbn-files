@@ -1,0 +1,926 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "1"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:QJ84.AK962.5.976 A95.J74.A87.KJ54 KT76.T53.QJ9.AQ3 32.Q8.KT6432.T82"]
+[Vulnerable "None"]
+[Auction "N"]
+1S Pass 2NT Pass 
+3S Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "N"]
+[Play "E"]
+D2 D5 DA D9 
+C2 C6 C4 CQ 
+DK S4 D8 DQ 
+S2 SQ S5 S6 
+S3 S8 SA S7 
+D3 SJ S9 SK 
+H8 HK H4 H3 
+HQ H2 H7 HT 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "1"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:QJ84.AK962.5.976 A95.J74.A87.KJ54 KT76.T53.QJ9.AQ3 32.Q8.KT6432.T82"]
+[Vulnerable "None"]
+[Auction "N"]
+1C Pass 1H Pass 
+1S Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "N"]
+[Play "E"]
+D4 D5 DA D9 
+C2 C6 C5 CQ 
+DK S4 D7 DQ 
+S2 SQ SA S6 
+C8 C7 CK CA 
+D2 C9 D8 DJ 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "2"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:AK83.AQT.K65.A96 J95.8532.QT43.73 62.76.J9872.K842 QT74.KJ94.A.QJT5"]
+[Vulnerable "NS"]
+[Auction "E"]
+1C X Pass 1D 
+Pass 2C Pass 2D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+C7 C2 CT CA 
+D4 D2 DA DK 
+H2 H6 H4 HQ 
+D3 D7 S4 D6 
+S5 S2 S7 SA 
+DQ D8 C5 D5 
+H3 H7 HJ HA 
+C3 CK CJ C6 
+DT DJ ST S3 
+H5 D9 SQ C9 
+S9 S6 H9 SK 
+SJ - - S8 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "2"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:AK83.AQT.K65.A96 J95.8532.QT43.73 62.76.J9872.K842 QT74.KJ94.A.QJT5"]
+[Vulnerable "NS"]
+[Auction "E"]
+1H X Pass 2D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "S"]
+[Play "W"]
+H5 H6 HJ HQ 
+D3 DJ DA D5 
+H2 H7 H4 HT 
+D4 D2 - DK 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "3"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:KQT742.T.AT8.A72 63.Q876.K9542.54 A98.A43.63.KT983 J5.KJ952.QJ7.QJ6"]
+[Vulnerable "EW"]
+[Auction "S"]
+1S Pass 2C Pass 
+2S Pass 3S Pass 
+4S Pass Pass Pass 
+[Contract "4S"]
+[Declarer "S"]
+[Play "W"]
+H6 HA H9 HT 
+S3 S8 S5 SK 
+S6 SA SJ S2 
+C4 C3 CQ CA 
+C5 CK C6 C2 
+D5 C8 CJ C7 
+D4 D3 DQ DA 
+H7 S9 H2 S4 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "3"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:KQT742.T.AT8.A72 63.Q876.K9542.54 A98.A43.63.KT983 J5.KJ952.QJ7.QJ6"]
+[Vulnerable "EW"]
+[Auction "S"]
+1S Pass 2C Pass 
+2S Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "S"]
+[Play "W"]
+C5 CT CJ CA 
+S3 S8 S5 SK 
+H6 HA H2 HT 
+H7 H3 H5 S2 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "4"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:9754.KJ54.AK5.J5 T3.62.J876432.A9 A2.QT987.QT9.K62 KQJ86.A3..QT8743"]
+[Vulnerable "Both"]
+[Auction "W"]
+2C Pass 2S Pass 
+Pass Pass   
+[Contract "2S"]
+[Declarer "E"]
+[Play "S"]
+S5 S3 SA S6 
+S4 ST S2 S8 
+C5 CA C2 C3 
+CJ C9 CK C4 
+H5 H2 HT HA 
+S7 D2 H7 SK 
+S9 D3 D9 SQ 
+D5 D4 C6 CQ 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "4"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:9754.KJ54.AK5.J5 T3.62.J876432.A9 A2.QT987.QT9.K62 KQJ86.A3..QT8743"]
+[Vulnerable "Both"]
+[Auction "W"]
+Pass 1H 2H 4H 
+Pass Pass X Pass 
+Pass Pass   
+[Contract "4HX"]
+[Declarer "N"]
+[Play "E"]
+SK S4 ST SA 
+HA H4 H2 HT 
+SQ S5 S3 S2 
+S6 S9 H6 H7 
+H3 HK D2 H8 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "5"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:T986.KJ.Q643.K76 732.975.AT5.JT84 AKQ4.T82.J987.A9 J5.AQ643.K2.Q532"]
+[Vulnerable "NS"]
+[Auction "N"]
+1S Pass 2S Pass 
+3D 3H 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "N"]
+[Play "E"]
+C2 C6 CT CA 
+S5 S6 S3 SA 
+SJ S8 S2 SK 
+H3 S9 S7 SQ 
+D2 DQ DA D9 
+CQ CK C4 C9 
+DK D3 D5 D8 
+HA HJ H9 H2 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "5"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:T986.KJ.Q643.K76 732.975.AT5.JT84 AKQ4.T82.J987.A9 J5.AQ643.K2.Q532"]
+[Vulnerable "NS"]
+[Auction "N"]
+1D 1H X Pass 
+2S Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "N"]
+[Play "E"]
+C5 C6 CT CA 
+S5 S6 S2 SA 
+SJ S8 S3 SK 
+H3 S9 S7 SQ 
+DK D3 D5 D7 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "6"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:T854.943.AKQ7.52 AJ7.AJT86.6432.6 Q963.Q72.J5.AQ43 K2.K5.T98.KJT987"]
+[Vulnerable "EW"]
+[Auction "E"]
+1C Pass 1H Pass 
+2C Pass 2D Pass 
+3C Pass Pass Pass 
+[Contract "3C"]
+[Declarer "E"]
+[Play "S"]
+DA D2 DJ D8 
+DK D3 D5 DT 
+DQ D4 H2 D9 
+ST SA S6 S2 
+C2 C6 C3 C7 
+C5 H6 CA CK 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "6"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:T854.943.AKQ7.52 AJ7.AJT86.6432.6 Q963.Q72.J5.AQ43 K2.K5.T98.KJT987"]
+[Vulnerable "EW"]
+[Auction "E"]
+Pass Pass 1H Pass 
+2C Pass Pass Pass 
+[Contract "2C"]
+[Declarer "E"]
+[Play "S"]
+DA D2 D5 D8 
+DK D3 DJ DT 
+DQ D4 S3 D9 
+D7 - - - 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "7"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:42.JT65.Q872.654 AKT986.A4.A5.AK7 5.KQ98732.KT3.J3 QJ73..J964.QT982"]
+[Vulnerable "Both"]
+[Auction "S"]
+Pass 2C 3H Pass 
+Pass 3S Pass 4H 
+Pass 6S Pass Pass 
+Pass    
+[Contract "6S"]
+[Declarer "W"]
+[Play "N"]
+D3 D4 DQ DA 
+S5 S3 S2 SA 
+H2 SQ S4 ST 
+C3 C2 C4 CA 
+CJ C8 C5 CK 
+*
+[Result "13"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "7"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:42.JT65.Q872.654 AKT986.A4.A5.AK7 5.KQ98732.KT3.J3 QJ73..J964.QT982"]
+[Vulnerable "Both"]
+[Auction "S"]
+Pass 1C 2H X 
+Pass 2S Pass 4S 
+Pass 5C Pass 5H 
+Pass 6S Pass Pass 
+Pass    
+[Contract "6S"]
+[Declarer "W"]
+[Play "N"]
+HK D4 H5 HA 
+S5 S3 S2 SA 
+H2 S7 S4 SK 
+C3 C2 C4 CA 
+CJ C8 C5 CK 
+*
+[Result "13"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "8"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:KQ874.JT4.8.Q864 .A8763.AQ973.KT7 J653.95.JT54.A53 AT92.KQ2.K62.J92"]
+[Vulnerable "None"]
+[Auction "W"]
+1H Pass 1S Pass 
+2D Pass 4H Pass 
+Pass Pass   
+[Contract "4H"]
+[Declarer "W"]
+[Play "N"]
+H5 HK H4 H3 
+H9 H2 HT HA 
+C3 HQ HJ H6 
+CA CJ C6 C7 
+C5 C2 C8 CT 
+D4 D2 D8 DA 
+D5 DK S7 D3 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "8"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:KQ874.JT4.8.Q864 .A8763.AQ973.KT7 J653.95.JT54.A53 AT92.KQ2.K62.J92"]
+[Vulnerable "None"]
+[Auction "W"]
+1H Pass 1S Pass 
+2D Pass 2NT Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Contract "4H"]
+[Declarer "W"]
+[Play "N"]
+H9 HK H4 H3 
+H5 HQ HT H6 
+S3 H2 HJ HA 
+D4 D2 D8 DA 
+D5 DK S4 D3 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "9"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:AQ43.QT984.K72.3 9652.K7.T6.T9875 K8.J6532.J84.KQJ JT7.A.AQ953.A642"]
+[Vulnerable "EW"]
+[Auction "N"]
+Pass 1D 1H Pass 
+2D Pass 2H Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Contract "4H"]
+[Declarer "S"]
+[Play "W"]
+DT DJ DA D2 
+D6 D4 D9 DK 
+S2 SK S7 S3 
+S5 S8 SJ SA 
+S6 D8 ST SQ 
+CT H2 D3 D7 
+H7 HJ HA H4 
+C5 CJ CA C3 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "9"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:AQ43.QT984.K72.3 9652.K7.T6.T9875 K8.J6532.J84.KQJ JT7.A.AQ953.A642"]
+[Vulnerable "EW"]
+[Auction "N"]
+Pass 1D X Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Contract "4H"]
+[Declarer "N"]
+[Play "E"]
+SJ SA S6 S8 
+HA HQ H7 H2 
+DA D2 DT D4 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "10"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:T52.873.AQJ9864. AK3.AJ94.T2.Q864 9864.Q6.753.A975 QJ7.KT52.K.KJT32"]
+[Vulnerable "Both"]
+[Auction "E"]
+1C 3D X Pass 
+3H Pass 4H Pass 
+Pass Pass   
+[Contract "4H"]
+[Declarer "E"]
+[Play "S"]
+S2 SA S6 S7 
+H7 HA H6 H2 
+H3 HJ HQ HK 
+H8 H9 D3 H5 
+D4 C4 C5 CJ 
+D6 CQ CA C2 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "10"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:T52.873.AQJ9864. AK3.AJ94.T2.Q864 9864.Q6.753.A975 QJ7.KT52.K.KJT32"]
+[Vulnerable "Both"]
+[Auction "E"]
+1H 2D 2NT Pass 
+3C Pass 3H Pass 
+4H Pass Pass Pass 
+[Contract "4H"]
+[Declarer "E"]
+[Play "S"]
+S5 SA S4 S7 
+H3 HA H6 H2 
+H7 H4 HQ HK 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "11"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:T83.854.KT876.A7 76.QT7.A43.KJ952 J9542.AK93.Q.T83 AKQ.J62.J952.Q64"]
+[Vulnerable "None"]
+[Auction "S"]
+Pass Pass 2H Pass 
+2S Pass Pass Pass 
+[Contract "2S"]
+[Declarer "S"]
+[Play "W"]
+S7 S2 SQ S3 
+S6 S5 SK S8 
+C5 S4 SA ST 
+CJ C3 C4 C7 
+C2 C8 CQ CA 
+DA DQ D2 D6 
+CK CT C6 D7 
+C9 S9 D5 D8 
+H7 HA H2 H4 
+HT H3 HJ H5 
+D3 H9 D9 DK 
+*
+[Result "6"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "11"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:T83.854.KT876.A7 76.QT7.A43.KJ952 J9542.AK93.Q.T83 AKQ.J62.J952.Q64"]
+[Vulnerable "None"]
+[Auction "S"]
+Pass Pass 1S Pass 
+2S Pass Pass Pass 
+[Contract "2S"]
+[Declarer "N"]
+[Play "E"]
+SK S3 S6 S2 
+SQ S8 S7 S4 
+SA ST C5 S5 
+C4 C7 CK C3 
+C6 CA C2 C8 
+D2 D6 D3 DQ 
+*
+[Result "7"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "12"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:QT7.J754.KT5.K53 AJ6.T6.Q8762.742 85432.982.AJ3.QT K9.AKQ3.94.AJ986"]
+[Vulnerable "NS"]
+[Auction "W"]
+Pass Pass 1C Pass 
+1D Pass 1H Pass 
+1NT Pass 3NT Pass 
+Pass Pass   
+[Contract "3NT"]
+[Declarer "W"]
+[Play "N"]
+S5 S9 SQ SA 
+CQ CA C3 C2 
+CT CJ CK C4 
+DA D4 DT DQ 
+DJ D9 DK D2 
+D3 - D5 D6 
+*
+[Result "10"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "12"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:QT7.J754.KT5.K53 AJ6.T6.Q8762.742 85432.982.AJ3.QT K9.AKQ3.94.AJ986"]
+[Vulnerable "NS"]
+[Auction "W"]
+Pass Pass 1NT Pass 
+Pass Pass   
+[Contract "1NT"]
+[Declarer "E"]
+[Play "S"]
+H4 HT H2 H3 
+CK C2 CT CJ 
+ST SJ S2 S9 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "13"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "N"]
+[Deal "S:AKJT93.6.Q.AJ543 5.QJ43.T94.98762 Q74.K985.KJ76.QT 862.AT72.A8532.K"]
+[Vulnerable "Both"]
+[Auction "N"]
+1H Pass 2C Pass 
+2NT Pass 3S Pass 
+3NT Pass 4S Pass 
+Pass Pass   
+[Contract "4S"]
+[Declarer "S"]
+[Play "W"]
+DT D6 DA DQ 
+H3 H5 HA H6 
+C8 CT CK CA 
+S5 S4 S8 SA 
+C2 S7 S2 SK 
+- - - S3 
+*
+[Result "11"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "13"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "N"]
+[Deal "S:AKJT93.6.Q.AJ543 5.QJ43.T94.98762 Q74.K985.KJ76.QT 862.AT72.A8532.K"]
+[Vulnerable "Both"]
+[Auction "N"]
+Pass 1H 2H Pass 
+4S Pass Pass Pass 
+[Contract "4S"]
+[Declarer "N"]
+[Play "E"]
+CK CA C2 CT 
+S2 SA S5 S4 
+- SK - - 
+*
+[Result "12"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "14"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "E"]
+[Deal "S:J952.5.AKQJT3.K2 Q63.K976.854.A87 A74.A42.976.J954 KT8.QJT83.2.QT63"]
+[Vulnerable "None"]
+[Auction "E"]
+Pass 1S Pass 1NT 
+Pass 3D Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "N"]
+[Play "E"]
+HQ H5 H7 H2 
+H3 S2 HK HA 
+D2 DA D5 D6 
+C6 DK D4 D7 
+S8 DQ D8 D9 
+C3 DJ C7 C5 
+CT DT C8 H4 
+ST D3 S3 S4 
+SK S5 S6 SA 
+CQ S9 SQ S7 
+*
+[Result "8"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "14"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "E"]
+[Deal "S:J952.5.AKQJT3.K2 Q63.K976.854.A87 A74.A42.976.J954 KT8.QJT83.2.QT63"]
+[Vulnerable "None"]
+[Auction "E"]
+Pass 1D Pass 1NT 
+2H 3D 3H Pass 
+Pass Pass   
+[Contract "3H"]
+[Declarer "E"]
+[Play "S"]
+DA D4 D6 D2 
+DK D5 D7 H3 
+H5 H6 H2 HQ 
+D3 H7 HA HJ 
+DQ H9 H4 HT 
+C2 CA C4 C3 
+CK C7 C5 CQ 
+*
+[Result "7"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "15"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "S"]
+[Deal "S:83.K853.642.AJ42 KJ74.AQJT42.9.T6 AQT95..Q875.KQ95 62.976.AKJT3.873"]
+[Vulnerable "NS"]
+[Auction "S"]
+Pass 1H 1S 2H 
+Pass 2S X 3D 
+Pass 3H Pass 4H 
+Pass Pass Pass  
+[Contract "4H"]
+[Declarer "W"]
+[Play "N"]
+*
+[Result "8"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "15"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "S"]
+[Deal "S:83.K853.642.AJ42 KJ74.AQJT42.9.T6 AQT95..Q875.KQ95 62.976.AKJT3.873"]
+[Vulnerable "NS"]
+[Auction "S"]
+Pass 1S Pass 1NT 
+Pass 2H X Pass 
+2S Pass Pass Pass 
+[Contract "2S"]
+[Declarer "S"]
+[Play "W"]
+D9 D5 D3 D4 
+CT C5 C3 CA 
+SJ SQ S2 S8 
+S4 SA S6 S3 
+SK ST H6 D2 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "16"]
+[West "Van der Pas"]
+[North "Erhart"]
+[East "Vriend"]
+[South "Terraneo"]
+[Room "Open"]
+[Dealer "W"]
+[Deal "S:AQ7.93.K9843.AQ5 96.KJ75.QJT.J642 KJ854.Q62.A2.K87 T32.AT84.765.T93"]
+[Vulnerable "EW"]
+[Auction "W"]
+Pass 1S Pass 2D 
+Pass 2NT Pass 3NT 
+Pass Pass Pass  
+[Contract "3NT"]
+[Declarer "N"]
+[Play "E"]
+H4 H3 HK H6 
+HA H9 H5 HQ 
+HT D3 HJ H2 
+H8 D4 H7 C8 
+*
+[Result "9"]
+
+[Event "Orbis 2000 Venice Cup"]
+[Site "Canadian Pacific Southampton Princess Hotel, Bermuda, BMU"]
+[Date "2000.01.21"]
+[Round "F4"]
+[Board "16"]
+[West "Weigkricht"]
+[North "Pasman"]
+[East "Fischer"]
+[South "Simons"]
+[Room "Closed"]
+[Dealer "W"]
+[Deal "S:AQ7.93.K9843.AQ5 96.KJ75.QJT.J642 KJ854.Q62.A2.K87 T32.AT84.765.T93"]
+[Vulnerable "EW"]
+[Auction "W"]
+Pass 1S Pass 2D 
+Pass 2S Pass 4S 
+Pass Pass Pass  
+[Contract "4S"]
+[Declarer "N"]
+[Play "E"]
+CT C5 C2 CK 
+S2 SQ S6 S4 
+S3 SA S9 S5 
+*
+[Result "12"]
+

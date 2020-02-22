@@ -1,0 +1,968 @@
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "3rd IOC Grand Prix"]
+[Site "Lausanne, Switzerland, CHE"]
+[Date "2000.10.30"]
+[Round "2b"]
+[Board "13"]
+[Room "Open"]
+[West "M. Kwiecien"]
+[North "Chuangcheng Ju"]
+[East "Jacek Pszczola"]
+[South "Zhong Fu"]
+[Dealer "N"]
+[Deal "S:T874.3.A72.K8753 2.AKJ94.963.AJ62 QJ65.QT65.QJ8.T4 AK93.872.KT54.Q9"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "W"]
+{
+OR - Jacek Pszcola, East, opened with 1C, 10-22 natural, or balanced,
+with 12-14 or 18-23 HCP. Michal Kwiecien responded 1H, to show
+7+ HCPS and 4+ hearts. 1S was natural, but 2C was artificial
+and forcing. 2H showed 3 hearts in a balanced 12-14 hand, so
+West ended proceedings with 4H. With the trumps 4-1 offside and
+the DA behind the king, West lost the four obvious tricks after
+the DQ lead. One down; minus 100.
+}
+[Auction "N"]
+Pass 1C Pass 1H 
+Pass 1S Pass 2C 
+Pass 2H Pass 4H 
+Pass Pass Pass  
+[Play "N"]
+DQ DK DA D6 
+DJ D4 D7 D3 
+S5 SA S7 S2 
+C4 CQ CK CA 
+H5 H2 H3 HA 
+H6 H7 C5 HK 
+CT C9 C3 CJ 
+D8 H8 C8 C2 
+S6 SK S4 C6 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "13"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "B. Chmurski"]
+[East "Xueliang Cao"]
+[South "M. Puczynski"]
+[Dealer "N"]
+[Deal "S:T874.3.A72.K8753 2.AKJ94.963.AJ62 QJ65.QT65.QJ8.T4 AK93.872.KT54.Q9"]
+[Vulnerable "Both"]
+[Contract "4H"]
+[Declarer "W"]
+{
+CR - Here, the Open Room sequence was duplicated, except for
+Xueling Cao's opening bid, which was 1D (11-16, natural or balanced).
+Bartosz Chmurski, North, led the DQ, covered and won by Mariusz
+Puczynski's ace. A trump came back, and even though it didn't
+matter, it could easily have been the correct defense on another
+layout. Down 100 here too for a push.
+}
+[Auction "N"]
+Pass 1D Pass 1H 
+Pass 1S Pass 2C 
+Pass 2H Pass 4H 
+Pass Pass Pass  
+[Play "N"]
+DQ DK DA D6 
+H6 H2 H3 HA 
+S5 SA S4 S2 
+S6 SK S7 C2 
+C4 CQ CK CA 
+H5 H7 C3 HK 
+CT C9 C5 CJ 
+HT S3 C7 C6 
+HQ H8 S8 H4 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "14"]
+[Room "Open"]
+[West "M. Kwiecien"]
+[North "Chuangcheng Ju"]
+[East "Jacek Pszczola"]
+[South "Zhong Fu"]
+[Dealer "E"]
+[Deal "S:A932.AQT.A86.Q84 QT8.962.KT943.32 KJ74.KJ43.J.A975 65.875.Q752.KJT6"]
+[Vulnerable "None"]
+[Contract "4S"]
+[Declarer "S"]
+{
+OR - Fu's 1C showed 16+ HCP and 2D showed a three-suited positive
+short in diamonds. After 3S Ju tried for slam with a 4C cuebid,
+and Pszczola's double permitted Ju to redouble to confirm first-round
+control. Fu had a dead minimum, however, and signed off in 4S.
+Declarer made the safety-play in spades to hold himself to eleven
+tricks; plus 450.
+}
+[Auction "E"]
+Pass 1C 1D 2D 
+3D 3S Pass 4C 
+X Pass Pass XX 
+Pass 4S Pass Pass 
+Pass    
+[Play "W"]
+C2 C5 CK C4 
+C3 C7 CT CQ 
+S8 SK S5 S2 
+ST S4 S6 S9 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "14"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "B. Chmurski"]
+[East "Xueliang Cao"]
+[South "M. Puczynski"]
+[Dealer "E"]
+[Deal "S:A932.AQT.A86.Q84 QT8.962.KT943.32 KJ74.KJ43.J.A975 65.875.Q752.KJT6"]
+[Vulnerable "None"]
+[Contract "5S"]
+[Declarer "S"]
+{
+CR - Bartosz Chmurski's 4D set spades and showed diamond shortage.
+With a suitable diamond holding, Mariusz Puszynski decided to
+make a second slam try, his 5S asking for good trumps. North
+(as is so often the case) didn't have them. In 5S declarer had
+to decide whether he could afford the safety-play in trumps,
+after a club, ducked to the king, and a second club. If West
+has led a club from four you might suffer a ruff when you play
+a spade to the king and a spade to the nine. That's why Puczynski
+decided to play the SA on the second round; no swing.
+}
+[Auction "E"]
+Pass 1NT Pass 2C 
+Pass 2S Pass 4D 
+Pass 4H Pass 4S 
+Pass 5S Pass Pass 
+Pass    
+[Play "W"]
+C3 C5 CK C4 
+C2 CA CJ C8 
+S8 SK S5 S2 
+ST S4 S6 SA 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "15"]
+[Room "Open"]
+[West "M. Kwiecien"]
+[North "Chuangcheng Ju"]
+[East "Jacek Pszczola"]
+[South "Zhong Fu"]
+[Dealer "S"]
+[Deal "S:AQ7.A85.KJ982.72 K543.KJ97.T74.J6 J86.Q432.53.KT83 T92.T6.AQ6.AQ954"]
+[Vulnerable "NS"]
+[Contract "1NT"]
+[Declarer "S"]
+{
+OR - Fu's first-seat 13-15 1NT ended the auction. The H7 went
+to East's ten and declarer's ace. Fu now led the H8, and when
+Kwiecien played the nine, allowed it to hold. West switched to
+a spade around to declarer's queen, and a third heart was taken
+by the king. West now tried breaking a third suit, leading the
+D7 to East's queen and South's king. Declarer tried a club to
+the king and ace, East returning a spade. Declarer could manage
+only five tricks (two spades, one heart and two diamonds) for
+two down. Plus 200 for EW.
+}
+[Auction "S"]
+1NT Pass Pass Pass 
+[Play "W"]
+H7 H2 HT HA 
+H9 H3 H6 H8 
+S3 S6 S9 SQ 
+HK H4 C5 H5 
+D7 D3 DQ DK 
+C6 CK CA C2 
+S4 S8 ST SA 
+SK SJ S2 S7 
+S5 D5 C4 D9 
+CJ C3 C9 C7 
+D4 C8 DA D2 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "15"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "B. Chmurski"]
+[East "Xueliang Cao"]
+[South "M. Puczynski"]
+[Dealer "S"]
+[Deal "S:AQ7.A85.KJ982.72 K543.KJ97.T74.J6 J86.Q432.53.KT83 T92.T6.AQ6.AQ954"]
+[Vulnerable "NS"]
+[Contract "1NT"]
+[Declarer "S"]
+{
+CR - Yang also led the H7 against 1NT. Puszynski made the odd
+play of ducking East's ten, surely judging that the HK was on
+his right. The H6 was ducked to the king, and West shifted to
+a spade, the queen winning. Declarer cashed the HA, and played
+a club to the ten and queen. The spades were cleared, and a club
+played to the jack, king and ace. Declarer won the D6 shift with
+the king and exited with a diamond. East gathered in his minor
+suit tricks, but had to yield a trick to dummy's C8 at trick
+13. Down two, for +200 to EW; no swing.
+}
+[Auction "S"]
+1NT Pass Pass Pass 
+[Play "W"]
+H7 H2 HT H5 
+HK H3 H6 H8 
+S4 S6 S9 SQ 
+HJ H4 C4 HA 
+C6 CT CQ C2 
+SK S8 ST S7 
+S3 SJ S2 SA 
+CJ CK CA C7 
+D4 D3 D6 DK 
+D7 D5 DQ DJ 
+DT HQ DA D2 
+H9 C3 C9 D8 
+*
+[Result "5"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "16"]
+[Room "Open"]
+[West "M. Kwiecien"]
+[North "Chuangcheng Ju"]
+[East "Jacek Pszczola"]
+[South "Zhong Fu"]
+[Dealer "W"]
+[Deal "S:Q.T65.8754.AQ987 9852.QJ73.QJT.J6 K74.A842.K2.T543 AJT63.K9.A963.K2"]
+[Vulnerable "EW"]
+[Contract "4S"]
+[Declarer "E"]
+{
+OR - With four trumps and fitting diamond honors, West felt his
+hand justified a game bid, but isn't that hoping for too much?
+And 4S was indeed a poor contract, needing two cards onside plus
+trumps to behave. After a heart lead, and a club back, it looks
+like declarer has a guess, but that isn't exactly true. To make
+4S, he needs North to have the DK, and since North has passed
+initially and has shown the HA, he's unlikely to have the CA
+too. Trumps behaved and the DK was where declarer wanted it to
+be, but the CQ wasn't. One down: minus 100.  [AW]
+}
+[Auction "W"]
+Pass Pass 1S Pass 
+2S Pass 3D Pass 
+4S Pass Pass Pass 
+[Play "S"]
+H5 H3 HA H9 
+CQ C6 C4 C2 
+CA CJ C3 CK 
+H6 H7 H2 HK 
+SQ S2 S4 SA 
+C7 S9 SK S3 
+D7 DQ D2 D3 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "16"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "B. Chmurski"]
+[East "Xueliang Cao"]
+[South "M. Puczynski"]
+[Dealer "W"]
+[Deal "S:Q.T65.8754.AQ987 9852.QJ73.QJT.J6 K74.A842.K2.T543 AJT63.K9.A963.K2"]
+[Vulnerable "EW"]
+[Contract "3S"]
+[Declarer "E"]
+{
+CR - There are players who simply can't pass, even though they
+should. Here, South's hyperactive (and ill-judged) 2C overcall
+got what it deserved: a bad board. Without it, East, who was
+maximum for his Precision 1S opening in terms of high-card points
+(1C would have been 16+) and controls, may well have taken a
+shot at 4S once he caught a raise. But now, with the CK looking
+more like a deuce, East was content to announce extra strength
+with a redouble, then subsided in 3S. Plus 140 EW; 6 IMPs to
+China.
+}
+[Auction "W"]
+Pass Pass 1S 2C 
+2S X XX Pass 
+Pass 3C Pass Pass 
+3S Pass Pass Pass 
+[Play "S"]
+H6 H3 H8 H9 
+SQ S2 S4 SA 
+D4 S5 SK SJ 
+CQ C6 C5 C2 
+CA CJ C3 CK 
+H5 H7 HA HK 
+D7 DQ D2 D3 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "17"]
+[Room "Open"]
+[West "M. Kwiecien"]
+[North "Chuangcheng Ju"]
+[East "Jacek Pszczola"]
+[South "Zhong Fu"]
+[Dealer "N"]
+[Deal "S:853.AT732.87.AT7 AT94.J8.KQJ.Q952 KQ6.KQ4.T62.J643 J72.965.A9543.K8"]
+[Vulnerable "None"]
+[Contract "3D"]
+[Declarer "E"]
+{
+OR - West opened with a prepared 1C in fourth seat. East's 1D
+was either natural or negative in the Polish system. Having shown
+no values at all it was up to East to act over 2H. Pszczola knew
+his partner was relatively short in hearts, but hadn't made a
+bid over the 1H overcall. Diamond support seemed likely, so Pszczola
+boldly bid 3D. This contract went one down, minus 50, the defense
+accurately taking their five tricks.
+}
+[Auction "N"]
+Pass Pass Pass 1C 
+Pass 1D 1H Pass 
+2H 3D Pass Pass 
+Pass    
+[Play "S"]
+S3 S4 SQ S2 
+H2 H8 HK H5 
+HA HJ HQ H6 
+S5 S9 SK S7 
+CA C2 C4 C8 
+CT C5 C3 CK 
+D7 DK D2 D3 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "17"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "B. Chmurski"]
+[East "Xueliang Cao"]
+[South "M. Puczynski"]
+[Dealer "N"]
+[Deal "S:853.AT732.87.AT7 AT94.J8.KQJ.Q952 KQ6.KQ4.T62.J643 J72.965.A9543.K8"]
+[Vulnerable "None"]
+[Contract "1NT"]
+[Declarer "E"]
+{
+CR - North deemed his filthy eleven-count an opening bid. After
+1H West entered the fray with a takeout double and East decided
+he didn't need a heart stopper for a 1NT bid. The defense played
+spades in time to score seven tricks for one down; minus 50.
+No big deal, since NS can make nine tricks in a heart contract;
+no swing.
+}
+[Auction "N"]
+1C Pass 1H X 
+Pass 1NT Pass Pass 
+Pass    
+[Play "S"]
+H3 H8 HK H5 
+H2 HJ HQ H6 
+HT C2 H4 H9 
+H7 C5 DT S2 
+S5 S9 SK S7 
+CA C9 C6 C8 
+HA S4 D2 D3 
+*
+[Result "6"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "18"]
+[Room "Open"]
+[West "M. Kwiecien"]
+[North "Chuangcheng Ju"]
+[East "Jacek Pszczola"]
+[South "Zhong Fu"]
+[Dealer "E"]
+[Deal "S:Q9.T9.JT874.Q984 76432.A7432.Q5.6 T8.865.AK96.7532 AKJ5.KQJ.32.AKJT"]
+[Vulnerable "NS"]
+[Contract "5S"]
+[Declarer "E"]
+{
+OR - The World Open Pairs holders bid themselves to a precarious
+5S contract, West trying for magic with a 5C cue-bid over East's
+"super-accept jump to 4S. If the opponents take their two diamond
+tricks on the go, declarer must guess the trump suit to make
+the contract. One could make the case for trumps being three-one
+with the singleton club in dummy. Pszczola banged down his top
+trumps, however, and was relieved to see the SQ drop doubleton
+offside, surviving a prickly guess for plus 450.
+}
+[Auction "E"]
+1C Pass 1D Pass 
+2NT Pass 3H Pass 
+4S Pass 5C Pass 
+5S Pass Pass Pass 
+[Play "S"]
+DJ DQ DK D2 
+D4 D5 DA D3 
+C4 C6 C3 CA 
+S9 S2 S8 SA 
+SQ S3 ST SK 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "18"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "B. Chmurski"]
+[East "Xueliang Cao"]
+[South "M. Puczynski"]
+[Dealer "E"]
+[Deal "S:Q9.T9.JT874.Q984 76432.A7432.Q5.6 T8.865.AK96.7532 AKJ5.KQJ.32.AKJT"]
+[Vulnerable "NS"]
+[Contract "4S"]
+[Declarer "E"]
+{
+CR - Yang-Cao stayed well within themselves. The strong club
+auction was never in danger of getting too high. West's 3C bid
+was Puppet Stayman, and when East showed some four-card major
+in a 20-22 HCP balanced hand, West bid 4D to ask his  partner
+to bid his major. The DJ was led in response to North's double
+of 4D. Here, it wasn't essential that declarer guess the trumps,
+as he was only in 4S. However, Cao had no problem playing off
+the two high spades for eleven tricks. Plus 450; no swing.
+}
+[Auction "E"]
+1C Pass 1D Pass 
+2NT Pass 3C Pass 
+3D Pass 4D X 
+4S Pass Pass Pass 
+[Play "S"]
+DJ DQ DK D3 
+D4 D5 DA D2 
+C4 C6 C5 CA 
+S9 S4 S8 SA 
+SQ S2 ST SK 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "19"]
+[Room "Open"]
+[West "M. Kwiecien"]
+[North "Chuangcheng Ju"]
+[East "Jacek Pszczola"]
+[South "Zhong Fu"]
+[Dealer "S"]
+[Deal "S:AT432.J5.AK42.J3 J5.QT86.753.7654 K6.9432.JT8.KT98 Q987.AK7.Q96.AQ2"]
+[Vulnerable "EW"]
+[Contract "2S"]
+[Declarer "S"]
+{
+OR - Most partnerships treat a double of 1NT as takeout of spades,
+so for them double would have been out. Not for Pszczola, though.
+With four sure side-suit losers, the only question was whether
+South could avoid losing two trump tricks in 2S. After three
+rounds of hearts, he ruffed and played three rounds of trumps,
+later losing two club tricks for one down. 2S can be made, however,
+if declarer leads to the SK, finesses in diamonds, cashes the
+SA and the diamond tops, and leads a club. Hardly an obvious
+line. Minus 50.
+}
+[Auction "S"]
+1S Pass 1NT X 
+2D Pass 2S Pass 
+Pass Pass   
+[Play "W"]
+HT H2 HK HJ 
+H6 H3 HA H5 
+H8 H4 H7 S2 
+S5 SK S7 S3 
+SJ S6 S8 SA 
+C4 H9 S9 S4 
+D5 C8 SQ ST 
+D3 D8 DQ DA 
+D7 DJ D6 D2 
+C5 DT D9 DK 
+C6 C9 C2 D4 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "19"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "B. Chmurski"]
+[East "Xueliang Cao"]
+[South "M. Puczynski"]
+[Dealer "S"]
+[Deal "S:AT432.J5.AK42.J3 J5.QT86.753.7654 K6.9432.JT8.KT98 Q987.AK7.Q96.AQ2"]
+[Vulnerable "EW"]
+[Contract "1NT"]
+[Declarer "N"]
+{
+CR - Here, where East couldn't double 1NT, South surprisingly
+passed (2D looks downright normal), landing his side in an easier
+contract than 2S on the five-two fit or 2D on the four-three
+fit. With the DQ onside and diamonds three-three, there are always
+seven tricks, and although it took a little while to get them,
+declarer was never in danger of going down. Plus 90 meant 4 IMPs
+to Poland.
+}
+[Auction "S"]
+1S Pass 1NT Pass 
+Pass Pass   
+[Play "E"]
+D6 DA D5 D8 
+C2 CJ C7 C8 
+CQ C3 C4 CT 
+HK H5 H8 H2 
+HA HJ H6 H3 
+H7 S2 HT H4 
+S9 D2 HQ H9 
+DQ DK D7 DJ 
+S7 S3 S5 SK 
+CA S4 C5 C9 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "20"]
+[Room "Open"]
+[West "M. Kwiecien"]
+[North "Chuangcheng Ju"]
+[East "Jacek Pszczola"]
+[South "Zhong Fu"]
+[Dealer "W"]
+[Deal "S:KQ.QJ73.K53.AKQ7 J7.K654.T7.JT432 32.A92.AQJ98.985 AT98654.T8.642.6"]
+[Vulnerable "Both"]
+[Contract "6D"]
+[Declarer "N"]
+{
+CR - North deemed his filthy eleven-count an opening bid. After
+1H West entered the fray with a takeout double and East decided
+he didn't need a heart stopper for a 1NT bid. The defense played
+spades in time to score seven tricks for one down; minus 50.
+No big deal, since NS can make nine tricks in a heart contract.
+}
+[Auction "W"]
+Pass 1D 2S X 
+Pass 3D Pass 3S 
+Pass 4H Pass 4NT 
+Pass 5H Pass 6D 
+Pass Pass Pass  
+[Play "E"]
+SA SK S7 S2 
+H8 HQ H4 H2 
+D2 D3 D7 DA 
+D4 DK DT D8 
+D6 D5 C2 DQ 
+S5 SQ SJ S3 
+HT HJ H5 H9 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "20"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "B. Chmurski"]
+[East "Xueliang Cao"]
+[South "M. Puczynski"]
+[Dealer "W"]
+[Deal "S:KQ.QJ73.K53.AKQ7 J7.K654.T7.JT432 32.A92.AQJ98.985 AT98654.T8.642.6"]
+[Vulnerable "Both"]
+[Contract "5D"]
+[Declarer "N"]
+{
+CR - Here NS managed to stay out of slam. Puczynski made a couple
+of cue bids, but gave up when his partner failed to make a positive
+noise. This was right in theory, but wrong in practice. Declarer
+took the same twelve tricks as in the open room for plus 620.
+13 IMPs to China.
+}
+[Auction "W"]
+Pass 1D 2S X 
+Pass 3D Pass 3S 
+Pass 4H Pass 4S 
+Pass 5D Pass Pass 
+Pass    
+[Play "E"]
+C6 CA C2 C8 
+D2 D3 D7 DJ 
+D4 DK DT D8 
+D6 D5 C4 DA 
+SA SQ S7 S2 
+S4 SK SJ S3 
+HT HQ HK HA 
+*
+[Result "12"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "21"]
+[Room "Open"]
+[West "M. Kwiecien"]
+[North "Chuangcheng Ju"]
+[East "Jacek Pszczola"]
+[South "Zhong Fu"]
+[Dealer "N"]
+[Deal "S:54.96432.AK62.72 AQJ.AK7.T87.AQ53 T732.85.943.KJ96 K986.QJT.QJ5.T84"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "W"]
+{
+OR - Kwiecien-Pszczola reached the normal 3NT contract from the
+strong side. North led the D9, and South won the king to play
+back a low diamond. Declarer unblocked the spades, and exited
+a diamond in hopes that NS would break clubs for him. South shifted
+to a heart when finished with the diamonds. When the club finesse
+proved to be offside, declarer had nine tricks (four spades,
+three hearts, one diamond and one club). Plus 400 for EW.
+}
+[Auction "N"]
+Pass Pass Pass 1C 
+Pass 1S Pass 2NT 
+Pass 3NT Pass Pass 
+Pass    
+[Play "N"]
+D9 DJ DK D8 
+D4 D5 D2 D7 
+S3 S6 S4 SA 
+S2 S8 S5 SQ 
+S7 S9 H3 SJ 
+D3 DQ DA DT 
+H5 C4 D6 C3 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "21"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "B. Chmurski"]
+[East "Xueliang Cao"]
+[South "M. Puczynski"]
+[Dealer "N"]
+[Deal "S:54.96432.AK62.72 AQJ.AK7.T87.AQ53 T732.85.943.KJ96 K986.QJT.QJ5.T84"]
+[Vulnerable "NS"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+CR - Cao-Yang arrived in 3NT from the East side. East's 1NT bid
+showed 8-13 HCP or 16+ HCP in a balanced hand. The H6 was led,
+and declarer won the HA to unblock the spade suit. He led a diamond
+to Puszynski, who pushed a club through dummy. Declarer followed
+low and Chmurski gathered in the CJ and returned a diamond to
+South, for another club. Declarer lost this finesse as well,
+but had his nine tricks. Plus 400 to EW, and no swing.
+}
+[Auction "N"]
+Pass Pass Pass 1C 
+Pass 1NT Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+H6 HA H5 HQ 
+S5 SA S2 S6 
+S4 SQ S3 S8 
+H4 SJ S7 S9 
+DK D7 D4 DQ 
+C2 C3 CJ C4 
+DA D8 D3 D5 
+C7 C5 CK - 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "22"]
+[Room "Open"]
+[West "M. Kwiecien"]
+[North "Chuangcheng Ju"]
+[East "Jacek Pszczola"]
+[South "Zhong Fu"]
+[Dealer "E"]
+[Deal "S:T94.AK7.85.Q9752 632.QT8532.AQ9.4 .J964.K74.AKJT63 AKQJ875..JT632.8"]
+[Vulnerable "EW"]
+[Contract "5S"]
+[Declarer "E"]
+{
+OR - Once East caught a raise, he simply kept on bidding, as
+we all would. And because most opponents are satisfied when they
+have pushed their opponents to the five-level, North-South quit
+too soon. Of course, they didn't know East-West had such a great
+diamond fit, but neither did their opponents, so it was more
+or less a guessing game. When the DK was worth a trick, 5S made
+on the nose; plus 650 EW.
+}
+[Auction "E"]
+1S Pass 2S 3C 
+4S 5C Pass Pass 
+5S Pass Pass Pass 
+[Play "S"]
+HA H2 H4 S5 
+S4 S2 C3 SA 
+S9 S3 C6 SK 
+ST S6 CT SQ 
+D8 DQ DK D2 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "22"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "B. Chmurski"]
+[East "Xueliang Cao"]
+[South "M. Puczynski"]
+[Dealer "E"]
+[Deal "S:T94.AK7.85.Q9752 632.QT8532.AQ9.4 .J964.K74.AKJT63 AKQJ875..JT632.8"]
+[Vulnerable "EW"]
+[Contract "6CX"]
+[Declarer "N"]
+{
+CR - To pre-empt with a freak, especially when you also have
+a void, is a dangerous business, and here East was punished when
+North-South (more or less) were forced to do the right thing.
+As South had hopes of making 6C, he simply bid one for the road.
+Had he been just a little lucky, the HQ would have been with
+North. As it was, he had to be content with "only" a successful
+sacrifice. 6C doubled was minus 100, but Pland gained 11 IMPs.
+}
+[Auction "E"]
+4S Pass Pass 5C 
+Pass Pass 5S Pass 
+Pass 6C X Pass 
+Pass Pass   
+[Play "E"]
+SJ S4 S6 CT 
+C8 C2 C4 CA 
+D2 HA H2 H4 
+S5 HK H3 H6 
+S7 H7 HQ H9 
+D3 D5 DA D4 
+*
+[Result "11"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "23"]
+[Room "Open"]
+[West "M. Kwiecien"]
+[North "Chuangcheng Ju"]
+[East "Jacek Pszczola"]
+[South "Zhong Fu"]
+[Dealer "S"]
+[Deal "S:62.J98.AJT7.KT84 QJ9853.KT.Q6.J76 A7.76543.983.A92 KT4.AQ2.K542.Q53"]
+[Vulnerable "Both"]
+[Contract "2S"]
+[Declarer "W"]
+{
+OR - Kwiecien's 2D was Multi, showing a weak two-bid in either
+major. East did very well not to look for a vulnerable game with
+his balanced 14-count. The obvious four tricks were lost: Plus
+140 to Poland.
+}
+[Auction "S"]
+Pass 2D Pass 2H 
+Pass 2S Pass Pass 
+Pass    
+[Play "N"]
+H3 H2 HJ HK 
+SA S4 S2 SJ 
+C2 C3 CK C6 
+CA C5 C4 C7 
+D9 D2 DA D6 
+D3 D4 DJ DQ 
+*
+[Result "9"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "23"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "B. Chmurski"]
+[East "Xueliang Cao"]
+[South "M. Puczynski"]
+[Dealer "S"]
+[Deal "S:62.J98.AJT7.KT84 QJ9853.KT.Q6.J76 A7.76543.983.A92 KT4.AQ2.K542.Q53"]
+[Vulnerable "Both"]
+[Contract "3NT"]
+[Declarer "E"]
+{
+CR - Here Yang-Cao were playing natural weak two-bids. 2NT was
+Ogust and West showed a maximum with one top honour in spades.
+East decided to try 3NT, hoping for some minor suit fillers from
+partner. The dummy was a disappointment, with the king of hearts
+and no ace of spades. After the club lead the contract had no
+chance, the defense taking three clubs and two aces. Minus 100:
+6 IMPs to Poland.
+}
+[Auction "S"]
+Pass 2S Pass 2NT 
+Pass 3H Pass 3NT 
+Pass Pass Pass  
+[Play "S"]
+C4 C6 CA C3 
+CT CJ C9 C5 
+S2 SQ SA S4 
+CK C7 C2 CQ 
+C8 D6 S7 D2 
+*
+[Result "8"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "24"]
+[Room "Open"]
+[West "M. Kwiecien"]
+[North "Chuangcheng Ju"]
+[East "Jacek Pszczola"]
+[South "Zhong Fu"]
+[Dealer "W"]
+[Deal "S:AKJ965.943.Q2.32 Q87.2.AT864.Q765 T3.KJ85.J93.AJ84 42.AQT76.K75.KT9"]
+[Vulnerable "None"]
+[Contract "2S"]
+[Declarer "S"]
+{
+OR - A straightforward auction to 2S. West led the H2, and upon
+winning the H10, East shifted boldly to the C10 to the queen
+and ace. Declarer played his two high trumps, then tried a club,
+losing to East's nine, Declarer ruffed East's continuation of
+the CK and played the D2 to the nine and king. East failed to
+cash his heart now, and led a diamond to West's ace. Strangely,
+declarer claimed seven tricks only, after West cashed his SQ.
+The two minor suit jacks provide a parking place for the two
+heart losers. Minus 50, just the same.
+}
+[Auction "W"]
+Pass Pass 1H 1S 
+X 1NT Pass 2S 
+Pass Pass Pass  
+[Play "W"]
+H2 H5 HT H9 
+CQ CA CT C2 
+S7 S3 S2 SA 
+S8 ST S4 SK 
+C5 C4 C9 C3 
+C6 C8 CK S5 
+D6 D9 DK D2 
+DA D3 D7 DQ 
+SQ H8 H6 S6 
+*
+[Result "7"]
+
+[Event "#"]
+[Site "#"]
+[Date "#"]
+[Round "2b"]
+[Board "24"]
+[Room "Closed"]
+[West "Lixin Yang"]
+[North "B. Chmurski"]
+[East "Xueliang Cao"]
+[South "M. Puczynski"]
+[Dealer "W"]
+[Deal "S:AKJ965.943.Q2.32 Q87.2.AT864.Q765 T3.KJ85.J93.AJ84 42.AQT76.K75.KT9"]
+[Vulnerable "None"]
+[Contract "2S"]
+[Declarer "S"]
+{
+CR - Here Puszynski opted for a preemptive 2S over 1H, as partner
+was a passed hand. This ended a very short auction. The H2 was
+led to dummy's king and East's ace. The S2 came back, ducked
+to the queen, and West shifted to the C5. East won the nine,
+and exited with the S4. Declarer ran all his spades trying to
+set up an endplay. Cao pitched two small diamonds on the run
+of the spades allowing the HJ to score the last trick, but declarer
+could have built this trick himself by playing to the D9. Minus
+50; no swing. Poland defeated China by 44 to 34 imps.
+}
+[Auction "W"]
+Pass Pass 1H 2S 
+Pass Pass Pass  
+[Play "W"]
+H2 HK HA H3 
+SQ S3 S2 S6 
+C5 C4 C9 C3 
+S7 ST S4 SA 
+S8 H5 H6 SK 
+D4 D3 H7 SJ 
+D6 D9 D5 S9 
+C6 DJ D7 S5 
+C7 CA CT C2 
+CQ C8 CK H4 
+D8 CJ DK D2 
+*
+[Result "7"]
+
