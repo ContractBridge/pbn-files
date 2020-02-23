@@ -1,0 +1,3187 @@
+% PBN 2.0
+% EXPORT
+%
+% This tournament has been played at OKBridge
+%          http://www.okbridge.com
+%
+[Event "##OKbridge Tournament"]
+[Site "##-"]
+[Date "##1999.03.03"]
+[Board "1"]
+[West "gm"]
+[North "mstravel"]
+[East "luzifer"]
+[South "mrtax"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJT6.K9752.5.J62 Q754.QJ83.942.85 8.T64.AKJ63.AQT7 A932.A.QT87.K943"]
+[Scoring "##IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "7"]
+[Mode "##OKB"]
+[Score "EW 50"]
+[ScoreIMP "EW 0.94"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 2C Pass
+Pass Pass
+[Play "W"]
+C3 C2 C5 C7
+D7 D5 D2 DA
+D8 C6 D4 D3
+CK CJ C8 CQ
+HA H2 H3 H4
+S2 SK S4 S8
+S3 S6 S7 CT
+DT H5 D9 DK
+C4 H7 H8 H6
+S9 ST SQ CA
+C9 H9 HJ HT
+SA SJ S5 D6
+DQ HK HQ DJ
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1 118 155 2HX   N C8  8   470   9.95
+  2  92  21 2HX   N C8  8   470   9.95
+  3  94  14 2CX   S HA  9   280   7.02
+  4  41 135 2H    S C3  9   140   3.79
+  5  86 166 2H    S C4  9   140   3.79
+  6  19  64 3H    N S5  9   140   3.79
+  7  59 ??? 2C    S HA 10   130   3.69
+  8 138  62 2C    S C4  9   110   2.80
+  9  34  35 2C    S C3  9   110   2.80
+ 10  52  67 2C    S C3  9   110   2.80
+ 11 106 109 2C    S HA  9   110   2.80
+ 12  32 139 2C    S C3  9   110   2.80
+ 13  54 146 2C    S HA  9   110   2.80
+ 14 119  97 2C    S C3  9   110   2.80
+ 15  25 127 2C    S HA  9   110   2.80
+ 16  83 104 2C    S C3  9   110   2.80
+ 17   3  58 2C    S C3  9   110   2.80
+ 18  20 169 2C    S HA  9   110   2.80
+ 19   5 152 2H    N C8  8   110   2.80
+ 20  73 103 2H    N C8  8   110   2.80
+ 21  56  87 3C    S S2  9   110   2.80
+ 22 122  37 3C    S C3  9   110   2.80
+ 23 116   7 2S    E DK  6   100   2.69
+ 24  29  89 2SX   W H5  7   100   2.69
+ 25  26  81 2SX   W D5  7   100   2.69
+ 26  28 145 3SX   E DA  8   100   2.69
+ 27 143  43 3SX   E DA  8   100   2.69
+ 28 102 131 2C    S SA  8    90   2.47
+ 29  31  17 2C    S C3  8    90   2.47
+ 30  23 136 2C    S HA  8    90   2.47
+ 31 144 108 2C    S C3  8    90   2.47
+ 32   8 117 2C    S HA  8    90   2.47
+ 33 140  63 2C    S HA  8    90   2.47
+ 34  55 137 2C    S C3  8    90   2.47
+ 35  82 105 2S    E DA  7    50   1.42
+ 36 161  10 2C    S C3  7   -50  -0.94
+ 37 160  50 2NT   S S2  7   -50  -0.94
+ 38  47  44 3D    S HA  8   -50  -0.94
+ 39  79 ??? 3H    N C8  8   -50  -0.94
+ 40  22  80 3H    N S4  8   -50  -0.94
+ 41  45 121 3H    N C8  8   -50  -0.94
+ 42 148 157 3H    N S4  8   -50  -0.94
+ 43  13  30 3H    N S4  8   -50  -0.94
+ 44 133  85 3H    N S5  8   -50  -0.94
+ 45  46  27 3H    N S4  8   -50  -0.94
+ 46  49 170 3H    N C8  8   -50  -0.94
+ 47  76  93 3H    N S5  8   -50  -0.94
+ 48 171  77 3H    N C8  8   -50  -0.94
+ 49 ???  16 3NT   N S4  8   -50  -0.94
+ 50  60 165 3NT   N S4  8   -50  -0.94
+ 51 123 112 3NT   N S4  8   -50  -0.94
+ 52 128  42 3NT   N S4  8   -50  -0.94
+ 53 110  61 3NT   N S5  8   -50  -0.94
+ 54   9 167 3NT   S C3  8   -50  -0.94
+ 55 172 149 4H    N S5  9   -50  -0.94
+ 56  11  90 2C    S HA  6  -100  -2.45
+ 57  15 147 2C    S HA  6  -100  -2.45
+ 58 164 162 2S    N H3  6  -100  -2.45
+ 59 168  18 2NT   N C8  6  -100  -2.45
+ 60  74  12 3D    S SA  7  -100  -2.45
+ 61 125 ??? 3DX   S SA  8  -100  -2.45
+ 62 150  69 3NT   N S4  7  -100  -2.45
+ 63 101 113 3NT   N S4  7  -100  -2.45
+ 64 156  70 3NT   N S4  7  -100  -2.45
+ 65  66 ??? 3NT   N S4  7  -100  -2.45
+ 66  78  38 4H    N S4  8  -100  -2.45
+ 67  51 126 4H    N C8  8  -100  -2.45
+ 68 141  24 4H    N S4  8  -100  -2.45
+ 69 153  48 4H    N C8  8  -100  -2.45
+ 70 158 129 4H    N S4  8  -100  -2.45
+ 71 120  36 4H    N C8  8  -100  -2.45
+ 72 151  53 4H    N C8  8  -100  -2.45
+ 73   6  99 4H    N S5  8  -100  -2.45
+ 74  72  33 4H    N S4  8  -100  -2.45
+ 75 107  84 4H    N C8  8  -100  -2.45
+ 76 ???  91 4H    N C8  8  -100  -2.45
+ 77  40 154 4H    N C8  8  -100  -2.45
+ 78 163  88 4HX   N S4  9  -100  -2.45
+ 79 100   1 4HX   N H3  9  -100  -2.45
+ 80  98  57 2D    S HA  5  -150  -3.78
+ 81 124  39 4H    N C8  7  -150  -3.78
+ 82 159  96 4H    N C8  7  -150  -3.78
+ 83 114  65 4HX   N D4  8  -300  -6.82
+ 84  75 111 4HX   N S4  8  -300  -6.82
+ 85 ???  68 4HX   N D2  8  -300  -6.82
+ 86  71   4 4HX   N D2  8  -300  -6.82
+[TotalScoreTable "Rank\3R;Names\17L;+MeanScore\5R;NrBoards\2R"]
+  1 needa4th/slverfox  3.01 23
+  2 joebacon/RedDevyl  2.86 24
+  3 Brito/RPILLA       2.43 23
+  4 E.Wladow/helmigro  2.41 23
+  5 myuen/pony         2.23 26
+  6 Dianalee/wendell   2.20 25
+  7 marion/sbrum       2.10 26
+  8 biff/pepper        2.02 24
+  9 feldheim/lili      1.89 20
+ 10 gm/luzifer         1.84 26
+ 11 dmeyer/magpie      1.79 25
+ 12 bobq/rz            1.67 24
+ 13 Kaltica/moogal     1.60 25
+ 14 georgef/Quasar     1.55 26
+ 15 boa/bvdahl         1.50 26
+ 16 jmates/UKACOL      1.49 25
+ 17 bern/wilcoxjj      1.45 24
+ 18 erhein/maree       1.44 26
+ 19 az/ketil           1.41 25
+ 20 BUM/unicom         1.32 26
+ 21 crusher/joss       1.30 25
+ 22 karlk/maryd        1.30 26
+ 23 jtmckee/sharona    1.22 26
+ 24 JeanAnnC/SLVRFX    1.17 24
+ 25 club3/zodiac       1.17 26
+ 26 danu/emscol        1.16 24
+ 27 arto/refik         1.10 24
+ 28 lapez/piga         1.09 25
+ 29 fellows/maclean    1.08 26
+ 30 icim/leila         1.07 26
+ 31 phylo2/smeeks      1.01 26
+ 32 frand/nicky        1.00 23
+ 33 Plaut/vcaracci     0.99 21
+ 34 loe/ODschool       0.96 26
+ 35 bjt/Enrico         0.91 26
+ 36 Barbara/BMW        0.88 26
+ 37 gbrinker/ohwhozer  0.85 25
+ 38 JWeyant/peterd     0.82 24
+ 39 ilca/marysue       0.81 26
+ 40 jmj/lew-g          0.79 26
+ 41 asa/zepp           0.78 25
+ 42 seligman/stephenj  0.77 26
+ 43 Blindman/rsawick   0.76 25
+ 44 Nan/RussM          0.75 26
+ 45 cesare/pepfra      0.73 26
+ 46 lizzy/ninja        0.72 26
+ 47 kja/little         0.70 26
+ 48 cantbril/Differa   0.68 26
+ 49 jm/yangdy          0.67 26
+ 50 LShurlds/tipi      0.67 26
+ 51 Corinne/ronrita    0.64 26
+ 52 barosanu/brijbaz   0.63 25
+ 53 Tagsdad/vatter     0.60 25
+ 54 barbg/jeep         0.57 26
+ 55 beeaahs/davids     0.56 26
+ 56 BIGBEN/goblue7     0.55 26
+ 57 kappy/spike        0.55 24
+ 58 jlarry/SharkFin    0.53 24
+ 59 malco/NellyB       0.51 24
+ 60 Gulli/noell        0.47 26
+ 61 knh/per            0.46 25
+ 62 lucille/pgteam     0.43 26
+ 63 leaf/tuncer        0.43 26
+ 64 newfydoc/sailor    0.42 25
+ 65 bobb/Shank         0.42 26
+ 66 okcu/oskay         0.39 26
+ 67 aynm/jjjones       0.38 26
+ 68 edb/pietv          0.38 24
+ 69 stev_hav/vcdoc     0.38 24
+ 70 a-yummy/RayPerk    0.37 26
+ 71 k4rif/tahoedon     0.32 24
+ 72 swaps/willwats     0.32 26
+ 73 careca/pierog      0.31 19
+ 74 chickie/kismet     0.30 22
+ 75 almost/lucie       0.30 25
+ 76 Gladgutt/shaf      0.28 26
+ 77 m/y_az             0.23 25
+ 78 Archer/penGwen     0.19 25
+ 79 clubs/mdk          0.18 26
+ 80 conker/crash       0.15 26
+ 81 bernard/edie       0.15 25
+ 82 chagall/fishtrap   0.12 26
+ 83 handyjh/wawa       0.11 26
+ 84 baiji/Plutarch     0.09 26
+ 85 lenor/LKELS        0.07 21
+ 86 ocr/projekt        0.05 26
+ 87 J/zijlstra        -0.01 26
+ 88 apache/greer      -0.07 26
+ 89 dinad/mossy       -0.08 26
+ 90 Maddy/toyo1       -0.09 26
+ 91 LGreen/Lucy       -0.09 24
+ 92 gentofte/kimd     -0.11 24
+ 93 hk/steinarb       -0.11 26
+ 94 sluffer/teddi     -0.12 26
+ 95 carmela/miraa     -0.14 24
+ 96 XUXU/zampino      -0.18 26
+ 97 mytmouse/rixi     -0.20 25
+ 98 brettb/scottyb    -0.21 26
+ 99 dianeg/patty      -0.21 25
+100 durf/twila        -0.23 25
+101 Danger/keyzerhg   -0.25 26
+102 BarbMpls/edg      -0.29 24
+103 bass521/fuzzytjf  -0.30 26
+104 aries/puma        -0.31 26
+105 gyrlic/skibum     -0.33 22
+106 maude/Nuno1       -0.40 26
+107 Randy/thyger      -0.41 25
+108 ecofin/mlo        -0.42 26
+109 jonny/karole      -0.44 24
+110 jabo/TwoHeart     -0.47 18
+111 georg/huget       -0.47 25
+112 ruthamon/sue      -0.49 26
+113 caline/rclerc     -0.50 26
+114 clyde/rinehart    -0.51 26
+115 maria1/Spero      -0.53 24
+116 Marco1/pedrarg    -0.57 26
+117 cb/ruffs          -0.58 26
+118 jepl/nrobin       -0.60 26
+119 auntie/tad        -0.61 26
+120 rallyman/smalslam -0.65 26
+121 ClayC/Justine     -0.65 24
+122 fort/weakno       -0.67 26
+123 lolopuff/rdl7     -0.68 25
+124 digger/Ra14616    -0.70 26
+125 soules/Uptrick    -0.71 26
+126 jken/jmasters     -0.71 26
+127 dedom/kodin       -0.72 25
+128 Greedy/tiger      -0.72 25
+129 MrSpock/sbk       -0.72 25
+130 Bigguy46/POOHBYR  -0.75 24
+131 ntt/tramp         -0.75 26
+132 big-Os/rocky      -0.79 24
+133 ayalen/windandy   -0.79 21
+134 avo/Nevjack       -0.80 22
+135 poohbear/Snake    -0.83 25
+136 Oasis/swatson     -0.84 25
+137 louton/tonlou     -0.84 26
+138 MrDouble/tjberk   -0.87 26
+139 dloye/genia       -0.92 24
+140 msssg3/wiebee     -0.98 21
+141 rule/xaikat       -1.04 24
+142 Jeppe/sjur        -1.05 22
+143 chprice/rlprice   -1.05 25
+144 Richs101/serrin   -1.08 26
+145 colter/guppi      -1.09 26
+146 fracla/sunflowr   -1.12 24
+147 gianni2/terri     -1.15 26
+148 harrys/ickool     -1.25 22
+149 Birdie/katNY      -1.25 25
+150 rosmair/ruudmi    -1.27 26
+151 dougd/ned         -1.29 26
+152 chiplaw/davidr    -1.31 26
+153 hamelby/racoon    -1.34 26
+154 kbaro/MtnLion     -1.41 26
+155 corgi/Sirius      -1.45 25
+156 redraw/women      -1.47 26
+157 eliza/shep        -1.47 22
+158 darwin/zino       -1.51 26
+159 otto1/wen         -1.53 26
+160 slimt/soda        -1.56 24
+161 mrtax/mstravel    -1.57 25
+162 dnewman/jukay     -1.60 25
+163 joel-y/llk        -1.65 26
+164 jssbas/vox        -1.74 22
+165 Bobbidan/dede     -1.80 24
+166 cakirk/keuka      -1.82 26
+167 rkm/wknt          -1.99 22
+168 furball/r244      -2.00 26
+169 Roberta/yamah     -2.52 24
+170 cor/rsox          -2.54 25
+171 mfordo/NancE2     -2.61 24
+172 Journey/kristjan  -3.22 20
+
+[Board "2"]
+[West "gm"]
+[North "mstravel"]
+[East "luzifer"]
+[South "mrtax"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:74.AT7.AT82.J632 65.KJ5.KQJ64.A85 AQJ832.932.93.97 KT9.Q864.75.KQT4"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "9"]
+[Score "EW 100"]
+[ScoreIMP "EW 4.83"]
+[Auction "E"]
+Pass 1D 3S X
+Pass 4D Pass Pass
+Pass
+[Play "W"]
+SA S9 S4 S5
+SQ SK S7 S6
+D3 D5 D2 DJ
+D9 D7 DA DQ
+S8 H4 DT DK
+H3 HQ HA H5
+H2 H6 H7 HK
+H9 H8 HT HJ
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  40 154 4SX   W D7  5  1100  13.65
+  2  60 165 4SX   W CK  6   800  11.05
+  3  20 169 3NT   S S8 11   660   9.31
+  4   6  99 3NT   N H7 10   630   8.81
+  5  72  33 4H    S C9 10   620   8.72
+  6  45 121 4H    S SA 10   620   8.72
+  7  22  80 4H    S C9 10   620   8.72
+  8   3  58 4H    S C9 10   620   8.72
+  9   9 167 4H    S C9 10   620   8.72
+ 10  19  64 3NT   N S7  9   600   8.33
+ 11  73 103 3NT   N S7  9   600   8.33
+ 12  92  21 3NT   N S7  9   600   8.33
+ 13  11  90 3NT   N S7  9   600   8.33
+ 14  66 ??? 3NT   N S7  9   600   8.33
+ 15  41 135 3NT   N S7  9   600   8.33
+ 16  15 147 3NT   S H9  9   600   8.33
+ 17   5 152 3NT   S SQ  9   600   8.33
+ 18  49 170 3SX   W D7  6   500   7.01
+ 19 119  97 4SX   W D7  7   500   7.01
+ 20  46  27 4SX   W CK  7   500   7.01
+ 21  82 105 2SX   W D7  6   300   3.49
+ 22 172 149 2SX   W D7  6   300   3.49
+ 23  79 ??? 3SX   W D7  7   300   3.49
+ 24 102 131 3SX   W D7  7   300   3.49
+ 25  83 104 3H    S C9 10   170   0.81
+ 26  86 166 3H    S C9 10   170   0.81
+ 27  94  14 3H    S H2 10   170   0.81
+ 28 164 162 3S    W D7  6   150   0.28
+ 29 144 108 3S    W CK  6   150   0.28
+ 30  13  30 3H    S SA  9   140   0.16
+ 31 116   7 3D    S C9 10   130   0.02
+ 32 159  96 3D    S C9 10   130   0.02
+ 33  51 126 3D    S C9 10   130   0.02
+ 34  28 145 3D    S C9 10   130   0.02
+ 35  55 137 3D    S SA 10   130   0.02
+ 36 148 157 3D    S C9  9   110  -0.70
+ 37  34  35 3D    S D3  9   110  -0.70
+ 38  98  57 3D    S C9  9   110  -0.70
+ 39 153  48 3D    S C9  9   110  -0.70
+ 40 118 155 3D    S SA  9   110  -0.70
+ 41  25 127 3D    S C9  9   110  -0.70
+ 42  47  44 3D    S SA  9   110  -0.70
+ 43  31  17 3D    S C9  9   110  -0.70
+ 44  29  89 3D    S D9  9   110  -0.70
+ 45   8 117 3D    S C9  9   110  -0.70
+ 46  52  67 2SX   W D7  7   100  -0.84
+ 47  26  81 2SX   W D7  7   100  -0.84
+ 48  23 136 3S    W CK  7   100  -0.84
+ 49 128  42 3S    W D7  7   100  -0.84
+ 50 100   1 3S    W D7  7   100  -0.84
+ 51 150  69 3S    W D7  8    50  -1.88
+ 52  71   4 1NT   N S7  6  -100  -4.83
+ 53 151  53 1NT   S SQ  6  -100  -4.83
+ 54 101 113 3D    S C9  8  -100  -4.83
+ 55 140  63 3NT   N S7  8  -100  -4.83
+ 56  74  12 3NT   N S7  8  -100  -4.83
+ 57 ???  16 3NT   N S4  8  -100  -4.83
+ 58 138  62 3NT   N S7  8  -100  -4.83
+ 59  75 111 3NT   N S7  8  -100  -4.83
+ 60 107  84 3NT   N S7  8  -100  -4.83
+ 61 ???  68 3NT   N S7  8  -100  -4.83
+ 62 158 129 3NT   N S7  8  -100  -4.83
+ 63 122  37 3NT   N S7  8  -100  -4.83
+ 64 156  70 3NT   N S7  8  -100  -4.83
+ 65 114  65 3NT   N S7  8  -100  -4.83
+ 66  56  87 3NT   S SQ  8  -100  -4.83
+ 67 161  10 4D    S SA  9  -100  -4.83
+ 68  78  38 4H    S H2  9  -100  -4.83
+ 69 124  39 4H    S C9  9  -100  -4.83
+ 70 123 112 4H    S SA  9  -100  -4.83
+ 71 110  61 2S    W D7  8  -110  -4.95
+ 72 160  50 2S    W D7  9  -140  -5.63
+ 73 106 109 2NT   N S7  6  -200  -6.88
+ 74 ???  91 3NT   N S7  7  -200  -6.88
+ 75 141  24 3NT   N S7  7  -200  -6.88
+ 76  54 146 3NT   N S7  7  -200  -6.88
+ 77 125 ??? 3NT   S H9  7  -200  -6.88
+ 78 163  88 4H    S SA  8  -200  -6.88
+ 79 171  77 3NT   N S7  6  -300  -8.68
+ 80 168  18 3NT   N S7  6  -300  -8.68
+ 81 120  36 3NT   N S7  6  -300  -8.68
+ 82  76  93 3NT   S SQ  6  -300  -8.68
+
+[Board "3"]
+[West "spike"]
+[North "luzifer"]
+[East "kappy"]
+[South "gm"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KQ64.83.T75.AKQ5 A832.QJT42.J43.9 T5.A95.Q96.J8732 J97.K76.AK82.T64"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[ScoreIMP "NS 2.26"]
+[Auction "S"]
+1NT Pass Pass Pass
+[Play "W"]
+HQ HA H7 H3
+S3 S5 S7 SK
+C9 C2 C4 CA
+S2 C3 C6 CK
+D3 C7 CT CQ
+D4 CJ D8 C5
+S8 C8 D2 D5
+SA ST SJ SQ
+HJ H5 HK H8
+DJ D6 DK DT
+H2 D9 DA D7
+HT H9 H6 S4
+H4 DQ S9 S6
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  50  11 4HX   W ST  8   500  10.14
+  2  43  61 4HX   W ST  8   500  10.14
+  3  86  82 3CX   S C9  9   470   9.87
+  4  66  39 3H    E CK  7   200   4.78
+  5  13 132 3HX   E CA  8   200   4.78
+  6  64  95 3H    W C2  7   200   4.78
+  7 137 149 3H    W C2  7   200   4.78
+  8 123 161 4H    W ST  8   200   4.78
+  9  80 ??? 1NT   S HQ  8   120   3.06
+ 10 139  77 3C    S HQ  9   110   2.41
+ 11  36  18 3C    S HQ  9   110   2.41
+ 12 116 172 3C    S HQ  9   110   2.41
+ 13 170 143 3C    S HQ  9   110   2.41
+ 14  33  99 3C    S DJ  9   110   2.41
+ 15  23  62 3C    S HQ  9   110   2.41
+ 16  14 171 3C    S DJ  9   110   2.41
+ 17 159  54 2D    E CA  7   100   2.34
+ 18 163  83 2H    W C3  7   100   2.34
+ 19 105  16 3H    W C2  8   100   2.34
+ 20  96 144 3H    W C3  8   100   2.34
+ 21  67  35 3H    W ST  8   100   2.34
+ 22 141  76 3H    W C3  8   100   2.34
+ 23  44  30 3H    W C2  8   100   2.34
+ 24  37  87 3H    W ST  8   100   2.34
+ 25   7 108 3H    W C3  8   100   2.34
+ 26 124  49 3H    W C3  8   100   2.34
+ 27  55  48 3H    W ST  8   100   2.34
+ 28  79  68 3H    W ST  8   100   2.34
+ 29   4  65 3H    W ST  8   100   2.34
+ 30 120 114 3H    W C3  8   100   2.34
+ 31  59 131 3H    W ST  8   100   2.34
+ 32 118  93 3H    W ST  8   100   2.34
+ 33 103  58 3H    W ST  8   100   2.34
+ 34 133 ??? 3H    W ST  8   100   2.34
+ 35  51 140 3H    W ST  8   100   2.34
+ 36 138 136 3H    W ST  8   100   2.34
+ 37 155  97 4H    W C3  9   100   2.34
+ 38  10  57 1NT   S HQ  7    90   2.26
+ 39 151 156 1NT   S H2  7    90   2.26
+ 40 166   1 Pass  - -   -     0  -0.05
+ 41 169 158 Pass  - -   -     0  -0.05
+ 42  74  78 3C    S HJ  8   -50  -1.33
+ 43 ??? ??? 3C    S HQ  8   -50  -1.33
+ 44 162  20 3C    S HQ  8   -50  -1.33
+ 45  88  21 3C    S HQ  8   -50  -1.33
+ 46  70  84 3C    S HQ  8   -50  -1.33
+ 47  42 157 3C    S HQ  8   -50  -1.33
+ 48 152 102 3C    S HQ  8   -50  -1.33
+ 49  72  46 3C    S HQ  8   -50  -1.33
+ 50  94  81 4C    S HQ  9   -50  -1.33
+ 51 127 153 4C    S HQ  9   -50  -1.33
+ 52  31   8 4C    S HQ  9   -50  -1.33
+ 53 110 142 4C    S HQ  9   -50  -1.33
+ 54 101 107 4C    S HQ  9   -50  -1.33
+ 55 ??? 148 4C    S HQ  9   -50  -1.33
+ 56  60 119 4C    S C9  9   -50  -1.33
+ 57 100 106 4C    S HQ  9   -50  -1.33
+ 58  19   3 4C    S HQ  9   -50  -1.33
+ 59  92 135 4C    S HQ  9   -50  -1.33
+ 60  63 126 4C    S HQ  9   -50  -1.33
+ 61 154  41 4C    S D3  9   -50  -1.33
+ 62  73 111 4C    S HQ  9   -50  -1.33
+ 63 150  98 2D    E CA  8   -90  -2.38
+ 64 165 168 3C    S HQ  7  -100  -2.78
+ 65  12 ??? 3CX   S HQ  8  -100  -2.78
+ 66 109  38 3CX   S HQ  8  -100  -2.78
+ 67  22  53 4C    S HQ  8  -100  -2.78
+ 68 125  40 4C    S C9  8  -100  -2.78
+ 69   2 130 4C    S H4  8  -100  -2.78
+ 70 104   5 4CX   S HQ  9  -100  -2.78
+ 71 121 167 5C    S HQ  9  -100  -2.78
+ 72  47 128 2H    W ST  8  -110  -2.88
+ 73  56 122 2H    W D6  8  -110  -2.88
+ 74 113   6 2H    W C2  9  -140  -3.78
+ 75 117  89 3H    E CA  9  -140  -3.78
+ 76 160  27 3H    W C3  9  -140  -3.78
+ 77  45   9 3H    W C2  9  -140  -3.78
+ 78  25  34 3H    W C3  9  -140  -3.78
+ 79  24  91 3H    W C3  9  -140  -3.78
+ 80 164  28 3H    W ST  9  -140  -3.78
+ 81 115  32 3H    W C3  9  -140  -3.78
+ 82 147  90 3NT   N H6  6  -150  -3.88
+ 83  52  29 4CX   S HQ  8  -300  -7.02
+ 84  69 146 4CX   S HQ  8  -300  -7.02
+ 85  15 112 5CX   S HQ  9  -300  -7.02
+ 86 129 145 5CX   S HQ  9  -300  -7.02
+ 87  71  75 5CX   S HQ  9  -300  -7.02
+
+[Board "4"]
+[West "spike"]
+[North "luzifer"]
+[East "kappy"]
+[South "gm"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQJT954.T5.AT.AK A.QJ.QJ52.QJ7532 632.9742.K87643. 87.AK863.9.T9864"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS 200"]
+[ScoreIMP "NS 6.18"]
+[Auction "W"]
+1S 2C 2S 4H
+4S X Pass Pass
+Pass
+[Play "N"]
+HQ H2 H3 H5
+HJ H4 HA HT
+D2 D3 D9 DA
+SA S2 S8 S9
+DQ DK S7 DT
+C2 - H6 SK
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1 116 172 5SX   W HQ  9   500  10.57
+  2   2 130 5SX   W HQ  9   500  10.57
+  3 139  77 5SX   W DQ  9   500  10.57
+  4  44  30 5SX   W HQ  9   500  10.57
+  5 ??? ??? 5SX   W HQ  9   500  10.57
+  6 110 142 6SX   W CQ 10   500  10.57
+  7  73 111 5SXX  W HQ 10   400   9.37
+  8  10  57 4SX   W HQ  9   200   6.18
+  9 120 114 5S    W CQ  9   200   6.18
+ 10 118  93 5S    W DQ  9   200   6.18
+ 11  74  78 5S    W DQ  9   200   6.18
+ 12 133 ??? 5S    W DQ  9   200   6.18
+ 13 123 161 5S    W DQ  9   200   6.18
+ 14  51 140 5SX   W C2 10   200   6.18
+ 15 117  89 5SX   W HQ 10   200   6.18
+ 16  15 112 5SX   W HQ 10   200   6.18
+ 17 155  97 5SX   W HQ 10   200   6.18
+ 18  14 171 5SX   W C5 10   200   6.18
+ 19  72  46 6S    W HQ 10   200   6.18
+ 20 165 168 4C    N S6 10   130   4.98
+ 21 138 136 4C    N S6 10   130   4.98
+ 22 152 102 4C    N S2 10   130   4.98
+ 23 129 145 4S    W HQ  9   100   4.12
+ 24 124  49 4S    W DQ  9   100   4.12
+ 25  43  61 4S    W HQ  9   100   4.12
+ 26  55  48 4S    W HQ  9   100   4.12
+ 27 ??? 148 5S    W CQ 10   100   4.12
+ 28  24  91 5S    W HQ 10   100   4.12
+ 29  70  84 5S    W HQ 10   100   4.12
+ 30  50  11 5S    W CQ 10   100   4.12
+ 31  23  62 5S    W CQ 10   100   4.12
+ 32  13 132 5S    W HQ 10   100   4.12
+ 33  63 126 5S    W HQ 10   100   4.12
+ 34  60 119 5S    W HQ 10   100   4.12
+ 35  71  75 5S    W HQ 10   100   4.12
+ 36 137 149 5S    W HQ 10   100   4.12
+ 37 163  83 5S    W HQ 10   100   4.12
+ 38 121 167 5C    N S6 10  -100   0.57
+ 39  66  39 5CX   N S2 10  -200  -1.56
+ 40 104   5 5CX   N S3 10  -200  -1.56
+ 41  59 131 5CX   N S2 10  -200  -1.56
+ 42  31   8 5CX   N S2 10  -200  -1.56
+ 43  67  35 5CX   N S2 10  -200  -1.56
+ 44 109  38 5CX   N S6 10  -200  -1.56
+ 45  22  53 5CX   N S6 10  -200  -1.56
+ 46 162  20 5CX   N S2 10  -200  -1.56
+ 47  92 135 5CX   N S3 10  -200  -1.56
+ 48 103  58 5CX   N S6 10  -200  -1.56
+ 49 125  40 5CX   N S2 10  -200  -1.56
+ 50  52  29 5CX   N S6 10  -200  -1.56
+ 51 154  41 5CX   N S2 10  -200  -1.56
+ 52 100 106 5CX   N D3 10  -200  -1.56
+ 53 127 153 5CX   N S6 10  -200  -1.56
+ 54  37  87 5CX   N D3 10  -200  -1.56
+ 55   7 108 5CX   N S6 10  -200  -1.56
+ 56 169 158 5CX   N S6 10  -200  -1.56
+ 57  64  95 5CX   N S2 10  -200  -1.56
+ 58  69 146 5CX   N S6 10  -200  -1.56
+ 59 166   1 5CX   N S2 10  -200  -1.56
+ 60  88  21 5CX   N D7 10  -200  -1.56
+ 61  33  99 5CX   S DA 10  -200  -1.56
+ 62   4  65 5CX   S SK 10  -200  -1.56
+ 63  96 144 5CX   S DA 10  -200  -1.56
+ 64  25  34 5CXX  N S2 10  -400  -5.36
+ 65  45   9 5HX   S CA  9  -500  -6.95
+ 66  19   3 6CX   N D6 10  -500  -6.95
+ 67  47 128 6CX   S SK 10  -500  -6.95
+ 68 147  90 4S    W HJ 10  -620  -8.61
+ 69 150  98 4S    W C2 10  -620  -8.61
+ 70  86  82 4S    W CQ 10  -620  -8.61
+ 71  80 ??? 4S    W C5 10  -620  -8.61
+ 72  42 157 4S    W C5 10  -620  -8.61
+ 73  79  68 4S    W CQ 10  -620  -8.61
+ 74 160  27 4S    W HQ 10  -620  -8.61
+ 75 115  32 4S    W HQ 10  -620  -8.61
+ 76 164  28 4S    W SA 10  -620  -8.61
+ 77  36  18 4S    W C5 10  -620  -8.61
+ 78 101 107 4S    W C3 10  -620  -8.61
+ 79 151 156 4S    W CQ 10  -620  -8.61
+ 80  94  81 4S    W C5 10  -620  -8.61
+ 81 170 143 4S    W HQ 10  -620  -8.61
+ 82 159  54 4S    W CQ 10  -620  -8.61
+ 83 113   6 3NT   W CQ 10  -630  -8.94
+ 84 141  76 4S    W CQ 12  -680  -9.60
+ 85  56 122 7CX   N S6 10  -800 -11.38
+
+[Board "5"]
+[West "Gulli"]
+[North "luzifer"]
+[East "noell"]
+[South "gm"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J3.2.A98532.AQT7 K84.Q873.KJ.J532 A972.AJT965.7.86 QT65.K4.QT64.K94"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[ScoreIMP "NS 2.85"]
+[Auction "N"]
+1D Pass 1H 1S
+2C 2S 3H Pass
+Pass Pass
+[Play "W"]
+S5 S3 SK SA
+SQ SJ S4 S2
+D4 DA DJ D7
+D6 D2 DK H5
+S6 H2 S8 S7
+DQ D3 C2 H6
+C4 CQ C3 C6
+C9 CA C5 C8
+CK C7 CJ H9
+ST D5 H3 S9
+HK - H7 HT
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  11  75 2SX   W H2  3  1100  14.42
+  2 130  56 4H    S S5 10   620  10.60
+  3  33 113 4H    S S6 10   620  10.60
+  4  35  83 4H    S S5 10   620  10.60
+  5   7 124 3S    W H2  3   300   5.62
+  6 102 144 2S    E D7  3   250   4.50
+  7   2 116 2H    E D7  4   200   3.53
+  8   4 122 2H    S S5 10   170   2.85
+  9  82 110 2H    S S5 10   170   2.85
+ 10  67 106 2H    S S5 10   170   2.85
+ 11  55  91 2H    S C4 10   170   2.85
+ 12 153 126 2H    S S5 10   170   2.85
+ 13 166  95 3H    S S5 10   170   2.85
+ 14  90  98 3H    S HK 10   170   2.85
+ 15 121 159 3H    S S6 10   170   2.85
+ 16  85  17 3H    S S5 10   170   2.85
+ 17 114 115 3H    S S5 10   170   2.85
+ 18   8  96 3H    S S6 10   170   2.85
+ 19  21 135 3H    S S5 10   170   2.85
+ 20  10  60 3H    S S5 10   170   2.85
+ 21 125 154 3H    S S5 10   170   2.85
+ 22 ??? 169 2H    S S5  9   140   1.98
+ 23  58  80 2H    S S5  9   140   1.98
+ 24  70  24 2H    S S5  9   140   1.98
+ 25   3 ??? 2H    S S5  9   140   1.98
+ 26  23  81 2H    S S5  9   140   1.98
+ 27  94  76 2H    S S6  9   140   1.98
+ 28 142 160 2H    S S5  9   140   1.98
+ 29  93 117 2H    S S5  9   140   1.98
+ 30  13  97 2H    S S5  9   140   1.98
+ 31 103 172 2H    S S5  9   140   1.98
+ 32 157  14 2H    S S5  9   140   1.98
+ 33 104  61 2H    S S5  9   140   1.98
+ 34 137 155 2H    S S5  9   140   1.98
+ 35  52  99 2H    S D4  9   140   1.98
+ 36  49 162 2H    S C4  9   140   1.98
+ 37 168 151 2H    S S5  9   140   1.98
+ 38 101 147 3H    S S5  9   140   1.98
+ 39  45  39 3H    S S6  9   140   1.98
+ 40  64 136 3H    S S5  9   140   1.98
+ 41   9  74 3H    S S5  9   140   1.98
+ 42 129  84 3H    S S5  9   140   1.98
+ 43  88  59 3H    S C4  9   140   1.98
+ 44  71 150 3H    S S5  9   140   1.98
+ 45  48 108 3H    S S5  9   140   1.98
+ 46 170  30 3H    S S5  9   140   1.98
+ 47   5  41 3H    S S6  9   140   1.98
+ 48  12  42 2H    S S6  8   110   1.03
+ 49 ???  34 2H    S S5  8   110   1.03
+ 50 ???  26 2H    S C4  8   110   1.03
+ 51  66  16 2H    S S5  8   110   1.03
+ 52 138 123 2H    S S6  8   110   1.03
+ 53 132 139 2H    S S5  8   110   1.03
+ 54  63  15 2H    S S6  8   110   1.03
+ 55 143  53 2H    S C4  8   110   1.03
+ 56  69  79 2H    S S5  8   110   1.03
+ 57 145 109 2NTX  W H2  7   100   1.02
+ 58 146 ??? 3NT   W D3  7   100   1.02
+ 59 158  28 2D    N C5  8    90   0.57
+ 60 141 161 Pass  - -   -     0  -1.53
+ 61  65  29 Pass  - -   -     0  -1.53
+ 62 105 148 2NT   N S4  7  -100  -3.62
+ 63  22  37 3D    N S4  8  -100  -3.62
+ 64  32  77 3D    N C2  8  -100  -3.62
+ 65 133  78 3D    N S4  8  -100  -3.62
+ 66  43  40 3D    N S4  8  -100  -3.62
+ 67  25  92 3H    S C4  8  -100  -3.62
+ 68  38  72 3H    S S5  8  -100  -3.62
+ 69 152 165 3H    S S6  8  -100  -3.62
+ 70 111 131 3NT   N C2  8  -100  -3.62
+ 71 156  31 4H    S S5  9  -100  -3.62
+ 72 118  18 4H    S S5  9  -100  -3.62
+ 73  73 134 4H    S S5  9  -100  -3.62
+ 74  51  86 3DX   N S8  8  -200  -5.85
+ 75 171 149 3NT   N C2  7  -200  -5.85
+ 76 ???  19 3NT   N C2  7  -200  -5.85
+ 77 112  27 4H    S S5  8  -200  -5.85
+ 78  20  44 4H    S C9  8  -200  -5.85
+ 79  36   1 4H    S S5  8  -200  -5.85
+ 80  87  46 4H    S S6  8  -200  -5.85
+ 81 140  47 4H    S S5  8  -200  -5.85
+ 82  57  89 5D    N S4  9  -200  -5.85
+ 83  62 127 5H    S S5  9  -200  -5.85
+ 84 167 100 2NT   N S4  5  -300  -7.76
+ 85 164  68 3NT   N S4  5  -400  -9.23
+ 86 120 163 3NT   N H3  5  -400  -9.23
+ 87  50   6 3SX   S D4  7  -500 -10.61
+ 88 128 119 3NT   N C2  4  -500 -10.61
+ 89 107  54 6NT   S S5  7  -500 -10.61
+
+[Board "6"]
+[West "Gulli"]
+[North "luzifer"]
+[East "noell"]
+[South "gm"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:Q832.T984.QJ8.J7 K54.Q632.K74.A93 AJT7.J.A9653.T85 96.AK75.T2.KQ642"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[ScoreIMP "NS -0.16"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "W"]
+HJ HK H4 H2
+D3 H5 HT HQ
+C5 C2 C7 CA
+CT CQ CJ C9
+C8 CK S2 C3
+D5 C4 H9 D4
+SA S6 SQ SK
+SJ S9 S8 S4
+DA D2 D8 D7
+D9 DT DQ -
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1 171 149 3NT   S SJ 10   430   9.59
+  2  33 113 3NT   S D5 10   430   9.59
+  3   2 116 3NT   S SJ 10   430   9.59
+  4  21 135 4H    S SA 10   420   9.49
+  5 101 147 3NT   N HT  9   400   9.35
+  6  25  92 3NT   S SJ  9   400   9.35
+  7  67 106 3NT   S S7  9   400   9.35
+  8 114 115 3S    W HK  7   200   5.43
+  9  90  98 2NT   S D5 10   180   5.26
+ 10 152 165 1NT   S D5  9   150   4.33
+ 11 104  61 2NT   S D3  9   150   4.33
+ 12 142 160 3H    N S2  9   140   4.30
+ 13  71 150 1H    S C5  8   110   3.34
+ 14 164  68 2H    S DA  8   110   3.34
+ 15 120 163 3C    N DQ  9   110   3.34
+ 16 103 172 3C    N DQ  9   110   3.34
+ 17  49 162 3S    W CK  8   100   3.30
+ 18  22  37 Pass  - -   -     0   1.21
+ 19  11  75 Pass  - -   -     0   1.21
+ 20  23  81 Pass  - -   -     0   1.21
+ 21 132 139 2H    N HT  7   -50  -0.16
+ 22  66  16 2H    N DQ  7   -50  -0.16
+ 23 ???  26 3C    N DQ  8   -50  -0.16
+ 24 121 159 3C    N DQ  8   -50  -0.16
+ 25  50   6 3C    S HJ  8   -50  -0.16
+ 26  57  89 3H    S SA  8   -50  -0.16
+ 27 157  14 3H    S HJ  8   -50  -0.16
+ 28  13  97 3H    S SA  8   -50  -0.16
+ 29  70  24 3NT   S HJ  8   -50  -0.16
+ 30  55  91 4H    N HT  9   -50  -0.16
+ 31   7 124 4H    N DQ  9   -50  -0.16
+ 32  85  17 4H    N S2  9   -50  -0.16
+ 33  93 117 4H    N DQ  9   -50  -0.16
+ 34  45  39 4H    N CJ  9   -50  -0.16
+ 35 153 126 4H    N H4  9   -50  -0.16
+ 36 140  47 4H    N S3  9   -50  -0.16
+ 37 ???  19 4H    N DQ  9   -50  -0.16
+ 38 166  95 4H    N DQ  9   -50  -0.16
+ 39  10  60 4H    S HJ  9   -50  -0.16
+ 40   4 122 4H    S DA  9   -50  -0.16
+ 41  82 110 4H    S DA  9   -50  -0.16
+ 42   5  41 4H    S HJ  9   -50  -0.16
+ 43  58  80 4H    S HJ  9   -50  -0.16
+ 44  87  46 4H    S DA  9   -50  -0.16
+ 45  48 108 4H    S HJ  9   -50  -0.16
+ 46  64 136 4H    S SJ  9   -50  -0.16
+ 47 128 119 4H    S D5  9   -50  -0.16
+ 48 156  31 4H    S DA  9   -50  -0.16
+ 49 111 131 4H    S DA  9   -50  -0.16
+ 50  69  79 4H    S DA  9   -50  -0.16
+ 51 145 109 4H    S HJ  9   -50  -0.16
+ 52  43  40 3H    S HJ  7  -100  -1.79
+ 53 141 161 4H    N DQ  8  -100  -1.79
+ 54 112  27 4H    N DQ  8  -100  -1.79
+ 55  20  44 4H    N DQ  8  -100  -1.79
+ 56 170  30 4H    N DQ  8  -100  -1.79
+ 57 102 144 4H    N DQ  8  -100  -1.79
+ 58   8  96 4H    N DQ  8  -100  -1.79
+ 59  88  59 4H    N DQ  8  -100  -1.79
+ 60 130  56 4H    N DQ  8  -100  -1.79
+ 61  94  76 4H    N DQ  8  -100  -1.79
+ 62  32  77 4H    N DQ  8  -100  -1.79
+ 63 129  84 4H    N DQ  8  -100  -1.79
+ 64 107  54 4H    N DQ  8  -100  -1.79
+ 65 138 123 4H    N H8  8  -100  -1.79
+ 66 ???  34 4H    N DQ  8  -100  -1.79
+ 67  52  99 4H    N DQ  8  -100  -1.79
+ 68 158  28 4H    S DA  8  -100  -1.79
+ 69 143  53 4H    S HJ  8  -100  -1.79
+ 70 137 155 4H    S HJ  8  -100  -1.79
+ 71  62 127 4H    S SA  8  -100  -1.79
+ 72  36   1 4H    S HJ  8  -100  -1.79
+ 73 167 100 4H    S HJ  8  -100  -1.79
+ 74 125 154 4H    S HJ  8  -100  -1.79
+ 75  12  42 1S    W CK  9  -140  -2.79
+ 76  63  15 4H    N S3  7  -150  -3.06
+ 77  73 134 4H    N DQ  7  -150  -3.06
+ 78  51  86 4H    N DQ  7  -150  -3.06
+ 79  38  72 4H    N DQ  7  -150  -3.06
+ 80  65  29 4H    S C5  7  -150  -3.06
+ 81   9  74 4H    S CT  7  -150  -3.06
+ 82 133  78 5C    S C5  8  -150  -3.06
+ 83 168 151 3S    W HA 10  -170  -3.34
+ 84 118  18 4H    N DQ  6  -200  -4.17
+ 85 ??? 169 4HX   N DQ  8  -300  -6.02
+ 86   3 ??? 2SX   E H2  9  -870 -13.00
+ 87  35  83 3SX   W CK 10  -930 -13.27
+
+[Board "7"]
+[West "maclean"]
+[North "luzifer"]
+[East "fellows"]
+[South "gm"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AQ75.T9752.A2.Q8 K84.A6.KQ74.J653 JT962.K3.JT653.2 3.QJ84.98.AKT974"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[ScoreIMP "NS 5.44"]
+[Auction "S"]
+1H X 1S 3NT
+Pass Pass Pass
+[Play "S"]
+SA S4 SJ S3
+SQ S8 ST H4
+S7 SK S6 H8
+C8 C6 C2 CA
+CQ CJ D6 CK
+H2 C5 H3 CT
+D2 C3 HK C9
+H5 D4 D3 C7
+H7 D7 D5 C4
+DA DQ DT D9
+S5 H6 S9 HJ
+H9 HA S2 D8
+HT DK DJ HQ
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  33  90 3SX   N CA  9   730  13.39
+  2 102  97 3NT   E S7  7   200   7.48
+  3  48 104 3NT   E S5  7   200   7.48
+  4  17 101 3NT   W SJ  7   200   7.48
+  5 129  32 3S    N CA  9   140   6.31
+  6  52 124 3S    N CA  9   140   6.31
+  7 115 134 3S    N CA  9   140   6.31
+  8 126  72 3S    N CK  9   140   6.31
+  9   7  63 3S    N CK  9   140   6.31
+ 10  66 146 3S    N CK  9   140   6.31
+ 11 103  35 3S    N CA  9   140   6.31
+ 12 151  30 3S    S C3  9   140   6.31
+ 13  42 167 2S    N CA  8   110   5.44
+ 14  65  37 2NT   W SJ  7   100   5.44
+ 15  10  29 3NT   E SA  8   100   5.44
+ 16  46  15 3NT   E S7  8   100   5.44
+ 17  53  34 3NT   W SJ  8   100   5.44
+ 18  11  91 3NT   W SJ  8   100   5.44
+ 19  57 119 3NT   W SJ  8   100   5.44
+ 20 121  95 3NT   W SJ  8   100   5.44
+ 21   8  81 5C    E SA 10   100   5.44
+ 22  51 166 5C    E DA 10   100   5.44
+ 23  77 105 5C    E H2 10   100   5.44
+ 24  59 156 5C    E SA 10   100   5.44
+ 25  55  23 5C    E SA 10   100   5.44
+ 26  56 160 1H    S DK  6  -100   1.46
+ 27 152  99 2H    S C3  7  -100   1.46
+ 28 144 ??? 2H    S DK  7  -100   1.46
+ 29 148 149 3S    N CA  8  -100   1.46
+ 30  50 118 4S    N CA  9  -100   1.46
+ 31  25  45 3C    E SA 10  -130   0.59
+ 32 137  82 3C    E SA 10  -130   0.59
+ 33  38  21 3C    E HT 10  -130   0.59
+ 34   5  28 3C    E HT 10  -130   0.59
+ 35 116  93 3C    E DA 10  -130   0.59
+ 36  20  43 3C    E HT 10  -130   0.59
+ 37 113 147 3C    E HT 10  -130   0.59
+ 38 109 112 3C    E HT 10  -130   0.59
+ 39  76  36 3C    E HT 10  -130   0.59
+ 40 135  49 3C    E HT 10  -130   0.59
+ 41  58 128 3C    E H2 10  -130   0.59
+ 42  47  87 3C    E HT 10  -130   0.59
+ 43  80  79 3C    E DA 10  -130   0.59
+ 44  14  69 3C    E HT 10  -130   0.59
+ 45  22  83 3C    E DA 10  -130   0.59
+ 46 131  94 4C    E H2 10  -130   0.59
+ 47 114 159 4C    E H5 10  -130   0.59
+ 48  62  88 4C    E SA 10  -130   0.59
+ 49  85 123 4C    E SA 10  -130   0.59
+ 50  68  73 4C    E H2 10  -130   0.59
+ 51 143  24 4C    E SA 10  -130   0.59
+ 52 157 145 4C    E H5 10  -130   0.59
+ 53 154 168 4C    E DA 10  -130   0.59
+ 54  16  13 3C    E CQ 11  -150   0.10
+ 55  96 163 3C    E HT 11  -150   0.10
+ 56 110 130 3C    E DA 11  -150   0.10
+ 57  26  84 3C    E HT 11  -150   0.10
+ 58 158  64 3C    E DA 11  -150   0.10
+ 59 133  27 4C    E DA 11  -150   0.10
+ 60 172 140 1H    S DK  5  -200  -0.99
+ 61 122  92 3S    N CK  7  -200  -0.99
+ 62 ??? 150 3S    N CA  7  -200  -0.99
+ 63 138  39 3SX   N CA  8  -200  -0.99
+ 64 125 161 4SX   N CA  9  -200  -0.99
+ 65  67  60 4SX   N CK  9  -200  -0.99
+ 66   2   6 4SX   N CK  9  -200  -0.99
+ 67 117  98 4SX   N CA  9  -200  -0.99
+ 68   3  74 4SX   N CK  9  -200  -0.99
+ 69  89  31 4SX   N CK  9  -200  -0.99
+ 70  18  44 4D    S HA  6  -400  -5.23
+ 71  71 136 3NT   E H5  9  -600  -8.30
+ 72 ??? ??? 3NT   E S5  9  -600  -8.30
+ 73 107 ??? 3NT   W HK  9  -600  -8.30
+ 74 106  61 3NT   W SJ  9  -600  -8.30
+ 75 171 153 3NT   W S6  9  -600  -8.30
+ 76 127  78 5C    E DA 11  -600  -8.30
+ 77  41   1 5C    E DA 11  -600  -8.30
+ 78 120 169 5C    E DA 11  -600  -8.30
+ 79 139  70 3NT   E H5 10  -630  -8.98
+ 80  54  12 3NT   E H5 10  -630  -8.98
+ 81  86   4 3NT   E HT 10  -630  -8.98
+ 82 162  19 3NT   E S5 10  -630  -8.98
+ 83 155 111 3NT   E HT 10  -630  -8.98
+ 84  40 ??? 3NT   W SJ 10  -630  -8.98
+ 85 100   9 4NT   W HK 10  -630  -8.98
+ 86 142 108 3NT   E DA 11  -660  -9.39
+ 87 170 132 3HX   S DQ  6  -800 -11.06
+ 88 141  75 2HX   S DK  4 -1100 -13.61
+
+[Board "8"]
+[West "maclean"]
+[North "luzifer"]
+[East "fellows"]
+[South "gm"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AJ97.83.T8643.J9 52.962.J75.AKQT4 KQT8.AKQT.KQ.752 643.J754.A92.863"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[ScoreIMP "NS -3.14"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S Pass 4S Pass
+Pass Pass
+[Play "N"]
+CA C5 C8 C9
+CK C2 C3 CJ
+CQ C7 C6 S7
+D7 DK DA D3
+D5 DQ D2 D4
+S2 S8 S3 SJ
+H2 HA H4 H3
+H6 HK H5 H8
+H9 HT HJ SA
+S5 SK S4 S9
+- SQ - -
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  62  88 3NT   E C8  7   100   8.53
+  2  26  84 3NT   E H4  7   100   8.53
+  3 131  94 3NT   W CK  7   100   8.53
+  4  66 146 3NT   W CA  7   100   8.53
+  5 106  61 3NT   W CA  7   100   8.53
+  6 139  70 4H    W CA  9    50   7.39
+  7 155 111 4H    W CK  9    50   7.39
+  8  11  91 4S    E C3  9    50   7.39
+  9  96 163 4S    W H9  9    50   7.39
+ 10 120 169 4S    W CA  9    50   7.39
+ 11 152  99 4S    W CK  9    50   7.39
+ 12  42 167 2C    S H8  7   -50   5.71
+ 13 ??? 150 1NT   E H4  7   -90   4.67
+ 14 113 147 2CX   N DK  7  -100   4.62
+ 15  56 160 3C    N HA  7  -100   4.62
+ 16 117  98 2D    W CA  9  -110   4.04
+ 17 144 ??? 2D    W CA  9  -110   4.04
+ 18  50 118 3D    W CA  9  -110   4.04
+ 19  59 156 1NT   E H4  9  -150   3.52
+ 20  48 104 1NT   E H4  9  -150   3.52
+ 21   8  81 1NT   E H4  9  -150   3.52
+ 22  52 124 2NT   E H4  9  -150   3.52
+ 23  33  90 2NT   E H4  9  -150   3.52
+ 24  51 166 2S    W CA 10  -170   2.66
+ 25   5  28 2S    W CA 10  -170   2.66
+ 26 115 134 2S    W CA 10  -170   2.66
+ 27 172 140 3S    W CA 10  -170   2.66
+ 28 148 149 3S    W CA 10  -170   2.66
+ 29  18  44 3S    W CA 10  -170   2.66
+ 30  77 105 3S    W CA 10  -170   2.66
+ 31 142 108 3S    W CA 10  -170   2.66
+ 32  53  34 3NT   E D2  9  -400  -2.42
+ 33 121  95 3NT   E H4  9  -400  -2.42
+ 34  17 101 3NT   E H4  9  -400  -2.42
+ 35  71 136 3NT   E H4  9  -400  -2.42
+ 36 114 159 3NT   E H4  9  -400  -2.42
+ 37  67  60 3NT   E H4  9  -400  -2.42
+ 38 171 153 4S    E H4 10  -420  -3.14
+ 39 158  64 4S    E C8 10  -420  -3.14
+ 40 170 132 4S    E C8 10  -420  -3.14
+ 41 157 145 4S    W CA 10  -420  -3.14
+ 42 143  24 4S    W CA 10  -420  -3.14
+ 43 102  97 4S    W CA 10  -420  -3.14
+ 44  80  79 4S    W CA 10  -420  -3.14
+ 45  54  12 4S    W CA 10  -420  -3.14
+ 46 116  93 4S    W CA 10  -420  -3.14
+ 47 137  82 4S    W CA 10  -420  -3.14
+ 48 122  92 4S    W CK 10  -420  -3.14
+ 49  65  37 4S    W CQ 10  -420  -3.14
+ 50  58 128 4S    W CK 10  -420  -3.14
+ 51 162  19 4S    W CA 10  -420  -3.14
+ 52 110 130 4S    W CK 10  -420  -3.14
+ 53  55  23 4S    W CA 10  -420  -3.14
+ 54 125 161 4S    W CA 10  -420  -3.14
+ 55  10  29 4S    W CA 10  -420  -3.14
+ 56  85 123 4S    W CK 10  -420  -3.14
+ 57  22  83 4S    W CA 10  -420  -3.14
+ 58   2   6 4S    W CA 10  -420  -3.14
+ 59   7  63 4S    W CA 10  -420  -3.14
+ 60  38  21 4S    W CA 10  -420  -3.14
+ 61 141  75 4S    W CA 10  -420  -3.14
+ 62 154 168 4S    W CK 10  -420  -3.14
+ 63 109 112 4S    W CQ 10  -420  -3.14
+ 64  47  87 4S    W CK 10  -420  -3.14
+ 65 126  72 4S    W CA 10  -420  -3.14
+ 66  46  15 4S    W CA 10  -420  -3.14
+ 67 103  35 4S    W CK 10  -420  -3.14
+ 68  20  43 4S    W CA 10  -420  -3.14
+ 69  16  13 4S    W CA 10  -420  -3.14
+ 70 135  49 4S    W CA 10  -420  -3.14
+ 71  25  45 4S    W CA 10  -420  -3.14
+ 72 138  39 4S    W CA 10  -420  -3.14
+ 73 151  30 4S    W CA 10  -420  -3.14
+ 74  14  69 4S    W S2 10  -420  -3.14
+ 75  76  36 4S    W CA 10  -420  -3.14
+ 76  41   1 4S    W CA 10  -420  -3.14
+ 77  89  31 4S    W CK 10  -420  -3.14
+ 78  57 119 3NT   E H4 10  -430  -3.18
+ 79  40 ??? 4S    E S3 11  -450  -3.97
+ 80  86   4 2HX   N DK  4  -800 -10.38
+
+[Board "9"]
+[West "gm"]
+[North "pony"]
+[East "luzifer"]
+[South "myuen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK654.K32.J985.8 T.J854.A3.QT9652 Q73.AQT6.K64.KJ3 J982.97.QT72.A74"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "EW 50"]
+[ScoreIMP "EW 3.59"]
+[Auction "N"]
+1S Pass 3NT Pass
+Pass Pass
+[Play "W"]
+D7 D8 DA D6
+CA C8 C9 CK
+C7 H2 CQ C3
+D2 D5 D3 DK
+S2 SK ST S3
+SJ S4 C2 SQ
+S8 SA C5 S7
+H7 HK H4 H6
+H9 H3 H5 HQ
+DT S5 H8 HA
+DQ D9 C6 D4
+S9 S6 CT HT
+C4 DJ HJ CJ
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  35 169 3CX   E S3  5  1100  13.87
+  2   6 ??? 3NT   S D2 10   430   6.38
+  3  45 108 3NT   S CA 10   430   6.38
+  4  12 133 3NT   S H9 10   430   6.38
+  5 149  56 3NT   S CA 10   430   6.38
+  6  70 157 3NT   S H9 10   430   6.38
+  7  32  57 4S    N DA 10   420   6.38
+  8  64  62 4S    N C6 10   420   6.38
+  9  58  61 4S    N H5 10   420   6.38
+ 10 123  48 4S    N CT 10   420   6.38
+ 11   1 127 4S    N C9 10   420   6.38
+ 12  59 170 4S    N DA 10   420   6.38
+ 13 119 156 4S    N DA 10   420   6.38
+ 14  54 166 4S    N DA 10   420   6.38
+ 15  14  26 4S    N DA 10   420   6.38
+ 16  69  13 4S    N C5 10   420   6.38
+ 17  42  20 4S    N DA 10   420   6.38
+ 18  16  92 4S    N DA 10   420   6.38
+ 19   8  28 4S    N H5 10   420   6.38
+ 20 150  89 4S    N C6 10   420   6.38
+ 21  41 145 4S    N C6 10   420   6.38
+ 22  24  43 4S    N CT 10   420   6.38
+ 23  74  73 4S    S H9 10   420   6.38
+ 24  91 129 4S    S H9 10   420   6.38
+ 25 158 168 4S    S H9 10   420   6.38
+ 26  96  77 3NT   S C7  9   400   5.99
+ 27   4 159 3NT   S D2  9   400   5.99
+ 28  29  55 3NT   S H9  9   400   5.99
+ 29 113 135 3NT   S C4  9   400   5.99
+ 30 107  34 3NT   S D2  9   400   5.99
+ 31 167 171 3NT   S S2  9   400   5.99
+ 32  52 112 3NT   S C4  9   400   5.99
+ 33 154 105 3NT   S D2  9   400   5.99
+ 34  15 118 3CX   E S3  8   200   1.61
+ 35  71   9 2H    S D2  9   140   0.59
+ 36  99 115 3H    S D2  8   -50  -3.59
+ 37   5  10 3NT   S D7  8   -50  -3.59
+ 38 139 111 3NT   S D2  8   -50  -3.59
+ 39 132  90 4H    S D7  9   -50  -3.59
+ 40 161  47 4S    N C5  9   -50  -3.59
+ 41 144 121 4S    N H5  9   -50  -3.59
+ 42 151 120 4S    N DA  9   -50  -3.59
+ 43 106 142 4S    N H8  9   -50  -3.59
+ 44 ???   3 4S    N C6  9   -50  -3.59
+ 45  37 137 4S    N C9  9   -50  -3.59
+ 46  21  27 4S    N DA  9   -50  -3.59
+ 47 ??? 136 4S    N DA  9   -50  -3.59
+ 48  78  19 4S    N CT  9   -50  -3.59
+ 49 ???  53 4S    N CT  9   -50  -3.59
+ 50 148  83 4S    N CT  9   -50  -3.59
+ 51  44  66 4S    N DA  9   -50  -3.59
+ 52  65  40 4S    N DA  9   -50  -3.59
+ 53 153  60 4S    N C6  9   -50  -3.59
+ 54 116 146 4S    N DA  9   -50  -3.59
+ 55 138 155 4S    N DA  9   -50  -3.59
+ 56 140  80 4S    N DA  9   -50  -3.59
+ 57  79  87 4S    N CT  9   -50  -3.59
+ 58  18   2 4S    N CT  9   -50  -3.59
+ 59  17 126 4S    N ST  9   -50  -3.59
+ 60 114  31 4S    N CT  9   -50  -3.59
+ 61  46  49 4S    N DA  9   -50  -3.59
+ 62  88  22 4S    N C5  9   -50  -3.59
+ 63 100 ??? 4S    N C2  9   -50  -3.59
+ 64  68 ??? 4S    N H4  9   -50  -3.59
+ 65  11  39 4S    S D7  9   -50  -3.59
+ 66  72  50 4S    S D2  9   -50  -3.59
+ 67 124 125 4S    S D2  9   -50  -3.59
+ 68 172  30 4S    S D2  9   -50  -3.59
+ 69  81 134 5S    N DA 10   -50  -3.59
+ 70 147 141 5S    N DA 10   -50  -3.59
+ 71 164 160 5S    N DA 10   -50  -3.59
+ 72 109  25 5S    N H4 10   -50  -3.59
+ 73 122  86 3NT   S D2  7  -100  -5.17
+ 74  85  36 3NT   S D2  7  -100  -5.17
+ 75  23  82 4H    S S8  8  -100  -5.17
+ 76 128  63 4S    N DA  8  -100  -5.17
+ 77 165 104 4S    S D7  8  -100  -5.17
+ 78  76  75 5H    S H7  9  -100  -5.17
+ 79  67 130 5S    N CT  9  -100  -5.17
+ 80   7  93 5S    N DA  9  -100  -5.17
+ 81 152 117 5S    N C6  9  -100  -5.17
+ 82 131 143 5S    N DA  9  -100  -5.17
+ 83  97  84 5S    N ST  9  -100  -5.17
+ 84 163  98 5S    N CT  9  -100  -5.17
+ 85 162 102 6S    N DA 10  -100  -5.17
+ 86  95  51 6NT   S CA 10  -100  -5.17
+ 87 101  94 5S    N DA  8  -150  -5.99
+ 88 103 110 6S    N DA  9  -150  -5.99
+
+[Board "10"]
+[West "gm"]
+[North "pony"]
+[East "luzifer"]
+[South "myuen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:954.T76.Q93.QT84 Q7.AK94.5.KJ9653 AJT832.5.J874.A7 K6.QJ832.AKT62.2"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "EW -650"]
+[ScoreIMP "EW -1.90"]
+[Auction "E"]
+Pass 1C 3S X
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+SA S6 S9 SQ
+S2 SK S5 S7
+CA C2 C4 CJ
+SJ D2 S4 H4
+H5 H2 H6 HA
+S8 H3 H7 HK
+C7 D6 C8 CK
+D8 DA D3 D5
+D7 DT DQ H9
+S3 HJ CT C6
+- HQ HT -
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  42  20 4H    N S4 12   680   2.80
+  2 138 155 4H    N S9 11   650   1.90
+  3  69  13 4H    N S4 11   650   1.90
+  4 119 156 4H    N S4 11   650   1.90
+  5 150  89 4H    N S4 11   650   1.90
+  6  29  55 4H    N S4 11   650   1.90
+  7  37 137 4H    N S4 11   650   1.90
+  8 153  60 4H    N S4 11   650   1.90
+  9  97  84 4H    N S5 11   650   1.90
+ 10 123  48 4H    N S4 11   650   1.90
+ 11  74  73 4H    N S4 11   650   1.90
+ 12   7  93 4H    N S4 11   650   1.90
+ 13  18   2 4H    N S4 11   650   1.90
+ 14 124 125 4H    N S4 11   650   1.90
+ 15  76  75 4H    N S4 11   650   1.90
+ 16  23  82 4H    N S4 11   650   1.90
+ 17  32  57 4H    N S9 11   650   1.90
+ 18 103 110 4H    N S4 11   650   1.90
+ 19  81 134 4H    N S5 11   650   1.90
+ 20 172  30 4H    N S4 11   650   1.90
+ 21 116 146 4H    N S5 11   650   1.90
+ 22 158 168 4H    N S9 11   650   1.90
+ 23   8  28 4H    N S4 11   650   1.90
+ 24 113 135 4H    N S5 11   650   1.90
+ 25 151 120 4H    N S4 11   650   1.90
+ 26 100 ??? 4H    S SA 11   650   1.90
+ 27  16  92 4H    S D7 11   650   1.90
+ 28   4 159 4H    S H5 11   650   1.90
+ 29  67 130 4H    S D7 11   650   1.90
+ 30 139 111 4H    S D8 11   650   1.90
+ 31  58  61 4H    S CA 11   650   1.90
+ 32 ???   3 4H    S D4 11   650   1.90
+ 33   5  10 4H    S SA 11   650   1.90
+ 34 167 171 4H    S CA 11   650   1.90
+ 35 163  98 5H    N C4 11   650   1.90
+ 36  85  36 5H    N S4 11   650   1.90
+ 37 131 143 5H    N S4 11   650   1.90
+ 38 147 141 5H    N S9 11   650   1.90
+ 39  11  39 5H    N S9 11   650   1.90
+ 40  41 145 5H    N S4 11   650   1.90
+ 41 101  94 5H    N S9 11   650   1.90
+ 42  79  87 5H    N S9 11   650   1.90
+ 43  15 118 5H    N D3 11   650   1.90
+ 44  71   9 5H    N S5 11   650   1.90
+ 45 109  25 5H    N S4 11   650   1.90
+ 46  17 126 5H    N S9 11   650   1.90
+ 47  12 133 5H    N S9 11   650   1.90
+ 48  14  26 5H    N S5 11   650   1.90
+ 49  64  62 5H    S D4 11   650   1.90
+ 50  54 166 5H    S CA 11   650   1.90
+ 51 114  31 5H    S SA 11   650   1.90
+ 52 ??? 136 5H    S SA 11   650   1.90
+ 53  45 108 5H    S H5 11   650   1.90
+ 54  95  51 5H    S SA 11   650   1.90
+ 55  21  27 5H    S SA 11   650   1.90
+ 56 128  63 5H    S SA 11   650   1.90
+ 57  35 169 5H    S CA 11   650   1.90
+ 58 164 160 4H    N S9 10   620   0.96
+ 59 106 142 4H    N S4 10   620   0.96
+ 60 148  83 4H    N S5 10   620   0.96
+ 61  24  43 4H    N S5 10   620   0.96
+ 62 144 121 4H    N S5 10   620   0.96
+ 63 140  80 4H    N S5 10   620   0.96
+ 64  44  66 4H    N H6 10   620   0.96
+ 65  46  49 4H    N S4 10   620   0.96
+ 66   1 127 4H    N S4 10   620   0.96
+ 67  70 157 4H    N S4 10   620   0.96
+ 68  99 115 4H    N S5 10   620   0.96
+ 69 149  56 4H    N S5 10   620   0.96
+ 70 161  47 4H    S SA 10   620   0.96
+ 71 152 117 4H    S SA 10   620   0.96
+ 72 162 102 4H    S SA 10   620   0.96
+ 73  65  40 4SX   W DK  8   500  -1.77
+ 74  96  77 4S    W C2  7   300  -5.78
+ 75 107  34 5H    N S4 10  -100 -11.10
+ 76  78  19 5H    N C4 10  -100 -11.10
+ 77  88  22 6H    N S4 11  -100 -11.10
+ 78  91 129 6H    N S4 11  -100 -11.10
+ 79 154 105 6H    S CA 11  -100 -11.10
+ 80 122  86 5H    N S9  9  -200 -11.65
+ 81 165 104 6H    N S4 10  -200 -11.65
+ 82 132  90 6H    S CA 10  -200 -11.65
+ 83  52 112 7H    N S4 11  -200 -11.65
+ 84  72  50 7HX   S CA 11  -500 -14.22
+
+[Board "11"]
+[West "maree"]
+[North "luzifer"]
+[East "erhein"]
+[South "gm"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A.KT97.AK972.A63 KT965.AJ3.J.QT98 Q872.64.T843.752 J43.Q852.Q65.KJ4"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "9"]
+[Score "NS -100"]
+[ScoreIMP "NS -2.43"]
+[Auction "S"]
+1D 1S Pass 2S
+X Pass 3D Pass
+Pass 3S 4D Pass
+5D Pass Pass Pass
+[Play "W"]
+ST S2 S4 SA
+DJ D3 D5 DA
+C8 C2 CJ C3
+HA H4 H2 HK
+HJ H6 H5 H7
+C9 C5 CK CA
+H3 D4 H8 H9
+S5 S8 SJ D2
+S6 D8 HQ HT
+S9 S7 S3 D7
+CQ C7 C4 C6
+SK - - -
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1   9 133 4SX   W H6  6   800  12.99
+  2 114 172 3DX   S HA 10   570  11.02
+  3  21 162 2SX   W H6  5   500  10.33
+  4 109  81 4SX   W D3  8   300   6.95
+  5 135 164 4S    W DT  7   150   3.90
+  6 167  99 2D    S HA 10   130   3.52
+  7   8  50 1D    S S6  9   110   2.87
+  8  31  15 3D    S CT  9   110   2.87
+  9 155  16 3D    S ST  9   110   2.87
+ 10  83  28 3D    S DJ  9   110   2.87
+ 11  93  51 3D    S ST  9   110   2.87
+ 12  25 158 3D    S DJ  9   110   2.87
+ 13 156  54 3D    S DJ  9   110   2.87
+ 14 148 134 3HX   E SA  8   100   2.76
+ 15 131 126 3S    W D3  7   100   2.76
+ 16   3 107 3S    W H6  7   100   2.76
+ 17 116 152 3S    W DT  7   100   2.76
+ 18   1 ??? 3S    W D3  7   100   2.76
+ 19 145  86 3SX   W D3  8   100   2.76
+ 20 124 168 3SX   W D3  8   100   2.76
+ 21 130  45 3SX   W D3  8   100   2.76
+ 22  68 ??? 4S    W D4  8   100   2.76
+ 23 136  43 1D    S S6  8    90   2.49
+ 24 166  57 1D    S S6  8    90   2.49
+ 25 137  23 1D    S S6  7    70   2.05
+ 26  53  13 1H    E DK  6    50   1.40
+ 27 102 119 2H    E DA  7    50   1.40
+ 28 146  37 3S    W H6  8    50   1.40
+ 29  74 ??? 3S    W D3  8    50   1.40
+ 30 129  24 3S    W H6  8    50   1.40
+ 31   7  65 3S    W D3  8    50   1.40
+ 32  89 115 3S    W D3  8    50   1.40
+ 33 128  75 3S    W H6  8    50   1.40
+ 34  19 170 3S    W D3  8    50   1.40
+ 35  40  42 3S    W H6  8    50   1.40
+ 36  48 118 3S    W D3  8    50   1.40
+ 37  22  82 3S    W D4  8    50   1.40
+ 38 159 106 3S    W D3  8    50   1.40
+ 39 123  60 3S    W S2  8    50   1.40
+ 40 141 142 3S    W D3  8    50   1.40
+ 41 105  62 3S    W DT  8    50   1.40
+ 42  35  46 3D    N H5  8   -50  -0.97
+ 43 127  59 3D    S ST  8   -50  -0.97
+ 44  20  47 3D    S S5  8   -50  -0.97
+ 45 151  91 3D    S S6  8   -50  -0.97
+ 46  67  64 3D    S ST  8   -50  -0.97
+ 47 169  56 3D    S DJ  8   -50  -0.97
+ 48 153  49 3D    S CT  8   -50  -0.97
+ 49 150  88 3D    S CT  8   -50  -0.97
+ 50 147 138 3D    S S6  8   -50  -0.97
+ 51 117  55 3D    S DJ  8   -50  -0.97
+ 52  70  29 3D    S CT  8   -50  -0.97
+ 53 100  96 4D    S S5  9   -50  -0.97
+ 54  80 125 4D    S DJ  9   -50  -0.97
+ 55 111  79 4D    S ST  9   -50  -0.97
+ 56   6  44 5D    S DJ 10   -50  -0.97
+ 57  98  17 3D    N SJ  7  -100  -2.43
+ 58 140 154 4D    S S6  8  -100  -2.43
+ 59 103 108 4D    S C8  8  -100  -2.43
+ 60  52  36 4D    S ST  8  -100  -2.43
+ 61  27  32 4D    S DJ  8  -100  -2.43
+ 62 144  78 4D    S S9  8  -100  -2.43
+ 63 161 149 4D    S S9  8  -100  -2.43
+ 64  10  18 5D    S ST  9  -100  -2.43
+ 65  87 139 5D    S S5  9  -100  -2.43
+ 66 101  95 5D    S DJ  9  -100  -2.43
+ 67 112 132 5D    S DJ  9  -100  -2.43
+ 68  34  84 5D    S DJ  9  -100  -2.43
+ 69  26 110 2H    E DA  8  -110  -2.56
+ 70 157  63 2S    W H6  8  -110  -2.56
+ 71 104  14 2S    W DT  8  -110  -2.56
+ 72 122 ??? 2S    W H6  8  -110  -2.56
+ 73 160 165 2S    W D3  8  -110  -2.56
+ 74 ???  72 2S    W D3  8  -110  -2.56
+ 75  90  38 2S    W H6  8  -110  -2.56
+ 76 113  30 3S    W S2  9  -140  -3.41
+ 77 143  39 3S    W D3  9  -140  -3.41
+ 78 121  41 3S    W D8  9  -140  -3.41
+ 79 163  76 3S    W D3  9  -140  -3.41
+ 80  12  69 3S    W D3  9  -140  -3.41
+ 81  94 120 3S    W D3  9  -140  -3.41
+ 82   5  11 3S    W D3  9  -140  -3.41
+ 83  92  97 3H    S S6  6  -150  -3.57
+ 84  61  77 4D    S ST  7  -150  -3.57
+ 85   4  58 2SX   E DA  8  -470  -9.69
+ 86  71  73 2SX   W H6  8  -470  -9.69
+ 87  66   2 2SX   W DT  9  -570 -11.06
+
+[Board "12"]
+[West "maree"]
+[North "luzifer"]
+[East "erhein"]
+[South "gm"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A32.KQ542.T7.987 854.7.KQJ53.AJT5 QJT7.J3.842.Q643 K96.AT986.A96.K2"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[ScoreIMP "NS -7.94"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 2C Pass 2S
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "E"]
+SQ S6 S2 S4
+SJ SK SA S5
+ST S9 S3 S8
+S7 H6 H2 C5
+HJ HA H4 H7
+D2 D6 D7 DK
+D4 DA DT D3
+D8 D9 C9 DQ
+H3 H8 H5 DJ
+C3 H9 C8 D5
+C4 CK C7 CT
+C6 C2 HK CA
+CQ HT HQ CJ
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1 145  86 3NT   S C9 11   660   5.95
+  2  89 115 3NT   S C9 11   660   5.95
+  3 123  60 3NT   N SQ 10   630   5.22
+  4   3 107 3NT   N SQ 10   630   5.22
+  5   6  44 3NT   S H4 10   630   5.22
+  6 147 138 3NT   S C9 10   630   5.22
+  7 100  96 3NT   S C9 10   630   5.22
+  8  25 158 3NT   S H4 10   630   5.22
+  9  71  73 3NT   S C9 10   630   5.22
+ 10 116 152 3NT   S C9 10   630   5.22
+ 11 102 119 3NT   S C9 10   630   5.22
+ 12 122 ??? 3NT   S HK 10   630   5.22
+ 13  52  36 3NT   S C9 10   630   5.22
+ 14 148 134 3NT   S S2 10   630   5.22
+ 15 101  95 3NT   S H4 10   630   5.22
+ 16 113  30 3NT   S C9 10   630   5.22
+ 17   8  50 3NT   S C9 10   630   5.22
+ 18  93  51 3NT   S C9 10   630   5.22
+ 19 153  49 3NT   S C9 10   630   5.22
+ 20 114 172 1NTXX W DK  5   600   4.44
+ 21  19 170 3NT   S H4  9   600   4.44
+ 22  20  47 3NT   S SA  9   600   4.44
+ 23  87 139 3NT   S S2  9   600   4.44
+ 24  35  46 3NT   S S2  9   600   4.44
+ 25 111  79 3NT   S S2  9   600   4.44
+ 26 105  62 3NT   S H4  9   600   4.44
+ 27  12  69 3NT   S C9  9   600   4.44
+ 28  31  15 3NT   S S2  9   600   4.44
+ 29 130  45 3NT   S H2  9   600   4.44
+ 30   5  11 3NT   S C9  9   600   4.44
+ 31 135 164 3NT   S H4  9   600   4.44
+ 32 ???  72 3NT   S H4  9   600   4.44
+ 33  98  17 3NT   S C9  9   600   4.44
+ 34  48 118 3NT   S C9  9   600   4.44
+ 35 159 106 3NT   S S2  9   600   4.44
+ 36   9 133 3NT   S H5  9   600   4.44
+ 37 104  14 3NT   S S2  9   600   4.44
+ 38  26 110 3NT   S H4  9   600   4.44
+ 39 103 108 3NT   S H4  9   600   4.44
+ 40   7  65 3NT   S S2  9   600   4.44
+ 41 112 132 3NT   S C9  9   600   4.44
+ 42 137  23 3NT   S C9  9   600   4.44
+ 43  40  42 3NT   S S2  9   600   4.44
+ 44 141 142 3NT   S S2  9   600   4.44
+ 45   1 ??? 3NT   S S2  9   600   4.44
+ 46  80 125 3NT   S HK  9   600   4.44
+ 47  90  38 3NT   S H4  9   600   4.44
+ 48  68 ??? 3NT   S HK  9   600   4.44
+ 49  22  82 1NT   N SQ 10   180  -3.53
+ 50  83  28 1NT   N SQ  9   150  -4.26
+ 51 140 154 2D    N HJ 10   130  -4.60
+ 52 156  54 2D    N SQ 10   130  -4.60
+ 53  94 120 2D    N SQ 10   130  -4.60
+ 54 146  37 2D    N SQ 10   130  -4.60
+ 55 144  78 2D    S DT 10   130  -4.60
+ 56 167  99 3D    N SQ 10   130  -4.60
+ 57 124 168 3D    S DT 10   130  -4.60
+ 58  53  13 4D    N SQ 10   130  -4.60
+ 59 151  91 2D    N SQ  9   110  -4.99
+ 60  66   2 2D    N SQ  9   110  -4.99
+ 61 163  76 2D    N SQ  9   110  -4.99
+ 62 109  81 2H    S SA  8   110  -4.99
+ 63  67  64 3D    N SQ  9   110  -4.99
+ 64 169  56 3D    N D2  9   110  -4.99
+ 65 128  75 3C    S C9  8  -100  -7.94
+ 66  70  29 3NT   N SQ  8  -100  -7.94
+ 67 157  63 3NT   N SQ  8  -100  -7.94
+ 68  10  18 3NT   N SQ  8  -100  -7.94
+ 69 136  43 3NT   N SQ  8  -100  -7.94
+ 70 127  59 3NT   S H4  8  -100  -7.94
+ 71 160 165 3NT   S C9  8  -100  -7.94
+ 72 131 126 5D    N SQ 10  -100  -7.94
+ 73 143  39 5D    N SQ 10  -100  -7.94
+ 74 155  16 3NT   N SQ  7  -200  -9.49
+ 75 117  55 3NT   S H4  7  -200  -9.49
+ 76 166  57 3NT   S H4  7  -200  -9.49
+ 77 150  88 3NT   S H4  6  -300 -11.00
+ 78 129  24 3NT   S H4  6  -300 -11.00
+ 79  92  97 3NT   S H4  6  -300 -11.00
+ 80 121  41 4H    S DT  7  -300 -11.00
+ 81  34  84 6D    N SQ  9  -300 -11.00
+
+[Board "13"]
+[West "gm"]
+[North "Enrico"]
+[East "luzifer"]
+[South "bjt"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:6.AK43.K97.AJ932 A95.JT9.J3.T8654 KJ2.Q752.AT862.Q QT8743.86.Q54.K7"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "EW -620"]
+[ScoreIMP "EW -0.58"]
+[Auction "N"]
+1H Pass 4H Pass
+Pass Pass
+[Play "E"]
+DJ DA D5 D7
+HT H2 H6 HK
+H9 HQ H8 H3
+HJ H5 S3 HA
+C6 CQ CK C2
+C4 S2 C7 CJ
+C5 SJ S4 CA
+CT H7 S7 C9
+D3 D2 D4 D9
+S5 D6 DQ DK
+C8 D8 S8 C3
+SA - - -
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  20  67 6H    N SA 12  1430  12.99
+  2  11 130 6H    N HJ 12  1430  12.99
+  3 127  27 6H    N D3 12  1430  12.99
+  4  91 138 6H    S S7 12  1430  12.99
+  5  34 110 6H    S S7 12  1430  12.99
+  6  40  44 3SX   W HA  5  1100   9.75
+  7  72 129 2SX   W HK  5   800   4.76
+  8  93 153 3SX   W HA  6   800   4.76
+  9 ???  59 4H    N D3 13   710   2.95
+ 10  61 142 3NT   S S3 12   690   2.29
+ 11 147 160 4H    N C5 12   680   2.20
+ 12   2  29 4H    N C6 12   680   2.20
+ 13 161 163 4H    S S7 12   680   2.20
+ 14  51  98 4H    S S7 12   680   2.20
+ 15 108 122 4H    S S7 12   680   2.20
+ 16  19  13 3NT   S H8 11   660   1.46
+ 17 102 155 3NT   S S7 11   660   1.46
+ 18 156 150 3NT   S S7 11   660   1.46
+ 19 162  57 4H    N DJ 11   650   1.46
+ 20  43 126 4H    N HJ 11   650   1.46
+ 21  45  87 4H    N C4 11   650   1.46
+ 22  21   1 4H    N HJ 11   650   1.46
+ 23  48  28 4H    N HJ 11   650   1.46
+ 24   4  97 4H    N DJ 11   650   1.46
+ 25  85 103 4H    N SA 11   650   1.46
+ 26  70  66 4H    N SA 11   650   1.46
+ 27  62 165 4H    N HJ 11   650   1.46
+ 28  56 167 4H    N C5 11   650   1.46
+ 29  79  47 4H    N SA 11   650   1.46
+ 30  84 137 4H    N HJ 11   650   1.46
+ 31 170  63 4H    N HJ 11   650   1.46
+ 32  15  38 4H    N DJ 11   650   1.46
+ 33  31  82 4H    N SA 11   650   1.46
+ 34 121 109 4H    N SA 11   650   1.46
+ 35  50 123 4H    N SA 11   650   1.46
+ 36  46  26 4H    N SA 11   650   1.46
+ 37 105 136 4H    N HJ 11   650   1.46
+ 38   3 135 4H    N S5 11   650   1.46
+ 39  92 ??? 4H    N HJ 11   650   1.46
+ 40  71 133 4H    N SA 11   650   1.46
+ 41  86 100 4H    N HJ 11   650   1.46
+ 42  41 166 4H    N SA 11   650   1.46
+ 43  77 117 4H    N SA 11   650   1.46
+ 44   9 ??? 4H    S H6 11   650   1.46
+ 45 145  96 4H    S S4 11   650   1.46
+ 46  74  58 4H    S S8 11   650   1.46
+ 47   8  18 4H    S S7 11   650   1.46
+ 48  81 157 4H    S S7 11   650   1.46
+ 49 113  80 4H    S S7 11   650   1.46
+ 50  83  75 4H    S H8 11   650   1.46
+ 51  88 118 4H    S CK 11   650   1.46
+ 52 144  16 4H    S S4 11   650   1.46
+ 53 132  53 4H    S CK 11   650   1.46
+ 54 149 128 4H    S S7 11   650   1.46
+ 55 146  89 4H    S S7 11   650   1.46
+ 56  49  25 3NT   S S4 10   630   0.59
+ 57 159 154 3NT   S S8 10   630   0.59
+ 58  65 131 3NT   S S3 10   630   0.59
+ 59  32 119 3NT   S S7 10   630   0.59
+ 60  64  22 3NT   S S3 10   630   0.59
+ 61  90  54 3NT   S H8 10   630   0.59
+ 62 111 116 3NT   S S3 10   630   0.59
+ 63  69 ??? 4H    N HJ 10   620   0.58
+ 64 101 134 4H    N H9 10   620   0.58
+ 65 158 152 4H    N SA 10   620   0.58
+ 66  35  10 4H    N DJ 10   620   0.58
+ 67 169 172 4H    S S3 10   620   0.58
+ 68  39   5 4H    S ST 10   620   0.58
+ 69 112  24 3NT   S S7  9   600  -0.12
+ 70 106 124 3NT   S S7  9   600  -0.12
+ 71  95 168 3NT   S S7  9   600  -0.12
+ 72 148   7 2C    N HJ  9   110  -8.52
+ 73  30  94 4H    N HJ  9  -100 -10.78
+ 74 114  23 4H    N HJ  9  -100 -10.78
+ 75 120  76 4H    S ST  9  -100 -10.78
+ 76 171  36 5H    N DJ 10  -100 -10.78
+ 77 125 115 6H    N C5 11  -100 -10.78
+ 78  68  12 6H    N HJ 11  -100 -10.78
+ 79 107  14 6H    N HJ 11  -100 -10.78
+ 80   6  33 6H    N SA 11  -100 -10.78
+ 81  78 164 6H    S C7 11  -100 -10.78
+ 82  73  52 6H    S S7 11  -100 -10.78
+ 83 143  17 6H    N C5 10  -200 -11.48
+ 84 104  55 6H    N SA 10  -200 -11.48
+ 85 151  99 6H    N C5  9  -300 -12.62
+ 86  60  42 6NT   S S7  7  -500 -14.18
+
+[Board "14"]
+[West "gm"]
+[North "Enrico"]
+[East "luzifer"]
+[South "bjt"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AJ2.T52.QJ954.52 Q965.Q93.872.A93 T73.K8764.A6.QJ6 K84.AJ.KT3.KT874"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "EW -90"]
+[ScoreIMP "EW -1.20"]
+[Auction "E"]
+Pass Pass Pass 1NT
+Pass Pass Pass
+[Play "E"]
+DQ D2 DA D3
+DJ D7 D6 DT
+D9 D8 H6 DK
+C2 C9 CJ C4
+SA S5 S7 S4
+D5 H3 S3 HJ
+D4 H9 H4 C7
+C5 C3 CQ CK
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  50 123 2SX   E D2  4   800  12.54
+  2  11 130 2S    S S3 10   170   3.42
+  3  85 103 3H    W S4  6   150   2.85
+  4 102 155 3H    W C4  6   150   2.85
+  5  21   1 3H    W HA  6   150   2.85
+  6   8  18 3H    W C4  6   150   2.85
+  7  81 157 2S    S S3  9   140   2.65
+  8  95 168 2S    S DA  9   140   2.65
+  9  71 133 1S    S DA  8   110   1.69
+ 10 104  55 2S    N DQ  8   110   1.69
+ 11 143  17 2S    S DA  8   110   1.69
+ 12 112  24 2S    S S3  8   110   1.69
+ 13   6  33 2S    S DA  8   110   1.69
+ 14  86 100 2S    S DA  8   110   1.69
+ 15  62 165 2S    S H4  8   110   1.69
+ 16  45  87 2S    S DA  8   110   1.69
+ 17 107  14 2S    S DA  8   110   1.69
+ 18 171  36 3C    N HT  9   110   1.69
+ 19 149 128 3C    N DQ  9   110   1.69
+ 20  41 166 3C    N H2  9   110   1.69
+ 21 125 115 3C    N DQ  9   110   1.69
+ 22  32 119 3C    N H2  9   110   1.69
+ 23 151  99 2D    E D8  6   100   1.48
+ 24 169 172 2H    W S4  6   100   1.48
+ 25 106 124 2H    W C7  6   100   1.48
+ 26  83  75 2H    W C7  6   100   1.48
+ 27 147 160 2H    W C8  6   100   1.48
+ 28  19  13 2H    W C7  6   100   1.48
+ 29 121 109 3H    W C7  7   100   1.48
+ 30   3 135 3H    W S4  7   100   1.48
+ 31  34 110 3H    W S4  7   100   1.48
+ 32  92 ??? 3H    W C4  7   100   1.48
+ 33  30  94 3H    W C4  7   100   1.48
+ 34 158 152 3H    W D3  7   100   1.48
+ 35  15  38 3H    W S4  7   100   1.48
+ 36  65 131 3H    W C4  7   100   1.48
+ 37  70  66 1NT   N D4  7    90   1.20
+ 38  84 137 1NT   N D4  7    90   1.20
+ 39 146  89 1NT   N DQ  7    90   1.20
+ 40  31  82 1NT   N D4  7    90   1.20
+ 41  35  10 1NT   N DQ  7    90   1.20
+ 42  78 164 1NT   N D5  7    90   1.20
+ 43  61 142 1NT   N D5  7    90   1.20
+ 44  68  12 1NT   N DQ  7    90   1.20
+ 45 127  27 1NT   N D5  7    90   1.20
+ 46  79  47 1NT   N D4  7    90   1.20
+ 47  37 139 1NT   N D5  7    90   1.20
+ 48   2  29 1NT   N DQ  7    90   1.20
+ 49 162  57 2C    N DQ  8    90   1.20
+ 50  72 129 2D    E S5  7    50   0.05
+ 51 120  76 2H    W HA  7    50   0.05
+ 52 159 154 2H    W S4  7    50   0.05
+ 53 161 163 2H    W S4  7    50   0.05
+ 54 111 116 3H    W C7  8    50   0.05
+ 55  20  67 1NT   N DQ  6   -50  -2.46
+ 56  60  42 2S    S DA  7   -50  -2.46
+ 57  64  22 2S    S DA  7   -50  -2.46
+ 58 105 136 2S    S DA  7   -50  -2.46
+ 59  88 118 2NT   N D4  7   -50  -2.46
+ 60  40  44 2NT   N DQ  7   -50  -2.46
+ 61 101 134 2NT   N DQ  7   -50  -2.46
+ 62 108 122 2NT   S H6  7   -50  -2.46
+ 63 170  63 3C    N H2  8   -50  -2.46
+ 64  56 167 3C    N HT  8   -50  -2.46
+ 65  39   5 3C    N H5  8   -50  -2.46
+ 66  51  98 3C    N DQ  8   -50  -2.46
+ 67 132  53 3C    N C2  8   -50  -2.46
+ 68 145  96 3C    N H2  8   -50  -2.46
+ 69  49  25 3C    N H2  8   -50  -2.46
+ 70  93 153 3C    N C2  8   -50  -2.46
+ 71   4  97 4C    N H2  9   -50  -2.46
+ 72  77 117 4C    N H2  9   -50  -2.46
+ 73  46  26 4C    N C5  9   -50  -2.46
+ 74  73  52 4C    N DQ  9   -50  -2.46
+ 75 144  16 1NT   W C7  7   -90  -3.52
+ 76 148   7 2D    E D2  8   -90  -3.52
+ 77 ???  59 2NT   N DQ  6  -100  -3.80
+ 78 114  23 3C    N DQ  7  -100  -3.80
+ 79  48  28 3S    S DA  7  -100  -3.80
+ 80 156 150 3NT   N D4  7  -100  -3.80
+ 81  91 138 3NT   N H2  7  -100  -3.80
+ 82  43 126 4C    N HT  8  -100  -3.80
+ 83  74  58 2H    W C7  8  -110  -4.00
+ 84  90  54 1NT   E S6  8  -120  -4.35
+ 85 113  80 2H    W S4 10  -170  -5.38
+
+[Board "15"]
+[West "gm"]
+[North "okcu"]
+[East "luzifer"]
+[South "oskay"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AT9876.K8.J8.T42 53.A3.KQ762.9763 42.QJ74.T5.KQJ85 KQJ.T9652.A943.A"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "EW -50"]
+[ScoreIMP "EW -5.30"]
+[Auction "S"]
+2S Pass Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+SA S3 S4 SJ
+ST S5 S2 SK
+H8 HA H4 H2
+HK H3 H7 H9
+S9 C3 D5 SQ
+S6 C6 HJ H5
+C2 C7 CK CA
+D8 DK DT D3
+DJ D2 C5 DA
+S7 DQ HQ D9
+- - CQ -
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1 154 167 3H    E SA  6   150   7.34
+  2  58 162 3H    E C2  7   100   6.48
+  3  18  33 3H    E CT  7   100   6.48
+  4   2  50 3H    E C2  7   100   6.48
+  5  39  93 4HX   E SA  9   100   6.48
+  6  95 114 3H    E C4  8    50   5.30
+  7  78  21 3H    E D8  8    50   5.30
+  8  44 137 3NT   E CT  8    50   5.30
+  9  96 155 4H    E SA  9    50   5.30
+ 10 130 148 4H    E SA  9    50   5.30
+ 11 152 143 4H    E SA  9    50   5.30
+ 12  66  10 4H    E SA  9    50   5.30
+ 13  28 111 4H    E SA  9    50   5.30
+ 14  69 135 4H    E SA  9    50   5.30
+ 15 139  46 4H    E SA  9    50   5.30
+ 16 133   8 4H    E SA  9    50   5.30
+ 17  52  64 2S    S DK  7  -100   1.93
+ 18 103 122 2S    S HA  7  -100   1.93
+ 19 117  79 2S    S DK  7  -100   1.93
+ 20  53  16 2S    S HA  7  -100   1.93
+ 21 127  80 2S    S HA  7  -100   1.93
+ 22 124 165 2S    S DK  7  -100   1.93
+ 23 113 138 2S    S HA  7  -100   1.93
+ 24  54  84 3D    W S4  9  -110   1.69
+ 25 126  36 2D    E SA 10  -130   1.13
+ 26  91  85 3D    E C2 10  -130   1.13
+ 27  40  29 3D    W S4 10  -130   1.13
+ 28  61 156 3H    E SA  9  -140   0.72
+ 29 150 125 3H    E SA  9  -140   0.72
+ 30  97  68 3H    E SA  9  -140   0.72
+ 31 141  73 3H    E SA  9  -140   0.72
+ 32 140 136 3H    E CT  9  -140   0.72
+ 33  32   9 3H    E S7  9  -140   0.72
+ 34 106  56 3H    E SA  9  -140   0.72
+ 35   7  31 3H    E SA  9  -140   0.72
+ 36  71  34 3H    E SA  9  -140   0.72
+ 37 107 112 3H    E C2  9  -140   0.72
+ 38 118 131 3H    E DJ  9  -140   0.72
+ 39  67 161 3H    E SA  9  -140   0.72
+ 40  88  94 3H    E DJ  9  -140   0.72
+ 41 149  89 2D    E C2 11  -150   0.59
+ 42 144  99 2D    E SA 11  -150   0.59
+ 43  13  24 2D    E D8 11  -150   0.59
+ 44  35  90 3D    E SA 11  -150   0.59
+ 45 119 164 3D    E SA 11  -150   0.59
+ 46 ???   4 3D    E SA 11  -150   0.59
+ 47  72  65 3D    E C2 11  -150   0.59
+ 48 102 121 3D    W S4 11  -150   0.59
+ 49 166 109 3D    W S2 11  -150   0.59
+ 50  63 105 3D    W CK 11  -150   0.59
+ 51  55 110 3D    W CK 11  -150   0.59
+ 52  12 169 3D    W S4 11  -150   0.59
+ 53  82  76 3D    W S4 11  -150   0.59
+ 54  26  49 3D    W S4 11  -150   0.59
+ 55  11  59 3D    W S4 11  -150   0.59
+ 56 151 147 3D    W S4 11  -150   0.59
+ 57 104  41 3D    W D5 11  -150   0.59
+ 58  22 172 3D    W S4 11  -150   0.59
+ 59 134 120 4D    W S4 11  -150   0.59
+ 60  51 146 3D    W S4 12  -170  -0.08
+ 61  86 157 3D    W S2 12  -170  -0.08
+ 62  70  77 3H    E DJ 10  -170  -0.08
+ 63 171   6 4D    W S2 12  -170  -0.08
+ 64  38  81 2S    S HA  6  -200  -0.87
+ 65 132 101 3S    S HA  7  -200  -0.87
+ 66  43  48 3S    S S5  7  -200  -0.87
+ 67  92   3 3S    S HA  7  -200  -0.87
+ 68 153  23 3S    S DK  6  -300  -3.01
+ 69 123  20 3NT   E ST  9  -400  -5.15
+ 70  42   5 3NT   E ST  9  -400  -5.15
+ 71  25  17 3NT   E S9  9  -400  -5.15
+ 72  19  14 3NT   E ST  9  -400  -5.15
+ 73  27  87 3NT   E ST  9  -400  -5.15
+ 74  45 116 3NT   E ST  9  -400  -5.15
+ 75 158  60 3NT   E HK  9  -400  -5.15
+ 76 129  98 3NT   E ST  9  -400  -5.15
+ 77 145  15 3NT   E S9  9  -400  -5.15
+ 78  75 ??? 5D    E D8 11  -400  -5.15
+ 79 128  62 5D    W S4 11  -400  -5.15
+ 80 108 115 4H    E C2 10  -420  -5.85
+ 81 168  30 3NT   E SA 11  -460  -6.45
+ 82 163 142 2SX   S DK  6  -500  -7.16
+ 83 159  47 3SX   S HA  7  -500  -7.16
+ 84 170 100 3SX   S HA  7  -500  -7.16
+ 85  74   1 3SX   S DK  7  -500  -7.16
+ 86  83  37 3SX   S HA  6  -800 -11.26
+ 87 ???  57 5CX   N SK  6 -1400 -15.09
+
+[Board "16"]
+[West "gm"]
+[North "okcu"]
+[East "luzifer"]
+[South "oskay"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:6.QT852.4.J65432 KJ74.K943.A86.A9 AQ832.J.KQJT92.T T95.A76.753.KQ87"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "6"]
+[Score "EW 100"]
+[ScoreIMP "EW 3.92"]
+[Auction "W"]
+Pass 1NT X 2NT
+Pass Pass Pass
+[Play "E"]
+DK D3 D4 D6
+DQ D5 C3 D8
+DJ D7 C4 DA
+CT C7 C2 CA
+HJ HA H5 H3
+SQ ST S6 S4
+DT H6 H2 H4
+D9 C8 C5 S7
+D2 S5 C6 H9
+SA S9 CJ SJ
+S2 - - -
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  22 172 4DXX  E D5  7  1600  16.40
+  2  39  93 3HX   W CA  5  1100  13.27
+  3 132 101 3NTX  E C8  5  1100  13.27
+  4  67 161 4DX   E D3  6  1100  13.27
+  5 151 147 2SX   E CK  5   800  10.87
+  6   2  50 3DX   E C7  6   800  10.87
+  7  32   9 3DX   E D3  6   800  10.87
+  8  28 111 3SX   E ST  6   800  10.87
+  9  38  81 4DX   E CK  7   800  10.87
+ 10  51 146 4DX   E D3  7   800  10.87
+ 11 158  60 4DX   E CK  7   800  10.87
+ 12  27  87 2SX   E CK  6   500   7.12
+ 13 154 167 3DX   E H6  7   500   7.12
+ 14 124 165 3DX   E HA  7   500   7.12
+ 15 119 164 3DX   E D3  7   500   7.12
+ 16 149  89 4DX   E CK  8   500   7.12
+ 17  35  90 3D    E D5  6   300   4.01
+ 18 104  41 3D    E D3  6   300   4.01
+ 19 113 138 2DX   E D3  7   200   1.99
+ 20  58 162 2S    E CQ  6   200   1.99
+ 21  71  34 2S    E CK  6   200   1.99
+ 22  54  84 2S    E S5  6   200   1.99
+ 23  63 105 2S    E ST  6   200   1.99
+ 24  40  29 2S    E ST  6   200   1.99
+ 25  83  37 2SX   E CK  7   200   1.99
+ 26  86 157 2SX   E CK  7   200   1.99
+ 27 130 148 2SX   E CK  7   200   1.99
+ 28  26  49 2SX   E CK  7   200   1.99
+ 29 123  20 2SX   E CK  7   200   1.99
+ 30  42   5 2SX   E CK  7   200   1.99
+ 31  44 137 2SX   E HA  7   200   1.99
+ 32 127  80 3D    E CK  7   200   1.99
+ 33  19  14 3D    E D3  7   200   1.99
+ 34  70  77 3D    E HA  7   200   1.99
+ 35 166 109 3D    E H6  7   200   1.99
+ 36 117  79 3D    E CK  7   200   1.99
+ 37 107 112 3DX   E CK  8   200   1.99
+ 38  12 169 3NT   E D3  7   200   1.99
+ 39 134 120 2D    E CK  7   100  -0.01
+ 40  95 114 2S    E CK  7   100  -0.01
+ 41 103 122 2S    E D5  7   100  -0.01
+ 42  78  21 2S    E ST  7   100  -0.01
+ 43  18  33 3D    E CK  8   100  -0.01
+ 44 102 121 3D    E CK  8   100  -0.01
+ 45 171   6 3D    E CK  8   100  -0.01
+ 46 129  98 2H    N HJ  7   -50  -2.73
+ 47 150 125 2NT   N DK  6  -100  -3.92
+ 48  66  10 2NT   N DK  6  -100  -3.92
+ 49  11  59 2NT   N DK  6  -100  -3.92
+ 50  13  24 2NT   N DK  6  -100  -3.92
+ 51  74   1 2NT   N DK  6  -100  -3.92
+ 52  97  68 3NT   N D9  7  -100  -3.92
+ 53 170 100 3NT   N DK  7  -100  -3.92
+ 54 153  23 3NT   N DK  7  -100  -3.92
+ 55  53  16 3NT   N DK  7  -100  -3.92
+ 56  52  64 2D    E ST  9  -110  -4.05
+ 57 163 142 2S    E CK  8  -110  -4.05
+ 58 141  73 3D    E D3  9  -110  -4.05
+ 59 168  30 3D    E CK  9  -110  -4.05
+ 60 144  99 3D    E ST  9  -110  -4.05
+ 61  45 116 3NT   N DK  6  -150  -4.98
+ 62  75 ??? 3NT   N DK  6  -150  -4.98
+ 63 133   8 3NT   N DK  6  -150  -4.98
+ 64 152 143 3NT   N DK  6  -150  -4.98
+ 65  25  17 3NT   N DK  6  -150  -4.98
+ 66  69 135 3NT   N DK  6  -150  -4.98
+ 67 106  56 3NT   N DK  6  -150  -4.98
+ 68 128  62 3NT   N DK  6  -150  -4.98
+ 69 126  36 3NT   N DK  6  -150  -4.98
+ 70  96 155 3NT   N DK  6  -150  -4.98
+ 71 159  47 3NT   S S6  6  -150  -4.98
+ 72  88  94 2DX   E CK  8  -180  -5.64
+ 73 108 115 2DX   E CK  8  -180  -5.64
+ 74 139  46 2DX   E CK  8  -180  -5.64
+ 75  92   3 3NT   N DK  5  -200  -6.10
+ 76  61 156 3NT   N DK  5  -200  -6.10
+ 77   7  31 3NT   N DK  5  -200  -6.10
+ 78 118 131 3NTX  N DK  7  -300  -7.93
+ 79  91  85 3NTX  N DK  7  -300  -7.93
+ 80 145  15 2DX   E CK  9  -380  -8.95
+ 81  72  65 2DX   E ST  9  -380  -8.95
+ 82  82  76 3NTX  N DK  6  -500 -10.63
+ 83  55 110 3NTX  N DK  6  -500 -10.63
+ 84  43  48 3DX   E ST  9  -670 -12.40
+
+[Board "17"]
+[West "toyo1"]
+[North "luzifer"]
+[East "Maddy"]
+[South "gm"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J98.KQJ98.6.AKT5 Q6543.7.KQ93.Q82 KT2.A52.7542.974 A7.T643.AJT8.J63"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[ScoreIMP "NS 1.15"]
+[Auction "N"]
+1H Pass 1NT Pass
+2C Pass 2H Pass
+Pass 2S 3H Pass
+Pass Pass
+[Play "E"]
+DK D2 DT D6
+D3 D4 DJ H8
+H7 H2 H4 HK
+S3 HA H3 H9
+S4 H5 H6 HQ
+D9 D5 HT HJ
+SQ SK SA SJ
+DQ D7 DA C5
+S5 C4 D8 CT
+- - CJ -
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1 156 108 4HX   N S4 11   690  11.06
+  2 152  60 4HX   N S4 10   590  10.00
+  3  87 158 3HX   N DK  9   530   9.13
+  4  30 124 3HX   N DK  9   530   9.13
+  5  37 116 3SX   E HA  6   500   8.64
+  6  77  84 4H    N C2 10   420   7.33
+  7  82 149 2SX   E H2  6   300   4.86
+  8  89 143 2SX   E HA  6   300   4.86
+  9  26 118 4DX   E D2  8   300   4.86
+ 10  75 145 3H    N S4 11   200   2.72
+ 11  63  86 4NT   W HK  6   200   2.72
+ 12  35  70 1H    N S3 10   170   2.06
+ 13 157 162 2H    N DK 10   170   2.06
+ 14  48  44 2H    N S4 10   170   2.06
+ 15  76  42 3H    N S3 10   170   2.06
+ 16  43 120 3H    N H7 10   170   2.06
+ 17  32 112 3H    N S4 10   170   2.06
+ 18  78   8 2S    E C9  5   150   1.19
+ 19  56 151 3S    E HA  6   150   1.19
+ 20  13 166 2H    N S4  9   140   1.15
+ 21  85 131 2H    N DK  9   140   1.15
+ 22 106 161 2H    N DK  9   140   1.15
+ 23  91  41 2H    N S3  9   140   1.15
+ 24 148 146 2H    N S3  9   140   1.15
+ 25   7  53 2H    N DK  9   140   1.15
+ 26 138 114 2H    N S4  9   140   1.15
+ 27  69  74 2H    N DK  9   140   1.15
+ 28 129 ??? 2H    N DK  9   140   1.15
+ 29  47  67 2H    N DK  9   140   1.15
+ 30 163  49 3H    N DK  9   140   1.15
+ 31  31  29 3H    N S4  9   140   1.15
+ 32  57 109 3H    N S4  9   140   1.15
+ 33  81  33 3H    N DK  9   140   1.15
+ 34 170 141 3H    N DK  9   140   1.15
+ 35  27 117 3H    N DK  9   140   1.15
+ 36 103  79 3H    N DK  9   140   1.15
+ 37  18 136 3H    N DK  9   140   1.15
+ 38  64  97 3H    N DK  9   140   1.15
+ 39 113  88 3H    N S4  9   140   1.15
+ 40   2  22 3H    N S3  9   140   1.15
+ 41 134 122 3H    N DK  9   140   1.15
+ 42 127  45 3H    N DK  9   140   1.15
+ 43  10  90 3H    N DK  9   140   1.15
+ 44 137 139 2H    N H7  8   110   0.21
+ 45   4  12 2H    N S4  8   110   0.21
+ 46  71  19 2H    N DK  8   110   0.21
+ 47  51  65 2H    N DK  8   110   0.21
+ 48 168 164 2H    N DK  8   110   0.21
+ 49  80 144 2H    N DK  8   110   0.21
+ 50 125 128 2H    N DK  8   110   0.21
+ 51 140 142 2H    N S5  8   110   0.21
+ 52  72  95 2H    N DK  8   110   0.21
+ 53  28  50 2H    N S4  8   110   0.21
+ 54  11 ??? 2S    E HA  6   100   0.12
+ 55 ??? 153 2SX   E HA  7   100   0.12
+ 56  96  34 3S    E HA  7   100   0.12
+ 57  68  92 1NT   S DJ  7    90  -0.32
+ 58  16  17 1NT   S DJ  7    90  -0.32
+ 59 169  73 3D    E HA  8    50  -1.32
+ 60 150 165 3H    N DK  8   -50  -3.52
+ 61 100 115 3H    N DK  8   -50  -3.52
+ 62 135 ??? 3H    N DK  8   -50  -3.52
+ 63  59 104 3H    N S3  8   -50  -3.52
+ 64  36  20 3H    N S3  8   -50  -3.52
+ 65   3  52 3H    N S3  8   -50  -3.52
+ 66  66  98 3H    N D3  8   -50  -3.52
+ 67  61 167 3H    N DK  8   -50  -3.52
+ 68 154  25 4H    N DK  9   -50  -3.52
+ 69 147 171 4H    N H7  9   -50  -3.52
+ 70 172 160 4H    N DK  9   -50  -3.52
+ 71  93  94 4H    N DK  9   -50  -3.52
+ 72 155  14 4H    N DK  9   -50  -3.52
+ 73  62  83 3H    N DK  7  -100  -4.81
+ 74  39   6 3HX   N DK  8  -100  -4.81
+ 75  38  55 4H    N DK  8  -100  -4.81
+ 76 126  46 4H    N DK  8  -100  -4.81
+ 77  54  15 4H    N DK  8  -100  -4.81
+ 78  40   5 4H    N S4  8  -100  -4.81
+ 79  58 107 4H    N H7  8  -100  -4.81
+ 80 123 130 4H    N DK  8  -100  -4.81
+ 81 133   1 4H    N DK  8  -100  -4.81
+ 82 101 159 4H    N DK  8  -100  -4.81
+ 83 119  23 4H    N DK  8  -100  -4.81
+ 84 102  21 3D    W HK  9  -110  -4.94
+ 85 132  99 4H    N DK  7  -150  -5.89
+ 86 105   9 4HX   N DK  8  -300  -8.72
+
+[Board "18"]
+[West "toyo1"]
+[North "luzifer"]
+[East "Maddy"]
+[South "gm"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:5.Q7.AQ95.AQ6543 AK8.AK863.KT64.2 J7.JT54.J72.JT87 QT96432.92.83.K9"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[ScoreIMP "NS 4.33"]
+[Auction "E"]
+1C 1H Pass 1S
+2C 4S Pass Pass
+Pass
+[Play "E"]
+HQ HA H5 H2
+S5 SA S7 S2
+C6 SK SJ S3
+H7 HK H4 H9
+C3 H3 HJ S6
+DA D4 D2 D3
+D5 DK D7 D8
+C4 H6 HT S9
+C5 S8 C7 S4
+D9 H8 C8 C9
+CA C2 CJ CK
+DQ - - -
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  56 151 7CX   E HA  9   800   7.36
+  2  28  50 4S    N CA 12   680   5.04
+  3 127  45 4S    N CA 12   680   5.04
+  4 132  99 5S    N S5 12   680   5.04
+  5   2  22 4S    N HQ 11   650   4.33
+  6 103  79 4S    N HQ 11   650   4.33
+  7  93  94 4S    N CA 11   650   4.33
+  8  80 144 4S    N HQ 11   650   4.33
+  9 140 142 4S    N S5 11   650   4.33
+ 10   7  53 4S    N S5 11   650   4.33
+ 11 134 122 4S    N S5 11   650   4.33
+ 12 106 161 4S    N CA 11   650   4.33
+ 13  10  90 4S    N HQ 11   650   4.33
+ 14  59 104 4S    N CA 11   650   4.33
+ 15  82 149 4S    N S5 11   650   4.33
+ 16  32 112 4S    N CA 11   650   4.33
+ 17  71  19 4S    N HQ 11   650   4.33
+ 18 129 111 4S    N HQ 11   650   4.33
+ 19  68  92 4S    N HQ 11   650   4.33
+ 20   4  12 4S    N HQ 11   650   4.33
+ 21 102  21 4S    N S5 11   650   4.33
+ 22  81  33 4S    N HQ 11   650   4.33
+ 23  51  65 4S    N S5 11   650   4.33
+ 24  35  70 4S    N HQ 11   650   4.33
+ 25  89 143 4S    N CA 11   650   4.33
+ 26 101 159 5S    N CA 11   650   4.33
+ 27  91  41 5S    N CA 11   650   4.33
+ 28  61 167 5S    N CA 11   650   4.33
+ 29  43 120 5S    N DA 11   650   4.33
+ 30  75 145 5S    N CA 11   650   4.33
+ 31  27 117 5S    N CA 11   650   4.33
+ 32  16  17 5S    N CA 11   650   4.33
+ 33 100 115 5S    N CA 11   650   4.33
+ 34  18 136 5S    N S5 11   650   4.33
+ 35 147 171 5S    N S5 11   650   4.33
+ 36  38  55 5S    N CA 11   650   4.33
+ 37  76  42 5S    N CA 11   650   4.33
+ 38  72  95 5S    N S5 11   650   4.33
+ 39 138 114 5S    N CA 11   650   4.33
+ 40 ??? 153 5S    N CA 11   650   4.33
+ 41  78   8 4S    N H7 10   620   3.45
+ 42  96  34 5CX   E HA  8   500   0.99
+ 43  63  86 5CX   E HK  8   500   0.99
+ 44 123 130 5CX   E HK  8   500   0.99
+ 45  37 116 5CX   E SK  8   500   0.99
+ 46  13 166 5CX   E HA  8   500   0.99
+ 47  85 131 5CX   E HK  8   500   0.99
+ 48  54  15 5CX   E HA  8   500   0.99
+ 49 125 128 5CX   E HK  8   500   0.99
+ 50 170 141 5CX   E HK  8   500   0.99
+ 51  66  98 5CX   E HK  8   500   0.99
+ 52  30 124 4CX   E HA  8   300  -3.08
+ 53  39   6 5CX   E HA  9   300  -3.08
+ 54  40   5 5CX   E HA  9   300  -3.08
+ 55 150 165 3S    N CA 11   200  -5.13
+ 56  47  67 3S    N CA 11   200  -5.13
+ 57  36  20 3S    N CA 11   200  -5.13
+ 58 157 162 3S    N CA 11   200  -5.13
+ 59 119  23 1H    S CJ  9   140  -6.28
+ 60 155  14 3H    S CJ  9   140  -6.28
+ 61 172 160 2H    S CJ  8   110  -6.74
+ 62  26 118 4C    E HA  8   100  -6.76
+ 63  58 107 5C    E HK  9   100  -6.76
+ 64  31  29 5CX   E SA 10   100  -6.76
+ 65  62  83 5CX   E HA 10   100  -6.76
+ 66  77  84 4C    E HA  9    50  -7.88
+ 67  87 158 4C    E HK  9    50  -7.88
+ 68 156 108 2H    S CJ  7  -100  -9.86
+ 69 152  60 6S    N DA 11  -100  -9.86
+ 70 154  25 6S    N DA 11  -100  -9.86
+ 71 126  46 6S    N DA 11  -100  -9.86
+ 72 113  88 6S    N CA 11  -100  -9.86
+ 73  48  44 6S    N DA 11  -100  -9.86
+ 74 163  49 3C    E HK  9  -110  -9.87
+ 75 137 139 3C    E HA  9  -110  -9.87
+ 76 169  73 3C    E SA 10  -130 -10.21
+ 77 168 164 3H    S SJ  7  -200 -10.68
+
+[Board "19"]
+[West "tad"]
+[North "luzifer"]
+[East "auntie"]
+[South "gm"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:9.AKT74.KJ2.AJ98 T4.J98632.875.T2 AQ853.5.AQ9.KQ43 KJ762.Q.T643.765"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS 920"]
+[ScoreIMP "NS 11.02"]
+[Auction "S"]
+1H Pass 1S Pass
+2C Pass 4C Pass
+4S Pass 4NT Pass
+6C Pass Pass Pass
+[Play "W"]
+C2 C3 C5 C8
+H2 H5 HQ HA
+H6 C4 C6 H4
+CT CK C7 C9
+S4 SA S2 S9
+ST S3 SJ CA
+H8 CQ D3 H7
+H3 SQ S6 HT
+- D9 - -
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1   5  33 6CX   S H3 12  1090  12.90
+  2  79 144 6C    S H6 13   940  11.33
+  3 125  96 6C    S D5 12   920  11.02
+  4  61 146 6C    S ST 12   920  11.02
+  5  17 139 6C    S D7 12   920  11.02
+  6  94  99 6C    S ST 12   920  11.02
+  7   8  19 6C    S D8 12   920  11.02
+  8  13 104 6C    S D8 12   920  11.02
+  9  29  76 6C    S D8 12   920  11.02
+ 10  27 116 6C    S D8 12   920  11.02
+ 11  45 142 6C    S CT 12   920  11.02
+ 12  10 119 6C    S C2 12   920  11.02
+ 13  34  83 6C    S D8 12   920  11.02
+ 14  43 158 6C    S CT 12   920  11.02
+ 15 151 114 6C    S ST 12   920  11.02
+ 16 141 171 3NT   S H9 11   460   5.89
+ 17  18  30 4NT   S D8 11   460   5.89
+ 18  92  73 3NT   N D6 10   430   5.41
+ 19  58 ??? 3NT   S ST 10   430   5.41
+ 20  80 137 3NT   S D5 10   430   5.41
+ 21 135  68 3NT   S CT 10   430   5.41
+ 22  42  85 3NT   S ST 10   430   5.41
+ 23 113 165 3NT   S D8 10   430   5.41
+ 24 122 157 3NT   S D8 10   430   5.41
+ 25 170 172 3NT   S D8 10   430   5.41
+ 26 117 110 3NT   S H6 10   430   5.41
+ 27  84  64 4NT   S D8 10   430   5.41
+ 28 107  32 3C    S ST 11   150   0.57
+ 29  20   7 5NT   N D3 10   -50  -3.10
+ 30  39  28 6C    N D6 11   -50  -3.10
+ 31  11 109 6C    S H2 11   -50  -3.10
+ 32  12  97 6C    S ST 11   -50  -3.10
+ 33 112  78 6C    S D8 11   -50  -3.10
+ 34  57 153 6C    S CT 11   -50  -3.10
+ 35 134 103 6C    S H6 11   -50  -3.10
+ 36 136 149 6C    S D5 11   -50  -3.10
+ 37 143 159 6C    S C2 11   -50  -3.10
+ 38  48  53 6C    S H8 11   -50  -3.10
+ 39  86  36 6C    S ST 11   -50  -3.10
+ 40  22  16 6C    S H3 11   -50  -3.10
+ 41   2  23 6C    S H6 11   -50  -3.10
+ 42  77  26 6C    S CT 11   -50  -3.10
+ 43  98  25 6NT   S D5 11   -50  -3.10
+ 44  56 126 6NT   S H6 11   -50  -3.10
+ 45  37  44 6NT   S ST 11   -50  -3.10
+ 46 106 156 6NT   S H2 11   -50  -3.10
+ 47  52   1 7C    S CT 12   -50  -3.10
+ 48  93 132 7C    S H3 12   -50  -3.10
+ 49 111  82 7C    S H3 12   -50  -3.10
+ 50  38  66 7C    S H2 12   -50  -3.10
+ 51  41  46 7C    S C2 12   -50  -3.10
+ 52 118  81 7C    S CT 12   -50  -3.10
+ 53 100  67 5S    N HQ  9  -100  -4.53
+ 54 102   4 6C    S S4 10  -100  -4.53
+ 55  54  51 6C    S D8 10  -100  -4.53
+ 56  24   6 6C    S S4 10  -100  -4.53
+ 57  40   3 6C    S ST 10  -100  -4.53
+ 58  88  87 6CX   S H6 11  -100  -4.53
+ 59 120 145 6NT   N C7 10  -100  -4.53
+ 60 164 108 6NT   N HQ 10  -100  -4.53
+ 61  47  75 6NT   N C7 10  -100  -4.53
+ 62 152  95 6NT   N D6 10  -100  -4.53
+ 63 169  74 6NT   N C7 10  -100  -4.53
+ 64 166  14 6NT   N D3 10  -100  -4.53
+ 65 115  65 6NT   N C7 10  -100  -4.53
+ 66 138  60 6NT   S D8 10  -100  -4.53
+ 67  62 124 6NT   S D8 10  -100  -4.53
+ 68 163  69 6NT   S D8 10  -100  -4.53
+ 69 130  70 6NT   S D7 10  -100  -4.53
+ 70 154 121 6NT   S D8 10  -100  -4.53
+ 71 168 147 6NT   S D8 10  -100  -4.53
+ 72  59 105 6NT   S D8 10  -100  -4.53
+ 73 161 160 6NT   S H9 10  -100  -4.53
+ 74 ??? 133 6NT   S D8 10  -100  -4.53
+ 75 127 123 7C    S ST 11  -100  -4.53
+ 76  72  89 7C    S CT 11  -100  -4.53
+ 77  55  50 7C    S H6 11  -100  -4.53
+ 78 162 150 7C    S D5 11  -100  -4.53
+ 79 129  21 7NT   N D4 11  -100  -4.53
+ 80  90 131 7NT   S D5 11  -100  -4.53
+ 81 101 140 7NT   S D8 10  -150  -5.59
+ 82  63  31 6NTX  S ST 10  -300  -8.01
+ 83 128  49 6NTX  S ST 10  -300  -8.01
+ 84  35  15 6HX   S CT  9  -500 -11.22
+
+[Board "20"]
+[West "tad"]
+[North "luzifer"]
+[East "auntie"]
+[South "gm"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J9543.T832.4.KT2 KT82.J754.A532.J .A96.KQ87.Q98743 AQ76.KQ.JT96.A65"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[ScoreIMP "NS 9.82"]
+[Auction "W"]
+Pass Pass 1C 1NT
+Pass 2C Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+C2 CJ CQ CA
+H3 H4 HA HQ
+D4 DA DK D6
+S3 SK C4 S6
+H8 H5 H6 HK
+CT S2 C3 C5
+H2 HJ H9 D9
+HT H7 C7 S7
+CK ST C8 C6
+S4 D2 DQ DT
+SJ S8 C9 -
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1   2  23 4SX   N C3 10   790  11.65
+  2  62 124 4SX   S CT 10   790  11.65
+  3 128  49 4SX   S CK 10   790  11.65
+  4 101 140 4SX   S C2 10   790  11.65
+  5  27 116 4SX   S C2 10   790  11.65
+  6 135  68 4S    N C7 10   620   9.82
+  7  37  44 4S    S C2 10   620   9.82
+  8 107  32 4S    S CK 10   620   9.82
+  9  24   6 4S    S C2 10   620   9.82
+ 10  39  28 4S    S S3 10   620   9.82
+ 11  72  89 4S    S C2 10   620   9.82
+ 12  42  85 4S    S C2 10   620   9.82
+ 13  80 137 4S    S S3 10   620   9.82
+ 14  10 119 4S    S C2 10   620   9.82
+ 15  11 109 4S    S CK 10   620   9.82
+ 16  57 153 3CX   E HK  7   500   8.68
+ 17 136 149 2S    S C2 11   200   4.17
+ 18  86  36 2S    S D4 10   170   3.79
+ 19  93 132 3S    S CT 10   170   3.79
+ 20 120 145 2S    N HA  9   140   3.11
+ 21  45 142 2S    N DK  9   140   3.11
+ 22 106 156 3S    S C2  9   140   3.11
+ 23 163  69 3S    S S4  9   140   3.11
+ 24 141 171 3S    S CK  9   140   3.11
+ 25  13 104 2D    S C2 10   130   3.07
+ 26  54  51 2D    N C3  9   110   2.24
+ 27  17 139 3C    E HK  8   100   2.23
+ 28  84  64 1NT   S C2  7    90   2.10
+ 29 154 121 2D    N C9  7  -100  -1.60
+ 30 161 160 3S    S D4  8  -100  -1.60
+ 31  34  83 3NT   S CK  8  -100  -1.60
+ 32 170 172 3NT   S S4  8  -100  -1.60
+ 33  29  76 4S    S C2  9  -100  -1.60
+ 34  92  73 4S    S CK  9  -100  -1.60
+ 35  52   1 4S    S D4  9  -100  -1.60
+ 36  55  50 4S    S C2  9  -100  -1.60
+ 37 117 110 4S    S D4  9  -100  -1.60
+ 38  63  31 4S    S CK  9  -100  -1.60
+ 39  22  16 4S    S C2  9  -100  -1.60
+ 40  79 144 4S    S D4  9  -100  -1.60
+ 41  90 131 4S    S D4  9  -100  -1.60
+ 42  88  87 4S    S C2  9  -100  -1.60
+ 43  41  46 4S    S D4  9  -100  -1.60
+ 44  18  30 4S    S D4  9  -100  -1.60
+ 45  56 126 4S    S C2  9  -100  -1.60
+ 46 100  67 4S    S C2  9  -100  -1.60
+ 47  77  26 4S    S C2  9  -100  -1.60
+ 48 118  81 4S    S CK  9  -100  -1.60
+ 49 143 159 4S    S D4  9  -100  -1.60
+ 50 130  70 4S    S D4  9  -100  -1.60
+ 51 166  14 4S    S D4  9  -100  -1.60
+ 52   9 155 4S    S D4  9  -100  -1.60
+ 53  40   3 4S    S H2  9  -100  -1.60
+ 54 162 150 3C    E DJ 10  -130  -2.46
+ 55 164 108 2NT   S C2  6  -200  -3.95
+ 56  98  25 3NT   S C2  7  -200  -3.95
+ 57  12  97 3NT   S C2  7  -200  -3.95
+ 58  43 158 4SX   N C7  9  -200  -3.95
+ 59 152  95 4S    S H8  8  -200  -3.95
+ 60  48  53 4S    S CK  8  -200  -3.95
+ 61  61 146 4S    S D4  8  -200  -3.95
+ 62  94  99 4S    S D4  8  -200  -3.95
+ 63 122 157 4S    S D4  8  -200  -3.95
+ 64 113 165 4S    S H3  8  -200  -3.95
+ 65 129  21 4SX   S D4  9  -200  -3.95
+ 66 115  65 4SX   S D4  9  -200  -3.95
+ 67  47  75 4SX   S C2  9  -200  -3.95
+ 68   5  33 4SX   S D4  9  -200  -3.95
+ 69  38  66 4SX   S C2  9  -200  -3.95
+ 70 127 123 4SX   S D4  9  -200  -3.95
+ 71 169  74 4SX   S C2  9  -200  -3.95
+ 72 102   4 4SX   S C2  9  -200  -3.95
+ 73  35  15 4SX   S D4  9  -200  -3.95
+ 74 168 147 4SX   S C2  9  -200  -3.95
+ 75  20   7 3NT   S S4  6  -300  -5.95
+ 76 125  96 2CX   E HK  9  -380  -7.48
+ 77 151 114 3NT   S S4  5  -400  -7.57
+ 78 111  82 4H    S D4  5  -500  -9.23
+ 79 134 103 4SX   S D4  8  -500  -9.23
+ 80 112  78 4SX   S H8  8  -500  -9.23
+ 81 138  60 4SX   S D4  8  -500  -9.23
+ 82  59 105 3CX   E HK  9  -670 -11.34
+ 83 ??? 133 3CX   E HK  9  -670 -11.34
+
+[Board "21"]
+[West "gm"]
+[North "ohwhozer"]
+[East "luzifer"]
+[South "gbrinker"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K63.K93.Q8532.Q3 AQ95.Q52.T.JT542 JT4.AT74.KJ.AK98 872.J86.A9764.76"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "EW -630"]
+[ScoreIMP "EW -3.34"]
+[Auction "N"]
+Pass 2S X Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "E"]
+C2 C8 C6 C3
+DT DK DA D2
+SQ S4 S7 S3
+HQ HA H6 H3
+C4 DJ D4 D3
+H2 H4 H8 H9
+C5 C9 C7 CQ
+SA ST S2 SK
+H5 H7 HJ HK
+S5 - - DQ
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1 100 153 3NTX  S D6  9   750   5.90
+  2  68  41 3NT   N H2 11   660   4.25
+  3  91 130 3NT   S D6 11   660   4.25
+  4  37  10 3NT   N C2 10   630   3.34
+  5   4 123 3NT   N CJ 10   630   3.34
+  6  45  48 3NT   S D6 10   630   3.34
+  7 167 161 3NT   S D6 10   630   3.34
+  8  97  40 3NT   S D6 10   630   3.34
+  9 143 141 3NT   S D6 10   630   3.34
+ 10  63  57 3NT   S D6 10   630   3.34
+ 11  43  98 3NT   S HJ 10   630   3.34
+ 12   6  18 3NT   S D4 10   630   3.34
+ 13  26 112 3NT   S D6 10   630   3.34
+ 14 128  52 3NT   S H6 10   630   3.34
+ 15  62 119 3NT   S H8 10   630   3.34
+ 16  39  19 3NT   S D6 10   630   3.34
+ 17 105  33 3NT   S D6 10   630   3.34
+ 18   3 ??? 3NT   S D6 10   630   3.34
+ 19 135 134 3NT   S D4 10   630   3.34
+ 20  93 104 3NT   S D6 10   630   3.34
+ 21  53  70 3NT   S D4 10   630   3.34
+ 22 152 101 3NT   S DA 10   630   3.34
+ 23 111 122 3NT   S D6 10   630   3.34
+ 24  66  54 3NT   N C2  9   600   2.54
+ 25 114 160 3NT   S D6  9   600   2.54
+ 26  89 158 3NT   S HJ  9   600   2.54
+ 27 108  56 3NT   S D6  9   600   2.54
+ 28  72  60 3NT   S D6  9   600   2.54
+ 29 154  21 3NT   S D4  9   600   2.54
+ 30 121 163 3NT   S HJ  9   600   2.54
+ 31  96  64 3NT   S D6  9   600   2.54
+ 32  31  50 3NT   S D6  9   600   2.54
+ 33  28   1 3NT   S C7  9   600   2.54
+ 34  25  51 3NT   S S8  9   600   2.54
+ 35 144 142 3NT   S D4  9   600   2.54
+ 36  95 126 3NT   S D6  9   600   2.54
+ 37 150 147 3NT   S D6  9   600   2.54
+ 38  69  83 3NT   S HJ  9   600   2.54
+ 39 166  59 3NT   S D6  9   600   2.54
+ 40  76  84 3NT   S D6  9   600   2.54
+ 41  46  44 3NT   S D6  9   600   2.54
+ 42  90 115 3NT   S D6  9   600   2.54
+ 43 124 138 3NT   S S8  9   600   2.54
+ 44 107  86 3NT   S S8  9   600   2.54
+ 45 139  38 3NT   S D6  9   600   2.54
+ 46 170 129 3NT   S D6  9   600   2.54
+ 47  74   8 3NT   S D6  9   600   2.54
+ 48 146 125 3NT   S D6  9   600   2.54
+ 49  94  87 3NT   S D6  9   600   2.54
+ 50  55  80 3NT   S D6  9   600   2.54
+ 51  77  75 3NT   S D6  9   600   2.54
+ 52   7  42 3NT   S D6 10   600   2.54
+ 53  47  82 3NT   S D4  9   600   2.54
+ 54  71  78 3NT   S D6  9   600   2.54
+ 55   5  81 3NT   S D4  9   600   2.54
+ 56  23  17 3NT   S D6  9   600   2.54
+ 57 120 106 3NT   S D6  9   600   2.54
+ 58  16 127 3NT   S S2  9   600   2.54
+ 59  85  79 3NT   S D6  9   600   2.54
+ 60 109 159 3NT   S D6  9   600   2.54
+ 61  15  24 3NT   S D6  9   600   2.54
+ 62  67  65 3NT   S D4  9   600   2.54
+ 63  32  58 3NT   S D6  9   600   2.54
+ 64  29  27 3NT   S D6  9   600   2.54
+ 65 145 116 1NT   N DT 10   180  -5.63
+ 66 149  99 2NT   S D6  8   120  -6.67
+ 67 164 140 1NT   N S5  7    90  -7.40
+ 68 151  61 3NT   N C2  8  -100  -9.34
+ 69 169  92 3NT   S D6  8  -100  -9.34
+ 70  14 118 3NT   S D4  8  -100  -9.34
+ 71   2  11 3NT   S D6  8  -100  -9.34
+ 72 102  12 3NT   S D6  8  -100  -9.34
+ 73 155 132 3NT   S D4  8  -100  -9.34
+ 74 162 168 3NT   S D6  8  -100  -9.34
+ 75  34  49 3NT   S D6  8  -100  -9.34
+ 76 165 137 3NT   S D4  8  -100  -9.34
+ 77 131  35 3NT   S D6  8  -100  -9.34
+ 78 103  20 3NT   S D4  8  -100  -9.34
+ 79 148  30 3NT   S D6  8  -100  -9.34
+ 80 117  36 3NT   S D6  8  -100  -9.34
+ 81 157  13 3NT   S S8  7  -200 -10.76
+ 82 136  88 3NT   S D6  7  -200 -10.76
+ 83 171  22 3NT   S D6  7  -200 -10.76
+ 84 156 113 3NT   S D6  6  -300 -12.02
+
+[Board "22"]
+[West "gm"]
+[North "ohwhozer"]
+[East "luzifer"]
+[South "gbrinker"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A96.3.AQ973.QJT3 KQJ73.875.JT.542 54.QJT62.652.K86 T82.AK94.K84.A97"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "9"]
+[Score "EW 110"]
+[ScoreIMP "EW 1.47"]
+[Auction "E"]
+1D Pass 1H Pass
+2C Pass 2D Pass
+Pass Pass
+[Play "S"]
+SK S4 S2 S6
+DJ D2 D4 DQ
+S3 S5 S8 SA
+SJ D5 ST S9
+DT D6 D8 D9
+SQ H2 DK H3
+- - HK -
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  47  82 4HX   W S2  6  1100  14.81
+  2 111 122 2HX   W S8  6   500  10.78
+  3   4 123 4DX   E SK  8   500  10.78
+  4  89 158 2NT   E SK  5   300   7.84
+  5  62 119 2S    S D5  9   140   4.73
+  6  43  98 2S    N H3  8   110   3.92
+  7 162 168 2S    S HQ  8   110   3.92
+  8   2  11 2S    S HQ  8   110   3.92
+  9 164 140 2S    S HQ  8   110   3.92
+ 10  53  70 2S    S D6  8   110   3.92
+ 11  25  51 2S    S HQ  8   110   3.92
+ 12 145 116 1NT   E SK  6   100   3.74
+ 13 143 141 3D    E SK  8   100   3.74
+ 14  14 118 3D    E SK  8   100   3.74
+ 15  16 127 3NT   E SK  8   100   3.74
+ 16   7  42 4D    E SK  9   100   3.74
+ 17  46  44 2S    S HQ  7   -50   0.36
+ 18  66  54 2S    S HQ  7   -50   0.36
+ 19  71  78 2S    S HJ  7   -50   0.36
+ 20  63  57 2S    S HQ  7   -50   0.36
+ 21   6  18 2S    S HQ  7   -50   0.36
+ 22  76  84 2S    S HQ  7   -50   0.36
+ 23 170 129 3S    S HQ  8   -50   0.36
+ 24  26 112 3S    S D2  8   -50   0.36
+ 25  96  64 3S    S C6  8   -50   0.36
+ 26 165 137 3S    S D2  8   -50   0.36
+ 27  55  80 3S    S S4  8   -50   0.36
+ 28   5  81 3S    S C6  8   -50   0.36
+ 29 171  22 3S    S D2  8   -50   0.36
+ 30 114 160 3S    S HQ  8   -50   0.36
+ 31 146 125 3S    S HQ  8   -50   0.36
+ 32  15  24 3NT   N CQ  8   -50   0.36
+ 33  93 104 3NT   N CQ  8   -50   0.36
+ 34 155 132 1NT   E SK  7   -90  -0.75
+ 35  23  17 2C    E SK  8   -90  -0.75
+ 36 148  30 2C    N H3  6  -100  -1.18
+ 37 100 153 2SX   S C6  7  -100  -1.18
+ 38 166  59 2NT   N CQ  6  -100  -1.18
+ 39  95 126 3S    S HQ  7  -100  -1.18
+ 40  68  41 3S    S HQ  7  -100  -1.18
+ 41 128  52 3S    S HQ  7  -100  -1.18
+ 42 107  86 3S    S HQ  7  -100  -1.18
+ 43 103  20 3S    S HQ  7  -100  -1.18
+ 44  72  60 3S    S HQ  7  -100  -1.18
+ 45 135 134 4S    S C6  8  -100  -1.18
+ 46  90 115 4S    S HQ  8  -100  -1.18
+ 47 149  99 2C    E SK  9  -110  -1.47
+ 48 108  56 2D    E SK  9  -110  -1.47
+ 49 150 147 2D    E SK  9  -110  -1.47
+ 50  94  87 2D    E SK  9  -110  -1.47
+ 51 120 106 2D    E SK  9  -110  -1.47
+ 52  69  83 2D    E SK  9  -110  -1.47
+ 53  91 130 2D    E DJ  9  -110  -1.47
+ 54 156 113 2D    E SK  9  -110  -1.47
+ 55  37  10 2D    E SK  9  -110  -1.47
+ 56  29  27 2D    E SK  9  -110  -1.47
+ 57  31  50 2D    E SK  9  -110  -1.47
+ 58 109 159 3D    E SK  9  -110  -1.47
+ 59  34  49 3D    E SK  9  -110  -1.47
+ 60 117  36 3D    E SK  9  -110  -1.47
+ 61 105  33 2H    N CQ  5  -150  -2.51
+ 62 167 161 3C    N H3  6  -150  -2.51
+ 63  67  65 3S    S HQ  6  -150  -2.51
+ 64  32  58 3S    S HJ  6  -150  -2.51
+ 65 144 142 3NT   N CQ  6  -150  -2.51
+ 66  97  40 3NT   N CQ  6  -150  -2.51
+ 67 154  21 3NT   N CQ  6  -150  -2.51
+ 68 124 138 3NT   N CQ  6  -150  -2.51
+ 69  85  79 3NT   N CQ  6  -150  -2.51
+ 70 121 163 4S    S HQ  7  -150  -2.51
+ 71 131  35 4S    S HQ  7  -150  -2.51
+ 72  39  19 4S    S HQ  7  -150  -2.51
+ 73  45  48 4S    S HQ  7  -150  -2.51
+ 74 136  88 4S    S HQ  7  -150  -2.51
+ 75 151  61 3SX   S HQ  7  -300  -5.86
+ 76 152 101 3SX   S CK  7  -300  -5.86
+ 77  77  75 4SX   S HQ  8  -300  -5.86
+ 78 139  38 4SX   S HQ  7  -500  -9.64
+
+[Board "23"]
+[West "refik"]
+[North "luzifer"]
+[East "arto"]
+[South "gm"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:A53.9.AK986.JT53 QJ8.T43.J43.A864 K7642.A7652.QT.9 T9.KQJ8.752.KQ72"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[ScoreIMP "NS 4.87"]
+[Auction "S"]
+1D Pass 1S X
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+HK H9 H3 HA
+H8 S3 H4 H2
+D2 D6 D3 DQ
+HQ S5 HT H5
+ST SA S8 S2
+D7 DA D4 DT
+D5 DK DJ C9
+C2 C3 CA S4
+HJ D8 C4 H6
+CK C5 C6 S6
+S9 D9 SJ SK
+C7 CT SQ H7
+CQ CJ C8 S7
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1   6  29 4SX   N HK 11   990  10.39
+  2  33 ??? 4SX   N HK 11   990  10.39
+  3  67  54 4S    N ST 12   680   5.49
+  4  63  68 4S    N S9 11   650   4.87
+  5 128  92 4S    N HK 11   650   4.87
+  6 114 147 4S    N HK 11   650   4.87
+  7  35  76 4S    N HK 11   650   4.87
+  8  12 121 4S    N HK 11   650   4.87
+  9 127 164 4S    N HK 11   650   4.87
+ 10 107 119 4S    N HK 11   650   4.87
+ 11 117 139 4S    N S9 11   650   4.87
+ 12 156 138 4S    N HK 11   650   4.87
+ 13  14  13 4S    N CK 11   650   4.87
+ 14  40  38 4S    N HK 11   650   4.87
+ 15 150 168 4S    N HK 11   650   4.87
+ 16   5 153 4S    N HK 11   650   4.87
+ 17 108 111 4S    N ST 11   650   4.87
+ 18  83 100 4S    N HQ 11   650   4.87
+ 19  55  65 4S    N HK 11   650   4.87
+ 20 109 161 4S    N HK 11   650   4.87
+ 21  20  50 4S    N ST 11   650   4.87
+ 22 151 165 4S    N HK 11   650   4.87
+ 23  19  32 4S    N HK 11   650   4.87
+ 24  25  42 4S    N HK 11   650   4.87
+ 25 136 152 4S    N HK 11   650   4.87
+ 26 101 146 4S    N HK 11   650   4.87
+ 27  60  98 4S    N HK 11   650   4.87
+ 28  72 130 4S    N HK 11   650   4.87
+ 29  10  27 4S    N HK 11   650   4.87
+ 30   8 154 4S    N HK 11   650   4.87
+ 31  61 126 4S    N HK 11   650   4.87
+ 32  58  41 4S    N HK 11   650   4.87
+ 33 116 135 3NT   S C4 10   630   4.31
+ 34 158 125 3NT   S SQ 10   630   4.31
+ 35  49  74 4S    N HK 10   620   4.04
+ 36  17  53 4S    N HK 10   620   4.04
+ 37 123 157 4S    N HK 10   620   4.04
+ 38 104 134 4S    N S9 10   620   4.04
+ 39  80  78 4S    N HK 10   620   4.04
+ 40   3  16 4S    N HK 10   620   4.04
+ 41  15  18 4S    N HK 10   620   4.04
+ 42   2  37 4S    N HK 10   620   4.04
+ 43  64 133 4S    N HK 10   620   4.04
+ 44  70  57 3NT   S C4  9   600   3.43
+ 45 120 149 3NT   S C4  9   600   3.43
+ 46 171   9 3H    E DK  6   300  -2.64
+ 47 124 142 2S    N HK 11   200  -4.87
+ 48 137  56 2S    N HK 11   200  -4.87
+ 49 105  81 2S    N HK 11   200  -4.87
+ 50  43  51 2S    N HK 11   200  -4.87
+ 51  96  28 2S    N ST 11   200  -4.87
+ 52 115  85 2S    N HK 11   200  -4.87
+ 53 155  34 2S    N HK 11   200  -4.87
+ 54 162 ??? 2S    N ST 11   200  -4.87
+ 55  77  36 2S    N ST 11   200  -4.87
+ 56  59  66 2S    N ST 11   200  -4.87
+ 57  84  44 3S    N CK 11   200  -4.87
+ 58   4   1 3S    N CK 11   200  -4.87
+ 59  87  48 3S    N HK 11   200  -4.87
+ 60 103  89 3S    N CK 11   200  -4.87
+ 61  52  97 3S    N ST 11   200  -4.87
+ 62  39   7 3S    N HK 11   200  -4.87
+ 63  24  11 3S    N CK 11   200  -4.87
+ 64  91  47 3S    N HK 11   200  -4.87
+ 65 132  21 1NT   S SQ 10   180  -5.40
+ 66 170  69 1NT   S SQ 10   180  -5.40
+ 67 159 112 2S    N ST 10   170  -5.48
+ 68 143  26 2S    N ST 10   170  -5.48
+ 69 167  75 2S    N HK 10   170  -5.48
+ 70 118  30 2S    N HK 10   170  -5.48
+ 71  22  31 3S    N HK 10   170  -5.48
+ 72  46  23 3S    N ST 10   170  -5.48
+ 73 131  71 1NT   S C4  9   150  -6.25
+ 74 144 122 2NT   S C4  9   150  -6.25
+ 75 113  90 2S    N CK  9   140  -6.29
+ 76 102 169 3S    N ST  9   140  -6.29
+ 77  93  45 2D    S D3 10   130  -6.38
+ 78  88  86 2D    S D4 10   130  -6.38
+ 79  94  82 2D    S SQ 10   130  -6.38
+ 80 160 166 2NT   N H8  8   120  -6.64
+ 81 129 163 2D    S HT  9   110  -6.89
+ 82 148 141 2D    S D3  9   110  -6.89
+ 83 145 106 2D    S SQ  9   110  -6.89
+ 84  95  79 2H    N ST  8   110  -6.89
+ 85  99  62 3D    S CA  9   110  -6.89
+
+[Board "24"]
+[West "refik"]
+[North "luzifer"]
+[East "arto"]
+[South "gm"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q73.63.A7653.K73 JT5.KJ75.QT.AQJT AK8.A42.KJ82.654 9642.QT98.94.982"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS -110"]
+[ScoreIMP "NS 2.45"]
+[Auction "W"]
+Pass 1NT X 2C
+2D Pass Pass Pass
+[Play "N"]
+SJ SA S2 S3
+DT D2 D4 DA
+DQ DK D9 D3
+H5 H2 H9 H3
+CT C4 C9 C3
+ST S8 S4 SQ
+H7 HA H8 H6
+HJ H4 HQ D5
+S5 SK S6 S7
+CQ C5 C2 C7
+CA - - -
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  61 126 2H    N H2  8   110   7.34
+  2  87  48 2H    N SA  8   110   7.34
+  3  12 121 2H    N H2  8   110   7.34
+  4   3  16 1C    N SA  8    90   6.87
+  5  59  66 1C    N SA  7    70   6.60
+  6 129 163 1C    N SK  7    70   6.60
+  7 124 142 1C    N SA  6   -50   4.04
+  8  88  86 1C    N D2  6   -50   4.04
+  9  25  42 1C    N D8  6   -50   4.04
+ 10  22  31 1C    N SK  6   -50   4.04
+ 11  35  76 1NT   N H2  6   -50   4.04
+ 12 148 141 1NT   N D2  6   -50   4.04
+ 13  43  51 1NT   N D2  6   -50   4.04
+ 14   2  37 2H    N SK  7   -50   4.04
+ 15  94  82 2H    S DA  7   -50   4.04
+ 16 117 139 2H    S DA  7   -50   4.04
+ 17 136 152 2H    S S3  6  -100   2.61
+ 18  80  78 2HX   S H6  7  -100   2.61
+ 19 104 134 1D    W SJ  9  -110   2.45
+ 20  20  50 2D    E C9  9  -110   2.45
+ 21 160 166 2D    E HT  9  -110   2.45
+ 22  10  27 2D    W SJ  9  -110   2.45
+ 23   5 153 2D    W SJ  9  -110   2.45
+ 24 127 164 2D    W SJ  9  -110   2.45
+ 25  91  47 2D    W SJ  9  -110   2.45
+ 26 101 146 3D    E C9  9  -110   2.45
+ 27  64 133 3D    E HT  9  -110   2.45
+ 28 103  89 3D    W H5  9  -110   2.45
+ 29 145 106 3D    W H5  9  -110   2.45
+ 30 109 161 3D    W H5  9  -110   2.45
+ 31 107 119 3D    W H5  9  -110   2.45
+ 32 115  85 3D    W DQ  9  -110   2.45
+ 33  95  79 1D    W SJ 10  -130   2.05
+ 34 120 149 2D    W CA 10  -130   2.05
+ 35  83 100 3D    W SJ 10  -130   2.05
+ 36 151 165 3D    W SJ 10  -130   2.05
+ 37  77  36 1C    N SK  4  -150   1.42
+ 38  14  13 1NT   N D8  4  -150   1.42
+ 39  17  53 1NT   W H5  9  -150   1.42
+ 40   8 154 1NT   W H5  9  -150   1.42
+ 41  15  18 1NT   W SJ  9  -150   1.42
+ 42  19  32 1NT   W SJ  9  -150   1.42
+ 43  55  65 1NT   W SJ  9  -150   1.42
+ 44  49  74 2NT   E H8  9  -150   1.42
+ 45  60  98 2NT   E C9  9  -150   1.42
+ 46 108 111 1NT   W H5 10  -180   0.68
+ 47  99  62 1NT   W CA 10  -180   0.68
+ 48 171   9 1NT   W CT 10  -180   0.68
+ 49 159 112 2NT   E C9 10  -180   0.68
+ 50 116 135 3HX   S DA  7  -300  -2.04
+ 51 170  69 3NT   E H8  9  -400  -4.40
+ 52  46  23 3NT   E S4  9  -400  -4.40
+ 53  40  38 3NT   E H9  9  -400  -4.40
+ 54 155  34 3NT   E C9  9  -400  -4.40
+ 55   6  29 3NT   E C9  9  -400  -4.40
+ 56  84  44 3NT   E HT  9  -400  -4.40
+ 57  24  11 3NT   E HT  9  -400  -4.40
+ 58 150 168 3NT   E HT  9  -400  -4.40
+ 59 118  30 3NT   E H9  9  -400  -4.40
+ 60  67  54 3NT   E H8  9  -400  -4.40
+ 61 114 147 3NT   E H8  9  -400  -4.40
+ 62  72 130 3NT   W SJ  9  -400  -4.40
+ 63 144 122 3NT   W H5  9  -400  -4.40
+ 64 162 ??? 3NT   W CT  9  -400  -4.40
+ 65  96  28 3NT   E C9 10  -430  -5.26
+ 66 156 138 3NT   E C2 10  -430  -5.26
+ 67  52  97 3NT   W CQ 10  -430  -5.26
+ 68 131  71 3NT   W CT 10  -430  -5.26
+ 69 143  26 3NT   W CA 10  -430  -5.26
+ 70 132  21 3NT   W CT 10  -430  -5.26
+ 71 113  90 3NT   W SJ 10  -430  -5.26
+ 72  93  45 3NT   W CQ 10  -430  -5.26
+ 73 158 125 3NT   W CT 10  -430  -5.26
+ 74  63  68 3NT   W SJ 10  -430  -5.26
+ 75  39   7 1NTX  N D2  4  -500  -6.70
+ 76 137  56 1NTX  N D2  4  -500  -6.70
+ 77  70  57 1NTX  N D2  4  -500  -6.70
+ 78  58  41 3NTX  E C2 10  -650  -9.32
+
+[Board "25"]
+[West "lapez"]
+[North "luzifer"]
+[East "piga"]
+[South "gm"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q82.T42.AQ63.KQ6 KT9753.AJ87.5.T3 64.Q63.K9842.754 AJ.K95.JT7.AJ982"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[ScoreIMP "NS 7.83"]
+[Auction "N"]
+1NT 2C 2D 3D
+X 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+D2 DT DA D5
+D8 D7 D3 S3
+C7 C2 CK CT
+D9 DJ D6 S5
+C5 C8 CQ C3
+D4 H5 DQ S7
+S4 SJ SQ S9
+C4 C9 C6 H7
+S6 SA S2 ST
+H3 H9 H2 HA
+DK - - SK
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1  54  82 5HX   W DA  7  1100  15.96
+  2   3  69 4H    E D4  7   300  10.82
+  3  47  90 3H    E D2  7   200   9.36
+  4  38 127 4H    E D4  8   200   9.36
+  5 114 117 4H    E D4  8   200   9.36
+  6   1 170 4H    W DA  8   200   9.36
+  7 100 125 3NT   W D3  8   100   7.83
+  8  14  33 4S    E D4  9   100   7.83
+  9  10  28 4S    E D2  9   100   7.83
+ 10 122 126 5S    E D4 10   100   7.83
+ 11  41 167 3D    N CT  8   -50   5.39
+ 12 144 165 3D    N S7  8   -50   5.39
+ 13   7  15 3D    N S7  7  -100   4.51
+ 14 168 161 3D    N D5  7  -100   4.51
+ 15  65  87 3D    N CT  7  -100   4.51
+ 16  77 136 3DX   N S7  8  -100   4.51
+ 17   6  11 2C    W CK  9  -110   4.46
+ 18 111 145 2H    E D2  8  -110   4.46
+ 19 133 169 3C    W H4  9  -110   4.46
+ 20  60  94 2C    W S2 10  -130   3.71
+ 21  36 148 3C    W H2 10  -130   3.71
+ 22 162 166 2S    E D4  9  -140   3.61
+ 23 102  58 2S    E D2  9  -140   3.61
+ 24  51  76 3H    E D4  9  -140   3.61
+ 25 101 120 3S    E DK  9  -140   3.61
+ 26  40 135 3D    N CT  6  -150   3.54
+ 27  92  12 3D    N ST  6  -150   3.54
+ 28  21  39 2S    E D2 10  -170   3.01
+ 29  34  66 2S    E D2 10  -170   3.01
+ 30  98 115 2S    E D4 10  -170   3.01
+ 31 137 146 2S    E D2 10  -170   3.01
+ 32  70 152 2S    E D2 10  -170   3.01
+ 33  71  89 2S    E D4 10  -170   3.01
+ 34  74  97 3S    E S4 10  -170   3.01
+ 35  27  59 3S    E D4 10  -170   3.01
+ 36 140 156 3S    E D2 10  -170   3.01
+ 37  26  37 3S    E D4 10  -170   3.01
+ 38  80  43 3S    E D4 10  -170   3.01
+ 39 134 160 3S    E D2 10  -170   3.01
+ 40 141 139 3S    E C4 10  -170   3.01
+ 41  99 109 2S    E DK 11  -200   2.20
+ 42 138 150 2S    E D4 11  -200   2.20
+ 43  19  25 2S    E D4 11  -200   2.20
+ 44 149 119 3S    E DK 11  -200   2.20
+ 45  50  67 3S    E D4 11  -200   2.20
+ 46 104 112 3S    E D4 11  -200   2.20
+ 47  45  53 3S    E D2 11  -200   2.20
+ 48  46  63 2H    W H2 13  -260   0.94
+ 49 113 131 4DX   N CT  8  -300   0.22
+ 50 ???  64 5DX   N HA  8  -500  -3.84
+ 51 ???   4 5DX   N S5  8  -500  -3.84
+ 52 151 143 3NT   W D3  9  -600  -5.66
+ 53  68  42 3NT   W CQ  9  -600  -5.66
+ 54 163 155 4H    E D4 10  -620  -6.06
+ 55  35  22 4H    E D4 10  -620  -6.06
+ 56 129 106 4S    E D4 10  -620  -6.06
+ 57  31  20 4S    E D4 10  -620  -6.06
+ 58 132  56 4S    E D2 10  -620  -6.06
+ 59  91  72 4S    E D4 10  -620  -6.06
+ 60  86  62 4S    E D4 10  -620  -6.06
+ 61 159  16 4S    E D9 10  -620  -6.06
+ 62  49  81 4S    E D4 10  -620  -6.06
+ 63 107  95 4S    E D2 10  -620  -6.06
+ 64  83 147 4S    E D4 10  -620  -6.06
+ 65  29  17 4S    E D4 10  -620  -6.06
+ 66 108  93 4S    E D4 10  -620  -6.06
+ 67 105  57 4S    E D4 10  -620  -6.06
+ 68  23  18 4S    E D4 10  -620  -6.06
+ 69   9 118 4S    E D4 10  -620  -6.06
+ 70  55  32 4S    E DK 10  -620  -6.06
+ 71 116 171 4S    E D2 10  -620  -6.06
+ 72 128 121 4S    E D4 10  -620  -6.06
+ 73   2   8 4S    E D4 10  -620  -6.06
+ 74  75   5 4H    E D2 11  -650  -6.76
+ 75 123  13 4H    E D2 11  -650  -6.76
+ 76  84  61 4H    E H3 11  -650  -6.76
+ 77  96  85 4S    E D2 11  -650  -6.76
+ 78 130  48 4S    E S4 11  -650  -6.76
+ 79  44  24 4S    E D4 11  -650  -6.76
+ 80  88  79 4S    E D4 11  -650  -6.76
+ 81 103  78 2SX   E D2  8  -670  -7.30
+ 82 153  30 4SX   E D4 10  -790  -9.07
+ 83 154 124 4DX   N ST  6  -800  -9.27
+ 84 158  52 5DX   N CT  7  -800  -9.27
+
+[Board "26"]
+[West "lapez"]
+[North "luzifer"]
+[East "piga"]
+[South "gm"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:K87.KJ965.J85.93 AQ94.QT.AT73.KT6 T6.A873.Q942.J54 J532.42.K6.AQ872"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[ScoreIMP "NS 0.89"]
+[Auction "E"]
+Pass 1S Pass 3NT
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+D4 DK D8 D3
+S6 S2 S7 SQ
+ST SJ SK S4
+HA H2 H5 HQ
+H8 H4 HJ HT
+D2 D6 D5 DA
+H3 S3 S8 SA
+C5 CA C3 C6
+C4 C2 C9 CK
+CJ - - CT
+*
+[ScoreTable "Rank\3R;PairId_NS\3R;PairId_EW\3R;Contract\5L;Declarer\1;Lead\2L;Result\2R;Score_NS\5R;IMP_NS\6R"]
+  1 162 166 6S    S ST 12  1430  13.49
+  2  60  94 4S    N S7 13   710   3.56
+  3  96  85 4S    S ST 13   710   3.56
+  4   9 118 4S    S S6 13   710   3.56
+  5  74  97 4S    S ST 13   710   3.56
+  6 116 171 4S    S D9 13   710   3.56
+  7  38 127 4S    S ST 13   710   3.56
+  8  83 147 4S    S S6 13   710   3.56
+  9  21  39 4S    N C9 12   680   2.69
+ 10   1 170 4S    N S7 12   680   2.69
+ 11  46  63 4S    N C9 12   680   2.69
+ 12  88  79 4S    N C9 12   680   2.69
+ 13   6  11 4S    N C9 12   680   2.69
+ 14  23  18 4S    S S6 12   680   2.69
+ 15 114 117 4S    S D2 12   680   2.69
+ 16  92  12 4S    S S6 12   680   2.69
+ 17 105  57 4S    S S6 12   680   2.69
+ 18 107  95 4S    S ST 12   680   2.69
+ 19   2   8 4S    S S6 12   680   2.69
+ 20 163 155 4S    S ST 12   680   2.69
+ 21  27  59 4S    S S6 12   680   2.69
+ 22  77 136 4S    S ST 12   680   2.69
+ 23  34  66 4S    S S6 12   680   2.69
+ 24 113 131 4S    S ST 12   680   2.69
+ 25 128 121 3NT   S D2 11   660   1.88
+ 26 141 139 3NT   S ST 11   660   1.88
+ 27  71  89 3NT   S D2 11   660   1.88
+ 28 133 169 3NT   S D2 11   660   1.88
+ 29 138 150 4S    N C9 11   650   1.88
+ 30  84  61 4S    N C9 11   650   1.88
+ 31 151 143 4S    N C9 11   650   1.88
+ 32 140 156 4S    S HA 11   650   1.88
+ 33   7  15 4S    S H7 11   650   1.88
+ 34 144 165 4S    S D4 11   650   1.88
+ 35  40 135 4S    S D2 11   650   1.88
+ 36 108  93 4S    S D4 11   650   1.88
+ 37 ???   4 4S    S D4 11   650   1.88
+ 38  31  20 4S    S ST 11   650   1.88
+ 39 101 120 4S    N C9 10   620   0.89
+ 40  98 115 4S    N H6 10   620   0.89
+ 41  65  87 4S    N H5 10   620   0.89
+ 42  68  42 4S    N H5 10   620   0.89
+ 43 129 106 4S    N H5 10   620   0.89
+ 44 111 145 4S    S D2 10   620   0.89
+ 45  50  67 4S    S D4 10   620   0.89
+ 46  47  90 4S    S D4 10   620   0.89
+ 47  26  37 4S    S D2 10   620   0.89
+ 48  35  22 4S    S ST 10   620   0.89
+ 49 104 112 4S    S H3 10   620   0.89
+ 50  19  25 4S    S D2 10   620   0.89
+ 51  44  24 4S    S D2 10   620   0.89
+ 52  55  32 4S    S D2 10   620   0.89
+ 53 134 160 4S    S D2 10   620   0.89
+ 54 103  78 4S    S D2 10   620   0.89
+ 55  91  72 4S    S D2 10   620   0.89
+ 56  70 152 4S    S D2 10   620   0.89
+ 57  86  62 4S    S D2 10   620   0.89
+ 58  29  17 4S    S D2 10   620   0.89
+ 59  49  81 4S    S HA 10   620   0.89
+ 60  10  28 4S    S D4 10   620   0.89
+ 61   3  69 4S    S D2 10   620   0.89
+ 62 ???  64 4S    S D4 10   620   0.89
+ 63  75   5 4S    S D2 10   620   0.89
+ 64  14  33 4S    S D2 10   620   0.89
+ 65  36 148 4S    S HA 10   620   0.89
+ 66  51  76 4S    S D4 10   620   0.89
+ 67  45  53 4S    S D2 10   620   0.89
+ 68 154 124 3NT   S H3  9   600   0.32
+ 69 137 146 3NT   S H3  9   600   0.32
+ 70 122 126 3HX   E SA  8   200  -7.37
+ 71 158  52 3C    N H6 11   150  -8.31
+ 72 159  16 2NT   S H3  8   120  -8.70
+ 73 168 161 3NT   S H7  8  -100 -10.98
+ 74 130  48 3NT   S H3  8  -100 -10.98
+ 75 123  13 3NT   S H7  8  -100 -10.98
+ 76 100 125 3NT   S H3  8  -100 -10.98
+ 77 153  30 3NT   S H3  8  -100 -10.98
+ 78 132  56 3NT   S H3  8  -100 -10.98
+ 79 149 119 4S    S D2  9  -100 -10.98
+ 80 102  58 4S    S D4  9  -100 -10.98
+ 81  54  82 4S    S D4  9  -100 -10.98
+ 82  80  43 5S    N H6 10  -100 -10.98

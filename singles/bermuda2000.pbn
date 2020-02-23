@@ -1,0 +1,4967 @@
+% PBN 1.0
+%
+% Orbis World Computer Bridge Championship final, 19 January 2000
+% Commentary by Alan Jaffray <jaffray@gibware.com>
+%
+[Board "1"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K4.J542.Q953.T74 76.A97.A74.AQ852 QJT.KQT3.T2.J963 A98532.86.KJ86.K"]
+[Contract "4S"]
+[Declarer "E"]
+[Result "9"]
+[Score "NS 50"]
+{
+               S K 4
+               H J 5 4 2
+               D Q 9 5 3
+               C 10 7 4
+S A 9 8 5 3 2                 S 7 6
+H 8 6                         H A 9 7
+D K J 8 6                     D A 7 4
+C K                           C A Q 8 5 2
+               S Q J 10
+               H K Q 10 3
+               D 10 2
+               C J 9 6 3
+}
+[Auction "N"]
+Pass    1C      Pass    1H
+Pass    1NT     Pass    2H
+Pass    2S      Pass    3NT
+Pass    4C      Pass    4S
+Pass    Pass    Pass    
+{
+East's hand is a mandatory strong club because of the 10 RP.  West
+responds with a non-game-forcing positive response (5+ RP, 9+ LP) 
+in spades.  East shows a minimum misfit, giving partner a chance to
+get out low if necessary; West has extras and continues the relay
+chain, showing diamonds (2H), then 6241 shape (3N), then 7 RP (4S).
+East quits and plays 4S.
+
+The play is interesting.  With everything breaking declarer should
+lose only two spades and a diamond, yes?  Well...
+
+HK lead to the ace; GIB crosses to the SA and cashes CK, then
+crosses to the DA and cashes two more clubs, throwing a heart and
+a diamond.  Now a diamond from dummy... and GIB *finesses*.  DQ
+wins, diamond ruff, club ruff, and South still has a high trump
+for down one, -50.
+
+I think GIB's play was right.  If trumps are 4-1 you need to hook
+the diamond to make, and even if they're 3-2, the finesse is 50%
+to make an overtrick, and only costs the contract if North has 
+all three missing diamonds and South has the last club.
+}
+[Play "S"]
+hk h6 h5 HA 
+st SA s4 s6 
+c6 CK c4 c5 
+d2 d6 d5 DA 
+c3 h8 c7 CQ 
+c9 d8 ct CA 
+dt dj DQ d4 
+SJ dk d3 d7 
+cj s5 SK c2 
+*
+
+[Board "1"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K4.J542.Q953.T74 76.A97.A74.AQ852 QJT.KQT3.T2.J963 A98532.86.KJ86.K"]
+[Contract "4S"]
+[Declarer "W"]
+[Result "10"]
+[Score "NS -420"]
+{
+               S K 4
+               H J 5 4 2
+               D Q 9 5 3
+               C 10 7 4
+S A 9 8 5 3 2                 S 7 6
+H 8 6                         H A 9 7
+D K J 8 6                     D A 7 4
+C K                           C A Q 8 5 2
+               S Q J 10
+               H K Q 10 3
+               D 10 2
+               C J 9 6 3
+}
+[Auction "N"]
+Pass    1C      Pass    1S
+Pass    1NT     Pass    3S
+Pass    4S      Pass    Pass
+Pass    
+{
+Here the standard auction made the long hand declarer, and the 
+hand with KQTx of hearts was no longer on lead.  On any other
+lead, declarer has enough entries to set up a long club.
+GIB chose a club; -420.
+
+10 IMPs to WBridge5, leading in the set 10-0.
+}
+[Play "N"]
+c4 c2 cj CK 
+s4 s6 ST s2 
+h2 HA hk h6 
+c7 CA c6 d6 
+ct CQ c3 h8 
+SK c5 c9 s3 
+h4 h7 hq S5 
+d3 s7 sj SA 
+hj d4 SQ s8 
+d9 DA dt d8 
+*
+
+[Board "2"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T32.K3.J9862.K87 AKJ.QJT976.7.QT6 Q98.842.AKT4.A92 7654.A5.Q53.J543"]
+[Contract "2H"]
+[Declarer "S"]
+[Result "9"]
+[Score "NS 140"]
+{
+               S 7 6 5 4
+               H A 5
+               D Q 5 3
+               C J 5 4 3
+S Q 9 8                       S 10 3 2
+H 8 4 2                       H K 3
+D A K 10 4                    D J 9 8 6 2
+C A 9 2                       C K 8 7
+               S A K J
+               H Q J 10 9 7 6
+               D 7
+               C Q 10 6
+}
+[Auction "E"]
+Pass    1H      Pass    1S
+Pass    2H      Pass    Pass
+Pass    
+{
+WBridge5 had a standard auction to 2H.  This should be held to 2,
+but GIB attempted to cash two top diamonds and let declarer pitch
+the SJ on the DQ.  Perhaps West couldn't read partner's D6 as the
+start of an echo (upside-down count and attitude); I suspect a bug
+in the signalling code is responsible for East not playing the D9.
+-140.
+}
+[Play "W"]
+DK d3 d6 d7 
+da d5 d2 H6 
+h2 HA h3 hq 
+d4 DQ d9 sj 
+h8 h5 HK h7 
+s9 s4 s2 SK 
+h4 c3 s3 HJ 
+c9 cj CK c6 
+CA c4 c8 ct 
+c2 c5 c7 CQ 
+*
+
+[Board "2"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T32.K3.J9862.K87 AKJ.QJT976.7.QT6 Q98.842.AKT4.A92 7654.A5.Q53.J543"]
+[Contract "1NT"]
+[Declarer "E"]
+[Result "5"]
+[Score "NS 100"]
+{
+               S 7 6 5 4
+               H A 5
+               D Q 5 3
+               C J 5 4 3
+S Q 9 8                       S 10 3 2
+H 8 4 2                       H K 3
+D A K 10 4                    D J 9 8 6 2
+C A 9 2                       C K 8 7
+               S A K J
+               H Q J 10 9 7 6
+               D 7
+               C Q 10 6
+}
+[Auction "E"]
+Pass    1H      X       Pass
+1NT     Pass    Pass    Pass
+{
+1H was 8-15, 4+ H, 0-3 S.  Over the takeout double, North was just
+shy of a 1NT response; and vulnerable at IMPs opposite a silent
+partner between bidding opponents, South has a tough decision 
+whether or not to venture 2H.  At the table, GIB passed and let
+them play 1NT.  On the HQ lead, declarer sensibly cashed out his
+five tricks for down two.  +100.
+
+2 IMPs to WBridge5, leading 12-0.
+}
+[Play "S"]
+hq h2 h5 HK 
+d7 DK d3 d2 
+ct CA c3 c7 
+c6 c2 c5 CK 
+sj DA d5 d6 
+CQ c9 cj c8 
+hj h4 HA h3 
+h6 d4 C4 d8 
+h7 dt DQ d9 
+*
+
+[Board "3"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:82.9764.932.A765 7.KQ5.JT754.KQJT AT94.AJ32.Q8.942 KQJ653.T8.AK6.83"]
+[Contract "3NT"]
+[Declarer "W"]
+[Result "10"]
+[Score "NS -630"]
+{
+               S A 10 9 4
+               H A J 3 2
+               D Q 8
+               C 9 4 2
+S 7                           S K Q J 6 5 3
+H K Q 5                       H 10 8
+D J 10 7 5 4                  D A K 6
+C K Q J 10                    C 8 3
+               S 8 2
+               H 9 7 6 4
+               D 9 3 2
+               C A 7 6 5
+}
+[Auction "S"]
+Pass    2D      Pass    2S
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass    
+{
+5431 hands with neither major are the single most awkward shape
+for an opening hand in Moscito Byte.  Personally, I'd treat the
+West hand as 1444 and open 1H; you might get into a 3-3 partscore,
+but you might also steal the opponents suit, or avert a disasterous
+diamond lead against their spade contract, or stay out of 2D-X vul
+down 1100.
+
+Alas, Matt would go ballistic if I programmed GIB to open 3-card
+majors, so 2D it is.  Partner responds a nonforcing (but encouraging)
+2S and raises 2NT to 3NT.
+
+What should declarer play from dummy on the H3 lead?  GIB chooses
+the H8, covered by the H9, after which the contract is beatable.
+But when North chooses to rise with the SA on the first round and
+cash the HA, GIB can soon claim 4, +630.
+}
+[Play "N"]
+h3 h8 h9 HK 
+SA s3 s2 s7 
+HA ht h4 h5 
+c2 c3 CA ct 
+c4 c8 c5 CJ 
+*
+
+[Board "3"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:82.9764.932.A765 7.KQ5.JT754.KQJT AT94.AJ32.Q8.942 KQJ653.T8.AK6.83"]
+[Contract "3S"]
+[Declarer "E"]
+[Result "9"]
+[Score "NS -140"]
+{
+               S A 10 9 4
+               H A J 3 2
+               D Q 8
+               C 9 4 2
+S 7                           S K Q J 6 5 3
+H K Q 5                       H 10 8
+D J 10 7 5 4                  D A K 6
+C K Q J 10                    C 8 3
+               S 8 2
+               H 9 7 6 4
+               D 9 3 2
+               C A 7 6 5
+}
+[Auction "S"]
+Pass    1D      X       1S
+Pass    2C      Pass    3S
+Pass    Pass    Pass    
+{
+Was WBridge5 confused over whether 3S was forcing, or was it simply
+being extremely conservative?  3S was cold, but that was still 10 IMPs
+to GIB, trailing 10-12.
+}
+[Play "S"]
+d2 dt dq DK 
+c5 CT c9 c3 
+s2 s7 st SJ 
+s8 cj SA sk 
+d9 d4 d8 DA 
+h4 cq s4 SQ 
+d3 d5 h2 D6 
+h9 ck S9 s3 
+h6 h5 HA h8 
+CA d7 c4 c8 
+*
+
+[Board "4"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J7.AQ652.82.AKT3 K652.KJ3.J75.987 943.984.AQ94.J54 AQT8.T7.KT63.Q62"]
+[Contract "3S"]
+[Declarer "N"]
+[Result "8"]
+[Score "NS -100"]
+{
+               S K 6 5 2
+               H K J 3
+               D J 7 5
+               C 9 8 7
+S J 7                         S 9 4 3
+H A Q 6 5 2                   H 9 8 4
+D 8 2                         D A Q 9 4
+C A K 10 3                    C J 5 4
+               S A Q 10 8
+               H 10 7
+               D K 10 6 3
+               C Q 6 2
+}
+[Auction "W"]
+1H      Pass    Pass    X
+Pass    1S      Pass    2S
+Pass    3S      Pass    Pass
+Pass    
+{
+2S and 3S both look like substantial overbids, but when GIB led
+a heart to the ace and returned a heart, allowing a club pitch 
+from dummy, the contract was makeable.  However, WBridge5 mistimed
+the play.  With only one entry to hand remaining, it needed to 
+lead a diamond immediately; instead, it drew trumps, played a 
+diamond to the ten, and exited in clubs.  GIB cashed its clubs
+and forced dummy to ruff a club, after which WBridge5 had to lead
+away from the DK, for down one.  -100.
+}
+[Play "E"]
+h4 h7 HA h3 
+h8 ht h6 HJ 
+h9 c2 hq HK 
+s3 SQ s7 s2 
+s4 SA sj s5 
+s9 s8 d2 SK 
+d4 DT d8 d5 
+c5 c6 CA c7 
+c4 cq CK c8 
+cj ST c3 c9 
+DA dk h2 d7 
+DQ d3 ct dj 
+d9 d6 h5 S6 
+
+[Board "4"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J7.AQ652.82.AKT3 K652.KJ3.J75.987 943.984.AQ94.J54 AQT8.T7.KT63.Q62"]
+[Contract "2H"]
+[Declarer "W"]
+[Result "8"]
+[Score "NS -110"]
+{
+               S K 6 5 2
+               H K J 3
+               D J 7 5
+               C 9 8 7
+S J 7                         S 9 4 3
+H A Q 6 5 2                   H 9 8 4
+D 8 2                         D A Q 9 4
+C A K 10 3                    C J 5 4
+               S A Q 10 8
+               H 10 7
+               D K 10 6 3
+               C Q 6 2
+}
+[Auction "W"]
+1H      Pass    2H      Pass
+Pass    Pass    
+{
+Cluck, cluck, cluck.  Even vulnerable, South has a clear takeout
+double of 2H; but GIB chickened out and passed, letting WBridge5
+play it there.  Declarer had only a diamond, two hearts, and two
+spades to lose, for +110, no swing.
+}
+[Play "N"]
+d5 dq DK d2 
+dj DA d3 d8 
+c9 c4 c2 CT 
+h3 h4 h7 HA 
+c7 c5 c6 CA 
+c8 cj cq CK 
+s2 s3 S8 s7 
+s6 s4 SA sj 
+sk s9 sq H2 
+HJ h8 ht h5 
+HK h9 d6 h6 
+d7 d4 dt HQ 
+s5 d9 st C3 
+
+[Board "5"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ62.A96.KT.KQJ4 93.J87543.J83.72 87.KQ.Q7654.A865 AJT54.T2.A92.T93"]
+[Contract "3NT"]
+[Declarer "S"]
+[Result "10"]
+[Score "NS 630"]
+{
+               S K Q 6 2
+               H A 9 6
+               D K 10
+               C K Q J 4
+S A J 10 5 4                  S 9 3
+H 10 2                        H J 8 7 5 4 3
+D A 9 2                       D J 8 3
+C 10 9 3                      C 7 2
+               S 8 7
+               H K Q
+               D Q 7 6 5 4
+               C A 8 6 5
+}
+[Auction "N"]
+1C      Pass    2NT     Pass
+3NT     Pass    Pass    Pass
+{
+I assume 2NT was nonforcing, not playing inverted minors; not my
+choice, but it worked.  An easy +630.
+}
+[Play "W"]
+st SQ s9 s7 
+ct CK c2 c5 
+c3 CQ c7 c6 
+h2 h6 h7 HQ 
+d2 dt DJ d4 
+DA dk d3 d5 
+SA s2 s3 s8 
+d9 s6 d8 DQ 
+*
+
+[Board "5"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ62.A96.KT.KQJ4 93.J87543.J83.72 87.KQ.Q7654.A865 AJT54.T2.A92.T93"]
+[Contract "7CX"]
+[Declarer "N"]
+[Result "10"]
+[Score "NS -800"]
+{
+               S K Q 6 2
+               H A 9 6
+               D K 10
+               C K Q J 4
+S A J 10 5 4                  S 9 3
+H 10 2                        H J 8 7 5 4 3
+D A 9 2                       D J 8 3
+C 10 9 3                      C 7 2
+               S 8 7
+               H K Q
+               D Q 7 6 5 4
+               C A 8 6 5
+}
+[Auction "N"]
+1C      Pass    1NT     Pass
+2C      Pass    3C      Pass
+3D      Pass    3NT     Pass
+4C      Pass    4D      Pass
+4H      Pass    5C      Pass
+5D      Pass    5S      Pass
+5NT     Pass    6C      X
+Pass    Pass    6D      X
+Pass    Pass    XX      Pass
+7C      Pass    Pass    X
+Pass    Pass    Pass    
+{
+I cannot describe how happy I am that we had an interesting play
+problem later in the set, because only that kept this deal from
+showing up in the Daily Bulletin.
+
+Two factors contributed to getting to 6C off two aces.  First, there
+was a database bug; the system response to 3D should have been 3H, not
+3N, leaving more room for exploration.  (With that bug fixed, GIB gets
+to 5C, which isn't great but does make.)  Second, KQ doubleton is a
+relatively uncommon holding, and relayer's Borel samples contained
+many more hands where partner's 7RP 2254 was arranged more usefully.
+
+So, GIB was already doomed to lose 13 IMPs; but when West doubled,
+something comic happened.  GIB has a rule saying that after partner's
+relay response, the first step is a relay unless it's a bid above 5NT.
+But no such rule applies to *passing* a bid above 5NT.  So North's
+pass of the double was interpreted as a relay, and South helpfully
+showed the HQ and denied the DJ.  West doubled again, North passed
+(another relay), and South redoubled, denying the CJ.  North signed
+off in 7C, ending relays, West doubled, and that was that.
+
+Everybody laughed.  I hid in a corner.  (And pulled out my laptop,
+and started fixing code.)  GIB managed to go down three, for -800.
+
+A well-deserved 16-IMP loss for GIB, and a bemused 16-IMP gain for
+WBridge5, now ahead 28-10.
+}
+[Play "E"]
+s9 s7 s4 SK 
+h5 HK h2 h6 
+h3 HQ ht h9 
+c7 c6 c3 CK 
+h4 s8 C9 ha 
+c2 CA ct cq 
+DJ d7 d2 dt 
+d3 d6 DA dk 
+d8 DQ d9 s2 
+*
+
+[Board "6"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K6.A8742.KQ74.Q8 5.Q.T85.KT976432 J8732.KT65.92.AJ AQT94.J93.AJ63.5"]
+[Contract "5CX"]
+[Declarer "S"]
+[Result "9"]
+[Score "NS -300"]
+{
+               S A Q 10 9 4
+               H J 9 3
+               D A J 6 3
+               C 5
+S J 8 7 3 2                   S K 6
+H K 10 6 5                    H A 8 7 4 2
+D 9 2                         D K Q 7 4
+C A J                         C Q 8
+               S 5
+               H Q
+               D 10 8 5
+               C K 10 9 7 6 4 3 2
+}
+[Auction "E"]
+1H      2C      2H      2S
+4H      5C      Pass    Pass
+X       Pass    Pass    Pass
+{
+Curious choice of 2C by WBridge5 as South at favorable vulnerability;
+a 4C preempt would make life difficult for E-W.  West has a dubious
+raise opposite a possible 9-count with four hearts; East probably
+reopens with a double (which West removes to 4H), but it's tough.
+
+The unilateral sacrifice in 5C was fairly cheap.  It takes a diamond
+lead to put declarer down 3, keeping him from ruffing out the SK for a
+diamond pitch.  On the actual heart lead, East took the HA and played
+back the DK, hoping for T9 opposite; cost nothing, but made life easy
+for declarer.  +300 for GIB.
+}
+[Play "W"]
+h6 h3 HA hq 
+d2 DA dk d5 
+CA c5 c8 ck 
+d9 d3 d7 DT 
+s3 SA s6 s5 
+HT h9 h2 d8 
+cj d6 CQ c3 
+*
+
+[Board "6"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K6.A8742.KQ74.Q8 5.Q.T85.KT976432 J8732.KT65.92.AJ AQT94.J93.AJ63.5"]
+[Contract "4H"]
+[Declarer "E"]
+[Result "9"]
+[Score "NS 100"]
+{
+               S A Q 10 9 4
+               H J 9 3
+               D A J 6 3
+               C 5
+S J 8 7 3 2                   S K 6
+H K 10 6 5                    H A 8 7 4 2
+D 9 2                         D K Q 7 4
+C A J                         C Q 8
+               S 5
+               H Q
+               D 10 8 5
+               C K 10 9 7 6 4 3 2
+}
+[Auction "E"]
+1H      4C      4H      Pass
+Pass    Pass    
+{
+Unfortunately for WBridge5, the sacrifice turned out to be a phantom;
+GIB led its singleton, got a ruff, and the contract was shortly
+down 1, -100.  9 IMPs to GIB, trailing 19-28.
+}
+[Play "S"]
+s5 s2 SA s6 
+HQ s3 s4 sk 
+dt d2 d3 DQ 
+c2 h5 H9 h2 
+c7 H6 h3 h4 
+c3 ht hj HA 
+ck CA c5 c8 
+d5 d9 DJ d4 
+d8 -  da d7 
+*
+
+[Board "7"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KJ.753.Q963.AKT5 A9864.942.T4.632 Q5.KQJT86.J.J874 T732.A.AK8752.Q9"]
+[Contract "4H"]
+[Declarer "N"]
+[Result "10"]
+[Score "NS 620"]
+{
+               S Q 5
+               H K Q J 10 8 6
+               D J
+               C J 8 7 4
+S A 9 8 6 4                   S 10 7 3 2
+H 9 4 2                       H A
+D 10 4                        D A K 8 7 5 2
+C 6 3 2                       C Q 9
+               S K J
+               H 7 5 3
+               D Q 9 6 3
+               C A K 10 5
+}
+[Auction "S"]
+1D      Pass    1H      Pass
+1NT     Pass    3H      Pass
+4H      Pass    Pass    Pass
+{
+I'd consider North's bidding very aggressive given the apparent
+diamond misfit -- swap South's minors and see how you like 4H --
+but on the actual hand, 10 tricks were easy.  +620 for WBridge5.
+}
+[Play "E"]
+DK d3 d4 dj 
+da d6 dt H6 
+HA h3 h9 hk 
+d8 d9 h2 H8 
+s2 h5 h4 HQ 
+c9 CK c6 c4 
+d7 DQ s6 c7 
+st SJ s4 s5 
+s3 sk SA sq 
+s7 -  s9 c8 
+*
+
+[Board "7"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KJ.753.Q963.AKT5 A9864.942.T4.632 Q5.KQJT86.J.J874 T732.A.AK8752.Q9"]
+[Contract "4H"]
+[Declarer "S"]
+[Result "10"]
+[Score "NS 620"]
+{
+               S Q 5
+               H K Q J 10 8 6
+               D J
+               C J 8 7 4
+S A 9 8 6 4                   S 10 7 3 2
+H 9 4 2                       H A
+D 10 4                        D A K 8 7 5 2
+C 6 3 2                       C Q 9
+               S K J
+               H 7 5 3
+               D Q 9 6 3
+               C A K 10 5
+}
+[Auction "S"]
+1NT     Pass    2D      X
+2H      Pass    3H      Pass
+4H      Pass    Pass    Pass
+{
+I think North had greater reason for optimism here, when LHO had
+shown diamond values rather than partner.  GIB took the same 10
+tricks, no swing.
+}
+[Play "W"]
+dt dj DK d3 
+SA s5 s7 sj 
+s8 sq s2 SK 
+h2 hk HA h3 
+c2 c7 c9 CA 
+h4 HQ d2 h5 
+h9 HJ d5 h7 
+c3 c4 cq CK 
+*
+
+[Board "8"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T.AT6543.92.KT83 KJ5.Q8.QT8743.QJ Q98763.72.K65.96 A42.KJ9.AJ.A7542"]
+[Contract "5D"]
+[Declarer "N"]
+[Result "10"]
+[Score "NS -50"]
+{
+               S K J 5
+               H Q 8
+               D Q 10 8 7 4 3
+               C Q J
+S 10                          S Q 9 8 7 6 3
+H A 10 6 5 4 3                H 7 2
+D 9 2                         D K 6 5
+C K 10 8 3                    C 9 6
+               S A 4 2
+               H K J 9
+               D A J
+               C A 7 5 4 2
+}
+[Auction "W"]
+1H      2D      Pass    5D
+Pass    Pass    Pass    
+{
+The West hand is too good for a nonvulnerable weak two bid in Moscito
+Byte.  After the 1H opening, North made a dubious 2D overcall, and
+South went nuts and jumped to 5D.  5D has chances on some layouts, but
+not very good ones after the opening bid; on the actual layout, down
+one was certain.  -50 for WBridge5.
+}
+[Play "E"]
+c9 CA c3 cj 
+d5 DA d2 d3 
+DK dj d9 d4 
+s3 s2 st SJ 
+d6 c2 h3 D7 
+c6 c4 CK cq 
+h2 c5 ct D8 
+h7 hj HA h8 
+sq c7 c8 DT 
+*
+
+[Board "8"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T.AT6543.92.KT83 KJ5.Q8.QT8743.QJ Q98763.72.K65.96 A42.KJ9.AJ.A7542"]
+[Contract "3NT"]
+[Declarer "S"]
+[Result "10"]
+[Score "NS 430"]
+{
+               S K J 5
+               H Q 8
+               D Q 10 8 7 4 3
+               C Q J
+S 10                          S Q 9 8 7 6 3
+H A 10 6 5 4 3                H 7 2
+D 9 2                         D K 6 5
+C K 10 8 3                    C 9 6
+               S A 4 2
+               H K J 9
+               D A J
+               C A 7 5 4 2
+}
+[Auction "W"]
+2H      Pass    Pass    X
+Pass    3D      Pass    3NT
+Pass    Pass    Pass    
+{
+After the standard 2H opening, South's book bid is 2NT, but GIB ran a
+simulation and decided to double instead.  Does it know something I
+don't?  North's 3D response promised values (no Lebensohl 2NT response),
+so South had an easy 3NT rebid.  10 tricks were cold; +430 and 10 IMPs
+for GIB, now leading 29-28.
+}
+[Play "W"]
+HA h8 h7 h9 
+h3 HQ h2 hj 
+d9 d4 d5 DA 
+st s5 s7 SA 
+d2 dq DK dj 
+c3 cj c6 CA 
+h4 cq c9 HK 
+c8 sk -  s2 
+*
+
+[Board "9"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KT95.KT5.J54.Q42 J63.987.T92.K863 Q87.AJ43.Q3.A975 A42.Q62.AK876.JT"]
+[Contract "2H"]
+[Declarer "S"]
+[Result "8"]
+[Score "NS 110"]
+{
+               S K 10 9 5
+               H K 10 5
+               D J 5 4
+               C Q 4 2
+S A 4 2                       S J 6 3
+H Q 6 2                       H 9 8 7
+D A K 8 7 6                   D 10 9 2
+C J 10                        C K 8 6 3
+               S Q 8 7
+               H A J 4 3
+               D Q 3
+               C A 9 7 5
+}
+[Auction "N"]
+Pass    Pass    1C      1D
+1S      2D      2H      Pass
+Pass    Pass    
+{
+A natural auction, but not a very good one; East (GIB) doesn't have the
+values for his raise, and most would consider South's (WBridge5) reverse
+to promise significant extras.  GIB put up a fairly ineffective defense,
+removing several guesses for declarer; but WBridge5 did misguess the 
+hearts, making only two, +110.
+}
+[Play "W"]
+DK d4 dt d3 
+SA s5 s6 s7 
+DA d5 d2 dq 
+cj cq ck CA 
+h2 HK h7 h3 
+d8 DJ d9 c5 
+HQ h5 h9 hj 
+h6 HT h8 h4 
+s2 st s3 SQ 
+s4 SK sj s8 
+CT c2 c3 c7 
+d7 -  -  -  
+*
+
+[Board "9"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KT95.KT5.J54.Q42 J63.987.T92.K863 Q87.AJ43.Q3.A975 A42.Q62.AK876.JT"]
+[Contract "2H"]
+[Declarer "S"]
+[Result "8"]
+[Score "NS 110"]
+{
+               S K 10 9 5
+               H K 10 5
+               D J 5 4
+               C Q 4 2
+S A 4 2                       S J 6 3
+H Q 6 2                       H 9 8 7
+D A K 8 7 6                   D 10 9 2
+C J 10                        C K 8 6 3
+               S Q 8 7
+               H A J 4 3
+               D Q 3
+               C A 9 7 5
+}
+[Auction "N"]
+Pass    Pass    1H      X
+2H      Pass    Pass    Pass
+{
+In third seat, GIB's 1H opening is 12-16, still 4+ H and 0-3 S.  West
+made an (allegedly standard) takeout double, North raised to 2H, and
+that was that.  GIB also made two, +110, no swing.
+}
+[Play "W"]
+cj cq ck CA 
+DK d4 d2 dq 
+CT c4 c3 c5 
+DA d5 d9 d3 
+d6 DJ dt s8 
+h2 h5 h7 HA 
+h6 HK h8 h4 
+HQ c2 c6 c9 
+d7 HT s3 c7 
+SA st s6 sq 
+d8 s5 sj H3 
+-  -  -  hj 
+*
+
+[Board "10"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q5.J42.J74.AK872 6.KT983.AQ95.QJ4 K742.AQ65.K86.T6 AJT983.7.T32.953"]
+[Contract "2D"]
+[Declarer "S"]
+[Result "5"]
+[Score "NS -300"]
+{
+               S A J 10 9 8 3
+               H 7
+               D 10 3 2
+               C 9 5 3
+S K 7 4 2                     S Q 5
+H A Q 6 5                     H J 4 2
+D K 8 6                       D J 7 4
+C 10 6                        C A K 8 7 2
+               S 6
+               H K 10 9 8 3
+               D A Q 9 5
+               C Q J 4
+}
+[Auction "E"]
+Pass    1H      Pass    1S
+Pass    2D      Pass    Pass
+Pass    
+{
+North probably should have rebid 2S.  The 4-3 fit was not a happy spot;
+WBridge5 took only 5 tricks, for -300.
+}
+[Play "W"]
+ct c3 CK c4 
+DK d2 d4 dq 
+c6 c5 CA cj 
+D6 c9 c8 cq 
+d8 d3 d7 D9 
+s7 SA s5 s6 
+HQ h7 h4 h3 
+s2 s8 sq D5 
+ha DT h2 hk 
+s4 s3 c7 DA 
+*
+
+[Board "10"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q5.J42.J74.AK872 6.KT983.AQ95.QJ4 K742.AQ65.K86.T6 AJT983.7.T32.953"]
+[Contract "2S"]
+[Declarer "N"]
+[Result "7"]
+[Score "NS -100"]
+{
+               S A J 10 9 8 3
+               H 7
+               D 10 3 2
+               C 9 5 3
+S K 7 4 2                     S Q 5
+H A Q 6 5                     H J 4 2
+D K 8 6                       D J 7 4
+C 10 6                        C A K 8 7 2
+               S 6
+               H K 10 9 8 3
+               D A Q 9 5
+               C Q J 4
+}
+[Auction "E"]
+Pass    1H      Pass    2S
+Pass    Pass    Pass    
+{
+2S is a slight overbid (it promises 9-12 LP), but my guess is that GIB
+really liked the suit and hated the alternative (passing with that stiff
+heart, vulnerable).  This should be down two on the club ruff, but 
+despite multiple opportunities, East never gave partner the ruff; 
+GIB ended up only down one, for -100 and 5 IMPs.  34-28.
+}
+[Play "E"]
+CA c4 c6 c9 
+d4 dq DK dt 
+CK cj ct c3 
+h2 h3 HQ h7 
+h4 h8 ha S3 
+d7 DA d6 d2 
+hj HK h5 d3 
+SQ s6 s2 sj 
+dj d5 d8 S8 
+s5 h9 s4 SA 
+c2 d9 s7 ST 
+c7 cq SK s9 
+c8 HT h6 c5 
+
+[Board "11"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A86.A62.Q93.T964 95.QJ7.AT876.A73 KQJT432.KT985..8 7.43.KJ542.KQJ52"]
+[Contract "4S"]
+[Declarer "N"]
+[Result "11"]
+[Score "NS 450"]
+{
+               S K Q J 10 4 3 2
+               H K 10 9 8 5
+               D
+               C 8
+S 9 5                         S 7
+H Q J 7                       H 4 3
+D A 10 8 7 6                  D K J 5 4 2
+C A 7 3                       C K Q J 5 2
+               S A 8 6
+               H A 6 2
+               D Q 9 3
+               C 10 9 6 4
+}
+[Auction "S"]
+Pass    1NT     3S      Pass
+Pass    X       Pass    4C
+Pass    Pass    4S      Pass
+Pass    Pass    
+{
+After the 1NT opening (12-14 HCP, no 4-card major unless 4333) and 
+3S overcall and two passes, Yves sighed, entered a third pass, and
+began to write the contract on his score sheet.  Meanwhile, Matt 
+and I were moaning as GIB's simulation showed pass winning... then
+winning by a bit... then tied... and finally losing, as GIB chose
+a very aggressive reopening double as West.  It took a moment to
+explain the situation, but Yves was quite happy to undo the pass,
+enter double, and watch his program back into 4S!  +450 for WBridge5.
+}
+[Play "E"]
+h4 h2 hj HK 
+s7 SA s9 s2 
+d5 S6 s5 s3 
+c5 c4 CA c8 
+c2 c6 c3 S4 
+h3 h6 HQ h8 
+-  -  h7 -  
+*
+
+[Board "11"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A86.A62.Q93.T964 95.QJ7.AT876.A73 KQJT432.KT985..8 7.43.KJ542.KQJ52"]
+[Contract "4S"]
+[Declarer "N"]
+[Result "11"]
+[Score "NS 450"]
+{
+               S K Q J 10 4 3 2
+               H K 10 9 8 5
+               D
+               C 8
+S 9 5                         S 7
+H Q J 7                       H 4 3
+D A 10 8 7 6                  D K J 5 4 2
+C A 7 3                       C K Q J 5 2
+               S A 8 6
+               H A 6 2
+               D Q 9 3
+               C 10 9 6 4
+}
+[Auction "S"]
+Pass    Pass    4S      Pass
+Pass    Pass    
+{
+This is the other way to get to 4S; GIB plays pretty fast and loose
+opening four of a major in third seat.  +450 for GIB, no swing.
+}
+[Play "E"]
+CK c4 c3 c8 
+h4 h2 hj HK 
+s7 SA s9 s2 
+-  s8 s5 s4 
+*
+
+[Board "12"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AT..AKQ4.AQ98743 98742.T4.T9763.2 K63.K987652.2.J5 QJ5.AQJ3.J85.KT6"]
+[Contract "6CX"]
+[Declarer "W"]
+[Result "12"]
+[Score "NS -1090"]
+{
+               S 9 8 7 4 2
+               H 10 4
+               D 10 9 7 6 3
+               C 2
+S A 10                        S K 6 3
+H                             H K 9 8 7 6 5 2
+D A K Q 4                     D 2
+C A Q 9 8 7 4 3               C J 5
+               S Q J 5
+               H A Q J 3
+               D J 8 5
+               C K 10 6
+}
+[Auction "W"]
+1C      Pass    1D      X
+Pass    1S      Pass    Pass
+2C      Pass    2H      Pass
+3C      Pass    3H      Pass
+4C      Pass    5C      Pass
+6C      Pass    Pass    X
+Pass    Pass    Pass    
+{
+This should have been another relay auction, but the wheels fell
+off again.  Opener's 1C was 15+, his first pass was 18+, his 2C
+was 22+, and subsequent bidding was natural.  Fortunately, GIB's
+natural bidding is pretty reasonable as well, and it reached the
+cold slam.  South felt that his HA and trump KT6 ought to be worth
+two tricks and doubled.  No such luck; +1090 for GIB.
+}
+[Play "N"]
+ht hk ha C3 
+d3 d2 d5 DQ 
+s2 s6 s5 SA 
+d6 C5 d8 d4 
+c2 CJ c6 c4 
+h4 h2 h3 CQ 
+*
+
+[Board "12"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AT..AKQ4.AQ98743 98742.T4.T9763.2 K63.K987652.2.J5 QJ5.AQJ3.J85.KT6"]
+[Contract "5C"]
+[Declarer "W"]
+[Result "12"]
+[Score "NS -420"]
+{
+               S 9 8 7 4 2
+               H 10 4
+               D 10 9 7 6 3
+               C 2
+S A 10                        S K 6 3
+H                             H K 9 8 7 6 5 2
+D A K Q 4                     D 2
+C A Q 9 8 7 4 3               C J 5
+               S Q J 5
+               H A Q J 3
+               D J 8 5
+               C K 10 6
+}
+[Auction "W"]
+2D      Pass    3H      Pass
+4C      Pass    4H      Pass
+5C      Pass    Pass    Pass
+{
+WBridge5 plays 2D as a very strong artificial opener, as opposed
+to 2C which is merely strong.  3H was a natural positive.  Who
+should have bid differently?  +420 for WBridge5, and 12 IMPs for
+GIB, leading 46-28.
+}
+[Play "N"]
+s2 SK s5 st 
+d7 d2 d5 DQ 
+dt C5 d8 d4 
+c2 cj ck CA 
+s4 -  -  cq 
+*
+
+[Board "13"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ.T4.KQ9732.865 T43.Q98652..KQ32 KJ86.AJ7.AT8.T94 9752.K3.J654.AJ7"]
+[Contract "2NT"]
+[Declarer "S"]
+[Result "9"]
+[Score "NS 150"]
+{
+               S A Q
+               H 10 4
+               D K Q 9 7 3 2
+               C 8 6 5
+S 9 7 5 2                     S 10 4 3
+H K 3                         H Q 9 8 6 5 2
+D J 6 5 4                     D
+C A J 7                       C K Q 3 2
+               S K J 8 6
+               H A J 7
+               D A 10 8
+               C 10 9 4
+}
+[Auction "N"]
+1D      Pass    1S      Pass
+2D      Pass    2NT     Pass
+Pass    Pass    
+{
+What do you rebid as South?  This is part of standard bidding 
+I've never understood; 2H isn't fourth suit forcing, and the last
+time I tried it on a similar collection, my expert partner jumped
+to 4H and chided me afterwards.  Yet 3NT risks a silly contract
+opposite club shortness; and even if you're willing to risk it
+on this hand, you'd still have a problem on KJxxx.AJx.Axx.xx.  
+Anwyay, WBridge5's 2NT rebid seems unduly conservative.
+
+Also, what do you lead as West?  GIB's HK lead looks wrong, but
+really, nothing looks especially appealing.  The CJ looks like the
+least of evils, but I may be influenced by seeing all four hands.
+
+11 tricks are possible on the HK lead, but WBridge5 blocked the
+diamonds by leading the 8 (rather than the 10) to the king, and
+then another by overtaking the SQ with the SK, squandering the
+entry to hand.  It ended with nine tricks, +150.
+}
+[Play "W"]
+hk h4 h6 HA 
+d4 DQ s4 d8 
+s2 sq s3 SK 
+d6 d2 st DT 
+d5 d3 h5 DA 
+s7 SA h2 s6 
+dj DK c2 c4 
+cj D7 h9 c9 
+h3 D9 h8 ct 
+CA c5 c3 h7 
+*
+
+[Board "13"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ.T4.KQ9732.865 T43.Q98652..KQ32 KJ86.AJ7.AT8.T94 9752.K3.J654.AJ7"]
+[Contract "3NT"]
+[Declarer "S"]
+[Result "11"]
+[Score "NS 660"]
+{
+               S A Q
+               H 10 4
+               D K Q 9 7 3 2
+               C 8 6 5
+S 9 7 5 2                     S 10 4 3
+H K 3                         H Q 9 8 6 5 2
+D J 6 5 4                     D
+C A J 7                       C K Q 3 2
+               S K J 8 6
+               H A J 7
+               D A 10 8
+               C 10 9 4
+}
+[Auction "N"]
+2D      Pass    2H      Pass
+3C      Pass    3NT     Pass
+Pass    Pass    
+{
+The 2D opening was 11-15, 6+ diamonds or 5-4 minors, no major.
+South relayed, learned partner had 2-2 majors, and signed off
+in 3NT.  Faced with a blind lead, WBridge5 chose a spade; GIB
+took its 11 tricks, for +660 and 11 IMPs.  57-28.
+}
+[Play "W"]
+s7 SQ s3 s8 
+d6 DK h2 d8 
+d4 d3 h6 DA 
+d5 d7 c3 DT 
+s2 SA s4 s6 
+dj DQ c2 hj 
+c7 D9 h5 c4 
+s5 D2 cq c9 
+h3 h4 h8 HA 
+s9 c5 st SK 
+-  -  -  sj 
+*
+
+[Board "14"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J74.KJT96..Q9654 KT32.85.KT3.KT87 AQ5.A73.AQ752.J2 986.Q42.J9864.A3"]
+[Contract "4H"]
+[Declarer "E"]
+[Result "11"]
+[Score "NS -450"]
+{
+               S 9 8 6
+               H Q 4 2
+               D J 9 8 6 4
+               C A 3
+S A Q 5                       S J 7 4
+H A 7 3                       H K J 10 9 6
+D A Q 7 5 2                   D
+C J 2                         C Q 9 6 5 4
+               S K 10 3 2
+               H 8 5
+               D K 10 3
+               C K 10 8 7
+}
+[Auction "E"]
+2H      Pass    2NT     Pass
+3H      Pass    3S      Pass
+3NT     Pass    4H      Pass
+Pass    Pass    
+{
+The 2H opening was a natural and wild weak two, 2-9 HCP, 5+ hearts.
+West relayed twice, learning that partner had a maximum with three
+spades and five hearts, and signed off in 4H.
+
+WBridge5 led a trump to the queen and ace.  GIB played a club to the
+jack and ace; a club came back to the queen and king, and WBridge5
+played the CT; GIB ruffed with the HA, drew trumps, finessed the SQ,
+and claimed five, +450.  Playing back the C8 holds it to four, but
+there's no way to beat it.
+}
+[Play "S"]
+h8 h7 hq HK 
+c8 cj CA c5 
+CK c2 c3 cq 
+ct HA s6 c4 
+h5 h3 h2 HJ 
+c7 d5 h4 HT 
+s2 sq -  s4 
+*
+
+[Board "14"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J74.KJT96..Q9654 KT32.85.KT3.KT87 AQ5.A73.AQ752.J2 986.Q42.J9864.A3"]
+[Contract "4H"]
+[Declarer "W"]
+[Result "8"]
+[Score "NS 100"]
+{
+               S 9 8 6
+               H Q 4 2
+               D J 9 8 6 4
+               C A 3
+S A Q 5                       S J 7 4
+H A 7 3                       H K J 10 9 6
+D A Q 7 5 2                   D
+C J 2                         C Q 9 6 5 4
+               S K 10 3 2
+               H 8 5
+               D K 10 3
+               C K 10 8 7
+}
+[Auction "E"]
+Pass    1D      1NT     Pass
+2D      Pass    2H      Pass
+3C      Pass    4H      Pass
+Pass    Pass    
+{
+T.V. : correction of Result "9" into Result "8"
+
+GIB opened 1D, showing 8-15, 4+ spades, 0-3 hearts; WBridge5 brushed
+off the interference and bid swiftly to game.  However, it got lost
+in the play, and ended up down one.  -50, 11 IMPs to GIB.
+68-28.
+}
+[Play "N"]
+d4 c4 dk DA 
+h4 HK h5 h3 
+s9 s4 s2 SQ 
+d6 s7 d3 DQ 
+c3 cq CK c2 
+h2 h6 h8 HA 
+d9 H9 dt d2 
+s6 sj sk SA 
+d8 HT c8 d5 
+CA c5 c7 cj 
+HQ hj s3 h7 
+DJ c6 ct d7 
+s8 c9 ST s5 
+
+[Board "15"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:63.AT93.9872.A43 AJT4.Q8.A64.9862 K8752.52.KJ5.T75 Q9.KJ764.QT3.KQJ"]
+[Contract "3NT"]
+[Declarer "W"]
+[Result "9"]
+[Score "NS -400"]
+{
+               S K 8 7 5 2
+               H 5 2
+               D K J 5
+               C 10 7 5
+S A J 10 4                    S Q 9
+H Q 8                         H K J 7 6 4
+D A 6 4                       D Q 10 3
+C 9 8 6 2                     C K Q J
+               S 6 3
+               H A 10 9 3
+               D 9 8 7 2
+               C A 4 3
+}
+[Auction "S"]
+Pass    1D      Pass    1S
+Pass    1NT     Pass    2H
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass    
+{
+1D was 8-15, 4+ S, 0-3 H.  East relayed (1S); West showed a minimum
+without diamonds (1N); East showed a strong invitation with hearts
+(2H); West showed about 10-11 HCP in a balanced hand (2NT); East
+raised to game.  There wasn't much to the play, as the defense took
+one trick in each suit.  +400 for GIB.
+}
+[Play "N"]
+c5 ck CA c6 
+SK s9 s6 s4 
+s7 SQ s3 st 
+h5 h4 h9 HQ 
+s2 h6 c3 SA 
+c7 CQ c4 c2 
+h2 hk HA h8 
+DK dt d2 d4 
+ct CJ d7 c8 
+*
+
+[Board "15"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:63.AT93.9872.A43 AJT4.Q8.A64.9862 K8752.52.KJ5.T75 Q9.KJ764.QT3.KQJ"]
+[Contract "3NT"]
+[Declarer "E"]
+[Result "8"]
+[Score "NS 50"]
+{
+               S K 8 7 5 2
+               H 5 2
+               D K J 5
+               C 10 7 5
+S A J 10 4                    S Q 9
+H Q 8                         H K J 7 6 4
+D A 6 4                       D Q 10 3
+C 9 8 6 2                     C K Q J
+               S 6 3
+               H A 10 9 3
+               D 9 8 7 2
+               C A 4 3
+}
+[Auction "S"]
+1H      Pass    Pass    1NT
+Pass    2C      Pass    2D
+Pass    3NT     Pass    Pass
+Pass    
+{
+1H was 8-15.  East's reopening 1NT was about 14-16, so West had no
+trouble raising to game (after first checking for four spades via 
+Stayman).  However, at this table it was played from the unlucky 
+side; 3NT can be beat when played by East, but not by West.
+
+However, after GIB led a diamond (right!) and returned a club to the
+ace (wrong!), the contract was makeable.  After winning the second
+diamond in hand, declarer has to play a heart.  South must duck, and
+declarer switches back to spades, eventually taking three spades, 
+a heart, two diamonds, and three clubs.
+
+Would you have gotten this right?  WBridge5 didn't, taking the spade
+hook first; North played back another diamond, setting up South's
+thirteenth diamond as the setting trick.  -50, and another 10 IMPs
+for GIB, 78-28.
+}
+[Play "S"]
+d2 d4 DK d3 
+CA c2 c5 cj 
+d9 d6 dj DQ 
+c3 c6 c7 CK 
+s3 s4 SK s9 
+d8 DA d5 dt 
+HA h8 h2 hj 
+D7 c8 s2 h4 
+c4 c9 ct CQ 
+h3 HQ h5 h6 
+*
+
+[Board "16"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KJ9.K76.AQJ.J743 86.A3.9842.AKT65 AQ74.852.K753.Q2 T532.QJT94.T6.98"]
+[Contract "3NT"]
+[Declarer "W"]
+[Result "9"]
+[Score "NS -600"]
+{
+               S 8 6
+               H A 3
+               D 9 8 4 2
+               C A K 10 6 5
+S K J 9                       S A Q 7 4
+H K 7 6                       H 8 5 2
+D A Q J                       D K 7 5 3
+C J 7 4 3                     C Q 2
+               S 10 5 3 2
+               H Q J 10 9 4
+               D 10 6
+               C 9 8
+}
+[Auction "W"]
+1C      Pass    2C      Pass
+2NT     Pass    3NT     Pass
+Pass    Pass    
+{
+I'd have devalued the West hand to 14 points and opened 1NT, but
+GIB apparently thought it was worth a 15+ 1C opener.  East responded
+2C (8-11 balanced), West rebid 2NT (15-16 balanced, no 4-card major,
+giving partner an out with a balanced 8), East raised to game.
+
+Please don't ask me why GIB ditched the CQ under the CA, or why
+WBridge5 then switched to the HA.  However, the par result was 
+achieved; GIB ran its nine tricks for +600.
+}
+[Play "N"]
+CA cq c9 c4 
+HA h2 h4 h7 
+h3 h5 h9 HK 
+d8 d3 d6 DQ 
+s6 s4 s2 SJ 
+d2 d5 dt DJ 
+s8 s7 s3 SK 
+d4 d7 c8 DA 
+c5 SA s5 s9 
+c6 SQ st c3 
+-  dk -  -  
+*
+
+[Board "16"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KJ9.K76.AQJ.J743 86.A3.9842.AKT65 AQ74.852.K753.Q2 T532.QJT94.T6.98"]
+[Contract "3DX"]
+[Declarer "S"]
+[Result "6"]
+[Score "NS -500"]
+{
+               S 8 6
+               H A 3
+               D 9 8 4 2
+               C A K 10 6 5
+S K J 9                       S A Q 7 4
+H K 7 6                       H 8 5 2
+D A Q J                       D K 7 5 3
+C J 7 4 3                     C Q 2
+               S 10 5 3 2
+               H Q J 10 9 4
+               D 10 6
+               C 9 8
+}
+[Auction "W"]
+1NT     2NT     Pass    3D
+Pass    Pass    X       Pass
+Pass    Pass    
+{
+WBridge5 also thought that junk West hand was worth 15 points.  Hmm.
+
+I have no explanation for GIB's unusual NT overcall as North, nor
+for South's response of 3D rather than 3C.  On a double-dummy basis,
+3D-X should go for 1100; E-W draw trumps and proceed to take their
+nine tricks in notrump.  
+
+However, defense is more difficult in real life.  West led a heart,
+giving away one trick immediately.  Declarer won the queen in hand,
+and played three rounds of clubs.  East ruffed the third round high,
+and played a trump.  At this point West can play two rounds of trump
+safely, but must then switch to avoid letting declarer set up a club;
+but this is tough to find, not knowing that declarer started with
+only two diamonds.  (Need good signals, here...)  At the table he
+played three rounds of trump, then cashed the CJ, after which six
+tricks were easy.  -500, and three rather lucky IMPs to GIB.
+
+The score at the end of the segment was 81-28.  After including
+the 11-IMP carryover, GIB was leading by 64 IMPs.
+}
+[Play "W"]
+h6 h3 h2 HQ 
+c7 CA c2 c9 
+c3 CK cq c8 
+c4 ct DK s5 
+DJ d4 d3 d6 
+DA d2 d5 dt 
+DQ d8 d7 h4 
+CJ c5 h5 h9 
+h7 HA h8 ht 
+s9 s6 SA s2 
+SJ s8 s4 s3 
+*
+
+[Board "17"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A532.97.T862.AT5 K6.JT542.KJ54.K3 987.KQ.AQ3.Q7642 QJT4.A863.97.J98"]
+[Contract "4H"]
+[Declarer "E"]
+[Result "8"]
+[Score "NS 100"]
+{
+               S A 5 3 2
+               H 9 7
+               D 10 8 6 2
+               C A 10 5
+S Q J 10 4                    S K 6
+H A 8 6 3                     H J 10 5 4 2
+D 9 7                         D K J 5 4
+C J 9 8                       C K 3
+               S 9 8 7
+               H K Q
+               D A Q 3
+               C Q 7 6 4 2
+}
+[Auction "N"]
+1D      1H      2D      3H
+Pass    Pass    3S      Pass
+Pass    4H      Pass    Pass
+Pass    
+{
+1D was 8-15, 4+ spades, 0-3 hearts; 2D was Druryish, 11+ points
+and 3+ spades.  This was followed by a bunch of poor competitive
+judgement: West's raise to 3H (rather than 2H) with so much stuff
+in the opponent's suit, South's 3S balance (rather than double)
+with only three small support for partner's probable four-card
+suit, West's failure to double 3S, East's pushing on to 4H, and
+South's failure to double 4H.
+
+Not impressive bidding by either program.  The upshot is that N/S
+(GIB) went +100 on a deal where both sides were begging for -300.
+}
+[Play "S"]
+s7 s4 SA s6 
+DQ d7 d2 d4 
+DA d9 dt d5 
+c2 c8 CA c3 
+c4 c9 c5 CK 
+hk HA h9 h2 
+-  h3 -  -  
+*
+
+[Board "17"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A532.97.T862.AT5 K6.JT542.KJ54.K3 987.KQ.AQ3.Q7642 QJT4.A863.97.J98"]
+[Contract "2H"]
+[Declarer "E"]
+[Result "8"]
+[Score "NS -110"]
+{
+               S A 5 3 2
+               H 9 7
+               D 10 8 6 2
+               C A 10 5
+S Q J 10 4                    S K 6
+H A 8 6 3                     H J 10 5 4 2
+D 9 7                         D K J 5 4
+C J 9 8                       C K 3
+               S 9 8 7
+               H K Q
+               D A Q 3
+               C Q 7 6 4 2
+}
+[Auction "N"]
+Pass    1H      X       2H
+Pass    Pass    Pass    
+{
+Questionable takeout double by South (WBridge5), but having made
+it, I'd expect North to compete to 2S.  As it was, GIB had no
+trouble making 2H.  +100 and +110 meant 5 IMPs to GIB.
+}
+[Play "S"]
+c2 cj CA c3 
+c4 c8 c5 CK 
+hq HA h9 hj 
+HK h3 h7 ht 
+cq c9 ct H2 
+s7 s4 s2 SK 
+c6 H8 d2 h4 
+s8 sq SA s6 
+DQ d9 d6 dj 
+da d7 -  -  
+*
+
+[Board "18"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:743.AK2.T95.QJ74 AT9.T98.KQ43.K95 KQJ8.QJ743.8.632 652.65.AJ762.AT8"]
+[Contract "3D"]
+[Declarer "N"]
+[Result "8"]
+[Score "NS -100"]
+{
+               S 6 5 2
+               H 6 5
+               D A J 7 6 2
+               C A 10 8
+S K Q J 8                     S 7 4 3
+H Q J 7 4 3                   H A K 2
+D 8                           D 10 9 5
+C 6 3 2                       C Q J 7 4
+               S A 10 9
+               H 10 9 8
+               D K Q 4 3
+               C K 9 5
+}
+[Auction "E"]
+Pass    1NT     2C      Pass
+2S      Pass    Pass    3D
+Pass    Pass    Pass    
+{
+
+}
+[Play "E"]
+HA h8 h3 h6 
+dt d3 d8 DJ 
+d9 DK h4 d2 
+d5 d4 h7 D6 
+HK h9 hj h5 
+s3 SA s8 s5 
+h2 ht hq D7 
+s4 st SJ s2 
+cj CK c2 c8 
+CQ c5 c3 ct 
+c4 c9 c6 CA 
+s7 s9 SK s6 
+c7 dq sq DA 
+
+[Board "18"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:743.AK2.T95.QJ74 AT9.T98.KQ43.K95 KQJ8.QJ743.8.632 652.65.AJ762.AT8"]
+[Contract "3D"]
+[Declarer "S"]
+[Result "8"]
+[Score "NS -100"]
+{
+               S 6 5 2
+               H 6 5
+               D A J 7 6 2
+               C A 10 8
+S K Q J 8                     S 7 4 3
+H Q J 7 4 3                   H A K 2
+D 8                           D 10 9 5
+C 6 3 2                       C Q J 7 4
+               S A 10 9
+               H 10 9 8
+               D K Q 4 3
+               C K 9 5
+}
+[Auction "E"]
+Pass    1D      1H      2D
+2H      Pass    Pass    3D
+Pass    Pass    Pass    
+{
+Good competitive judgement, this time.  Both sides reached the
+obvious 3D, and lost the obvious five tricks, pushing the board
+at N/S -100.  As the cards lie E/W can make 3H, but I don't think
+you want to be there.
+}
+[Play "W"]
+sk s2 s4 SA 
+d8 DJ dt d3 
+h4 d2 d5 DQ 
+c3 DA d9 d4 
+h3 h5 HA h8 
+SJ s5 s3 s9 
+SQ s6 s7 st 
+c2 c8 cj CK 
+c6 ct CQ c5 
+-  -  h2 -  
+*
+
+[Board "19"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A3.AQ7652.K8.KJT Q76.J43.A643.763 KJ98542.K8.T.952 T.T9.QJ9752.AQ84"]
+[Contract "4S"]
+[Declarer "S"]
+[Result "13"]
+[Score "NS 510"]
+{
+               S K J 9 8 5 4 2
+               H K 8
+               D 10
+               C 9 5 2
+S Q 7 6                       S 10
+H J 4 3                       H 10 9
+D A 6 4 3                     D Q J 9 7 5 2
+C 7 6 3                       C A Q 8 4
+               S A 3
+               H A Q 7 6 5 2
+               D K 8
+               C K J 10
+}
+[Auction "S"]
+1C      Pass    1D      Pass
+1H      Pass    1NT     Pass
+2C      Pass    3C      Pass
+3D      Pass    Pass    X
+Pass    Pass    3H      Pass
+3S      Pass    4C      Pass
+4D      Pass    4S      Pass
+Pass    Pass    
+{
+Remember the 6C deal in the first set where the wheels came off?
+Same bug.  500 deals of tests and 100 deals of play go uneventfully,
+and in the finals, Good Father Murphy gives us *two* boards with
+a seven-card major and 3-4 RP opposite a strong club.  Isn't that
+always the way things go?
+
+On this hand, North showed less than a positive response, then a
+semipositive with spades, then 5+ spades and secondary clubs (!),
+then realized it didn't have clubs after all, got confused, and
+passed 3D!
+
+Fortunately, nobody taught East not to double the only contract
+you can beat.  North decided that playing a doubled 2-1 fit wasn't
+such a hot idea after all, and GIB stumbled into its best contract.
+
+Guessing the spades right, GIB took 13 tricks, for +510.
+}
+[Play "W"]
+s6 s4 st SA 
+s7 SJ c8 s3 
+sq SK c4 ct 
+c3 S9 cq d8 
+c6 S8 d2 dk 
+c7 S5 d5 cj 
+h3 HK h9 h2 
+h4 h8 ht HA 
+hj c2 -  hq 
+*
+
+[Board "19"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A3.AQ7652.K8.KJT Q76.J43.A643.763 KJ98542.K8.T.952 T.T9.QJ9752.AQ84"]
+[Contract "4H"]
+[Declarer "S"]
+[Result "13"]
+[Score "NS 510"]
+{
+               S K J 9 8 5 4 2
+               H K 8
+               D 10
+               C 9 5 2
+S Q 7 6                       S 10
+H J 4 3                       H 10 9
+D A 6 4 3                     D Q J 9 7 5 2
+C 7 6 3                       C A Q 8 4
+               S A 3
+               H A Q 7 6 5 2
+               D K 8
+               C K J 10
+}
+[Auction "S"]
+1H      Pass    1S      2D
+3H      Pass    4H      Pass
+Pass    Pass    
+{
+4H isn't as good a contract as 4S; perhaps North should rebid the
+spades and see if partner raises.  I suspect WBridge5 would have
+guessed the spades correctly anyway, but with GIB helpfully playing
+the queen on the second round, it didn't have to.  +510, no swing.
+
+
+How many tricks do you think West can make in spades, double-dummy?
+No fair consulting your own copy of GIB. :)
+}
+[Play "W"]
+s6 s2 st SA 
+h3 HK h9 h2 
+h4 h8 ht HQ 
+hj c2 d2 HA 
+sq SK d7 s3 
+*
+
+[Board "20"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQT5.QT6.T7543.T 93.853.AK86.K863 8764.AJ94.J.AQ75 KJ2.K72.Q92.J942"]
+[Contract "1S"]
+[Declarer "W"]
+[Result "6"]
+[Score "NS 100"]
+{
+               S 9 3
+               H 8 5 3
+               D A K 8 6
+               C K 8 6 3
+S A Q 10 5                    S 8 7 6 4
+H Q 10 6                      H A J 9 4
+D 10 7 5 4 3                  D J
+C 10                          C A Q 7 5
+               S K J 2
+               H K 7 2
+               D Q 9 2
+               C J 9 4 2
+}
+[Auction "W"]
+Pass    Pass    1C      Pass
+1D      Pass    1H      Pass
+1S      Pass    Pass    Pass
+{
+T.V. : correction of Result "7" into Result "6"
+
+GIB did well to play trumps at every opportunity.  WBridge5 tapped
+itself out by ruffing a club in hand, and only made one, +80.
+}
+[Play "N"]
+s9 s4 sk SA 
+c3 CA c4 ct 
+d6 dj DQ d3 
+s3 s6 s2 SQ 
+d8 S7 d2 d4 
+c8 c5 cj S5 
+h5 h4 HK hq 
+h3 s8 SJ st 
+DK h9 d9 d5 
+DA hj h2 d7 
+h8 HA h7 h6 
+c6 c7 C9 dt 
+CK cq c2 ht 
+
+[Board "20"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQT5.QT6.T7543.T 93.853.AK86.K863 8764.AJ94.J.AQ75 KJ2.K72.Q92.J942"]
+[Contract "3S"]
+[Declarer "E"]
+[Result "10"]
+[Score "NS -170"]
+{
+               S 9 3
+               H 8 5 3
+               D A K 8 6
+               C K 8 6 3
+S A Q 10 5                    S 8 7 6 4
+H Q 10 6                      H A J 9 4
+D 10 7 5 4 3                  D J
+C 10                          C A Q 7 5
+               S K J 2
+               H K 7 2
+               D Q 9 2
+               C J 9 4 2
+}
+[Auction "W"]
+1D      Pass    1S      Pass
+2C      Pass    2S      Pass
+3H      Pass    3S      Pass
+Pass    Pass    
+{
+1D was 8-15 with 4+ S, 0-3 H; East relayed, West showed diamonds (2C),
+and East showed a strong invitation with 3-4 spades (2S).  West made
+a very poorly judged 3H rebid, showing the fragment for no particular
+reason, and East signed off in 3S.
+
+With clubs unbid, South's club lead was more than reasonable, but it
+removed the guess of whether to take the club finesse on the actual
+lie of the cards.  GIB played a diamond, won by North's king; North
+returned a heart to partner's king, and South played a heart back;
+and GIB crossruffed, eventually losing a trick to the SK for +170
+and 3 IMPs.  (Double-dummy, declarer can actually make *five*;
+tricky, very tricky.)
+}
+[Play "S"]
+c4 CT c8 c7 
+d2 d5 DK dj 
+HK h6 h3 h4 
+h7 ht h5 HJ 
+c2 d7 c3 CA 
+c9 S5 c6 c5 
+d9 d4 da S4 
+cj ST ck cq 
+s2 SA s3 s8 
+h2 HQ h8 h9 
+dq d3 d6 S6 
+sj sq -  ha 
+*
+
+[Board "21"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q753.AT9.8.AQ762 K6.K652.QJT92.T4 JT9842.J73.5.985 A.Q84.AK7643.KJ3"]
+[Contract "5D"]
+[Declarer "W"]
+[Result "11"]
+[Score "NS -400"]
+{
+               S Q 7 5 3
+               H A 10 9
+               D 8
+               C A Q 7 6 2
+S A                           S K 6
+H Q 8 4                       H K 6 5 2
+D A K 7 6 4 3                 D Q J 10 9 2
+C K J 3                       C 10 4
+               S J 10 9 8 4 2
+               H J 7 3
+               D 5
+               C 9 8 5
+}
+[Auction "N"]
+1D      Pass    4S      5D
+Pass    Pass    Pass    
+{
+Very aggressive bidding by GIB as South, vulnerable against not;
+if West doubles, he collects +500.  5D should be down one, but 
+after GIB's foolish lead of the HA, declarer could dispose of 
+two clubs on a heart and a spade.  Making five, +400.
+}
+[Play "N"]
+HA h2 h7 h4 
+sq s6 s2 SA 
+d8 D9 d5 d3 
+ht h5 h3 HQ 
+h9 HK hj h8 
+c7 H6 c9 c3 
+-  sk s4 -  
+*
+
+[Board "21"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q753.AT9.8.AQ762 K6.K652.QJT92.T4 JT9842.J73.5.985 A.Q84.AK7643.KJ3"]
+[Contract "3D"]
+[Declarer "E"]
+[Result "11"]
+[Score "NS -150"]
+{
+               S Q 7 5 3
+               H A 10 9
+               D 8
+               C A Q 7 6 2
+S A                           S K 6
+H Q 8 4                       H K 6 5 2
+D A K 7 6 4 3                 D Q J 10 9 2
+C K J 3                       C 10 4
+               S J 10 9 8 4 2
+               H J 7 3
+               D 5
+               C 9 8 5
+}
+[Auction "N"]
+1C      2D      Pass    3C
+Pass    3D      Pass    Pass
+Pass    
+{
+One of the items on GIB's to-do list is implementing an "impurity
+metric" for preempts.  East's suit and general strength are OK
+for a favorable weak jump overcall, but he has *far* too much 
+strength outside his suit, and the four-card major is also bad.
+But even after the WJO, GIB should have reached 3NT; the 3D rebid
+after partner's cuebid (17+ with support) is inexcusable.
+
+WBridge5 found the same misdefense as GIB, catching air with the HA.
+Making five, +150, 6 IMPs to WBridge5, trailing 8-6.
+}
+[Play "S"]
+h3 h4 HA h2 
+h7 HQ ht h5 
+d5 d4 d8 DQ 
+c5 D7 c2 d2 
+c8 d6 c6 DJ 
+s2 SA s3 s6 
+c9 d3 s5 DT 
+s4 c3 s7 SK 
+s8 DA c7 d9 
+hj h8 h9 HK 
+-  -  -  h6 
+*
+
+[Board "22"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KT9.AKJ2.Q875.QT QJ73.QT986.93.J8 862.7543.K2.K943 A54..AJT64.A7652"]
+[Contract "1NT"]
+[Declarer "E"]
+[Result "6"]
+[Score "NS 100"]
+{
+               S A 5 4
+               H
+               D A J 10 6 4
+               C A 7 6 5 2
+S 8 6 2                       S K 10 9
+H 7 5 4 3                     H A K J 2
+D K 2                         D Q 8 7 5
+C K 9 4 3                     C Q 10
+               S Q J 7 3
+               H Q 10 9 8 6
+               D 9 3
+               C J 8
+}
+[Auction "E"]
+1NT     Pass    Pass    Pass
+{
+WBridge5 opened a strong notrump as East, and that was that.  Should
+North reopen?  (GIB plays ASTRO in both direct and reopening seats,
+for what it's worth; I could see an argument for using something like
+DONT in reopening seat, where you're less likely to be able to
+effectively use a penalty double.)
+
+I'm awful at analyzing this sort of complicated partscore.  GIB says
+its H9 lead gives away the contract; but when WBridge5 wins the HJ
+and plays two rounds of clubs, and North wins the CA and plays back
+a small spade, declarer needs to hop with the SK to take seven tricks.
+I don't think I'd find it, and neither did WBridge5.  -100.
+}
+[Play "S"]
+h9 h3 c6 HJ 
+c8 c3 c2 CQ 
+cj ck CA ct 
+SJ s2 s5 s9 
+d3 dk DA d5 
+d9 d2 dj DQ 
+h6 c4 DT d7 
+s7 h5 d6 D8 
+h8 h4 c5 HA 
+ht h7 c7 HK 
+HQ s6 s4 h2 
+s3 s8 sa -  
+*
+
+[Board "22"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KT9.AKJ2.Q875.QT QJ73.QT986.93.J8 862.7543.K2.K943 A54..AJT64.A7652"]
+[Contract "3D"]
+[Declarer "S"]
+[Result "8"]
+[Score "NS -50"]
+{
+               S A 5 4
+               H
+               D A J 10 6 4
+               C A 7 6 5 2
+S 8 6 2                       S K 10 9
+H 7 5 4 3                     H A K J 2
+D K 2                         D Q 8 7 5
+C K 9 4 3                     C Q 10
+               S Q J 7 3
+               H Q 10 9 8 6
+               D 9 3
+               C J 8
+}
+[Auction "E"]
+1H      Pass    Pass    2NT
+Pass    3D      Pass    Pass
+Pass    
+{
+GIB devalued the QT doubleton and didn't open a strong club.  After
+1H-P-P, how would you reopen as North?  I can see arguments for double,
+2D, and 2NT (if unusual).  Double would probably land you in 1H-X, for
+a likely +200, and 2D would probably get you +90.  2NT gets you to 3C
+or 3D, which are nasty little contracts.  (Why are both GIB and WBridge5
+responding 3D to 2NT with 2-2 minors?  3C is the right bid, isn't it?)
+
+I'm punting on the analysis.  WBridge5 went down one, -50, losing
+4 IMPs and trailing 12-6.
+}
+[Play "W"]
+s2 s4 SK s3 
+h7 D4 ha h6 
+CK c2 ct cj 
+s6 SA st s7 
+c4 CA cq c8 
+s8 s5 s9 SJ 
+h5 D6 h2 h8 
+c3 c5 d5 D9 
+h3 DT hj ht 
+c9 c6 D8 h9 
+DK dj d7 d3 
+h4 c7 HK hq 
+d2 DA dq sq 
+
+[Board "23"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:3.AQJ9.AK62.9432 AJ7652.42.QJ4.76 4.KT65.9753.KT85 KQT98.873.T8.AQJ"]
+[Contract "4SX"]
+[Declarer "W"]
+[Result "9"]
+[Score "NS 200"]
+{
+               S 4
+               H K 10 6 5
+               D 9 7 5 3
+               C K 10 8 5
+S A J 7 6 5 2                 S K Q 10 9 8
+H 4 2                         H 8 7 3
+D Q J 4                       D 10 8
+C 7 6                         C A Q J
+               S 3
+               H A Q J 9
+               D A K 6 2
+               C 9 4 3 2
+}
+[Auction "S"]
+1H      2S      Pass    3S
+4H      Pass    Pass    4S
+Pass    Pass    X       Pass
+Pass    Pass    
+{
+I was shocked by GIB's 4H bid.  However, a takeout double in this
+position isn't currently defined in GIB's database; and if forced to
+choose between P, 3N, 4H, or 5m, it's a pretty close choice between P
+and 4H.  Given our very light opening-bid requirements, partner could
+easily have a 10-count with heart support where game is cold yet not
+be able to bid over 2S; knowing that the HK is probably onside also
+suggests optimism.  The simulation turns up a few -1100's, but lots 
+of +650's and +500's as well.  The real answer is to tell GIB what
+double means here, of course.
+
+4H could go for 500, but who can double?  I can't fault East for
+taking the push to 4S, which got doubled and lost the obvious four
+tricks for -200.
+}
+[Play "N"]
+d5 d8 DK d4 
+d9 dt DA dj 
+h5 h3 HA h2 
+ht h7 HQ h4 
+h6 h8 hj S5 
+s4 S8 s3 s2 
+c5 ST d6 s6 
+ct S9 c2 s7 
+d3 SK c4 sj 
+c8 sq c3 SA 
+*
+
+[Board "23"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:3.AQJ9.AK62.9432 AJ7652.42.QJ4.76 4.KT65.9753.KT85 KQT98.873.T8.AQJ"]
+[Contract "3S"]
+[Declarer "W"]
+[Result "9"]
+[Score "NS -140"]
+{
+               S 4
+               H K 10 6 5
+               D 9 7 5 3
+               C K 10 8 5
+S A J 7 6 5 2                 S K Q 10 9 8
+H 4 2                         H 8 7 3
+D Q J 4                       D 10 8
+C 7 6                         C A Q J
+               S 3
+               H A Q J 9
+               D A K 6 2
+               C 9 4 3 2
+}
+[Auction "S"]
+1D      1S      2D      3S
+Pass    Pass    Pass    
+{
+N-S never found hearts at this table; North should make a negative
+double rather than raising the diamonds, I think.  Meanwhile, GIB
+decided that AJ7652 wasn't a good enough suit for a vulnerable WJO,
+but that it had the general values for a 1S overcall.  I'm not sure
+if I like that logic.  A 2S overcall of one of a minor is a very
+strong call, especially when your opponents are playing five-card
+majors, and it should be made very aggressively.
+
+Declarer lost the same four tricks, but at this table that was +140,
+and a 8-IMP pickup for GIB.  20-6.
+}
+[Play "N"]
+d7 d8 DK d4 
+h6 h3 HA h4 
+h5 h7 HQ h2 
+ht h8 h9 S5 
+s4 ST s3 s2 
+c5 S9 d2 s7 
+c8 S8 c2 s6 
+d3 SK c3 sj 
+-  dt da dj 
+*
+
+[Board "24"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K965.K95.AQ42.Q9 AQJT87.74.73.J32 43.83.K865.AT764 2.AQJT62.JT9.K85"]
+[Contract "3NT"]
+[Declarer "W"]
+[Result "9"]
+[Score "NS -400"]
+{
+               S A Q J 10 8 7
+               H 7 4
+               D 7 3
+               C J 3 2
+S K 9 6 5                     S 4 3
+H K 9 5                       H 8 3
+D A Q 4 2                     D K 8 6 5
+C Q 9                         C A 10 7 6 4
+               S 2
+               H A Q J 10 6 2
+               D J 10 9
+               C K 8 5
+}
+[Auction "W"]
+1D      2S      3D      Pass
+3NT     Pass    Pass    Pass
+{
+WBridge5's 3NT contract looks like a massive overbid, but with both
+minors behaving nicely, it takes a heart lead to beat it.  Not likely!
++400 for WBridge5.
+}
+[Play "N"]
+c2 c4 CK c9 
+h4 h3 hq HK 
+d3 d5 dj DQ 
+c3 c6 c5 CQ 
+d7 DK dt d2 
+cj d6 d9 DA 
+s7 D8 h6 d4 
+s8 CA c8 h5 
+sq C7 h2 h9 
+sj CT ha s5 
+SA s3 s2 sk 
+st s4 hj -  
+*
+
+[Board "24"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K965.K95.AQ42.Q9 AQJT87.74.73.J32 43.83.K865.AT764 2.AQJT62.JT9.K85"]
+[Contract "3H"]
+[Declarer "S"]
+[Result "8"]
+[Score "NS -50"]
+{
+               S A Q J 10 8 7
+               H 7 4
+               D 7 3
+               C J 3 2
+S K 9 6 5                     S 4 3
+H K 9 5                       H 8 3
+D A Q 4 2                     D K 8 6 5
+C Q 9                         C A 10 7 6 4
+               S 2
+               H A Q J 10 6 2
+               D J 10 9
+               C K 8 5
+}
+[Auction "W"]
+1D      2S      Pass    3H
+Pass    Pass    Pass    
+{
+Yves had not prepared extensive defenses to Moscito, but that worked
+to his advantage here; WBridge5 was able to bid 2S as a natural weak
+jump overcall of our 1D opening (showing 8-15 with spades)!  Together
+with the 3H response, this effectively silenced E-W.  3H lost a trump,
+three diamonds, and a club for -50.  8 IMPs to WBridge5, now trailing
+by only 6 in the set, 14-20.
+}
+[Play "W"]
+s6 ST s4 s2 
+s9 SA s3 c5 
+c9 c2 CA c8 
+HK h4 h8 ht 
+cq c3 c4 CK 
+h5 h7 h3 HA 
+h9 cj d5 HQ 
+DQ d3 d8 dj 
+SK s7 ct d9 
+d2 d7 DK dt 
+d4 -  c7 h2 
+*
+
+[Board "25"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q9.KQT96.Q732.65 K82..JT9864.JT32 AT765.A52.K5.K87 J43.J8743.A.AQ94"]
+[Contract "3H"]
+[Declarer "N"]
+[Result "7"]
+[Score "NS -100"]
+{
+               S Q 9
+               H K Q 10 9 6
+               D Q 7 3 2
+               C 6 5
+S J 4 3                       S K 8 2
+H J 8 7 4 3                   H
+D A                           D J 10 9 8 6 4
+C A Q 9 4                     C J 10 3 2
+               S A 10 7 6 5
+               H A 5 2
+               D K 5
+               C K 8 7
+}
+[Auction "N"]
+1H      Pass    1S      Pass
+2C      Pass    2H      Pass
+3H      Pass    Pass    Pass
+{
+The North hand looks more like a 2-bid than a 1-bid to me, even with
+our light openings, but GIB is currently programmed to open all 5RP
+long-major hands with one-bids when nonvulnerable.  Looking at this
+wretched North hand, I might have to loosen that constraint a little.
+
+South relayed, North showed diamonds, and South broke the relay chain
+with 2H, showing about 13-15 HCP and 3-4 hearts.  For no good reason,
+North invited with 3H rather than passing, ending the auction.  With
+the 5-0 trump split, this went down two on complicated play, -100.
+}
+[Play "E"]
+CJ c7 c9 c5 
+c2 ck CA c6 
+c3 c8 cq H9 
+d9 dk DA d7 
+ct h5 h7 HT 
+sk SA s3 sq 
+d4 h2 h3 H6 
+d6 d5 H4 dq 
+d8 HA h8 hk 
+s2 s7 s4 S9 
+-  -  -  hq 
+*
+
+[Board "25"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q9.KQT96.Q732.65 K82..JT9864.JT32 AT765.A52.K5.K87 J43.J8743.A.AQ94"]
+[Contract "1NT"]
+[Declarer "N"]
+[Result "10"]
+[Score "NS 180"]
+{
+               S Q 9
+               H K Q 10 9 6
+               D Q 7 3 2
+               C 6 5
+S J 4 3                       S K 8 2
+H J 8 7 4 3                   H
+D A                           D J 10 9 8 6 4
+C A Q 9 4                     C J 10 3 2
+               S A 10 7 6 5
+               H A 5 2
+               D K 5
+               C K 8 7
+}
+[Auction "N"]
+Pass    Pass    1S      Pass
+1NT     Pass    Pass    Pass
+{
+Fortunately for WBridge5, they missed the 5-3 heart fit; seven tricks
+are easy at notrump, eight tricks on anything but a club lead.  When
+East led the DJ and pitched the S8 on partner's heart return, declarer
+could set up spades without letting East in for a club switch, making
+*ten* tricks.  +180, 7 IMPs to WBridge5, now leading 21-20.
+}
+[Play "E"]
+dj dk DA d2 
+s8 h2 h7 HQ 
+sk SA s4 sq 
+s2 st SJ s9 
+d6 HA h4 h6 
+c2 S5 s3 d3 
+d4 S6 c4 d7 
+dt S7 h8 c5 
+d8 h5 h3 H9 
+d9 d5 c9 DQ 
+*
+
+[Board "26"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J8.KJT854.974.87 AT752.A63.J3.Q63 KQ4.92.A852.K542 963.Q7.KQT6.AJT9"]
+[Contract "2S"]
+[Declarer "S"]
+[Result "9"]
+[Score "NS 140"]
+{
+               S 9 6 3
+               H Q 7
+               D K Q 10 6
+               C A J 10 9
+S K Q 4                       S J 8
+H 9 2                         H K J 10 8 5 4
+D A 8 5 2                     D 9 7 4
+C K 5 4 2                     C 8 7
+               S A 10 7 5 2
+               H A 6 3
+               D J 3
+               C Q 6 3
+}
+[Auction "E"]
+Pass    1D      Pass    2D
+Pass    2S      Pass    Pass
+Pass    
+{
+WBridge5 plays very constructive weak two bids, and elected to pass
+the East hand.  GIB opened 1D as South (8-15, 4+ S, 0-3 H), bid a 
+Drury-ish 2D as North (11+, 3+ S), and signed off in 2S as South.
+Declarer lost two spades, a heart, and a diamond, for +140.
+}
+[Play "W"]
+h9 hq HK h3 
+ck CA c8 c6 
+s4 s3 s8 SA 
+SQ s9 sj s5 
+DA dt d4 d3 
+SK s6 c7 s7 
+h2 h7 h8 HA 
+*
+
+[Board "26"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J8.KJT854.974.87 AT752.A63.J3.Q63 KQ4.92.A852.K542 963.Q7.KQT6.AJT9"]
+[Contract "4S"]
+[Declarer "S"]
+[Result "9"]
+[Score "NS -100"]
+{
+               S 9 6 3
+               H Q 7
+               D K Q 10 6
+               C A J 10 9
+S K Q 4                       S J 8
+H 9 2                         H K J 10 8 5 4
+D A 8 5 2                     D 9 7 4
+C K 5 4 2                     C 8 7
+               S A 10 7 5 2
+               H A 6 3
+               D J 3
+               C Q 6 3
+}
+[Auction "E"]
+2H      Pass    Pass    X
+Pass    3S      Pass    4S
+Pass    Pass    Pass    
+{
+Surely North should pass the 3S response, with minimum values and
+minimum support.  Declarer lost the same four tricks here, for -100;
+6 IMPs to GIB, back in the lead 26-21.
+}
+[Play "W"]
+h9 hq HK h3 
+h2 h7 hj HA 
+DA d6 d9 d3 
+d2 dt d4 DJ 
+s4 s3 s8 SA 
+c5 C9 c7 c3 
+SQ s6 sj s2 
+d5 DQ d7 c6 
+c4 CA c8 cq 
+c2 cj h4 S5 
+sk -  -  h6 
+*
+
+[Board "27"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K75.KT9.QT9.QT84 JT63.A742.J853.5 AQ4.Q63.A764.K97 982.J85.K2.AJ632"]
+[Contract "3NT"]
+[Declarer "N"]
+[Result "10"]
+[Score "NS 430"]
+{
+               S A Q 4
+               H Q 6 3
+               D A 7 6 4
+               C K 9 7
+S J 10 6 3                    S 9 8 2
+H A 7 4 2                     H J 8 5
+D J 8 5 3                     D K 2
+C 5                           C A J 6 3 2
+               S K 7 5
+               H K 10 9
+               D Q 10 9
+               C Q 10 8 4
+}
+[Auction "S"]
+Pass    Pass    1NT     Pass
+3NT     Pass    Pass    Pass
+{
+Opposite a passed hand, GIB's 1NT opener shows 13-16 HCP, still no
+four-card major unless 4333.  South's raise was pushy but reasonable,
+as it pays to avoid 2NT contracts whenever possible.  A boring +430.
+}
+[Play "E"]
+c2 c4 c5 C7 
+DK d9 d8 d4 
+CA c8 h7 c9 
+d2 dt dj DA 
+h5 hk HA h6 
+h8 h9 h2 HQ 
+*
+
+[Board "27"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K75.KT9.QT9.QT84 JT63.A742.J853.5 AQ4.Q63.A764.K97 982.J85.K2.AJ632"]
+[Contract "3NT"]
+[Declarer "N"]
+[Result "9"]
+[Score "NS 400"]
+{
+               S A Q 4
+               H Q 6 3
+               D A 7 6 4
+               C K 9 7
+S J 10 6 3                    S 9 8 2
+H A 7 4 2                     H J 8 5
+D J 8 5 3                     D K 2
+C 5                           C A J 6 3 2
+               S K 7 5
+               H K 10 9
+               D Q 10 9
+               C Q 10 8 4
+}
+[Auction "S"]
+Pass    Pass    1NT     Pass
+3NT     Pass    Pass    Pass
+{
+WBridge5's 1NT opener is 15-17, so South had an easy 3NT bid; +400,
+1 IMP to GIB.
+}
+[Play "E"]
+c3 c4 c5 C7 
+DK d9 d3 d4 
+d2 DQ d5 d6 
+CA c8 s3 ck 
+s2 s5 st SQ 
+c6 CT h2 c9 
+h8 ht h7 HQ 
+s8 s7 s6 SA 
+s9 SK sj s4 
+c2 CQ h4 h3 
+h5 dt dj DA 
+*
+
+[Board "28"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J9732.J964.JT.82 K6.KT5.87652.AK4 T8.Q7.Q943.JT963 AQ54.A832.AK.Q75"]
+[Contract "3NT"]
+[Declarer "N"]
+[Result "10"]
+[Score "NS 630"]
+{
+               S K 6
+               H K 10 5
+               D 8 7 6 5 2
+               C A K 4
+S J 9 7 3 2                   S 10 8
+H J 9 6 4                     H Q 7
+D J 10                        D Q 9 4 3
+C 8 2                         C J 10 9 6 3
+               S A Q 5 4
+               H A 8 3 2
+               D A K
+               C Q 7 5
+}
+[Auction "W"]
+Pass    1NT     Pass    2C
+Pass    2D      Pass    3NT
+Pass    Pass    Pass    
+{
+Should South investigate slam opposite the 12-14 1NT opening? 
+It's probably worth looking if you have the methods, but Moscito Byte's
+1NT structure is still basic Stayman-and-transfers; we haven't jazzed
+it up yet.  Facing a misfit, with no intermediates, prospects look
+pretty dim; I think GIB did well to ignore the pointcount and sign
+off in 3NT.  The play was boring, +630.
+}
+[Play "E"]
+st SQ s2 s6 
+c3 c7 c8 CA 
+d4 DA dt d2 
+c6 CQ c2 c4 
+s8 s5 s9 SK 
+h7 HA h4 h5 
+HQ h3 h6 ht 
+cj c5 s3 CK 
+c9 h2 h9 HK 
+d3 DK dj d8 
+-  sa -  -  
+*
+
+[Board "28"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J9732.J964.JT.82 K6.KT5.87652.AK4 T8.Q7.Q943.JT963 AQ54.A832.AK.Q75"]
+[Contract "3NT"]
+[Declarer "N"]
+[Result "10"]
+[Score "NS 630"]
+{
+               S K 6
+               H K 10 5
+               D 8 7 6 5 2
+               C A K 4
+S J 9 7 3 2                   S 10 8
+H J 9 6 4                     H Q 7
+D J 10                        D Q 9 4 3
+C 8 2                         C J 10 9 6 3
+               S A Q 5 4
+               H A 8 3 2
+               D A K
+               C Q 7 5
+}
+[Auction "W"]
+Pass    1D      Pass    2H
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass    
+{
+WBridge5, also presented with the knowledge that partner had a
+minimum opening with no major, made the same decision to play 3NT.
+No swing.
+}
+[Play "E"]
+cj c5 c8 CK 
+d3 DK dt d2 
+d4 DA dj d5 
+c3 CQ c2 c4 
+s8 s4 s3 SK 
+DQ s5 s2 d6 
+ct c7 s9 CA 
+st SQ sj s6 
+c6 SA s7 d7 
+h7 h2 h4 HK 
+hq HA h6 ht 
+*
+
+[Board "29"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T.8765.JT42.Q642 K9754.A4.75.JT87 J6.T92.9863.AK95 AQ832.KQJ3.AKQ.3"]
+[Contract "6S"]
+[Declarer "E"]
+[Result "12"]
+[Score "NS -1430"]
+{
+               S 10
+               H 8 7 6 5
+               D J 10 4 2
+               C Q 6 4 2
+S A Q 8 3 2                   S K 9 7 5 4
+H K Q J 3                     H A 4
+D A K Q                       D 7 5
+C 3                           C J 10 8 7
+               S J 6
+               H 10 9 2
+               D 9 8 6 3
+               C A K 9 5
+}
+[Auction "N"]
+Pass    Pass    Pass    2C
+Pass    2S      Pass    4NT
+Pass    5D      Pass    6S
+Pass    Pass    Pass    
+{
+The fast way to get to 6S: Open a strong 2C, hear partner give a
+positive in spades, and Blackwood into slam.  WBridge5 doesn't play
+RKCB, but maybe the positive promised a top honor in spades.  +1430.
+}
+[Play "S"]
+CK c3 c4 c7 
+h2 h3 h5 HA 
+*
+
+[Board "29"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T.8765.JT42.Q642 K9754.A4.75.JT87 J6.T92.9863.AK95 AQ832.KQJ3.AKQ.3"]
+[Contract "6S"]
+[Declarer "W"]
+[Result "12"]
+[Score "NS -1430"]
+{
+               S 10
+               H 8 7 6 5
+               D J 10 4 2
+               C Q 6 4 2
+S A Q 8 3 2                   S K 9 7 5 4
+H K Q J 3                     H A 4
+D A K Q                       D 7 5
+C 3                           C J 10 8 7
+               S J 6
+               H 10 9 2
+               D 9 8 6 3
+               C A K 9 5
+}
+[Auction "N"]
+Pass    1D      Pass    1S
+Pass    1NT     Pass    2C
+Pass    3C      Pass    3D
+Pass    3H      Pass    3S
+Pass    3NT     Pass    4C
+Pass    4D      Pass    4H
+Pass    4NT     Pass    6S
+Pass    Pass    Pass    
+{
+The slow way: Hear partner open with a one-bid, relay six times,
+and sign off in 6S.  (Opener shows, in order: 8-15, 4+ S, 0-3 H;
+minimum without diamonds; 3-suiter or secondary clubs; 5224;
+5-6 RP; 5 RP; a top honor in spades but not in clubs.  Responder
+knows opener has Kxxxx.Ax.xx.xxxx and can choose the contract.)
+Yet another push, still 27-21 GIB.
+}
+[Play "N"]
+st sk -  -  
+*
+
+[Board "30"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AQ863.753.KQ6.75 KT5.QJ4.J842.AQT 9742.AK86.95.982 J.T92.AT73.KJ643"]
+[Contract "1NT"]
+[Declarer "S"]
+[Result "8"]
+[Score "NS 120"]
+{
+               S J
+               H 10 9 2
+               D A 10 7 3
+               C K J 6 4 3
+S 9 7 4 2                     S A Q 8 6 3
+H A K 8 6                     H 7 5 3
+D 9 5                         D K Q 6
+C 9 8 2                       C 7 5
+               S K 10 5
+               H Q J 4
+               D J 8 4 2
+               C A Q 10
+}
+[Auction "E"]
+Pass    1NT     Pass    Pass
+Pass    
+{
+After a conservative pass by East, GIB stole the contract with its
+weak 1NT opener.  Many many gifts of tricks were kindly given back
+and forth between the two programs, at the end GIB had escaped with
+eight tricks, +120.
+}
+[Play "W"]
+HA h2 h3 h4 
+s7 sj SQ s5 
+s2 d7 s8 ST 
+d9 dt DQ d2 
+s4 h9 s3 SK 
+d5 DA d6 d8 
+c2 c4 c5 CT 
+c8 c3 c7 CA 
+c9 CK h5 cq 
+h6 CJ h7 d4 
+h8 C6 s6 dj 
+-  d3 dk hj 
+*
+
+[Board "30"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AQ863.753.KQ6.75 KT5.QJ4.J842.AQT 9742.AK86.95.982 J.T92.AT73.KJ643"]
+[Contract "3C"]
+[Declarer "N"]
+[Result "8"]
+[Score "NS -50"]
+{
+               S J
+               H 10 9 2
+               D A 10 7 3
+               C K J 6 4 3
+S 9 7 4 2                     S A Q 8 6 3
+H A K 8 6                     H 7 5 3
+D 9 5                         D K Q 6
+C 9 8 2                       C 7 5
+               S K 10 5
+               H Q J 4
+               D J 8 4 2
+               C A Q 10
+}
+[Auction "E"]
+1D      Pass    2S      Pass
+Pass    X       Pass    3C
+Pass    Pass    Pass    
+{
+2S was a simple raise, about 7-10 points and 3+ spades; WBridge5 
+aggressively balanced as South, reaching a close 3C contract.
+I don't think going up with the DA at trick two is right, but 
+on the lie of the cards, the contract was always going down one.
+-50, 5 IMPs to GIB, 32-21.
+}
+[Play "E"]
+h3 h4 HK h2 
+d6 d2 d5 DA 
+c5 CT c9 c3 
+c7 CA c8 c4 
+s6 CQ c2 c6 
+DK d4 d9 d3 
+DQ d8 s2 d7 
+h5 hj HA h9 
+SA s5 s4 sj 
+h7 HQ h8 ht 
+*
+
+[Board "31"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:987643.A.JT.Q973 QT.QJ4.K7642.A42 AKJ.953.AQ953.K5 52.KT8762.8.JT86"]
+[Contract "4S"]
+[Declarer "S"]
+[Result "11"]
+[Score "NS 650"]
+{
+               S A K J
+               H 9 5 3
+               D A Q 9 5 3
+               C K 5
+S Q 10                        S 5 2
+H Q J 4                       H K 10 8 7 6 2
+D K 7 6 4 2                   D 8
+C A 4 2                       C J 10 8 6
+               S 9 8 7 6 4 3
+               H A
+               D J 10
+               C Q 9 7 3
+}
+[Auction "S"]
+Pass    1D      1NT     Pass
+3S      Pass    4S      Pass
+Pass    Pass    
+{
+N-S brushed aside West's natural 1D opening and bid swiftly to game;
+making five, after GIB mysteriously failed to either ruff a club or
+toss one on the diamonds.  +650.
+}
+[Play "W"]
+CA c5 c8 c7 
+hq h3 h7 HA 
+st SA s5 s3 
+h4 h5 hk S4 
+sq SK s2 s9 
+c2 SJ d8 s6 
+c4 CK c6 c3 
+hj h9 h2 S7 
+d2 d3 ct CQ 
+d4 d9 h6 S8 
+dk DA h8 dt 
+-  d5 ht dj 
+*
+
+[Board "31"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:987643.A.JT.Q973 QT.QJ4.K7642.A42 AKJ.953.AQ953.K5 52.KT8762.8.JT86"]
+[Contract "4S"]
+[Declarer "N"]
+[Result "12"]
+[Score "NS 680"]
+{
+               S A K J
+               H 9 5 3
+               D A Q 9 5 3
+               C K 5
+S Q 10                        S 5 2
+H Q J 4                       H K 10 8 7 6 2
+D K 7 6 4 2                   D 8
+C A 4 2                       C J 10 8 6
+               S 9 8 7 6 4 3
+               H A
+               D J 10
+               C Q 9 7 3
+}
+[Auction "S"]
+Pass    Pass    1NT     Pass
+2H      Pass    2S      Pass
+4S      Pass    Pass    Pass
+{
+West has one of the few hands that WBridge5 opens but GIB doesn't;
+GIB devalues the short quacky major-suit holdings and decides it's
+not worth a 12-14 1NT.  N-S also bid to 4S, making six; +680, 1 IMP
+to WBridge5.  32-22.
+}
+[Play "E"]
+d8 dt dk DA 
+s5 s3 st SA 
+h2 HA h4 h3 
+s2 s4 sq SK 
+c6 cq CA c5 
+c8 c3 c2 CK 
+h8 DJ d4 d3 
+ct c7 c4 SJ 
+h6 c9 d2 DQ 
+*
+
+[Board "32"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T6.T92.T.AJT9532 KQ9.AQJ.96432.86 8732.753.AKQJ85. AJ54.K864.7.KQ74"]
+[Contract "4SX"]
+[Declarer "N"]
+[Result "10"]
+[Score "NS 590"]
+{
+               S K Q 9
+               H A Q J
+               D 9 6 4 3 2
+               C 8 6
+S 10 6                        S 8 7 3 2
+H 10 9 2                      H 7 5 3
+D 10                          D A K Q J 8 5
+C A J 10 9 5 3 2              C
+               S A J 5 4
+               H K 8 6 4
+               D 7
+               C K Q 7 4
+}
+[Auction "W"]
+Pass    1NT     2D      3D
+Pass    3S      Pass    4S
+Pass    Pass    X       Pass
+Pass    Pass    
+{
+South's 3D bid was part of Lebensohl, asking for a four-card major but
+denying a stopper.  North, with neither a major, a stopper, or long
+clubs, was stuck.  He settled on 3S, was raised to 4, and doubled.
+
+This can be beat two tricks, but the defense has to play a forcing
+game.  When East switched to a heart after cashing DA, that cost one
+trick, and when he ruffed GIB's play of a club from hand, that cost
+another.  Declarer ruffed East's diamond return high in dummy, pulled
+two rounds of trumps, ruffed another diamond low (West unable to
+overruff), played a heart back to hand, pulled the last trump, and
+played a club.  West had only clubs remaining, and had to concede two
+tricks to dummy's club KQ and good heart.  That made three trumps,
+four hearts, one club, and two diamond ruffs, for 10 tricks; +590.
+}
+[Play "E"]
+DA d7 dt d3 
+h3 h4 h9 HQ 
+h5 h6 h2 HJ 
+S7 c7 c2 c6 
+dk SJ ht d4 
+s2 SA s6 s9 
+s3 s5 st SK 
+d5 S4 c3 d2 
+h7 hk c5 HA 
+s8 c4 c9 SQ 
+d8 CK ct c8 
+-  h8 -  -  
+*
+
+[Board "32"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T6.T92.T.AJT9532 KQ9.AQJ.96432.86 8732.753.AKQJ85. AJ54.K864.7.KQ74"]
+[Contract "3NT"]
+[Declarer "N"]
+[Result "8"]
+[Score "NS -50"]
+{
+               S K Q 9
+               H A Q J
+               D 9 6 4 3 2
+               C 8 6
+S 10 6                        S 8 7 3 2
+H 10 9 2                      H 7 5 3
+D 10                          D A K Q J 8 5
+C A J 10 9 5 3 2              C
+               S A J 5 4
+               H K 8 6 4
+               D 7
+               C K Q 7 4
+}
+[Auction "W"]
+Pass    1D      Pass    1H
+Pass    1NT     Pass    3NT
+Pass    Pass    Pass    
+{
+A bundle of paradoxes!  The defense has five top tricks against 3NT,
+but the contract is cold, because they don't have the communication
+to take them.  Yet WBridge5 went down, and it was right to do so!
+
+East cashed four top diamonds.  WBridge5 threw two small clubs from
+dummy... but what should be the third discard?  Throwing a third
+club works on the actual layout, but if clubs *aren't* 7-0, it 
+gives away three or four extra undertricks.  The IMP odds are 
+only 10-4 or 10-5 in favor of playing to make, and the 7-0 split
+is surely less likely than that.
+
+WBridge duly threw a heart, conceding down one, -50.  12 IMPs to GIB,
+which had won the session 44-22.
+}
+[Play "E"]
+DK d7 dt d2 
+DA c4 c5 d3 
+DQ c7 c2 d4 
+DJ h4 cj d6 
+h5 h6 h9 HJ 
+h3 cq CA c6 
+-  -  h2 -  
+*
+
+[Board "33"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K4.KJ862.AJ.8632 2.Q75.T9872.KQJ4 QJT965.A43.653.A A873.T9.KQ4.T975"]
+[Contract "4H"]
+[Declarer "N"]
+[Result "10"]
+[Score "NS 420"]
+{
+               S K 4
+               H K J 8 6 2
+               D A J
+               C 8 6 3 2
+S A 8 7 3                     S 2
+H 10 9                        H Q 7 5
+D K Q 4                       D 10 9 8 7 2
+C 10 9 7 5                    C K Q J 4
+               S Q J 10 9 6 5
+               H A 4 3
+               D 6 5 3
+               C A
+}
+[Auction "N"]
+1H      Pass    4H      Pass
+Pass    Pass    
+{
+Strange 4H raise by WBridge5 as South.  This is an awkward contract,
+and I'm not sure what the best line is after the club lead.  Knock
+out the spade ace, unblocking the SK; if they return a diamond or
+spade, take the heart ace-king and start running spades, keeping a 
+trump in dummy for an entry when they ruff in; but what if they 
+return a club instead, tapping dummy?
+
+At the table, WBridge5 immediately attacked spades, but failed to
+unblock the SK.  The contract was now beatable, since after winning
+the DK return, declarer had to play the SK before cashing top hearts;
+East could play a diamond to partner's queen and get a third spade
+through declarer, promoting the HQ for the setting trick.  However,
+GIB didn't find the defense, playing a third diamond for no good
+reason; an undistinguished -420.
+}
+[Play "E"]
+ck CA ct c2 
+s2 s5 SA s4 
+dt d3 dk DA 
+H5 s6 s8 sk 
+d2 d5 DQ dj 
+d9 d6 d4 H2 
+c4 H3 c7 c3 
+h7 h4 h9 HK 
+*
+
+[Board "33"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K4.KJ862.AJ.8632 2.Q75.T9872.KQJ4 QJT965.A43.653.A A873.T9.KQ4.T975"]
+[Contract "2S"]
+[Declarer "S"]
+[Result "11"]
+[Score "NS 200"]
+{
+               S K 4
+               H K J 8 6 2
+               D A J
+               C 8 6 3 2
+S A 8 7 3                     S 2
+H 10 9                        H Q 7 5
+D K Q 4                       D 10 9 8 7 2
+C 10 9 7 5                    C K Q J 4
+               S Q J 10 9 6 5
+               H A 4 3
+               D 6 5 3
+               C A
+}
+[Auction "N"]
+1H      Pass    2D      Pass
+2H      Pass    2S      Pass
+Pass    Pass    
+{
+Right strain, wrong level.  South took a conservative view; his
+sequence showed 11-13, unbalanced, and at least five spades, which
+is perhaps an underbid considering the quality of the spades and 
+the fit for partner's hearts.  (Bo-Yin's notes have a system bid
+for this hand; 2C, then 2S, then 3H, to show an invitational hand
+with 6-3 majors; but I hadn't gotten around to coding it yet.  Foo.)
+
+When WBridge5 didn't play diamonds early, declarer took 11 tricks;
++200, and 6 IMPs to WBridge5.
+}
+[Play "W"]
+ct c6 c4 CA 
+s8 SK s2 s5 
+h9 h2 h5 HA 
+SA s4 d2 sq 
+c5 c2 cj S6 
+s3 c3 cq S9 
+s7 c8 ck SJ 
+ht hj HQ h4 
+d4 DJ d7 d6 
+*
+
+[Board "34"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KQ982.52.T.T8763 JT5.763.KJ94.AQ2 43.A9.AQ532.KJ54 A76.KQJT84.876.9"]
+[Contract "3H"]
+[Declarer "N"]
+[Result "6"]
+[Score "NS -300"]
+{
+               S A 7 6
+               H K Q J 10 8 4
+               D 8 7 6
+               C 9
+S 4 3                         S K Q 9 8 2
+H A 9                         H 5 2
+D A Q 5 3 2                   D 10
+C K J 5 4                     C 10 8 7 6 3
+               S J 10 5
+               H 7 6 3
+               D K J 9 4
+               C A Q 2
+}
+[Auction "E"]
+2S      Pass    Pass    3H
+Pass    Pass    Pass    
+{
+Favorable in first seat, East's hand is far from a minimum weak two
+in Moscito Byte.  North made the normal 3H balance, and South did
+well not to raise.  The defenders took all their tricks and then 
+some.  West did well to switch to spades before giving partner his
+diamond ruff, and when declarer lost the club hook trying to ditch
+a spade, the defense ended with seven tricks.  A nice +300 for GIB.
+}
+[Play "E"]
+dt dj DQ d6 
+s9 s5 s3 SA 
+c8 cq CK c9 
+c3 d4 DA d7 
+H2 d9 d5 d8 
+SK st s4 s6 
+SQ sj c5 s7 
+ct c2 c4 -  
+*
+
+[Board "34"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KQ982.52.T.T8763 JT5.763.KJ94.AQ2 43.A9.AQ532.KJ54 A76.KQJT84.876.9"]
+[Contract "3S"]
+[Declarer "E"]
+[Result "9"]
+[Score "NS -140"]
+{
+               S A 7 6
+               H K Q J 10 8 4
+               D 8 7 6
+               C 9
+S 4 3                         S K Q 9 8 2
+H A 9                         H 5 2
+D A Q 5 3 2                   D 10
+C K J 5 4                     C 10 8 7 6 3
+               S J 10 5
+               H 7 6 3
+               D K J 9 4
+               C A Q 2
+}
+[Auction "E"]
+Pass    Pass    1D      2H
+Pass    3H      Pass    Pass
+3S      Pass    Pass    Pass
+{
+By contrast, the North hand is a pretty normal unfavorable "weak"
+jump overcall.  When GIB raised to 3H as South for no good reason,
+it was scheduled for a similar result; but WBridge5 came to the 
+rescue with a weird 3S balance by the East hand.  If you're going
+to bid that hand, best to do it early. 
+
+3S is a silly contract which happens to be cold as the cards lie;
+but still, -140 was 4 IMPs for GIB, trailing 6-4.
+}
+[Play "S"]
+h3 h9 HT h2 
+c2 CJ c9 c3 
+s5 s3 s6 SQ 
+CA c4 h4 c6 
+cq ck S7 c7 
+h6 HA hk h5 
+sj s4 SA s2 
+h7 c5 hq S8 
+*
+
+[Board "35"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:95.A8432.AQ72.53 AK.T.KT95.KQJT87 J8743.Q97.J63.A9 QT62.KJ65.84.642"]
+[Contract "4C"]
+[Declarer "W"]
+[Result "9"]
+[Score "NS 100"]
+{
+               S J 8 7 4 3
+               H Q 9 7
+               D J 6 3
+               C A 9
+S A K                         S Q 10 6 2
+H 10                          H K J 6 5
+D K 10 9 5                    D 8 4
+C K Q J 10 8 7                C 6 4 2
+               S 9 5
+               H A 8 4 3 2
+               D A Q 7 2
+               C 5 3
+}
+[Auction "S"]
+Pass    1C      Pass    1D
+1H      Pass    2H      Pass
+Pass    3C      Pass    Pass
+3H      Pass    Pass    3S
+Pass    4C      Pass    Pass
+Pass    
+{
+1C was 15+, 1D was 0-8, 1H was natural, pass over 1H was 18+, and
+everything else was natural.  The 3H balance seems poorly judged,
+but not nearly as poorly judged as East's 3S balance (rather than
+double, probably +300).  GIB ended up in 4C, down one, -100.
+}
+[Play "N"]
+h7 hk HA ht 
+s3 s2 s9 SA 
+s4 s6 s5 SK 
+d3 d8 DQ d5 
+d6 d4 DA d9 
+h9 h5 h2 C7 
+c9 c4 c3 CT 
+CA c6 c5 ck 
+s7 st -  -  
+*
+
+[Board "35"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:95.A8432.AQ72.53 AK.T.KT95.KQJT87 J8743.Q97.J63.A9 QT62.KJ65.84.642"]
+[Contract "3C"]
+[Declarer "W"]
+[Result "10"]
+[Score "NS -130"]
+{
+               S J 8 7 4 3
+               H Q 9 7
+               D J 6 3
+               C A 9
+S A K                         S Q 10 6 2
+H 10                          H K J 6 5
+D K 10 9 5                    D 8 4
+C K Q J 10 8 7                C 6 4 2
+               S 9 5
+               H A 8 4 3 2
+               D A Q 7 2
+               C 5 3
+}
+[Auction "S"]
+1H      X       2H      Pass
+Pass    3C      Pass    Pass
+Pass    
+{
+On the diamond lead, WBridge5 could take 10 tricks in 3C; +130,
+6 IMPs, and a 12-4 lead.
+}
+[Play "N"]
+d3 d4 DA d5 
+s8 s2 s5 SK 
+s3 s6 s9 SA 
+d6 d8 d7 DK 
+dj C2 dq dt 
+s7 sq c3 C7 
+CA c4 c5 ck 
+sj st h8 C8 
+c9 c6 h2 CQ 
+h9 h5 d2 D9 
+*
+
+[Board "36"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K.KJT52.Q86.J765 AQ987632.7.K5.A8 .AQ9863.AT92.K42 JT54.4.J743.QT93"]
+[Contract "3H"]
+[Declarer "W"]
+[Result "10"]
+[Score "NS -170"]
+{
+               S A Q 9 8 7 6 3 2
+               H 7
+               D K 5
+               C A 8
+S K                           S
+H K J 10 5 2                  H A Q 9 8 6 3
+D Q 8 6                       D A 10 9 2
+C J 7 6 5                     C K 4 2
+               S J 10 5 4
+               H 4
+               D J 7 4 3
+               C Q 10 9 3
+}
+[Auction "W"]
+1H      X       1S      Pass
+1NT     2S      3H      Pass
+Pass    Pass    
+{
+Computers often don't handle freaks well, as programmer effort is more
+usefully concentrated on more common hands, and they have very little
+resembling "common sense".
+
+This might be a good example.  I say "might" rather than "is".  It's
+vaguely possible that GIB as East realized that it shouldn't bounce
+the bidding and push the opponents into 4S (on their known 10-card fit,
+as 1H denied spades), It's also vaguely possible that WBridge as North
+made an informed judgement not to push on against the partscore, vul,
+knowing that the high cards and any opposing spades would be on its
+left (1S was a 13+ relay) and hoping for heart length with partner.
+
+But somehow I doubt it.  Anyway, +170 for GIB.  (BTW, note WBridge5's
+play of the DK on the first round of diamonds... that's an excellent
+play, unlikely to lose a trick and necessary to avoid getting endplayed
+on some layouts.)
+}
+[Play "N"]
+CA c4 c9 c6 
+c8 CK c3 c7 
+h7 h3 h4 HT 
+s6 H9 ct h2 
+s2 h8 s4 HJ 
+dk DA d3 d6 
+d5 hq d4 HK 
+sa H6 s5 sk 
+s3 c2 CQ c5 
+s7 d2 d7 DQ 
+-  -  -  cj 
+*
+
+[Board "36"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K.KJT52.Q86.J765 AQ987632.7.K5.A8 .AQ9863.AT92.K42 JT54.4.J743.QT93"]
+[Contract "4SXX"]
+[Declarer "N"]
+[Result "11"]
+[Score "NS 1480"]
+{
+               S A Q 9 8 7 6 3 2
+               H 7
+               D K 5
+               C A 8
+S K                           S
+H K J 10 5 2                  H A Q 9 8 6 3
+D Q 8 6                       D A 10 9 2
+C J 7 6 5                     C K 4 2
+               S J 10 5 4
+               H 4
+               D J 7 4 3
+               C Q 10 9 3
+}
+[Auction "W"]
+Pass    1C      X       Pass
+2H      2S      4H      Pass
+Pass    4S      Pass    Pass
+X       Pass    Pass    XX
+Pass    Pass    Pass    
+{
+1C was 15+, and double showed general values.  GIB probably should have 
+raised to 4S as South, but having passed, it did well to realize what 
+a huge hand it held on the bidding and redouble 4S.
+
+At first glance it looks like this might lose four tricks.  But after
+the HA lead, East was endplayed at trick two!  On the DA exit, declarer
+ended up pitching a small club on the DJ, losing only a heart and a 
+diamond; making five!  +1430 the hard way.  It takes a low diamond
+or a club shift to hold it to four.  Of course, the hand's always
+cold; the defense can never play diamonds, and with the CK onside,
+the CQ is available for a diamond discard.
+
+16 IMPs to GIB, bouncing back into a 20-12 lead.
+}
+[Play "E"]
+HA h4 h2 h7 
+DA d3 d6 d5 
+d2 d7 dq DK 
+d9 s4 sk SA 
+*
+
+[Board "37"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:9642.64.952.AJ74 A.932.AQ863.9532 QJ73.Q7.KJ74.T86 KT85.AKJT85.T.KQ"]
+[Contract "4H"]
+[Declarer "W"]
+[Result "12"]
+[Score "NS -480"]
+{
+               S 9 6 4 2
+               H 6 4
+               D 9 5 2
+               C A J 7 4
+S K 10 8 5                    S A
+H A K J 10 8 5                H 9 3 2
+D 10                          D A Q 8 6 3
+C K Q                         C 9 5 3 2
+               S Q J 7 3
+               H Q 7
+               D K J 7 4
+               C 10 8 6
+}
+[Auction "N"]
+Pass    Pass    Pass    1C
+Pass    1NT     Pass    2C
+Pass    2NT     Pass    3C
+Pass    3D      Pass    3H
+Pass    4C      Pass    4H
+Pass    Pass    Pass    
+{
+West opened a 17+ 1C (sounder openings in 3rd/4th seat) and relayed;
+East showed 8+ points, 4-7 RP, no major, and diamonds (1N), secondary
+clubs and a spade splinter (2N), 1354 shape (3D), and 7 RP (4C).
+West signed off in 4H.
+
+You might ask why West relayed over 3D, if he was planning to sign
+off over partner's most favorable response.  I could tell you that
+GIB prefers to keep relaying in such situations as long as it's safe
+and the responding hand will be dummy, because it prevents the enemy
+from drawing inferences about the nature of declarer's (relayer's)
+hand.  Unfortunately, this would be a lie.
+
+The real answer is that it's difficult for GIB to figure out what
+information will be useful to it for making decisions on future rounds
+of bidding, so for the time being, we tell it to relay any time it can
+survive partner's response.  (More or less.  Details are beyond the
+scope of this article, and besides, I'm about to change them. :) )
+
+This seemed like a good spot for a digression on relay methods, 
+because the play was utterly boring.  +480.
+}
+[Play "N"]
+s6 SA s7 s5 
+h6 h3 h7 HA 
+d2 DA d7 dt 
+d5 d3 dj H5 
+s2 H2 s3 s8 
+d9 dq dk H8 
+s4 H9 sj st 
+c4 d8 d4 HT 
+h4 c2 hq HK 
+-  -  -  ck 
+*
+
+[Board "37"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:9642.64.952.AJ74 A.932.AQ863.9532 QJ73.Q7.KJ74.T86 KT85.AKJT85.T.KQ"]
+[Contract "4H"]
+[Declarer "W"]
+[Result "12"]
+[Score "NS -480"]
+{
+               S 9 6 4 2
+               H 6 4
+               D 9 5 2
+               C A J 7 4
+S K 10 8 5                    S A
+H A K J 10 8 5                H 9 3 2
+D 10                          D A Q 8 6 3
+C K Q                         C 9 5 3 2
+               S Q J 7 3
+               H Q 7
+               D K J 7 4
+               C 10 8 6
+}
+[Auction "N"]
+Pass    Pass    Pass    1H
+Pass    3H      Pass    4H
+Pass    Pass    Pass    
+{
+Same boring play, no swing.
+}
+[Play "N"]
+s4 SA s7 s5 
+h6 h2 h7 HK 
+d9 DA d4 dt 
+d5 d3 d7 H5 
+s6 H3 s3 s8 
+d2 d6 dj H8 
+s2 H9 sq st 
+c4 d8 dk HT 
+h4 c2 hq HA 
+*
+
+[Board "38"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QT86.AJ.K832.QJ4 J.K95.AQ96.K9865 A942.T842.J54.73 K753.Q763.T7.AT2"]
+[Contract "2S"]
+[Declarer "W"]
+[Result "6"]
+[Score "NS 200"]
+{
+               S K 7 5 3
+               H Q 7 6 3
+               D 10 7
+               C A 10 2
+S A 9 4 2                     S Q 10 8 6
+H 10 8 4 2                    H A J
+D J 5 4                       D K 8 3 2
+C 7 3                         C Q J 4
+               S J
+               H K 9 5
+               D A Q 9 6
+               C K 9 8 6 5
+}
+[Auction "E"]
+1D      Pass    1H      Pass
+1NT     Pass    2S      Pass
+Pass    Pass    
+{
+1D was 8-15, 4+ spades, 0-3 hearts.  1H is a waiting bid, sort of like
+a forcing notrump; it systemically denies four spades and shows about
+6-12 points.
+
+However, GIB has consistently refused to pass 1D holding very weak
+hands with spade support and no diamond suit, and usually opts for
+1H instead.  If it were a human, we'd say that it had an implicit
+partnership agreement to bid 1H on such hands, and would require it
+to disclose this agreement.  But it's not human, and not only is it
+incapable of forming such an agreement (it will *never* play partner
+for four spades on this auction), it is completely unaware of partner's
+history and is thus incapable of disclosing it to the opponents!  
+
+I'd argue that GIB should be treated like a human who is playing 
+a known system with a new partner each session (or deal!), but then,
+it could also be argued that bridge officials shouldn't have to pay
+attention to the details of how a program works; there exist other
+programs which *do* learn partner's behavior over time.  What a mess.
+I'll leave this one to the rules lawyers.
+
+The way around this particular case is to redefine 1H, but other cases
+will surely come up; for example, I've seen GIB frequently respond with 
+very shaded forcing notrump responses in standard, hoping to improve
+the contract or keep the opponents out.  (I've seen experts do the
+same thing, suggesting that GIB has the right idea.)
+
+Anyway, back to the deal.  It seems like WBridge5 should have entered
+the auction at some point as South, in the balancing seat if not
+immediately, but it chose not to.  The defense collected one of each
+major, two of each minor, and a diamond ruff for +200.
+}
+[Play "N"]
+dt d2 DQ d5 
+d7 d8 DA d4 
+S7 d3 d9 dj 
+CA c4 c5 c3 
+c2 cq CK c7 
+ct CJ c6 h8 
+s3 s8 sj SA 
+s5 S6 c8 s2 
+SK sq c9 s4 
+h3 hj HK h2 
+*
+
+[Board "38"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QT86.AJ.K832.QJ4 J.K95.AQ96.K9865 A942.T842.J54.73 K753.Q763.T7.AT2"]
+[Contract "5C"]
+[Declarer "S"]
+[Result "10"]
+[Score "NS -50"]
+{
+               S K 7 5 3
+               H Q 7 6 3
+               D 10 7
+               C A 10 2
+S A 9 4 2                     S Q 10 8 6
+H 10 8 4 2                    H A J
+D J 5 4                       D K 8 3 2
+C 7 3                         C Q J 4
+               S J
+               H K 9 5
+               D A Q 9 6
+               C K 9 8 6 5
+}
+[Auction "E"]
+1D      2C      Pass    3C
+Pass    3D      Pass    4C
+Pass    5C      Pass    Pass
+Pass    
+{
+GIB's decision to keep bidding over the 3C raise was poor, and to force
+to game was inexcusable.  5C was lucky to go down only one; 6 IMPs to
+WBridge5, now trailing by only two.
+}
+[Play "W"]
+SA s5 s8 sj 
+d4 dt dk DA 
+c7 CA c4 c5 
+d5 d7 d2 DQ 
+dj C2 d3 d6 
+s2 SK s6 h5 
+c3 ct cj CK 
+h2 h3 CQ c9 
+*
+
+[Board "39"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:T432.J2.A76.KJ73 K.A87.QJT4.A9864 875.T6543.952.T2 AQJ96.KQ9.K83.Q5"]
+[Contract "6NT"]
+[Declarer "W"]
+[Result "12"]
+[Score "NS -1440"]
+{
+               S 8 7 5
+               H 10 6 5 4 3
+               D 9 5 2
+               C 10 2
+S K                           S A Q J 9 6
+H A 8 7                       H K Q 9
+D Q J 10 4                    D K 8 3
+C A 9 8 6 4                   C Q 5
+               S 10 4 3 2
+               H J 2
+               D A 7 6
+               C K J 7 3
+}
+[Auction "S"]
+Pass    2C      Pass    2D
+Pass    2H      Pass    2S
+Pass    2NT     Pass    3C
+Pass    3D      Pass    3H
+Pass    4NT     Pass    5C
+Pass    5D      Pass    5H
+Pass    5S      Pass    5NT
+Pass    6C      Pass    6NT
+Pass    Pass    Pass    
+{
+East relayed seven times over the 2C opening; West showed 10-15 with
+6+ clubs or 4-5 minors and no major (2C), three hearts (2H), a spade
+splinter (2N), 1345 (3D), 9 RP with a top honor in every suit (4NT -
+East now knew partner held K.Axx.Qxxx.Axxxx, with jacks and lower
+honors unknown), only one club honor (5D), only one diamond honor
+(5S - the bidding was now scrolling off the bottom of Yves' screen),
+and only one heart honor (6C).
+
+The last three rounds of bidding had told East nothing new, but 
+there were a variety of chances for 12 tricks (DJT, DJ and a lucky
+break, CJT and a hook, DT9 and a hook, etc).  Opposite the actual
+hand 6NT was cold, +1440.
+}
+[Play "N"]
+s5 s6 st SK 
+d2 dk DA d4 
+-  -  d7 dq 
+*
+
+[Board "39"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:T432.J2.A76.KJ73 K.A87.QJT4.A9864 875.T6543.952.T2 AQJ96.KQ9.K83.Q5"]
+[Contract "3NT"]
+[Declarer "E"]
+[Result "12"]
+[Score "NS -690"]
+{
+               S 8 7 5
+               H 10 6 5 4 3
+               D 9 5 2
+               C 10 2
+S K                           S A Q J 9 6
+H A 8 7                       H K Q 9
+D Q J 10 4                    D K 8 3
+C A 9 8 6 4                   C Q 5
+               S 10 4 3 2
+               H J 2
+               D A 7 6
+               C K J 7 3
+}
+[Auction "S"]
+1D      Pass    Pass    1NT
+Pass    3NT     Pass    Pass
+Pass    
+{
+It's not the easiest slam to get to in any event, but it doesn't
+get easier when your opponents open the bidding in first seat.
++690, 13 IMPs to GIB, leading 33-18.
+}
+[Play "S"]
+s2 SK s8 s6 
+DA d4 d9 dk 
+s3 c4 s7 S9 
+*
+
+[Board "40"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ93.KQ63.J4.953 52.T952.K832.KJ2 KT84.J8.A976.874 J76.A74.QT5.AQT6"]
+[Contract "2S"]
+[Declarer "W"]
+[Result "8"]
+[Score "NS -110"]
+{
+               S 5 2
+               H 10 9 5 2
+               D K 8 3 2
+               C K J 2
+S A Q 9 3                     S K 10 8 4
+H K Q 6 3                     H J 8
+D J 4                         D A 9 7 6
+C 9 5 3                       C 8 7 4
+               S J 7 6
+               H A 7 4
+               D Q 10 5
+               C A Q 10 6
+}
+[Auction "W"]
+1S      Pass    2S      Pass
+Pass    Pass    
+{
+1S was 8-15, both majors, and 2S was a simple raise, 8-11 or so.
+There was nothing to the play after the defenders led and cashed
+their three clubs; +110.
+}
+[Play "N"]
+c2 c4 CQ c9 
+cj c7 CA c3 
+CK c8 c6 c5 
+s5 S8 s6 s3 
+s2 s4 sj SQ 
+d2 SK s7 s9 
+DK d7 d5 dj 
+d3 DA dt d4 
+h2 h8 h4 HK 
+h5 hj HA h3 
+-  -  ct h6 
+*
+
+[Board "40"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ93.KQ63.J4.953 52.T952.K832.KJ2 KT84.J8.A976.874 J76.A74.QT5.AQT6"]
+[Contract "2S"]
+[Declarer "E"]
+[Result "9"]
+[Score "NS -140"]
+{
+               S 5 2
+               H 10 9 5 2
+               D K 8 3 2
+               C K J 2
+S A Q 9 3                     S K 10 8 4
+H K Q 6 3                     H J 8
+D J 4                         D A 9 7 6
+C 9 5 3                       C 8 7 4
+               S J 7 6
+               H A 7 4
+               D Q 10 5
+               C A Q 10 6
+}
+[Auction "W"]
+1C      Pass    1S      Pass
+2S      Pass    Pass    Pass
+{
+The club lead was less attractive at this table facing a 1C opener,
+and GIB tried a diamond shift rather than a club when in with the HA.
+WBridge5 was able to pitch a losing club for +140 and 1 IMP.  33-19.
+}
+[Play "S"]
+s6 s3 s2 S8 
+HA h3 h2 hj 
+dt dj dk DA 
+s7 SQ s5 s4 
+sj s9 cj SK 
+h4 HQ h5 h8 
+h7 HK h9 c4 
+DQ d4 d3 d6 
+CA c3 c2 c7 
+cq c5 CK c8 
+d5 -  d2 d7 
+*
+
+[Board "41"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QJ876.J5.9.QJ975 AK954.742.JT6.T3 2.AKT83.Q875.AK8 T3.Q96.AK432.642"]
+[Contract "3C"]
+[Declarer "N"]
+[Result "10"]
+[Score "NS 130"]
+{
+               S Q J 8 7 6
+               H J 5
+               D 9
+               C Q J 9 7 5
+S 10 3                        S A K 9 5 4
+H Q 9 6                       H 7 4 2
+D A K 4 3 2                   D J 10 6
+C 6 4 2                       C 10 3
+               S 2
+               H A K 10 8 3
+               D Q 8 7 5
+               C A K 8
+}
+[Auction "N"]
+Pass    1D      X       1H
+2C      Pass    2H      Pass
+2NT     Pass    3C      Pass
+Pass    Pass    
+{
+1D was 8-15 with spades, X was takeout of spades, 1H was waiting, and
+everything else was natural.  The play of 3C was strange, but only
+overtricks were at stake; +130.
+}
+[Play "E"]
+SK s2 st s6 
+s9 CK s3 s7 
+h7 HA h9 h5 
+c3 c8 c4 CJ 
+h2 HK h6 hj 
+h4 h8 HQ d9 
+dj d5 da C5 
+s5 d7 d2 S8 
+s4 CA d4 sq 
+d6 h3 C2 sj 
+dt -  dk c7 
+*
+
+[Board "41"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QJ876.J5.9.QJ975 AK954.742.JT6.T3 2.AKT83.Q875.AK8 T3.Q96.AK432.642"]
+[Contract "3H"]
+[Declarer "S"]
+[Result "8"]
+[Score "NS -50"]
+{
+               S Q J 8 7 6
+               H J 5
+               D 9
+               C Q J 9 7 5
+S 10 3                        S A K 9 5 4
+H Q 9 6                       H 7 4 2
+D A K 4 3 2                   D J 10 6
+C 6 4 2                       C 10 3
+               S 2
+               H A K 10 8 3
+               D Q 8 7 5
+               C A K 8
+}
+[Auction "N"]
+Pass    Pass    1C      1D
+X       1S      2H      Pass
+Pass    3D      Pass    Pass
+X       Pass    3H      Pass
+Pass    Pass    
+{
+1C was 15+, and X was a double negative, 0-5 or so.  East's choice to
+compete to 3D over 2H was very poorly judged, vulnerable against not,
+but South's failure to either double 3D or pass partner's double 
+(+500!) was even more so.  This is partly because GIB was confused
+by the auction; it thought the overcaller had five diamonds, the 
+balancer had four diamonds, and partner had promised a couple of 
+diamonds with the double -- there were too many diamonds at the table!  
+We need to do something about progressively relaxing GIB's constraints 
+on the other hands rather than simply abandoning them when things get 
+confusing.  3H was not a comfortable contract, and went down one;
+-50 meant 5 more IMPs to WBridge5, now down 33-24.
+}
+[Play "W"]
+DA d9 d6 d5 
+st sq SK s2 
+s3 s6 sa H8 
+d4 H5 dt d8 
+c2 c5 c3 CK 
+d2 HJ dj d7 
+c4 CQ ct c8 
+c6 SJ s4 dq 
+*
+
+[Board "42"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:.AQT97.J654.K976 JT6432.J6.82.QT4 975.K852.Q93.A32 AKQ8.43.AKT7.J85"]
+[Contract "3H"]
+[Declarer "E"]
+[Result "11"]
+[Score "NS -200"]
+{
+               S A K Q 8
+               H 4 3
+               D A K 10 7
+               C J 8 5
+S 9 7 5                       S
+H K 8 5 2                     H A Q 10 9 7
+D Q 9 3                       D J 6 5 4
+C A 3 2                       C K 9 7 6
+               S J 10 6 4 3 2
+               H J 6
+               D 8 2
+               C Q 10 4
+}
+[Auction "E"]
+1H      Pass    2H      X
+3H      Pass    Pass    Pass
+{
+GIB's preemptive reraise to 3H stole the pot; surely WBridge5 should
+double again as North.  What's more, it was cold, and when WBridge5
+cashed diamonds but didn't take a ruff, it made five.  +200.
+}
+[Play "S"]
+d8 d3 DK d5 
+d2 d9 DA d4 
+s4 s9 sa H9 
+h6 HK h4 h7 
+hj h2 h3 HA 
+c4 CA c5 c6 
+*
+
+[Board "42"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:.AQT97.J654.K976 JT6432.J6.82.QT4 975.K852.Q93.A32 AKQ8.43.AKT7.J85"]
+[Contract "4S"]
+[Declarer "S"]
+[Result "9"]
+[Score "NS -100"]
+{
+               S A K Q 8
+               H 4 3
+               D A K 10 7
+               C J 8 5
+S 9 7 5                       S
+H K 8 5 2                     H A Q 10 9 7
+D Q 9 3                       D J 6 5 4
+C A 3 2                       C K 9 7 6
+               S J 10 6 4 3 2
+               H J 6
+               D 8 2
+               C Q 10 4
+}
+[Auction "E"]
+1H      Pass    2H      X
+Pass    2S      3H      3S
+Pass    4S      Pass    Pass
+Pass    
+{
+One of those rare auctions where you actually need a scorecard to tell
+the players apart; both tables started 1H-P-2H-X.  Here responder was
+the one with an extra trump, so South bid his spades before the
+opponents got up to 3H.  North raised to 3S, naturally, and GIB made
+the marginal decision to bid game as South, expecting the same general
+strength (17+) opposite but hoping for heart shortness, less spade
+duplication, or general extras.  No such luck, but -100 was still 
+a 2-IMP pickup.  36-24.
+}
+[Play "W"]
+h8 h3 HA h6 
+CA c8 c7 ct 
+HK h4 h9 hj 
+c3 c5 CK c4 
+c2 cj c6 CQ 
+-  -  -  s2 
+*
+
+[Board "43"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ3.A7653.J8.764 8.KJ9842.AKQ75.8 JT764.Q.962.KT93 A952.T.T43.AQJ52"]
+[Contract "4H"]
+[Declarer "E"]
+[Result "11"]
+[Score "NS -450"]
+{
+               S J 10 7 6 4
+               H Q
+               D 9 6 2
+               C K 10 9 3
+S 8                           S A 9 5 2
+H K J 9 8 4 2                 H 10
+D A K Q 7 5                   D 10 4 3
+C 8                           C A Q J 5 2
+               S K Q 3
+               H A 7 6 5 3
+               D J 8
+               C 7 6 4
+}
+[Auction "S"]
+Pass    1C      Pass    1H
+Pass    1S      Pass    2H
+Pass    2S      Pass    2NT
+Pass    3C      Pass    3D
+Pass    3H      Pass    3S
+Pass    3NT     Pass    4H
+Pass    Pass    Pass    
+{
+Here you don't need a scorecard.  West relayed a bunch, East showed
+4135 with 7 RP and honors in both black suits but not in diamonds,
+West chose 4H.  The simulation says that on the available knowledge,
+5D is a slightly better bid at total points, but 4H is better at IMPs.
+I guess GIB wanted that one IMP for +420 vs. +400... should we tell 
+it something about not taking chances when sitting on a big lead?
+
+Even with the 5-1 heart break, 4H was cold.  When WBridge5 failed to
+force the 6-5 hand with repeated spade leads, it made five.  +450.
+}
+[Play "S"]
+sk s8 s4 SA 
+h3 h4 HQ ht 
+sq H2 s6 s9 
+h5 HK c9 c2 
+HA hj c3 c5 
+c4 c8 ck CA 
+c7 d5 ct CQ 
+c6 d7 d2 CJ 
+d8 DA d6 d3 
+-  h9 -  -  
+*
+
+[Board "43"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ3.A7653.J8.764 8.KJ9842.AKQ75.8 JT764.Q.962.KT93 A952.T.T43.AQJ52"]
+[Contract "5D"]
+[Declarer "W"]
+[Result "10"]
+[Score "NS 50"]
+{
+               S J 10 7 6 4
+               H Q
+               D 9 6 2
+               C K 10 9 3
+S 8                           S A 9 5 2
+H K J 9 8 4 2                 H 10
+D A K Q 7 5                   D 10 4 3
+C 8                           C A Q J 5 2
+               S K Q 3
+               H A 7 6 5 3
+               D J 8
+               C 7 6 4
+}
+[Auction "S"]
+1H      X       Pass    3C
+Pass    3D      Pass    5D
+Pass    Pass    Pass    
+{
+There wasn't much chance of WBridge5 ending in hearts after GIB
+opened 1H.  It had a well-judged natural auction to 5D, and on the
+HQ lead, the play was trivial.  +420, 1 IMP to GIB.
+}
+[Play "N"]
+hq ht HA h2 
+s7 SA sk s8 
+d2 dt dj DQ 
+d6 -  -  da 
+*
+
+[Board "44"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:96.K84.743.T9843 T87.97.AT9.AKJ65 K542.AJ63.Q865.Q AQJ3.QT52.KJ2.72"]
+[Contract "3NT"]
+[Declarer "N"]
+[Result "11"]
+[Score "NS 660"]
+{
+               S 10 8 7
+               H 9 7
+               D A 10 9
+               C A K J 6 5
+S 9 6                         S K 5 4 2
+H K 8 4                       H A J 6 3
+D 7 4 3                       D Q 8 6 5
+C 10 9 8 4 3                  C Q
+               S A Q J 3
+               H Q 10 5 2
+               D K J 2
+               C 7 2
+}
+[Auction "W"]
+Pass    1C      X       1H
+Pass    1NT     Pass    3NT
+Pass    Pass    Pass    
+{
+GIB occasionally has this strange attraction to leading singleton
+honors against notrump... I can't imagine what made it choose the
+CQ here.  However, 3NT was never in danger.  +660.
+}
+[Play "E"]
+cq c2 c4 CK 
+s2 SJ s6 s7 
+d5 c7 c9 CJ 
+h3 ht HK h7 
+hj HQ h4 h9 
+d8 dj d7 DA 
+dq DK d3 dt 
+d6 d2 d4 D9 
+h6 s3 c3 CA 
+s5 SQ s9 s8 
+*
+
+[Board "44"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:96.K84.743.T9843 T87.97.AT9.AKJ65 K542.AJ63.Q865.Q AQJ3.QT52.KJ2.72"]
+[Contract "3NT"]
+[Declarer "N"]
+[Result "10"]
+[Score "NS 630"]
+{
+               S 10 8 7
+               H 9 7
+               D A 10 9
+               C A K J 6 5
+S 9 6                         S K 5 4 2
+H K 8 4                       H A J 6 3
+D 7 4 3                       D Q 8 6 5
+C 10 9 8 4 3                  C Q
+               S A Q J 3
+               H Q 10 5 2
+               D K J 2
+               C 7 2
+}
+[Auction "W"]
+Pass    1NT     2C      3C
+Pass    3NT     Pass    Pass
+Pass    
+{
+WBridge5's 2C overcall was Landy, and pretty aggressive even at the
+favorable vulnerability.  3C was... um... Stayman.  (Like I said,
+the 1NT structure has *not* been revamped...)
+
+3NT scored +630, losing 1 IMP.  How do you like West's chances at
+2H doubled?  That would have gone down *five*, for -1100.  Yow.
+}
+[Play "E"]
+d8 DJ d3 d9 
+d5 DK d4 dt 
+d6 d2 d7 DA 
+s5 s3 s9 ST 
+s2 SQ s6 s8 
+cq c2 c8 CA 
+s4 SJ c3 s7 
+sk SA h4 h9 
+h3 c7 c9 CK 
+h6 h2 c4 CJ 
+-  -  -  h7 
+*
+
+[Board "45"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK.A9542.T95.KJ8 Q963.KT6.K.AQ965 T842.87.J763.742 J75.QJ3.AQ842.T3"]
+[Contract "2C"]
+[Declarer "E"]
+[Result "8"]
+[Score "NS -90"]
+{
+               S A K
+               H A 9 5 4 2
+               D 10 9 5
+               C K J 8
+S J 7 5                       S Q 9 6 3
+H Q J 3                       H K 10 6
+D A Q 8 4 2                   D K
+C 10 3                        C A Q 9 6 5
+               S 10 8 4 2
+               H 8 7
+               D J 7 6 3
+               C 7 4 2
+}
+[Auction "N"]
+1H      2C      Pass    Pass
+Pass    
+{
+WBridge5 apparently doesn't open 1NT with a five-card major.  After the
+1H opening, when 2C came around, it made a good decision to sell out.
+Was GIB was playing safe to make two, or just misplaying?  +90.
+}
+[Play "S"]
+h8 hq HA hk 
+s8 s7 SA s6 
+s2 s5 SK s3 
+h7 HJ h5 h6 
+c2 c3 c8 CQ 
+d3 DA d5 dk 
+d6 DQ d9 ht 
+c4 ct cj CA 
+s4 sj CK s9 
+C7 h3 h4 c5 
+*
+
+[Board "45"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK.A9542.T95.KJ8 Q963.KT6.K.AQ965 T842.87.J763.742 J75.QJ3.AQ842.T3"]
+[Contract "1NT"]
+[Declarer "N"]
+[Result "5"]
+[Score "NS -200"]
+{
+               S A K
+               H A 9 5 4 2
+               D 10 9 5
+               C K J 8
+S J 7 5                       S Q 9 6 3
+H Q J 3                       H K 10 6
+D A Q 8 4 2                   D K
+C 10 3                        C A Q 9 6 5
+               S 10 8 4 2
+               H 8 7
+               D J 7 6 3
+               C 7 4 2
+}
+[Auction "N"]
+1C      Pass    1D      Pass
+1NT     Pass    Pass    Pass
+{
+GIB doesn't have the option of rebidding 1H after the strong club with
+a balanced hand and five hearts, because that would be a relay.  This
+can go down as many as four, but when the defenders kept playing on
+hearts, declarer was able to escape with three heart winners and two
+spade winners for down two.  -200, 3 IMPs to WBridge5.  37-28.
+}
+[Play "E"]
+s6 s4 s5 SA 
+h6 h8 HJ h2 
+CQ c4 ct cj 
+HK h7 h3 h9 
+ht c2 hq HA 
+s3 s8 d2 H5 
+c5 c7 d4 H4 
+s9 s2 s7 SK 
+dk d6 DA d5 
+C9 d3 c3 c8 
+*
+
+[Board "46"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K64.AJ9.K742.J63 732.K.AQT.T87542 JT9.Q32.J8653.AK AQ85.T87654.9.Q9"]
+[Contract "2NT"]
+[Declarer "E"]
+[Result "6"]
+[Score "NS 100"]
+{
+               S A Q 8 5
+               H 10 8 7 6 5 4
+               D 9
+               C Q 9
+S J 10 9                      S K 6 4
+H Q 3 2                       H A J 9
+D J 8 6 5 3                   D K 7 4 2
+C A K                         C J 6 3
+               S 7 3 2
+               H K
+               D A Q 10
+               C 10 8 7 5 4 2
+}
+[Auction "E"]
+1NT     Pass    2NT     Pass
+Pass    Pass    
+{
+West's raise looks shaky to me, but GIB says it's a small winner 
+compared to pass.  I don't know why GIB took the heart hook, rather
+than just plugging away at diamonds... Down two, -100.
+}
+[Play "S"]
+s2 sj SA s6 
+c5 CA cq c3 
+DA d3 d9 dk 
+c2 CK c9 c6 
+HK h3 h4 hj 
+c4 h2 h6 CJ 
+dt HQ h5 h9 
+s3 ST s5 s4 
+s7 s9 sq SK 
+dq d5 -  d2 
+*
+
+[Board "46"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K64.AJ9.K742.J63 732.K.AQT.T87542 JT9.Q32.J8653.AK AQ85.T87654.9.Q9"]
+[Contract "2NT"]
+[Declarer "W"]
+[Result "6"]
+[Score "NS 100"]
+{
+               S A Q 8 5
+               H 10 8 7 6 5 4
+               D 9
+               C Q 9
+S J 10 9                      S K 6 4
+H Q 3 2                       H A J 9
+D J 8 6 5 3                   D K 7 4 2
+C A K                         C J 6 3
+               S 7 3 2
+               H K
+               D A Q 10
+               C 10 8 7 5 4 2
+}
+[Auction "E"]
+1D      Pass    2NT     Pass
+Pass    Pass    
+{
+Nor do I know why WBridge5 played away from the DJ, rather than
+towards it, thus losing three diamond tricks.  Also down two, for
+an undistinguished push.
+}
+[Play "N"]
+h6 h9 HK h2 
+c9 c3 c2 CK 
+d9 dk DA d3 
+cq c6 c5 CA 
+ht hj ct HQ 
+h4 d2 DT d5 
+s5 CJ c8 h3 
+h8 d4 DQ d6 
+s8 d7 C7 d8 
+h7 -  c4 dj 
+*
+
+[Board "47"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AQ72.98765.Q.Q84 KJ95.3.AKT6.A973 63.QJ4.9753.KJ52 T84.AKT2.J842.T6"]
+[Contract "4D"]
+[Declarer "W"]
+[Result "10"]
+[Score "NS -130"]
+{
+               S 6 3
+               H Q J 4
+               D 9 7 5 3
+               C K J 5 2
+S K J 9 5                     S 10 8 4
+H 3                           H A K 10 2
+D A K 10 6                    D J 8 4 2
+C A 9 7 3                     C 10 6
+               S A Q 7 2
+               H 9 8 7 6 5
+               D Q
+               C Q 8 4
+}
+[Auction "S"]
+Pass    1C      Pass    2C
+Pass    2D      Pass    2S
+Pass    2NT     Pass    3NT
+Pass    4C      Pass    4D
+Pass    Pass    Pass    
+{
+Mike Whitaker of Blue Chip Bridge was kibitzing this hand, and sighed
+as GIB kept bidding and bidding.  "Sheesh.  1D, 1H, 1S, 2D, pass."
+"You'd pass 2D?"  "Well, maybe 2N, 3D, pass."
+
+GIB had a bit more trouble.  The 2C response showed 8-11 balanced.
+West probably should have bid 2S here (minimum, 4+ spades, 0-3 hearts,
+not game forcing) but chose to relay instead.  2S showed longer hearts
+than spades, over which West began to smell misfit, but had nowhere
+convenient to go; 3C and 3D would imply longer suits.  3N showed a
+3442 minimum, 4D showed exactly 5 RP, and West finally bailed out.
+
+With the SQ onside and the DQ dropping, 4D made exactly.  +130.
+}
+[Play "N"]
+hq HA h5 h3 
+d7 d2 dq DA 
+c5 c6 c4 CA 
+CJ ct c8 c7 
+s3 s4 SA s5 
+s6 ST s2 s9 
+d3 DJ h6 d6 
+d5 d4 s7 DK 
+c2 D8 cq c9 
+h4 HK h7 c3 
+D9 s8 sq sk 
+*
+
+[Board "47"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AQ72.98765.Q.Q84 KJ95.3.AKT6.A973 63.QJ4.9753.KJ52 T84.AKT2.J842.T6"]
+[Contract "2D"]
+[Declarer "E"]
+[Result "10"]
+[Score "NS -130"]
+{
+               S 6 3
+               H Q J 4
+               D 9 7 5 3
+               C K J 5 2
+S K J 9 5                     S 10 8 4
+H 3                           H A K 10 2
+D A K 10 6                    D J 8 4 2
+C A 9 7 3                     C 10 6
+               S A Q 7 2
+               H 9 8 7 6 5
+               D Q
+               C Q 8 4
+}
+[Auction "S"]
+1S      X       Pass    2D
+Pass    Pass    Pass    
+{
+Another way to smell misfit is to have an opponent open 1S, showing
+both majors.  Both WBridge5 players bid conservatively to stay in 2D,
+also +130 for a push.
+}
+[Play "S"]
+dq DK d3 d2 
+h9 d6 d7 DJ 
+SA s5 s6 s4 
+h5 h3 hj HK 
+s7 S9 s3 s8 
+c8 c3 CK c6 
+h8 DT d5 d4 
+c4 CA c5 ct 
+cq c7 c2 D8 
+h6 c9 h4 HA 
+s2 sj D9 st 
+-  -  cj -  
+*
+
+[Board "48"]
+[West "GIB 3.3.15"]
+[North "WBridge5 1.9"]
+[East "GIB 3.3.15"]
+[South "WBridge5 1.9"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KT732.J5.KJT.K82 AQ86.763.853.T95 J5.KQT92.A92.Q63 94.A84.Q764.AJ74"]
+[Contract "2H"]
+[Declarer "W"]
+[Result "9"]
+[Score "NS -140"]
+{
+               S A Q 8 6
+               H 7 6 3
+               D 8 5 3
+               C 10 9 5
+S K 10 7 3 2                  S J 5
+H J 5                         H K Q 10 9 2
+D K J 10                      D A 9 2
+C K 8 2                       C Q 6 3
+               S 9 4
+               H A 8 4
+               D Q 7 6 4
+               C A J 7 4
+}
+[Auction "W"]
+1D      Pass    1NT     Pass
+2H      Pass    Pass    Pass
+{
+The 1NT response showed about 8-12 HCP with 5-6 hearts, the heart
+quality limited by failure to respond 2H.  (KTxxxx is possible, KQTxxx
+is not.)  West's book bid is pass, but GIB instead chose to sign off
+in 2H, and thought it was clear-cut to do so.  I'll have to take a
+look at the trace sometime and find out why... It seems like an odd
+decision when you know you're probably playing a 5-2.
+
+When the defenders took air with the CA and removed the diamond guess
+for declarer, the play became easy; +140.
+}
+[Play "N"]
+ct c3 CA c2 
+SA s5 s9 sk 
+SQ sj s4 s7 
+d3 d2 d7 DJ 
+h3 ht HA h5 
+d5 d9 d4 DT 
+h6 h2 h4 HJ 
+s6 H9 c4 s3 
+h7 HK h8 s2 
+-  c6 -  -  
+*
+
+[Board "48"]
+[West "WBridge5 1.9"]
+[North "GIB 3.3.15"]
+[East "WBridge5 1.9"]
+[South "GIB 3.3.15"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KT732.J5.KJT.K82 AQ86.763.853.T95 J5.KQT92.A92.Q63 94.A84.Q764.AJ74"]
+[Contract "2S"]
+[Declarer "W"]
+[Result "9"]
+[Score "NS -140"]
+{
+               S A Q 8 6
+               H 7 6 3
+               D 8 5 3
+               C 10 9 5
+S K 10 7 3 2                  S J 5
+H J 5                         H K Q 10 9 2
+D K J 10                      D A 9 2
+C K 8 2                       C Q 6 3
+               S 9 4
+               H A 8 4
+               D Q 7 6 4
+               C A J 7 4
+}
+[Auction "W"]
+Pass    Pass    1H      Pass
+1S      Pass    1NT     Pass
+2S      Pass    Pass    Pass
+{
+I'm not sure what motivated WBridge5's 2S rebid at this table.  
+Unlike 2H, 2S can be beaten, but it takes a club lead; GIB didn't
+find it.  Some subsequent friendliness in the trump suit let 
+declarer make nine tricks, for +140 and another push.
+
+GIB had won the third set by 37-28, and was now leading by 95 IMPs
+after 58 boards.  (At the table, we had the difference as 101 IMPs;
+I think this figure is correct.)
+
+Yves declined to play the final six boards, so that was that.  GIB was
+once again the winner of the world computer bridge championships.
+}
+[Play "N"]
+d3 d2 dq DK 
+h7 h9 HA h5 
+SQ s5 s4 s2 
+ct c3 c4 CK 
+h3 HQ h4 hj 
+h6 HK h8 c2 
+SA sj s9 s3 
+c5 cq CA c8 
+c9 c6 cj S7 
+*

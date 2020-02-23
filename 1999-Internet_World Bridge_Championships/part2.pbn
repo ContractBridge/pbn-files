@@ -1,0 +1,523 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "1"]
+[West "andvic"]
+[North "jrs"]
+[East "lasar"]
+[South "shadow"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T.864.QJ643.AKJ2 K764.KJT3.87.T73 A85.Q975.T95.985 QJ932.A2.AK2.Q64"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "N"]
+1D Pass 1H 1S
+X 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+CA C3 C9 C6
+DQ D7 DT DA
+ST S4 S8 SJ
+H4 S6 SA S2
+CJ C7 C5 C4
+CK - - -
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "1"]
+[West "dougs"]
+[North "hup"]
+[East "erodwell"]
+[South "holly"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T.864.QJ643.AKJ2 K764.KJT3.87.T73 A85.Q975.T95.985 QJ932.A2.AK2.Q64"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "N"]
+1D Pass 1H 1S
+X 3H Pass 4S
+Pass Pass Pass
+[Play "N"]
+CK C3 C9 C4
+DQ D7 DT DA
+ST S4 S5 SJ
+D6 S6 SA SQ
+CJ C7 C8 C6
+CA CT C5 CQ
+D4 D8 D9 DK
+C2 - - S2
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "2"]
+[West "andvic"]
+[North "jrs"]
+[East "lasar"]
+[South "shadow"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:JT.AKQ642.9.AKQ6 K862.J3.KT863.J3 Q974.75.A742.T84 A53.T98.QJ5.9752"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "E"]
+1C Pass 1D Pass
+4H Pass Pass Pass
+[Play "S"]
+D3 DA D5 D9
+H3 H5 H8 HA
+HJ H7 HT HK
+S8 D2 H9 HQ
+D6 D4 S3 H6
+D8 D7 DJ H4
+C3 C4 C2 CA
+CJ - - CK
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "3"]
+[West "andvic"]
+[North "jrs"]
+[East "lasar"]
+[South "shadow"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T875.A8543.K8.74 K64.KJ62.QJ653.K AQJ2.T..AQJT8653 93.Q97.AT9742.92"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "S"]
+Pass 1D 1NT 2D
+X 3D 4D Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "E"]
+DA D8 DQ C3
+D2 DK D3 C5
+S3 ST S6 S2
+S9 S5 S4 SJ
+D4 S7 SK SA
+H7 HA H2 HT
+- C4 CK -
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "2"]
+[West "dougs"]
+[North "hup"]
+[East "erodwell"]
+[South "holly"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:JT.AKQ642.9.AKQ6 K862.J3.KT863.J3 Q974.75.A742.T84 A53.T98.QJ5.9752"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "E"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+3C Pass 3D Pass
+4H Pass Pass Pass
+[Play "S"]
+D6 DA D5 D9
+H3 H7 H8 HK
+HJ H5 H9 HA
+D3 D2 HT HQ
+S2 D4 S5 H6
+S6 D7 DQ H4
+C3 C4 C2 CA
+CJ C8 C5 CK
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "3"]
+[West "dougs"]
+[North "hup"]
+[East "erodwell"]
+[South "holly"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T875.A8543.K8.74 K64.KJ62.QJ653.K AQJ2.T..AQJT8653 93.Q97.AT9742.92"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 420"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "S"]
+Pass 1D 5C Pass
+Pass Pass
+[Play "E"]
+H7 HA H2 HT
+C2 C4 CK CA
+C9 C7 H6 CQ
+S3 S5 S6 SA
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "4"]
+[West "dougs"]
+[North "hup"]
+[East "erodwell"]
+[South "holly"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:5.63.AKT8765.KT8 AT86.K84.94.J632 KQ32.J952.J32.74 J974.AQT7.Q.AQ95"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS -110"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "W"]
+1D Pass 1H Pass
+2D Pass Pass X
+3D Pass Pass Pass
+[Play "N"]
+C2 C4 CA C8
+HK H2 H7 H3
+H8 H9 HT H6
+H4 H5 HQ DT
+D4 D2 DQ DA
+D9 D3 C5 DK
+SA S2 S4 S5
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "4"]
+[West "andvic"]
+[North "jrs"]
+[East "lasar"]
+[South "shadow"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:5.63.AKT8765.KT8 AT86.K84.94.J632 KQ32.J952.J32.74 J974.AQT7.Q.AQ95"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -200"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "W"]
+2NT Pass 3C Pass
+3D Pass Pass X
+XX 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+D2 DQ DK D9
+SK S4 S5 S6
+DJ S7 D5 D4
+SQ S9 D7 S8
+S2 SJ D6 SA
+C4 C5 CK CJ
+D3 H7 DA ST
+C7 CQ C8 C2
+S3 CA CT C3
+H2 - - -
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "5"]
+[West "andvic"]
+[North "jrs"]
+[East "lasar"]
+[South "shadow"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T542.T96.AK5.954 AQ9.K54.QT864.T7 K.AJ8732.7.AKJ62 J8763.Q.J932.Q83"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S Pass 3C Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+S3 S2 SA SK
+C8 C4 CT CA
+HQ H6 H4 HA
+S6 H9 HK H2
+C3 C5 C7 CK
+D2 - - H3
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "5"]
+[West "dougs"]
+[North "hup"]
+[East "erodwell"]
+[South "holly"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T542.T96.AK5.954 AQ9.K54.QT864.T7 K.AJ8732.7.AKJ62 J8763.Q.J932.Q83"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "N"]
+Pass 1NT 2C 2S
+Pass Pass 3H Pass
+4H Pass Pass Pass
+[Play "W"]
+S3 S2 SA SK
+S7 S4 S9 H2
+HQ H6 H4 HA
+S8 H9 HK H3
+S6 S5 SQ H7
+C8 HT H5 HJ
+C3 C4 C7 CA
+D2 DA D6 D7
+CQ C5 CT CJ
+SJ - - -
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "6"]
+[West "andvic"]
+[North "jrs"]
+[East "lasar"]
+[South "shadow"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:97.AT8532.A87.53 A63.Q764..QJ8642 KQ54.KJ9.QJ54.97 JT82..KT9632.AKT"]
+[Declarer "W"]
+[Contract "3HX"]
+[Result "9"]
+[Score "NS -730"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "E"]
+2D Pass 2H X
+Pass 2NT 3H Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+CA C3 CJ C7
+SJ S7 SA S4
+CT C5 C2 C9
+D2 D7 H4 D4
+S2 S9 S3 SK
+D3 HA H6 H9
+- H3 H7 HJ
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "6"]
+[West "dougs"]
+[North "hup"]
+[East "erodwell"]
+[South "holly"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:97.AT8532.A87.53 A63.Q764..QJ8642 KQ54.KJ9.QJ54.97 JT82..KT9632.AKT"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "E"]
+2D Pass 3H X
+Pass 5C Pass Pass
+Pass
+[Play "W"]
+H9 CT H8 H4
+D5 D2 D7 C2
+HJ CK H2 H6
+D4 D3 D8 C4
+HK CA HT H7
+SQ SJ S7 S3
+C7 D6 C3 C8
+C9 D9 C5 CJ
+S4 S2 S9 SA
+SK S8 H5 S6
+DQ DK DA C6
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "7"]
+[West "andvic"]
+[North "jrs"]
+[East "lasar"]
+[South "shadow"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K4.54.KT984.AT64 T52.QT.QJ2.J8752 QJ9873.A96.A3.K3 A6.KJ8732.765.Q9"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "S"]
+Pass Pass 1S Pass
+1NT Pass 2S Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+CQ C4 C2 CK
+HJ H4 HT H6
+C9 CA C5 C3
+H2 H5 HQ HA
+H3 S4 S5 H9
+SA C6 C7 SJ
+D7 DK D2 D3
+S6 SK S2 S3
+D5 D4 DJ DA
+D6 D8 - SQ
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "7"]
+[West "dougs"]
+[North "hup"]
+[East "erodwell"]
+[South "holly"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K4.54.KT984.AT64 T52.QT.QJ2.J8752 QJ9873.A96.A3.K3 A6.KJ8732.765.Q9"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "S"]
+1D Pass 1S 2H
+Pass Pass X Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+CQ C4 C2 CK
+S6 SK S2 S3
+SA S4 ST SQ
+C9 CT CJ C3
+H2 H4 HQ HA
+H3 D4 S5 SJ
+D5 D8 D2 DA
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "8"]
+[West "dougs"]
+[North "hup"]
+[East "erodwell"]
+[South "holly"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KQ53.K987.Q84.97 T87.J.AJ93.AKQT4 A942.AT54.K5.863 J6.Q632.T762.J52"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "W"]
+Pass 1D X 3D
+X Pass 3H Pass
+Pass Pass
+[Play "S"]
+D7 D4 DA D5
+C5 C7 CA C6
+C2 C9 CK C3
+CJ H7 CQ C8
+H2 H8 HJ HA
+H3 H9 D3 H4
+H6 HK C4 H5
+D2 D8 D9 DK
+S6 SK S7 S2
+D6 DQ DJ S4
+- SQ S8 -
+*
+
+[Event "Internet World Bridge Championships"]
+[Site "Boston, USA"]
+[Date "1999.11.18"]
+[Board "8"]
+[West "andvic"]
+[North "jrs"]
+[East "lasar"]
+[South "shadow"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KQ53.K987.Q84.97 T87.J.AJ93.AKQT4 A942.AT54.K5.863 J6.Q632.T762.J52"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "8"]
+[Score "NS -100"]
+[Scoring "IMP"]
+[Stage "Segment 2"]
+[Auction "W"]
+Pass 1D Pass Pass
+X 2C 2H 2NT
+3H 4C Pass Pass
+Pass
+[Play "E"]
+HA H2 H7 HJ
+HT H3 H8 C4
+S2 SJ SQ S7
+C6 C2 C7 CQ
+S9 S6 S3 S8
+H5 H6 H9 CT
+S4 C5 SK ST
+DK DT D4 D3
+H4 HQ HK D9
+- - S5 -
+*
+
